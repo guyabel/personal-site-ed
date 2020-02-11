@@ -1,0 +1,302 @@
+918 IEEE TRANSACTIONS ON MAGNETICS, VOL. MAG-14, NO. 5, SEPTEMBER 1978
+LINEAR MACHINE POWER REQUIREMENTS AND SYSTEM COMPARISONS
+E. Abel*, J.L. Mahtani*, R.G. Rhodes*
+ABSTRACT function in the suspension system.
+
+The revenue vehicle designs of the two German Maglev TABLE I, Characteristics of German Vehicles.
+groups are analysed and the complex power requirements
+at the trackside substation calculated, The two systems [§fator configuration long short long
+are the Electromagnetic System (EMS) with either linear Speed, km/h 500 400
+induction motor (LIM) or long stator motor propulsion, Mass, tonnes 135 170 165
+and the Electrodynamic System (EDS) with linear syn- Length, m. 56 64
+chronous motor (LSM) propulsion. The operational con- o. sections 2 2
+ditions considered were 400 and 500 km/h velocities Oo. passengers 200 240
+either at steady state cruise or with a grade or head- Payload, tonnes 20 24
+wind additional loading. It is found that the LSM of Height, m. 4,2 4.2 4,0
+the EDS system is the most suitable form of propulsion Width, m 3.5 4,2
+for these operating conditions, the long stator motor Aerodynamic coefficient,m* 3.94 4.75
+for the EMS having apparently reasonable characteristics [substation spacing, km, 15 12
+at 400 km/h, but becoming degraded at 500 km/h, and the
+LIM's studied being unsuited to the high speed range. A preliminary system comparison has been made of the
+These results highlight the necessity to compare not three alternatives, concluding that none of the systems
+only the active power supplied to a vehicle, but also was sufficiently developed to allow a clear choice ‘to be
+the complex power at wayside substations to be able to made, Although this comparison showed the power require-
+indicate the overall efficiencies and power factors of ment at the substation, it only included the real power
+the competing systems. for the main magnetic and aerodynamic drag. Although
+
+The German, the Canadian and the Philco-Ford EDS this represents all the losses for the EDS for a given
+designs are also compared by weight make-up and specific motor efficiency, no mention was made of the EMS cooling
+energy intensity. These results show that the advantage momentum drag, the short stator d.c. line loss and the
+gained from a lightweight aircraft-type construction, long stator track iron and distribution loss, all of
+coupled with the relatively longer body, is lost in the which appear downline from the substation, Furthermore,
+German design because of the extra dead weight of the since the speeds of operation were also different the
+wheel sets required for running on conventional duo-rail aerodynamic drag power would introduce a further dis-
+with the resultant heavier body structure. The respec crepancy, e.g. an increase of speed from 400 to 500 km/h
+tive machine power factors are included in the intensity would result in a doubling of the aerodynamic dragpower.
+calculations to link in reactive power storage. A study was performed to establish the exact power
+
+INTRODUCTION requirements of the different systems, including power
+factor and motor efficiency values enabling estimates of
+
+Several countries are engaged in research and deve~ substation complex power to be made, When the speed is
+lopment projects which employ magnetic levitation extrapolated to 500 km/h for the EMS vehicles an ad-
+(Maglev) and linear motor or air-fan propulsion as com- ditional double-sided motor is required for the short
+ponent parts of high speed (up to 500 km/h) guided stator vehicle, and the weight is increased by 20% to
+ground transport vehicles, The various systems can be 205 tonnes. The long stator design at 500 km/h requires
+divided into two major categories, the electrodynamic an increase in gross weight of 10%, to 180 tonnes!,
+system (EDS) and the electromagnetic system (EMS). The Operation of the EDS at the lower speed of 400 km/h
+main difference is that the former employ "repulsive" should not be too far from an optimized design.
+levitation and cryogenic magnets, and the latter In considering the values of power factor and
+"attractive" levitation and conventional iron-cored efficiency to use in establishing terminal conditions at
+Magnets. The state-of-the-art for both types of Maglev the substation for the EMS vehicles, it was ebvious that
+is such that system comparisons are being made between there were few published test results or even design
+full-sized revenue-earning vehicle designs on specific figures for multi-megawatt high speed motors. Reference 4
+routes, Because of the complexity and profusion of suggests calculated efficiencies of 0.6 and 0.78 and
+parameters involved it is customary to choose a few associated power factors of 0.5 and 0.65 respectively as
+specific parameters for detailed comparison which will the first and second stage of development, and calcu-
+hopefully embody the major characteristics and perfor- lations have been made using both these sets of values.
+mance of-a system. ‘Two parameters frequently chosen are The breakdown of active power (Fig. 1) was:-
+the power-to-weight ratio of the levitation and guidance (1) Aerodynamic drag
+system (kW/tonne) and the specific energy intensity, (2) Magnetic drag from lift and guidance
+(kWh/passenger-km). However, to make meaningful com- (3) On-board system power (excluding any on-board
+parisons, the way in which other factors may dominate batteries or generators).
+the choice of these and other primary parameters must (4) Remaining steady-state drag, viz. cooling air
+be clarified. inlet drag.
+
+THE GERMAN SYSTEM (5) Steady-state losses due to motor inefficiency.
+(6) Residual acceleration, viz. extra power to
+
+The analysis and design details of the German Maglev accelerate against headwinds, gradients, etc.
+revenue vehicles are given in the 1977 Status-seminar! (7) Losses from residual acceleration.
+and the basic characteristics are repeated in Table I. The value of 0.013g residual acceleration was taken
+The vehicles are made up from two sections, the EDS for the EDS in common with other values used in (1) for
+design speed being 500 km/h and the EMS 400 km/h. Two the EMS analysis. The systems both claim propulsion
+propulsion schemes are considered for the EMS vehicle, | capacity for 3.5% gradients at cruise speeds, The steady-
+i.e. the double-sided linear induction motor (LIM), and state or cruise power for the EDS is the sum of blocks i,
+the long stator motor which also incorporates a lift 2 and 5 in Fig. 1 which are the only system losses. The
+
+EMS cruise power is given by the sum of blocks 1 to 5.
+
+. ‘ It must be noted that the figures used for the EMS lon
+BenweCErhe Pocctved March 20) giade: stator should be treated with some scepticism, if only”
+* . : ; : . for the reason that no largescale experimental perfor-
+
+Coeeee Gra —_ = De eer ae Me Bae mance characteristics have yet been reported. It is
+0018-9464/78/0900-09 18$00.75 ©1978 IEEE
+
+919
+7 aes no ws ct aa Figure 2, which shows the complex substation power as
+30 $ fetus ie | an ordinate against the active power for each of the
+oy ; ou oovao srsvtns tne four operating conditions of the systems, The success
+2 ETS aS sy of the electrodynamic system in requiring small amounts
+, 2, of reactive power to provide propulsion throughout the
+209 7 204 speed and loading variation considered is apparent.
+20 Wea cm The size of the ordinate, i.e. the complex power, there-
+| He bs fore demonstrates the relative merits of the overall
+43 fey systeme, at the substation. Despite the rough
+a Bat ma a equivalence of active power used, the EMS long stator
+lz | [Vs requires 36% more than the EDS base, and the high ef-
+. oo 21 fern 3 pe sa fe title ficiency short stator 51% more, Including a line loss
+lz6 | ee | i$ the LIM value rises to a 78% increase. If the lower
+— 2 = gts} efficiency short stator EMS is considered, then the
+bs jo 40 | io so figures become increases of 156% and 202% on the EDS
+° (OKeN SODIUM VokmT» SOK ‘00tanT» 500 SOkmTn SOK] 100% base.
+EDS LOWE STATOR EMS SHORT STATOR EMS SHOET STATOR” EMS LONG STATOR 4
+won “es 70] COMPLEX POWER INPUT, HVA
+Fig. 1. Total active power of systems (MW). —
+Note: D.C. distribution and pickup loss not included, - : = a= :
+apparent that, in terms of real power consumed, the 4 300 hen/h, ACCELERATING
+long stator EMS and the EDS are both roughly equivalent Z ite inn, accents
+when loaded at 500 km/h. The low efficiency Lin (short =] 1 #00 ben. sreagr start
+Stator) EMS uses roughly 45% and the high efficienc 4 4
+LIM/EMS 11% more active power. If an estimate is sino 49 +} z
+made of the D.C. line loss for she LIM, before current {
+pickup, of 154, the modified EMS/LIM figures are 70%
+and 31% respectively. 307
+
+The values shown here could not have been deduced 4 2
+from the suspension ad Forkondrag ratios or specific 20 ' —
+powers. For example the EDS 500 km/h magnetic lift~to-
+drag ratio of 32 (equivalent to 36 kW/tonne) is modi- !
+fied by eeredyiemts drag so that cruise lift-to-drag 7
+becomes 15 (9 kW/tonnes. Similarly, ne EDS short
+Stator magnetic specific power of 3 kW/tonne at 400 oyu — : =
+
+: . ; HY
+km/h (equivalent Co magnetic lift-to-drag ratio of Tee wo hte ea eg an arene  %0 mae face
+2/0) as modified by tr addition of ere and qeote- 051 H core = 0 30
+cooling drag to a steady-state value o kW/tonne i ‘
+
+(lift-to-drag ratio of 25). The choice of a Fig. 2. Total complex and active power of systems.
+
+suspension subsystem with high magnetic lift-to-dra ; i i
+
+ratio does not ensure an overall Bigh ratio because of From this data a power requirement comparison can be
+
+the aerodynamic and other system losses. made between the three German Maglev vehicles operating
+under similar conditions. The comparisons cannot be
+
+TABLE II, Apparent efficiency (powerfactor - strictly rigorous, since the EMS and EDS vehicles are
+
+efficiency product) of the German Vehicles primarily designed for different baseline operation,
+However, the spread of system total complex power, at
+400 km/h 500 km/h 16K4 the trackside substations, (Figure 2) is indicative of
+EDS steady state loaded steady state loaded the type of system performance to be expected for iden-
+. 7 7 , i i ditions, Several factors have emerged
+EMS, long stator 357. 0. 46 0.44 0.36 a eee sn vere g
+EMS, short stator, Gi
+
+: oe i) The EDS has good system performance at both 500
+A a aoa 0.51 0.51 0.51 0.51 and 400 km/h in terms of energy conversion and power con
+EMS, short stator, _ : : .
+
++8 mption, and has scope for increases in power factor
+Low ei ipenene 2.39 0.30 aoe aoe and efficiency, depending on economic costs of power
+: a and capital equipment.
+
+The change in efficiency and power factor of the : (ii) The short stator induction machines for the EMS
+Ehrecesi® Coun) eee osding and sspecd vary 18 indicated in are quite unsuitable for high speed (500 km/h) operation,
+Table IT. aoe Bee nema qoses yet going from un- and are probably also unsuited to 400 km/h operation,
+eee se m/h to loaded 500 km/h operation, A eee primarily because of their high reactive power consump-
+Coen the ENS tong stares mC CeLeeuats a tion and hence excessive overall power requirement. For
+21% loss representing a conservative estimate as it example at 500 km/h the high and low-efficiency LIM's
+hgnores non~linearities in the iron-cored system, The respectively required 1.8 and 3 times as much complex
+short stator values were held constant as the design power as an EDS/LSM, and at 400 km/h, 1.4 and 2.4 times
+called for a doubling up of the motors to give suf- ———
+ficient thrust at the higher speed; each motor remained (iii) The long stator motor EMS appears to need
+aa meh ee Same output, but would be operating at marginally less power than the EDS at 400 km/h (90%),
+Cee ea meea ee hut when loaded, or at the higher speed of 500km/h, this
+
+The power factor of a system at the complex slight advantage is lost. Another consideration ia that
+Rovereto be evaluated from a substation Oca eae: this machine concept has only been tested at low speed,
+Reactive power flow in a machine-power network is stored .. high-speed operating characteristics must only be
+in the leakage inductances of the system and air gap of regarded as tentative.
+the machine, and as such does no useful work. However (iv) Using specific power, lift-to-drag ratio or
+xeactive power represents a power demand that has to be specific energy intensity to assess system performance
+goats for both in plant rating and energy cost. An only indicates the active power supplied to make up
+iron-cored structure such as a LIM or the EMS long thrust and losses (if included) in the system. Low power
+eeeter motor must have a much lower power factor oe a factors in the LIM systems means trackside and trans~
+ee pynenroncus a (LSM) oe tee ate eer mission components as well as utility energy supply
+Power output, since airgap ee ae ae Bo ey costing must be in terms of total complex power used by
+superconductors requiring no input reactive power, and a system. The MVA as well as the MW requirements of a
+the armature leakage inductance is small since the track system must be obtained in relation to a common guideway
+winding is air-cored. These points are born out by
+
+920
+
+route together with similar baseline specifications 170t
+
+before reasonable comparisons can be made. 165
+
+MAGLEV VEHICLE WEIGHT BREAKDOWN 150 |
+Another area for comparison of vehicle data is that Wight, 135t D Paytoad
+
+of weight breakdown and for this study two additional tonnes C Other —
+
+single section EDS systems are included with the German 7 engeaion
+
+vehicle data presented in Figure 3, i.e. the Philco= uspension
+
+Ford® and the Canadian®»? conceptual vehicle designs
+
+(see Table III). ‘wo options are included for Philco~ Ko
+
+Ford, the baseline 80-passenger vehicle, and the 140- + Wheels
+
+passenger vehicle, * Magnets
+
+D Payload 1 Wheel:
+% GROSS Cc Other * Magnets
+WEIGHT B Propulsion
+A Suspension 07
+100% 170t__165t 155t __ 50-7t 37-3t 268t 50 fol
+at ies 37-5t
+Db} __D D 260 ! Short | Long |__D o8t
+Stator | Stator ||
+75. %o 1 c c |
+416 | sl al + | 44
+b 0 Al A+B | 4 Ba ae te |
+50% ; German EMS German a nae CiGGT
+(400 km/h EDS Duste ‘an
+| fis Tonnes/Seat 071 Bee 0-68 0. $1, 029
+25% “143-9 204 a Fig. 4, Subsystem weight breakdown.
+272 , p wn TABLE IV. Specific Energy Intensity.
+Peril eal petetl bet ,
+A +B A A ° EMS EDS Philco-Ford CIGGT
+Short & Long German Phitco Ford CIGGT System Short Long 140 80
+Stator German EDS (Ducted Fan stator stator pass. pass
+
+. EMS (4 00kn/h) . (500 kavh) (483 len/h) (493 iewh) speed 500 500 500 483 483 480
+
+Fig. 3. Subsystem weight breakdown (% Gross). high n low n
+
+TABLE III. Characteristics of conceptual EDS Vehicles. v 6.51 11.2 5.1 4.45 2.75 3.63 3.72
+
+System Philco-Ford CIGGT latter has completely offset the advantage obtained by
+Propulsion Ducted Fan LSM increasing the vehicle length as shown by the Philco-
+Speed, km/h 483 483(6) Ford difference between short and long vehicles. This
+
+480(7) decrease in w occurs since passenger number increases
+
+Mass, tonnes 37.3 50.7 28.8 more rapidly than drag on the extended vehicle.
+
+Length, m 33.67 42.9 36.5 CONCLUSIONS
+
+earieea ee 80 140 100 The study evaluates and compares total substation
+
+aytoad, Connes 7.2 13.2 9.3 power required by the German revenue vehicle designs,
+
+Height, m 3.454 3.20 The evidence suggests that the linear induction motor
+
+Width, m_ 2.94 3.454 3.20 does not appear to be a good choice for a propulsion
+
+Aerodynamic subsystem at 500 Gark indeed at 400 km/h. The
+
+coefficient, m2 1.80 2,20 2.42(6 long stator motor(EMS) is likewise de raded when loaded
+
+° c i facies at Foo km/h or run at 500 km/h. The £Ds/LSM on the
+other hand appears to have the most promise for the
+Figure 4 shows the weight information scaled in required operating speed range of 400-500 km/h.
+tonnes for the six vehicles. The overall weight per When compared with other EDS designs the German sys~
+seat of the German EDS vehicle compared to CIGGT and tem is shown to be limited by its excessive dead weight
+the 140 seat Philco-Ford designs is approximately a ” ait coapatinie requirement for conventional
+ries r Uowrail compatibility, .
+oe ant see be Mexeety ae . - weight See ed In evaluating any system it has been shown that it ig
+OF ENS: :Aeavy “uo~Faii Compatible wheelsets opposed to seueesaty to completely identify the energy make ve
+lightweight aircraft-type wheels of the other EDS rather than specify particular parameters such as lift-
+designs, The EMS figures for weight-per-seat demon- to drag ratio or specific power intensity in isolation.
+Strate the eee a or Siaislene, water hn as REFERENCES
+ee —— “i ; linea Clon te ¥ ac 1z (EMS) ‘i 1. "Spurgefuhrter Fernverkehr Magne tbahnentwicklung",
+5 ae Cerca e Payload variations from 14, Proc, 6th Statusseminar des Bundesministeriums fur
+32.3% (CIGGT), Forschung und Technologie, Konstanz, 1977",
+2. W. Leonhard, "Technische Alternativen bei der
+SPECIFIC ENERGY INTENSITY . 7
+CIF a Magnetschwebebahn'", VDI Nach, No.15, 15 April 1977,
+
+The specific energy intensity(W) of a transport pp. 42-3,
+system evaluates the amount of prime energy required 3, E, Abel, "A Study of the Power Consumption of German
+per passenger, per kilometer of travel. Within the cal- Maglev Passenger Vehicles, (EDS and EMS)". Internal
+culation, the substation convertor efficiency, Memo, University of Warwick, January 1978,
+generation and transmission efficiency, and load factor 4. 6. Winkle, "Forschungs~und Entwicklungsstand der
+for the vehicles are included”, In obtaining values for Elektromagnetischen Schwebetechnik in der Bundes-
+(¥) for non-electrical systems the heating value of the eRe eentend » ETZ-A, Vol. 96, No, 9, 1975,
+fuel and the journey stage length need to be known>, 5, BPs mae it ,
+
+Se 3 . * . * T,B. Clark, R.L. Pons, Conceptual Design and Analy-
+The values of specific energy intensity (including . sis of the Tracked Magnetically Levitated Vehicle >
+power factor) for the six vehicle designs considered is Technology Program - pulsion Scheme", Vol. I & iT,
+shown in Table IV, PB 247931/2, Report Nos, FRA-OR & D-75-21-214,
+
+The Philco-Ford values are low because of the low US Dept. of Transportation, February 1975,
+aerodynamic coefficients chosen together with the high 6. W.F. Hayes, "High-Speed Electrodynamic Maglev Guided
+magnetic lift-todrag ratio obtained with a 2.54cm thick Ground Transportation System Conceptual Design Study",
+aluminium reaction rail. In comparing the CIGGT value NRC Canada, Report BOs EaR-¢s-176, September 1977.
+
+. : : 7. Canadian Magley Group, "The Canadian High Speed
+with the German EDS, the large vehicle weight of the Magnetically Levitated Vehicle System", Summary
+Report, CiGcr Report No. 77 12, September 1977,
+
+. 5 : : « $ : . ‘ : . . "
+’ . : , . 7 ’ . 7 7 ' . 7 . '
+: “; . - as ° ". . . az ; ". ° - Na “4 ° . *.
+

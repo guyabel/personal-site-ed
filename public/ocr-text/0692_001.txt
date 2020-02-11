@@ -1,0 +1,208 @@
+Advanced robotics and
+remote handling
+
+E Abel
+
+Harwell Laboratory UKAEA
+Reproduced from
+
+Nuclear Technology International
+
+(Published March 1987)
+
+Advanced robotics and remote
+handling
+E Abel
+Harwell Laboratory UKAEA
+In the past decade, the industrial robot missioning, and flask and pipework in-
+has at last reached commercial matur- spection.
+ity. Robotics technology is poised for a Radiation damage to robotic subsys-
+significant change in complexity, with tems is the only major hurdle preventing ,
+the advent of the advanced robot, a widespread applications of advanced
+computationally intense, sensor-driven robotics (AR) to nuclear facilities and the - |
+manipulator which operates with a high only substantial factor which sets the ‘
+degree of autonomy. Nuclear engineers nuclear advanced robot apart from non- aaa |
+have seen the benefits of using such nuclear applications. The extent of any ps
+devices — increased safety, reduced redesign for radiation tolerance de- .
+costs, dose savings, and operational pends on the task that has to be per-
+flexibility. A tremendous range of ap- formed. Simple health physics surveys
+plications, from simple health physics carried out by remotely controlled (or
+surveillance to reactor inspection and autonomous) vehicles are unlikely to
+repair, are rapidly becoming the pro- need any special attention, and would
+vince of the advanced nuclear robot. use commercially available systems.
+Remote handling of nuclear and As the integrated dose seen by equip-
+irradiated materials throughout the fuel ment increases, shielding or redesign
+cycle is well established. Conventional will be needed for critical items such as
+technologies have been used to ensure electronics, optical systems (including
+reliable and predictable operation. The CCTV), and perhaps even structural
+special environmental constraints on materials. For extreme applications
+equipment design tend to produce hard- such as fuel reprocessing or inspection
+ware that has not found a market outside and repair of light water reactor primary
+of the nuclear industry. Conversely, circuit components, virtually all electro- Ce
+non-nuclear industry designs of manipu- nics and computing hardware will be V a
+lators have proved difficult to adapt and some distance from the manipulator. Yh
+have rarely been cheaper than purpose- Unfortunately, every major advance in ye
+built systems. semiconductor fabrication technique Ds
+In recent years, several factors have and increase in packing density invari-
+influenced a dramatic turn-around in the ably reduces the radiation tolerance of — Warrior, agas-cooler reactor repair servoma-
+philosophy of remote handling equip- devices by roughly an order of magni- _—nipulator.
+ment design. Increasingly stringent tude.
+safety requirements calling for reduced inspect and repair power reactors. In the
+radiation exposures have put the press- UK the Central Electricity Generating
+ure on the equipment designer. Rapid Terminology Board has developed a variety of long
+technology advances in computing, Robotics has its own terminology. A slender manipulators for use in magnox
+control, and microelectronics, coupled teleoperator is simply a manipulator and advanced gas cooled reactors,
+to a comprehensive theoretical under- which is controlled from a distance, in where access is limited to the narrow-
+standing of manipulator kinematics and real time, by a human operator. Hot cell diameter standpipes above the core.
+dynamics, have meant that it is possible mechanically linked master-slave man- The servo-manipulators can deploy
+to design and manufacture complex and ipulators are teleoperators, andsoisthe sensors and cameras for inspection,
+compact mechanisms, with an assured space shuttle manipulator. A servo- and complex tool packages for specific
+performance specification. With a world- manipulator uses servo-actuators to repair operations involving cutting, drill-
+wide installed base of more than move joints (rather than a direct mecha- __ ing, bolting, and welding.
+100 000 robotic systems, throughout all nical linkage to a master arm) and the Warrior, the latest in a series of servo-
+the major industrialised countries, ap- actuators are usually electrically control- manipulators with six degrees of free-
+plications experience abounds, and can led. Bilateral servo-manipulators are in- | dom, uses precision gearing and state-
+be exploited by adopting similar solu- variably configured as master-slave of-the-art motor drives to achieve high-
+tions to nuclear remote handling prob- pairs, with an electrical link. Robotic quality MIG welds in a magnox reactor.
+lems. manipulators can be programmed to _ For light water reactors, steam gener-
+Applications for nuclear advanced perform repetitive, pre-determined ator tube inspection and repair is neces-
+robotics include fuel fabrication, health tasks. An advanced robotis ateleoper- sary; Westinghouse’s Rosa is_intro-
+physics surveillance, decontamination, ator that displays the attribute of both a duced into the channel head through the
+reactor inspection and repair, refuelling, robot and a servo-manipulator, depend- §©manway and locates itself on the tube
+hot cell manipulation, remote mainte- ing on the mode of operation selected by — sheet. Both types of machine effectively
+nance, posting and transfer, reproces- the operator. reduce the plant downtime, increase the
+sing, waste drum processing, decom- Servo-manipulators are usedtodayto quality of repair and the reactor life, and
+— 2
+
+le a ~~ 4
+: I
+Wz, _— or
+_ : = == — ‘ a a “yy hd j \ ‘ it
+a || 2 a eee
+why g P Hl
+Bee VN, | or y & ‘ ie eee lad
+ee pe J ~S - < - << a j
+Da a ME SNC
+a ee ee. , — Se a a’
+oa =
+——— are Px . ~—e * — = —
+S > Pl eee
+Po) ™ ee
+Scobotman, a heavy duty servomanipultor. A practical stereoscopic TV camera.
+significantly reduce the man-dose tamination and maintenance are asa left and right pair of master-slave
+accumulated during inspection and re- addressed in the designs to reduce the arms, working on remotely viewed
+pair operations. dose accumulated during maintenance. _ tasks. Bilateral servo-manipulators also
+For the heavy duty servo-manipula- As well as nuclear-oriented applica- _—_ feature strongly as the appropriate tele-
+tors that will be encountered in decom- tions of servo-manipulators, several operated devices for US programmes in
+missioning or waste drum handling, re- national programmes have been de- space and underwater.
+motely operated cranes or machines fined to extend the use of the technology
+such as the Lamberton Robotics Sco- __ to non-nuclear applications. This in turn
+botman can be used, with varying de- assists the nuclear programmes. In ARP systems
+grees of radiation hardening. Both sys- France in 1975 a project called Sparta- Advanced robotics in nuclear en-
+tems rely on man-in-the-loop operation, cus aimed to develop aservo-manipula- — gineering has been influenced by the
+but could be easily arranged for totally tor for tetraplegics. The experience Versailles economic summit of 1982. At
+remote programmed tasks. gained from that work was incorporated that summit, the Technology Growth
+Before robotic technology existed, into the national automation and adv- and Employment (TGE) Group prop-
+electrically linked master-slave manipu- anced robotics (ARA) programme, and _—_osed the framework for collaboration
+lators were developed in the USA, Italy, CEA focused on the idea of computer- —_ between the main industrialised nations
+Germany, and France. An operator aided teleoperation using the MA23M __ ina series of technology areas, includ-
+moved a master arm in the same way as bilateral servo-manipulator. With other — ing advanced robotics. The advanced
+he would move a conventional through- topics such as AR, mechanics, and robotics programme (ARP), as it be-
+the-wall master-slave manipulator, and ___ flexible manufacturing systems, ARA — came, looked at many areas, including
+the motion was similarly replicated at the involved up to 160 full-time researchers nuclear applications, for which France
+remote slave unit. The control system —_ and 30 industrialists. Government and and Japan were the lead countries.
+was designed to produce the sensation public funding has amounted to about More recently, Italy, Germany, and the
+of force reflection as well as position $70 million on research and develop- _—- UK have set up their own nuclear ap-
+matching at the master arm, to give the ment. plication ARPs.
+operator a sense of feel. Because this In the USA, major advances in servo- The essential features of ARPs are
+reflection of force and position was manipulator deployment have most re- __ the integration of artificial intelligence,
+apparent in both directions, these servo- _ cently occurred at Oak Ridge National | complex sensors and vision processing,
+manipulators were Known as bilateral. Laboratory (ORNL), under US Depart- —_ adaptive control, special materials, light-
+In the mid 1960s the apparent added = ment of Energy funding, as part of the = weight drives and transmissions, in-
+complexity of the systems prevented consolidated fuel reprocessing prog- creased mobility, lightweight power sup-
+more than a handful of active-duty ramme. These major test facilities, plies, and on-board computing power.
+machines from being produced. Never- _ based on full-size mock-ups of remote Non-nuclear applications tend to have
+theless, the designs matured and were maintenanceconcepts, haveprovideda a high degree of autonomy in their
+uprated to reflect developments in tech- = wealth of design and human factors conceptual design. Nuclear applica-
+nology. Current prototype systems are results through realistic demonstrations tions, without exception, currently have
+configured to ailow left and right handed _ of bilateral servo-manipulator capabili- _ limited autonomy, with most of the con-
+pairs of manipulators to be mounted ties. Two were equipped with modified trol achieved by operators through tele-
+together, with gross positioning and updated servo-manipulators — the operation. This is a key feature, even in
+achieved by a telescopic mast, a po- M2 from Sargent Industries Central Re- — the most advanced Japanese program-
+wered-boom linkage, or simply a coun- —_ search Laboratory and the SM229 from _— me (the 1986 budget for nuclear power
+terbalancing package slung fromagan- __ the Teleoperator Systems Inc. plant robot R and D was $6.3 million),
+try crane. Acompletely new design from ORNL, which plans to have a total system built
+Advanced servo-manipulators have the advanced servo-manipulator (ASM), —_in 1990. The design proposes to use
+many of the attributes of advanced has been built initially for the breeder legged locomotion and relies on
+robots, such as hybrid force/position reprocessing engineering test project. stereoscopic vision to achieve accurate
+control, adaptive compliance, computer The ASM slave arm uses a torque tube deployment of manipulators and body
+controlled teleoperation, programmed __ transmission and is easily broken down motion. In the long term, machine 3D
+tool changing, voice input control, and into sub-assemblies to help mainte- vision will be important for the totally
+image-based trajectory control. Con- nance and posting. Like the M2 andthe | autonomous system. In the short term,
+tamination control and ease of decon- SM229 at ORNL, the ASM is configured with human operators, reliance will be
+_ 7s _—
+
+|
+i iis 1 } = |
+*f eS OZ |
+’ Ss a+ }
+“ ia |
+4 Vv s = os -
+i ‘ ’ o a a |
+- 4 : a : }
+4 y a is tS ae > >= :
+ij iy , i a
+eake@t UM) |
+ea ae ee Sor ¥ |
+a 7 : 7 :
+wy ' BAG a 3 |
+Tey ‘._ ~~, 2 Ey - § H i
+. a 2 i Ca) 4 '.
+ee ak i / sy oe | cre
+r : o , y
+j : JP " 7a m / 7
+OR Te all 3 on LFS 7) 1-2
+“oY PEPE Fre 2c ce 4 .
+end pe y , ae ; M l y .
+i. c i\, fr-< - '] -
+an wit WY pal 258
+, —- Ps j
+ee K 7
+= A a ow f
+y ,
+ACEC'’s tracked-base robot vehicle. Odetics’ walking robot.
+placed on conventional stereoscopic ing, inspection, surveillance, and repair, hanced by recent progress in microelec-
+systems. which do not present any conflict with __ tronics, artificial intelligence, computing,
+The choice of a locomotion subsys- regulatory bodies. and control. Although short-term solu-
+tem will depend largely on the antici- At ORNL’s Centre for Engineering _ tions rely heavily on human supervision,
+pated environment in which the adv- Systems Advanced Research (CESAR) __ intervention, and control, the scale of
+anced robot will operate. A simple ex- autonomous mobile robotics is being national programmes worldwide will en-
+tension to the tracked vehicles used for investigated for unstructured environ- sure that fully autonomous operation is
+bomb disposal duties has been incorpo- ments. The basic machine, HERMIES- feasible and will be of value to a wide
+rated in the variable geometry vehicle Il, is being used for concept demonstra- —_ range of nuclear facilities. Even with the
+constructed by ACEC of Belgium. ACEC tions into navigation in the presence of | present state-of-the-art equipment,
+developed the digital electronics for the moving obstacles. Special manipulator | man-dose savings and economic be-
+Teleoperator Systems manipulators design for autonomous vehicles re- —_ nefitscanbe substantial. O
+and MORFAX base and completed the quires lightweight arms with high capac-
+systems engineering. Tracks were ity to weight ratios. Such flexible arms
+chosen so that the vehicle could climb need advanced methods of control —— 2
+stairs and negotiate minor obstacles. | which are computationally intensive, | Dr Ed Abel works in the Engineering
+The target applications for the vehicle and this has resulted in developments in Projects Division of UKAEA’s Harwell
+are reactor inspection and surveillance parallel and distributed processing us- Laboratory, where he is responsible for
+and response to accidents. ing computing machines such as the the nuclear robotics and indirect viewing
+Research into walking machines is hypercube. The hypercube used at programmes. He graduated from Exeter
+heavily funded by DARPA in the USA CESAR has a potential configuration of | University in 1971 with a first class
+and MITI in Japan. Odetics Inc has been 1024 separate processors which can Honours degree in Engineering Scien-
+successful in developing a six-legged run concurrently. The consequence of ce, and began work commissioning
+walking machine. Tne ODEX-1 was a the design is that the hypercube has the  arge turbogenerators and supercon-
+prototype system. Later versions with capacity of 500 million floating point | ducting machinery. Then as a Research
+manipulators (ODEX-2) and improved operations a second (500Mflops); each Fellow at University of Warwick, he
+stability (ODEX-3) have been bought by processor Can run conventional compu- _— carried out contract research into the
+Savannah River Laboratory and EPRI, ter programmes at about the speed ofa _— application of superconductivity to high
+as part of their experimental investiga- VAX 11/780, with the overall computing speed guided ground transportation.
+tions. Odetics claims that $100 000 to tasks being evenly shared among the Moving to UKAEA in 1979, he was
+$1 million can be saved now by the processors. initially involved in research into contact-
+installation of a mobile robotic system in Advanced robotics for nuclear en- fess power transfer and robotics. From
+a nuclear power plant. It would perform gineering is based on 40 years of spe- 1987 to 1984 he was with the Atomic
+only simple tasks such as routine test- cialised equipment development en- Energy Technical Branch.
+

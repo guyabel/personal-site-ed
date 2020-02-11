@@ -1,0 +1,1107 @@
+Tet EA,
+Lange | Dec “Ta
+A COOPERATIVE RESEARCH PROGRAMME TO INVESTIGATE THE APPLICATION OF AIR-CORED
+LINEAR SYNCHRONOUS MACHINES TO ADVANCED GROUND TRANSPORT
+1.0. Introduction
+
+Railways throughout the world are beginning to rely more heavily on
+advances in technology to increase their effectiveness as a transport mode
+compared to the airplane and motorcar. In doing so the emphasis is usually
+placed on achieving higher average speeds to generate a commercial gain of
+reduced trip time, with the conflicting constraint of increase of cost usually
+providing the limiting factor.
+
+Some areas where the impact of new technologies can be immediately felt
+are:
+
+@ Aerodynamic drag reduction
+
+@ Required energy reduction
+
+e Tare weight per seat reduction
+
+@ More efficient use of track
+
+e Better forms of traction and power conversion
+
+® Higher average speeds through improved suspensions
+e Increases in load factor
+
+e@ Use of automation to reduce required manpower
+
+Although some of these effects can be achieved by slight extensions to
+common practice, others represent distinct changes in philosophy for railway
+adminstrations. In particular, the trend has developed to produce fixed
+formation, articulated-rake trains with integral power for operation in the
+high speed 200-300 km/h (125-186 mph) range. Likewise, there is a growing
+interest in the development of novel techniques of propulsion, guidance and
+suspension for the very high speeds of 300-500 km/h (186-310 mph).
+
+In all the proposed configurations, the method of trac tion chosen will
+heavily influence the other subsystems' design. For example, to meet the
+tractive power requirement at 500 km/h, either a wheel trainset with the best
+of conventional traction motors, or an attractive, magnetically-levitated
+vehicle with linear induction motor drive, would face severe problems in
+finding adequate remaining space for payloads.
+
+The following proposal outlines the areas of existing work on AGT
+traction systems and suggests a possible line of research on one of the more
+promising of the linear drive systems, i.e. the air-cored, linear synchronous
+
+Br ill soe
+
+machine using superconducting magnets.
+2.0. Existing Traction Methods
+
+2.1. Conventional Vehicles
+
+At present the majority of passenger vehicles are either diesel or
+electrically-powered. Although there was brief interest in the gas turbines
+which were built for the experimental versions of BR's APT and SNCF's TGV,
+the pre-production prototypes of these trains are electrically powered. It
+is to be expected that the expected increase in the price of oil and its
+adverse environmental effects will both eventually lead to the adoption of
+all-electric propulsion for ground transport in the foreseeable future.
+
+Electric drives can be divided into three main classes, determined by
+the motor type
+
+i) + DC drives. The d.c. machine has for long been the most common
+drive motor because its full load torque capability at low speeds matches
+the traction requirement. As size and speed increase, however, commutation
+problems occur, and so the machines tend to be run at relatively slower
+rates. The recent use of semiconductor choppers for power regulation enables
+more efficient housekeeping of the energy used in accelerating and braking.
+
+ii) Synchronous drives. If a synchronous machine is fed and controlled
+by a semiconductor inverter, its speed/torque characteristics can be made to
+match those of a d.c. machine. The rotor can be more robust than a d.c.
+machine's and requires slip-rings rather than a commutator, so higher
+peripheral speeds are possible producing a more efficient overall machine
+suited to large power ratings. However, with the exception of some Urban
+Transport applications, this motor has been relatively ignored for high power
+traction.
+
+iii) Asynchronous drives. The induction motor with either a cage or
+cup secondary (rotor) can be used in two main modes. Using voltage control
+and secondary resistance insertion the torque/speed characteristic can be
+made to suit the traction need. An alternative approach is to use an
+inverter to match frequency with running speed so that the motor operates at
+similar slips as its speed increases. If the voltage/frequency ratio is
+kept constant then the load torque can be met with full pole flux implying
+the most efficient operation. A particular example of a modification of
+this concept is BR's Tubular axle induction motor (TAIM) where the motor is
+mounted directly on the axle shaft. Because of the extreme simplicity of
+
+-2-
+
+the induction motor and the rapid advances made in power semiconductors, it
+is most likely to be the prime choice for conventional traction drives in
+the future.
+
+2.2. Unconventional Vehicles
+
+Magnetic Levitation (Maglev) research and development are proposed as
+a solution to the guidance, support, propulsion, maintenance and environ-
+mental problems inevitably created by attempting to run a contact wheel
+traction system at very high speeds. The main effort in this area is con-
+centrated in Japan and Germany, with lesser effort in the USSR, Canada,
+America and the U.K. The sums of development money involved can be enormous
+- for example, Japan's Ministry of Transport plans to take over JNR's super-
+conducting Maglev project and spend Y100,000m (> £250 million) over the next
+six years to have the system fully developed by 1985. In 1979 a plan to
+construct a 40 km test track will be financed by a Y10,000m (£25 million)
+grant to JNR. In addition the Ministry will also make available Y2,000m
+(£50 million) in 1979 to subsidise JAL's attractive Maglev scheme.
+Irregardless of whether magnetic suspension is necessary or not, the research
+has also established a core of technical knowledge about linear machines of
+different types. They can be briefly catagorised as follows:
+
+i) «+ Linear Induction Machines. Initially conceived as a double-sided
+machine, usually with a vertical reaction rail, the axial flux, linear
+induction machine (AFLIM) has now tended to superseded by the single-sided,
+linear induction machine (SSLIM), because of the unattractiveness of feeding
+a relatively weakly supported, vertically mounted reaction rail into a
+small air gap at high speeds. The LIM tends to have degradation of performance
+caused by lateral edge effects, as well as entry and exit edge effects which
+in the past have sometimes tended to escape analysis. Because of its induction
+effect only small clearances can be allowed in the air gap, otherwise the
+powerfactor-efficiency product becomes even more unreasonable. Some relief
+of entry and exit losses can be obtained by adopting a transverse-flux mode
+of construction, but the machine still relies on induction to establish currents
+in the secondary member.
+
+ii) Homo-and Heteropolar machines. These belong to a class of
+iron-cored machines which have an a.c. and a d.c. winding on. one member and
+rely on track saliency to produce a working thrust. Only small scale testing
+(< 100 kW) has been performed on linear and arch motors of this type, which
+do seem to have a slight advantage over LIM's.
+
+-3-
+
+iii) Iron-Cored LSM. This alternative, developed mainly by Prof. Weh
+at T.U. Braunschweig in West Germany has been adopted by the Transrapid-EMS
+group to power the demonstration vehicle being built for IVA-79 at Hamburg.
+Although a smal] gap device, with an extended iron-cored track armature
+i.e. a long stator, the degradation of eddy current distortion occurring in
+the LIM is absent, and the machine is therefore claimed to be much more
+efficient and have virtually no degradation with increases in speed. The
+short stator LIM has therefore been effectively dropped in Germany as a
+propulsion device.
+
+iv) DC Linear Motor. Developed by JNR this machine consists of an
+iron-cored field array on the vehicle interacting with track-bound, normal
+conducting, air-cored coils. The track coils are switched using a flip-flop
+inverter with superforced commutation to provide correct progression of the
+armature field The motor has been designed to be used for levitation as well
+as propulsion, and does not require superconducting technology for implemen-
+tation. The air gap for a 300 km/h system is 157 mm including a 97 mm coil.
+
+v) Air-cored Linear Synchronous Superconducting Machine, LSM. This
+LSM design uses high-field superconducting magnets on-board the vehicle to
+produce a field variation at the track surface which will interact with the
+armature , travelling magnetic wave, generated by a trackbound distribution
+of an air-cored winding. The major advantage of this machine over the
+induction, d.c. or reluctance machines, is that the majority of air-gap flux
+is provided by no expense of reactive power at trackside substations. In
+fact, the armature reaction of the machine is relatively small, its amount .
+being determined by the traction requirement. In this respect, the machine
+differs from an a.c. superconducting generator, where the stator armature
+is designed to link as much flux as possible and hence, this results in a
+large number of turns per pole per phase. Typical LSM designs go from 1
+to 6 full pitch turns per pole per phase, amounting to perhaps 5 - 30 kg
+per meter of track length.
+
+All the research so far on these machines has been to develop the
+long stator LSM for propelling magnetically levitated vehicles, and so
+relatively large gaps (< 0.3 m) have been chosen. Likewise emphasis has
+been placed on very lightweight cryostats to house the superconducting
+coils. This has led to problems in cryostat design and coil stressing,
+some of which would be relieved if a slight weight penalty could be allowed.
+
+; -4-
+
+3.0. The Intermediate Speed Gap
+
+3.1. Technologies Involved
+
+As mentioned previously the Electromagnetic system of levitation (EMS)
+is at the stage of development where passenger-carrying prototypes are about
+to be tested. For medium to high speeds the technologies required are not
+expected to be overstretched, but for very high speeds reliance must be placed
+on tight track tolerances and adequate margins of safety built into levitation
+power control systems. With the possible exception of Japan, the Electro-
+dynamic system of levitation (EDS) lags behind EMS because of the lead time
+of the latter, and also because the technologies involved in large-scale
+applications of superconductivity are still in their infancy.
+
+3.2. Hybrid Vehicles
+
+It would appear, therefore, that an important step could be made to
+advance both the LSM and advanced transport vehicles, such as APT, by
+introducing the concept of a hybrid vehicle> The suspension and guidance
+modes of the steel wheel on steel rail would be retained, but the propulsion
+would be by the long stator LSM with superconducting magnets on the vehicle.
+Conventional railway vehicles would obtain a thrust unit which would not
+depend on wheel adhesion for traction and braking and it would require only
+minor modifications to track surface. It would remove the need for
+pantographs and overhead systems, and it would have an electrical performance
+as good as, if not superior, to existing systems. Higher average speeds could
+be easily obtained with maximum speeds approaching 350 km/h, although
+now the limiting factor would be deceleration rates for passenger comfort
+rather than onset of wheel slip. A further advantage would be that a complete
+automated train control system is possible from a central computer without
+the need to transmit information to and from the train.
+4.0. Research Aims and Means of Obtaining Them
+
+4.1. Facilities at Warwick University
+
+Two main test facilities exist at Warwick University and are suitable
+for the type of research envisaged, i.e.
+
+/  @ A 550 m straight track, 1.3 m wide, timber construction on
+concrete pillars. This facility incorporates a wheeled trolley on which
+test vehicles can be mounted and which can be forced down.the track at
+speeds up to 45 m/s. The track has been designed to take a deadweight of
+~ J tonne and its length could be extended on the campus to include a
+switch and curve to a total length of ~ 1 km.
+
+-~5-
+
+* A 3m diameter test wheel. The wheel is entirely non-magnetic,
+being constructed from fibreglass/epoxy resin, plywood and aluminium. A
+Ward-Leonard drive is provided to allow for a surface speed of 45 m/s. An
+additional rim loading of 200 kg (~ 20 kg/m) is possible, without any speed
+reduction.
+4.2. Existing Research Contracts
+Existing SRC contracts to investigate the levitation and propulsion of
+high speed vehicles using superconducting magnets are the following: -
+1. The influence of ground simulation on the aerodynamics of high speed
+trains.
+2. A study of the levitation, guidance, and propulsion of an electrodynamic
+system of advanced ground transport.
+3. The effect of magnetic field oscillations on the losses in supercon-
+ducting magnets for application to generators and high speed transport.
+A core of expertise and experience on advanced ground transport systems
+has been established at Warwick over a number of years and the present team
+of Research Fellows and Technician Assistants is well qualified to undertake
+this proposed investigation of a LSM propulsion system.
+4.3. Objectives of Proposed Research
+General: To investigate the application of linear synchronous machines to
+advanced ground transport, including their use as a propulsion unit for
+wheeled trainsets.
+Specific: 1) To extend the work under the present SRC contract on the wheel
+testing of the LSM i) to fully investigate "controllability" of synchronous
+machines under all likely operating conditions, and ii) to establish the
+required amount of feedback required for inverter control and establish the
+means of achieving a closed loop operation.
+
+2) To establish experimentally and theoretically the behaviour of
+the machine at small air-gaps with high harmonic contents and to formulate
+the choices available for guaranteeing adequate ride and phase balance in the
+track circuits.
+
+3) To design, commission and operate a scaled version of a LSM
+wheeled vehicle with steel rails for guidance.
+
+-6- :
+
+4) To extract from test trials the likely parameters of importance
+in designing a full-size system and to establish correlation with theoretical
+analysis.
+
+5) To study the design of a full-size prototype vehicle, embodying
+current railway practice and the most appropriate choice of cryogenic equip-
+ment available.
+
+6) To formulate the requirements of a cryogenic system for
+operation in a transport environment.
+
+7) To bring together a core of interested parties in industry and
+universities.
+
+4.4. Proposed Strategy
+The proposed strategy would fall readily into six parts, i.e.
+
+1) Extend research on the test-wheel by adding a powered winding
+and superconducting magnets.
+
+2) Perform further analytical studies to establish primary para-
+meters and system sensitivity to changes in these parameters.
+
+3) Perform an outline design for a scaled prototype vehicle.
+
+4) Perform an outline design for a large-scale prototype vehicle
+
+“with track and wheel results as input data.
+
+5) Perform a cost analysis of a complete system.
+
+6) Consider the necessity of constructing a larger scale vehicle.
+5.0. Cooperative and Research Interests Group
+1) BICC Track Winding Studies and Costing,
+
+Integration with Utility Supply.
+2) British Overall Conceptual View of place in Transport System,
+Rail Current Practice Information,
+APT modification required
+Vehicle ‘dynamics arid suspension studies.
+-7-
+
+3) Brush Inverter & Power Electronics
+Track Winding (with BICC?)
+4) Farebrother Guideway design, slab track, winding installation,
+& Partners Costing.
+5) Thor Cryogenics, Cryostat
+Superconducting Magnets.
+6) Warwick Test facilities
+Testing,
+Theoretical backup.
+6.0. Costs Involved
+6.1. Definition. of. Areas to be Covered
+The research activity splits into four defined categories:
+i) Wheel LSM using Liquid Nitrogen (LN, ) cooled coils
+ii) Wheel LSM using superconducting coils
+iii) Track LSM using LN, cooled coils
+iv) Track LSM using superconducting coils
+6.2 Wheel Research
+6.2.1 Wheel LSM with LN, cooled coils
+It is hoped that this activity will be fully met and completed during ;
+the existing SRC contract. The major cost of an inverter has been avoided
+by the generous loan from Brush of the 375 kVA inverter used on the Mickleover
+trials of linear induction machines.
+Machine armature design will be checked using ~ 200 kg conductor on the
+rim. If more conductor is required, the wheel speed must be derated from
+45 m/s. :
+6.2.2 Wheel LSM with superconducting coils
+Depending on how the LN, coils behave, it would be advantageous to provide
+a design case for a superconducting field arrangement. The operational
+results would extend the power output of the machine, by increasing the
+magnetic loading, and would provide a realistic base for an extrapolated
+design of full sized systems. The main problem areas to be expected lie in
+coi] stability, low loss coil structures (electrical and thermal), mechanical
+integrity under dynamic conditions, and low cost transfer systems (power
+- 8 -
+
+and cryogen).
+
+To equip the wheel with a superconducting magnet array would cost
+~ £30k, for materials and fabrication labour. Extras for additional
+instrumentation and etc. would be minimal. Running costs for helium could
+add on another £9k for, say, 10 experimental test runs each requiring 200 1]
+helium.
+
+6.3 Track Research .
+
+6.3.1 Common Costs
+
+The natural progression to linear track testing would be necessary to
+not only establish the operational constraints of the system, but to
+formulate solutions applicable to a full size system.
+
+As a demonstration test bed the track value is hard to assess - but the
+first phase (LN. cooled coils) could have a very fast turn-around suitable
+for a demonstration facility.
+
+The track installation would require some modification if it was to be
+used for major research. The breakdown of these costs are:
+
+£1000's L .
+Fencing 2 |
+Rough access along track 3 These figures might well
+Permanent store/control room 5 be less if, for example,
+Trackside distribution 7 second hand equipment was
+Guide rails 20 available.
+Winding 10
+Generatoring set 15
+Control gear and electronics 5
+£67,000
+6.3.2 Track LSM with LN, cooled coils
+ee
+The expected LN, cooled copper coil cost of fabrication and
+commissioning is expected to be about £2,000.
+
+6.3.3 Superconducting Coils
+
+This is a more difficult sum to estimate, but modifying an earlier
+quotation obtained from the Rutherford Laboratory, to take inflation into
+account, it is expected to be of the order of £60,000 - £70,000.
+
+-9-
+
+Te Track Installation Details
+The specification for the track LSM is as follows:
+Track:
+Length 550m
+Test length 250 m
+Acceleration and deceleration length 150 m
+resp.
+Construction existing
+Winding:
+Double layer meander _
+No. phases 3
+Turns per pole per phase 1-4 (adjustable)
+Winding width 0.8 m
+Wavelength 0.8 m
+Conductor radius 6.5 mm
+Phase resistance 1.45 m2/m
+Phase inductance 5.96 wH/m
+Phase to phase mutual inductance -1.517 vH/m
+Total phase inductance 7.47 wH/m
+Phase impedance @ 50 m/s 3.27 mo/m
+Aluminium conductor mass 6 kg/m
+Operating parameters: ;
+Speed 50 m/s
+Drag force (theoretical) 3 kN
+Inertial power 150 kW
+Inverter frequency 62.5 Hz
+Inverter voltage 280 V
+Phase current 357 A
+Inverter complex power 300 kVA
+Power factor 0.78
+Efficiency 0.64
+Main feeder for the armature winding will be from a current pick-up
+system fitted to the sides of the track plinths which can be used for LIM
+or other propulsion tests with pantograph power collectors.
+8. ‘Benefits Resulting from a Cooperative Research Programme
+All the participants are likely to achieve benefit from a cooperative
+research programme. It is apparent that the future of the railway industry
+lies in electrification. Unless the manufacturing groups involved strive
+to keep abreast of current technological developments throughout the world,
+the situation will arise whereby they have "nothing to offer" to prospective
+- 10 -
+
+customers, compared to their competitors. It is worth noting for example
+that JNR technical assistance has been southt at near governmental level
+
+in China, Brazil and U.S.A. (in particular the N.E. Corridor Route of New
+York, Washington and Boston). Backing up the Japan Railway Technical Service
+(JARTS), the JNR and Ministry of Transport Group, is the Japan Rolling
+
+Stock Exporters' Association (JARSEA), whose members include Fuji, Hitachi,
+Kawasaki, Mitsubishi, Sumitomo, Toshiba and others.
+
+Although there are export groups within the U.K., the potential of an
+across-industry research activity can only help to strengthen participants’
+claims to be in the forefront of the new transportation technologies.
+Particular benefits arising from this specific area of research are diffi-
+cult to quantify. However, it must be expected that as the programme
+progresses patentable areas ranging from, say, cryostat fabrication tech-
+niques to machine convertor control strategies will arise which will be of
+immediate commercial value to the company involved. Access to the test
+facilities will also generate insight into problems encountered in partici-
+pants' on-going designs, and provide valuable information ranging from
+current collection performance to the aerodynamic characteristics of train
+
+| sets. :
+
+9. Conclusions é
+
+The outcome of a cooperative programme of research would establish
+the. aims detailed in 4.3, i.e. to investigate the application of the linear
+synchronous machine to advanced ground transport systems as a propulsion
+unit for wheeled train sets. :
+
+The research activities will bring immediate and long term benefit to
+the participants in terms of patents and test facilities available, as well
+
+as association with a research activity into a new form of transportation
+technology.
+
+The cost of the research depends on the final level of commitment.
+
+A low level approach would be achieved with cryogenically cooled superconduct-
+ing coils on the wheel and would total £30k plus £9k for helium. An
+intermediate stage of nitrogen cooled coils on the track would cost £70k.
+To go to superconducting magnets on the track might increase the cost by
+another £60k - £70k.
+
+. - 11 -
+
+COST SUMMARY
+ADDITIONAL COSTS
+1. LOW LEVEL,
+LHe COILS, WHEEL £30k + £9k
+2. INTERMEDIATE,
+LN, COILS, TRACK | £67k + £2k
+3. HIGH LEVEL
+LHe COILS, TRACK _ £60k - £70k
+(Assumes (2) completed)
+Q
+-12-
+
+Table 1 LSM - Typical Magnet Details
+
+Operating ampereturns 1.2.106
+Maximum flux density 5.5 T
+Insulation and interlayer thickness 0.7 mm
+Layer width x height : 102 x 100 mm
+No windings per layer x No layers 30 x 40
+Effective current density 118 A/mm2
+Meanturn length x width 1.12 x 0.7 m
+Midline deviation from mean turn 5-15 mm
+Wound conductor mass 238 kg
+Operating current 1000 A
+Short sample critical current 1250 A
+Vacuum box weight 2.2 tonnes
+Pole pitch 1.4 m
+
+! No coils per box 3
+
+3 Box overall length x width x height 4.15 x1.2x1m
+
+| Coil ¢€ to cryostat lower face 155 mm
+
+! Coil ¢ to track surface < 255 mm
+
+Table 2 LSM-Track Conductor Details (200-500 km/h)
+Plinth size (height x width) 280 x 1005 mm
+Cable voltage range 6-25 kV
+No. Cables/pole/phase 2-6
+No. phases 3
+Cable current nominal _ 250 A
+Cable cross section 100 mm?
+Nominal current density 2.5 A/mm?
+Section length 5-15 km
+Expected temperature rise 40 K
+Short time over-temperature 80 K
+Transfer power 5-35 MVA
+Conductor material Al
+Conductor makeup ~ Concentric lay stranded
+}
+
+3 os
+ . 2 ,
+Siw) ~
+" 0 — ‘ . : . <{
+r= \, | ui}
+= | 2! oc
+—} O}
+[I
+rar O} = EN
+Zz . ~~ &
+f ~\ ot = = :
+“ur : fr~? \ , > r
+, if ‘ ™ t% ) Zz .
+| : ( [por | _i| O |
+- \ CSx7 * adi >) x .
+| ~ NAY AO. s
+; , YA 4 YG oO. L.
+: *, \ A \ 7 EW DP ©.
+. = 0 Fe / e . i %. Sees » ) 5 ,
+ota gh * w Qn“ . em
+Ye /y VV My . “4
+— oY \ DA /. a i
+, . . XN » fy \ ; _ a * is : :
+VERA N/ \ |
+; ~ \ a
+— Jf N Ny OF .
+: A] ss , } <3 { ‘
+t wv Xv. f t a , ;
+| a “2 YAN |
+om
+. &
+| ae 7
+
+hp . :
+Ey jw li, Mea
+aL
+a) Current source equivalent circuit.
+_ jIx
+E, |
+AIR Note « > -
+5
+Ey | =
+74 7°
+“thor 2s , 4 |
+6 , }
+u a : ‘ t=O ;
+: wt
+. . ; | — ,
+[oe er
+SoH
+b) Phasor diagram. |
+Figure $ Equivalent circuit and phasor diagram !
+| : for representative phase of * |
+air cored LSM. © |
+, . | “aE £2 |
+
+—i <
+~ Oo &
+| UO a
+ao
+| uy <_
+pe Of ~
+ul | oc N o
+t .
+Oo
+Ne - aan
+“ + O
+Y
+¥
+| : he NS : g
+: ;
+> ~
+Ces a
+Oo
+| -
+. ] y Oo ;
+; YW
+: tre t &
+LY
+. =
+es Ny
+>
+| ; o
+; Y
+a Cc wey
+t 0
+2 ; -
+Y
+J
+Uv
+&
+) Oo
+~~
+’ ' 2
+Se
+' . “.
+|
+; ”
+@
+~
+is Oo
+‘ ‘ &
+wo ;
+t ~ i
+O
+S ‘ Oo
+©
+. <
+N 7 Y
+os 3
+io
+oy :
+x
+
+| . ‘
+‘so “va = Oo. :
+<* fl : ut Ee
+s. oe. =. c£ : oO
+oc a :
+os
+oO Vv
+- =
+- i] a
+4 9g
+o m
+E =
+,
+Z o
+ec
+2 6
+; | | =
+: x
+~
+uo
+. =
+Y
+&
+x
+Bs i v we
+OQ ¢€
+= t.
+Oo
+yw
+x
+-
+o
+Cc
+YX
+eo
+>
+o
+=
+wn Ee
+Oo 5
+£
+- a.
+
+&
+
+‘ O
+< .
+5 in
+pa 2
+a. =a
+O oO
+
+o
+2 Oo ah Oo
+ao Oo
+
+: “. .
+Yy
+wn c
+al pt < a
+= =| ¢
+_ 2 |
+= =
+, o t- .
+a
+: O 2
+z a.
+v =
+at
+ee.
+= ada co
+o x — :
+wt w
+fl .
+<_ VU
+Oo ‘a
+<<
+. =e
+{ T 9
+° qj
+= S
+0 =
+=
+N .
+: Oo
+; — qu
+& =
+_ 9 ce
+ae WE “I a
+i O ¢
+a < Ow Ee
+3
+© =
+- a
+E S |
+Oo sO —
+w- : Vv
+tt O oO
+re _I
+st Oo
+; Ee -
+E wo O ”
+a 3
+') re . on -
+s JY
+5 N =
+S O
+ra
+a.
+O
+O
+vt oO a = O
+
+COST, C,
+$ per year metre
+30 :
+| C=25
+20
+(¢ vf . 3 Cp=0-01
+10
+0 4 2 3 4
+Wavelength i, metre
+Figure 7, Costs asa function of wavelength.
+
+l ee ff HT irs set he te 5B oe Ogee ~~ yen es Bhs Rate See ae - .
+= Bee : oy Es a t fom al sas 3 a oe” . ie ange
+fs “ss f | | at LL peta a ee | iF Veet gee eet ie area sgt
+- ; 2% ye. Hig gy ee PS eee We Nee ce seo ; ie
+) ‘ , | see nat re" x v “ . “8 Syne . . PAG t ee
+e3.2 fr } STATA Sey gee pp AS fess La mace een >
+Tee ot i: J a " fear -. ip, es ' =e *, Sa ie (eed a ass 2 ath ey .
+, / | : e ne 0 i” ch. Oi so Bie Brees Fre Bae Mey roca ; tf A
+; — | wet af Ca) » 4% sete . é “es he ge .
+'c CRT ieee @) - ‘ Sepa Gens, ; ears “2 ES
+=. ine o - St Mi 7} 5 Woes 5 Say SESS eo
+- : — — 8 Te Se ba hires tO heehee ic. By aS 2 anny
+s+ . a ~ ~ 3 * + 9 oy ie Es Ress Bak te se AY fen tit
+es MeO HB Il Re MS hae PRE Rg
+| FT fit sete ; . Ret ar a
+mit f - ee He set Mee were ee
+2: Ts es —— N- . gs Nt RR
+eS Sak : -f be Vie Bane se 5 — Ay
+~ 2 i Lo gq FA a b J 3 : 2 wets
+£¢R- -— t\ ERY ; died Joh hg +& =—s == 5 Bi se “he “rs Se OR Ny lat as
+ob S Weteect. x ra | Mh CR S 3 te Z
+oe KZ ~ eters Bt _~—} t qe pet ‘ie _ ATER te Peete
+A co = a a onesies ‘s Teo eee . ~- woe ° get
+Ad | flee bn Px as Yes 273 (7 ie Te) ay aS Seep tee hes ee
+» B : esa ow Awe ? - . oy’ “iesese 288
+5 $3! ARNG) UR og Be? SOE OY a ses mecenecictata ss havent af Dito sta San Niro ag
+pens? as Aid = 2 j We pees ayes with l) te) iy te se a we ~ Ma tg Cake
+f —15 CY ahs: setae seeta fie rt RECS oth J § sae ee oss Se es et seed
+a Soneeian eed BE Be OTe sors, ? Eee thn oy . oye tine ie 5 avaess .
+sot — ate te pres SR Sess ameter, Pate hie ee oe ok “SS SAY
+es “Why Se ope he epee hecesE Wee ee ae ape aes erm OFS yz :
+ong CF Sa . eth ve Tisecte ty . Te hee tee wal. See ee
+fe yeas ad wir Mee reef ee Ir rat SRE Se hy Shee ate- Ss yfh ca ates
+phy y yd ed ee, aioe, Looe} PyoryTTy ory % SF a: " gees sete Saeed
+oe 4 o > > ee > tb Bete! 8 go hte exe? tte SS > ‘ a) es,
+f~ . NS Oe pe Pe bs take EARS EN ee Pisses 7 [ite vc tten Ps
+cert | YY ae = Je 7 SS eR ARES 8 ES Fela Paapee
+re oe H "din oS. Z om ey : h Savas = °, —S prank 3% . eho “sue Sand sete: eset de ot
+Pee : CH 1 3 WATE BS pease By : J wre ve ‘fi Tape a Bee Se i Ree i
+ae RS Wee fps SP EA\ GY fe pees dy! RIES BE EI MS eRsce
+bene V1 o4 ockops Peeses bes Wy ar she BERN VSS Sab ean gt ae Sf,
+#28y 7s ee: 7% * Gate Sean ag SPARS eae Ba 8 ae Se
+0% lsd e , i + 5 4; USES ate ae ¢ Peo gt—e Ce tah 6, dea 83 So Rega GF RG Tey Beets
+SBss sve 8 Re cone |B? Somey Furst ¢- ed ab Se SN hae SSE eth, CNT i Be Pop eI SS
+See — CI SP Peres came a Ts -) a 4 Se teed ae Oe eee Pars ters AR .
+me * z oo here TE . é) 4¢ 1 shige MR Sak St pte Oa.” 4 DAYS
+meni RD 74} Say aye eS. be Ph WSCA an ee ey AeA Se aE a
+se TE . ya oath + ek Bie Te yt beer See hai eh a Sey oy dee aS
+Lee f “eee H 3 5 rye, =e i.) , wh a. oases eens raat) ey Sotien a et, 2 Oe ssiponaae to}
+$3 aire ee pets Liew is - {pte cee Sce Fie hay SEN RD eight Sean = rit
+ot NN ss BS Batts ny, ste Nr ee OER Coe ry “Sees ae
+wie Te oe me he By ees BERT A ED PEW Mc Sk gg 7) eee Se eo Bee
+ese | bs eye =) wtco | = Puce ee Seis: ‘ eg: aa LIA pir ategh a mS pe
+artsy: ¢ s weet bs Sf Sve bic be Pea pe = Saas 1G ie pd
+1 PAET jg i "Bsc Fc Pais SH aE? et Psramh anes. Benen Th Lape .
+an : Ligte sees Be ts Ta SS Sd a {gesaky Et
+oF sorts bp Pets? Bae Behe efoto bres O%- —. chin gee ee
+are waa mee Be Beet. eee es + f = reg
+“Ri “8 oes ee Pech Wa E) Pesaran FB espe’ aie 2 4 ‘ Toe
+Feo. ER | = soea" See Ezy Pes ES pense bez \ BK AW ts
+2 : ape RS oe a at | . Pat Peay Us Pp: as :
+hae E Os es eS Sie ee RS Eoeeae pace” Ty ;
+sFeatee : Gi ses OS bade y poe 2 Pee Woe L/S Tae o---
+mH) Sa liee og pes fe Le pb Fee tO: oH AL te “0
+ence t fd 3) ft 3 ave Bae Pe ts 5 i iy Sane thier? ! ee want
+SS x 3 pit shen ee ; ——'- KSiepoe ”N Meee wt See Yate CO
+Bs, r a on . = HES “ if) 2 +7! . Jeng ate aN . ea } Ez aE vis
+gt -. ( . AcA = ck aaa eae Ea: at i ' aC ht hn ake : Rafe eceay LR aw
+TE | | ) Be Spee Bg a Seas at ok les Ps fs ~
+Lope = bt Po aS SuSE Se obese Rie kere ON ee Resets [s,
+COPY | Wee PE sec BE PEER PUP pease Be ata geaa tly 8 >
+sitaser dt B | SC bs FOS SEE Ae ee as pa MeSH TS Ss Seagal eal ns ssa fe LEAS Bik =
+aes f I Sy ke Se J BE] of | Sees Ses pee ee 05.88 Sasa =:
+, SY ; ie se saat ee et x : Sie HENS Patietome nie tem tps Rage E35
+bak. THES Reif Btls GAT ae (eh Se ais nib gee ES a7 Sera -
+Vee } . ‘xe ‘ee Set sa & . he 7 ds . 2 eer Pr OR SEY PIO ETI ae eae * ae Fie ty
+ese | rt AS Pe Pesach BS wEGayi peas eee ae B a
+atietiee H : ete, Pot Bet ee Bote * : $3 Us a Sa sata cee oe EATS AE ASO ot cneg PANT Comers oa
+seth, i - i) ae a eeste Page NF Je By Spe iple yee i goe RY WAisvecere te. Teton sek Ny
+“ea | os * = Ap, |: "2 ein [Se Pe Cae URNS et Ae IR ae Sg ©
+Pe ' : 3 * omeas hee 1 . SIN cise ee ose Patra eae Favs - =
+resect Ti ae PS eels PLE bs (ee a Se RA Ca edb hor 4
+ct peat | HF eet Bg URS Fe |. 20 sevice Seco te te fase; ei: GON WOE | Neer <—
+bates fae Pep ea OP BL axes SSS) pee [ee IF Cf <A Abaca Tit ¢ ad
+ees | fe & We Sis SOR PES PER fend peo : ii & 4 >
+Pies 2 Snes Tato * ra aa poe A =< i C :
+2 Paes | fl CN eee BS Pech [ fap pes § Ce I] f ti =
+ye P Secs UE : ees BaP meshed F- * : + RY teh —— .
+Ge SEs 7 te 7 esuts'- > = — 2
+on PERE I ee HS Mee Pe Petes § ‘ : rae ip ze Cs || F bese ® z ; o
+epee Py ON =e ede |< Potengi y SSO es = Ac edie =
+tes pour ta '- s oe hy Pee ; ; aS + ra ° i
+ve Se mE ft Ae POPES i) ; ii Of B ey u 4 . @
+. AS t 1” f C qe dots Pe PRS = WORE, EB Hi oases i C.J) = ne f wn
+; = ls . yS AaNe y cee, + ot de. “ ue
+pO RSET Y § TN fed Deere de PES m-th ae Blk no te aoe E wu
+snot pee rset See ey thee sere ° a re thoce Ba EX = 4 Sots “
+SBS]: (z] ll Pies pe eae P 3} Pa AL ihe yyy bebe Pd
+PES be see PsP eee “4] ~ shacks a ry cated a.
+ye. PR BL gx 4 Suh artes th. | ma HE toa PP Satages fstac ; ae ed
+bos PES ei hf of y x aetae Piet ides. 8 fe ass am ye
+SIRE TE pee ets © Be rae | Ge [ewe SEES jp
+33 afi = § 4s doce f Peasy * heise Co Ae hay ; seed
+Pet LS SEY PRE SRSSHEMHE] P| Seat etrsee het a Mah cae w
+© Seep pe EEN ph Dee Be te eh RES aie taeda SPR bi 3) S&S
+Mir, 4 iS py gs sect hha P | A] tot See aoe SASL Ae PSE RG
+= PRT hy : her HT 2 eo [eee A, oe fF eee | oad
+t= * s . Seytee ‘ it DB ' PRS Was te Tk Sze 9 Meee 5 wee TT Bietete Srna neh dees
+2 LS | Al r rk i EY ere Lee sy PR eon cay arene Bee eee
+so. Pts | fF 9 C5 (oY) wee: Pea ' 7 bert 4 AW ee) ryt Cae aeea ete ase brs Senge ery SNIaNG ‘aA .9
+xe y A: aa 4 —! Pes TS yy hat Taacaters es IES LES eh far raeies ye Li 0O
+ne “ft rm ~ “Paste: heats ; | Ly rr} rf eae ee Sita fest be ae SS a
+‘ has a SE et Pt Bere j F Ee Bstore. $2 Ree Stat eee a ie ees > 4
+¢ OTe @ ow Set VE! Bacco re TH Y : Rte St won? aS ugh eae nete Sys ars “t
+re Pee dy a = Sesout pats once Ly Pees Bice mint Meme Sere) one? FSG .
+epee ta | or VE EAE +e : pede nage e ence  e epee
+oo Ry coe om OI —1¥, Pee: Piss be f y= af Mitte So = rvs TT] Ee A HF
+t ~ “ = ". Atestse 4 Fe . oe gt , weed hg - . Ss ou
+2 f2— 49 (2) pr yp ae Seae BS AzRe I 4 = =3 y Yo tateinte: ten if 7 in
+by ie * a brig waits Pres Ys 1 wv SX: ae og BT Saat ay ya aR
+< fee fp ses PET Sy : { fpaA pet
+(ToS er ice eb oe Nf . ait BS Ieee a |
+Ls eee ae at fy es ot | / i t i ; 4 Q dora eho y PES Y oO,
+4S ae BS wb Des Die Maite3 Ems 2 PSS Le Spent
+og = : fons eget” { ~~) 232 & > HateS wet 1h *{z! ‘ “4 —_———- S : ~23
+PRs Sic Hee aS Sets pee a i =f i) ee Ut: 0 A rind
+Do ' ioe Zs PAS Y, f : Hi a it: a ite s iM
+Pie = site Wart =. » ‘ geese Ve ey 8 2 > oy bat if 4 ete
+tides ve RE HTT coed [eae a eee ae ee U CT Res SS
+: ee ces *3 oP tee : a3 38 phate * > apse A een
+a He! Sof Pes Pe ero PSee le Sgrets¢ Ait SHAS pA
+- - Sd fest ars ~ it Tree Saar k= bes AS s ‘
+th oe, ea ? eae ae “, + Ns iss SS Gic'= Ft + suet
+ee ete ae eink 3 2 z IE eS ey aoe o s LS a
+ieee (es | eps ‘ Sekt oe 4a aS. 2 t SEEN Pot Dieae ae hy hes ee | a ¥ i
+i Ree ete! hanks Pr pEe i Ect EE age oD pees sa Jes EAL beefed Sat us addy eS ace
+t se wi th oe PA Se Pe ee sk ZFS Big Se Soe eieten 2 Hon: Es
+we ==" Nr SE | nets Fe aoe Sioa ies SR EO Es
+ra —————— ] Sees? Pentre PS I< ‘ns Sock [All peeks BA Pte eee See S wee
+ve BSS BO ie ate. tp ase ese SEAS SPUR cb ee tate OAM an .
+~~ Veo SAPS Srusces nema eeeen MN
+ces Ba Baa Seen faes se othgs Pty ays
+Ee Ge eA OA DAN a Ze
+
+a
+! . i
+} Mi rs Fa
+4 wig
+Ah EM
+f Q i i ‘ =
+‘6 O 2
+r § iS S mn 2 c
+& ©, Sl E L
+in c - 4 wn
+i; = ra 4 55 36 =
+I ww rs) © is =e a
+{ S i = o a es Es a.
+eo o © > DB cs mH os =
+i ~ oO 7 og a LL w ao 2° a.
+; 3:°:= QQ ©o A ire x
+Cj i. 5 wD
+o o ok ° 4 Ve
+= 4 ® @ ~ Dp tr YC WG ft
+2x & — we Ew “ a. 3 mm ro)
+— a Oe t. — Qa. 3 GOWN om o oe?
+eh) 4 Y@ & L ra i =
+© Oo > > 2 te ! & °
+= i o ° -EEG ro Wn —_— —*
+oe | a= me OF Ee _ = 1 &
+— ’
+: a bee
+oS x
+“I Bi S
+ae Fi EF og
+ed oh?
+= “ da
+He Oy o>
+} i : a
+- ; E oO
+ie Pa . ; i & anny
+LODpH ast —_l % A
+| ily of tu
+; E 7
+| b. # — =e
+" 2 =
+byt a
+; 5 sos pee o
+* OS —
+a ; = om
+| > ys 2% 8
+i. eG o wo
+» oe §
+H FS A Ga 2
+% pe Qo and
+Y WF al 3
+a 2a
+“s in P a h 7
+A i ~ }
+, Qa
+Ps :
+ie io
+
+o 2
+ane 22
+a < ST iH
+i.
+. O
+ON
+6
+. <p
+O
+> oO
+O
+—
+«a
+4 a mo oO. |
+qj
+£
+Ww)
+212 §
+| = & &
+Qj
+SB
+0 oO
+bd qa
+q_
+WY
+8 .é
+= oa.
+(i =
+o | 4
+Q FQ O O E
+a °%8f j© Oo BQ 2
+Ww
+o a =" 0 7 O wn
+os |
+
+va feenR Pls SRP RS
+. ie BEET EEE ENR REESE
+Tt 2 . ees St : - *% Mee >
+Ss
+3 ms44442 ra Inds bt4 Hannes ‘ eatin a .
+| oe
+Eee elie Sona as io. ye
+is fii +34 4 . aati Het i Ho Fees Sy HH Best beseetee | OS
+Se a | ie
+. |
+: baat + HS Hae oi HY aH Sees eee aaa
+Sa Sen Senet Hate ae PH te . us
+aa A Ht Hh Tees Ee ares iy Hida mh ey i td
+oe a eee |
+ees ig oo
+pet cle dcles Sepa EER Renee fal a eee =
+see ae i
+pods et CHa Cee Ss
+oe ee anit Spat a HESis Rertsten at aa; oS Saat Beies ests sscsebrest
+Se aes pose as eee See
+ee Saal cea re Ha > pes ceeeeceeee Sein teteat eee Reset
+(a | |
+aS =iiiieag tae Hee oF See
+Lo feat =
+Soles dee 3 stan SHEET Hr Bay a st tte Hatches PtH
+Eee | ee Ae oS
+as Fetes! radicals Se ES aed esised seed Easy
+a ee pas 7]  ...
+i eee ag eee Seah dasennssea ase Senses
+oe es |.
+Camera aan a Sas Has sae muce phan penea ine
+fe paar severe aH HTEY Hf a aad oe ee eae Seed
+te She epee teen Fa cane a eat oo
+Pte aearal
+aes aS eae pens Se Saas oes ee eee
+Hs latZ a eet ar ie Vast : H Hy i tiserss Se ty qt Ha
+See aa Se LEENA SEHR oe qs
+cea TEE Sate Sua sa 7 feat He saat Heer = ESEHE |: init
+alee e Set eee eee ee eS)
+see} oo | o 7 = oe Se =o
+ere Sot Hits aH Bia Hae aad iH PH 4 ei dag pee as a SEH
+eo E S| ae acre a ae aa oo
+Eo GEE a SE a Fe Ease ae aa efit: is
+oe fee |. oS
+eerste an HE eer a EEE HE] [Ht 5 eee i Hy ee Bt as FE 4 aq fe Fr i Sateata
+3 al fe fn iy Sperry RHA ath Ht mp ty bay at 2 HEE ro paddy
+tis Ls Seat = * Fis tet et aaa 1 tf £ 4 FE i ae att Ef Ee fi if
+ee eaiees |-st ——— ee ad a CHAS HHT HE ELE area ae a ne ee
+ates a eset ateitt att Hania a EL H aaa Ha tne sens Bey
+et = os Sy 7 ait He Shae +H br He Hi "hatte zn pes Be Hae Bs 7 ttt Hh
+a sete eet nie HE eats Bite Stet Ha SEES ESB: Hau pHs z EH Ey Sta ey
+a = eter ete see ate aot at a pepna pene 4 t= + Ta ea Hae = — ests peas He Z 4 +H: 7 rate
+eS eate ee sei oEIES tae att +4 ate Sat Saas ad ads Ta “ne Hees Se Hy
+safst apse TSE Hee ra Tay te ee SESE aE peeree ee a s| daa = aa
+Fest See eats safle oats plied tee fees fae Bee aa ~
+edie peste a Sere get rf HaHa toate He EHS aie el Se et a ae
+Bisse iestiei= Se eae se (See ae eee ae ae
+es oe Saisie a ae) Be Satin dete ay Festi ae HH HHHEF ri Hae AasHF Hae 33 tes SHAQ: ett: rat Sure
+eal = siete ee eet ata tates ~~ Hay: ml fs nonan me s ae 7 sty ers adtted = rf
+past i Sees te ar SE att Hes i = H i ase Oth =A ny
+Hae ae i erie Seed esadiae |e FEES: x if 4 os ae Sh SS
+it THis Rte ae res Beefs peat Sepa Ea eeenE epee : a
+Bp Bebe a oH ae Seal oe ated fe fe eee ae . ad.
+Bees ie is =e ae Hes 2H Bei cis 2 z as ii . +hhh Ef Aa +43 4 eee a
+anbipeien see aa aati SSeS ES Hers ape Seba eye ete aS a
+at a SSese |: ABBE aaa a SHES HH pote ral jesse: to SHS ese aif asie mis
+a Saas oe eer HAs oie qi Tee HHS ys aS HEA EE Hirt As Ss FIs asad pete Sate
+ee pales ae = tere =e rs Cs 3 Ter nat Fs ah He a Fern > Ealag HEIR pe 3 set settee Hae tenes
+aS 3 Sein ee ts Ei eerie sade ot mets a4 rt Ty otisheti s+ ry > 4-55 55 43-fe restate
+septate Hien besgss asst Sai SS Payee eae HHH : at Has 3 Hae Haat}
+Se = paseeai ies =: dina Sea ae SRT ae HESS Bipepasiss Sa) ae dasels3 Seer a
+sal Seylesa Sata seit SHS ADs tts. + Hiatt ReneS ii Hast Siyat Tt 3 eae ae 4 ts Bad
+esi eectree = ees SSeS Hy Seba Sees Salita Sune Bale sistas i ae = a
+seats ieee Seas =e oe oe att 4 Hy as 43 3: T4474 bre: 8 sy Leacseerne =St4s- . 7 Se ae aes
+ate at iota Sisto {Heese S34 Heat sat HS Ly ape ing HEE sees
+Setsrt Be Seated ee ta Hest Patty pHs 45 TET cpateees Eames EE faa] ee Estes eae nH
+Epa Sf eae Setters So eas ioe ae
+a =o nS Sawean Hat see ES att ao ae pret ih ets ase MTV Aaa: = iat ii ss pe ir |
+Soe Sees ee SuSE ae eee
+= Se SSS eens paiie pail seuss eats =) 9° Byte See as a8 aus a ii Beer
+=o es ee = YESS cathy HPT ett apt “Oa = 9: Hee byat Se pads: PREREH
+= SS ssfes ate eae S245 Sat : Tits; *49242 Ts Sit} s7: met d= Sisa3 i sy: ris pe Siest 4334 Sean Sem 22 Be
+Sette = ae aac ala psi ipie toa tet Sa mye
+stati = = fee] SHR Sates pais Bays sy Sis Bite Saad Sati melas eee Se ae
+SSeS = eee obs = a Hepp see Hie Eee oe ae = z
+Sates = See sa epee aieeiea festa le eorte teats ie coe. eile a ae =
+Se ae Sf are = if ie 4 ogee SHS a ose Ee Bas sue SEISE
+SEG ES[=: eS Sek Sse Bae aE Iee ae ee a ee ae See =
+geese Se ‘eles eee sete eis sige ee ae Ss
+ieeie scien rae ae Bre funiis io siete: eS Se aati tric ete qateeeee os Hofer tees so
+HSS! Biles aie States sat Ey Saris prre at Haass rags fetes iets sae: sujet a REET Seatpst
+2) See ce gs ea aeaaeses eet HUE ES =a
+SHG 4 4355934 aera tty Hs Its ft 4> FHS: Tea Split S333 wisstisss2 dots sth
+ORE ey Pilea pe ieee Seees
+HER EEPSYESES Bifees Pies — Tee
+sleealee ten Peal pe fers aes =
+su feeedeecel rie fesse oe
+Spy Sel Sas
+mies
+

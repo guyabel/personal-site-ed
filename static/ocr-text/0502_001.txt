@@ -1,0 +1,233 @@
+0 TS en SS SSS SSS
+2 NUCLEAR
+‘nuclear industry
+The nuclear industry has not been a massive user of the industrial
+robot. AEA Technology hope to change that with NEATER,
+developed in cooperation with Staubli Unimation.
+
+"Lec has always been a high | that ‘wall or mast-mounted manipula- providing a skilled operator with the
+degree of emotion associated | tors provide improved volume | means of gaining direct access to an
+with the industrial robot. In the | coverage’, as compared to fixed | industrial robot’s controller, and not
+
+early seventies, when robotics | envelope manipulators. But, the high detracting from its cost effectiveness
+started to be an accepted technology by | cost and reliability of the former have and reliability, would, in Abel’s view,
+industry, the ‘selling’ point was to | prevented their widespread use. On | create a true telerobot. And, that is
+replace people with robots. That some | the other hand, electrically driven | exactly how NEATER (Nuclear
+of these jobs were dirty and dangerous | industrial robots have been around for | Engineered Advanced TEle Robot),
+was often overlooked in the cry that | a long time, are well proven and con- | the first telerobot was devised.
+
+robots were denying people work. More | sequently reliable and relatively cheap. NEATER was the result of a joint
+
+recently robots have become much The requirement, it would appear, is | development between AEA Tech-
+
+more acceptable and have been sold for | an integration of the two technologies | nology, the trading arm of the UK
+more humane reasons, such as increas- | referred to as telerobotics, which Abel AtomicEnergy Authority, with funding
+ing quality or performing precise | defines as a combination of industrial | from the UK Department of Energy.
+repetitive functions which no human | robot technology and the skills of a | The efforts of this project came to
+has ever been able to do. And, | human operator. Telerobotics deals | fruition last December when Anthony
+robots replacing people on boring and | with unstructured environments, such | Staubli, president of Staubli Inter-
+hazardous operations has become much | as those met in nuclear remote handl- | national, handed over the British-built
+more acceptable. ing, whereas industrial robotics is | NEATER robot to John Collier, the
+One of the most hazardous environ- | concerned primarily with structured | UKAEA chairman.
+
+ments conceivable today is the nuclear | environments. This ‘insensitivity’ to the There has clearly been a ‘meeting of
+
+industry and it would seem to be a | unexpected, together with a limited | minds’ in the concept and development
+
+natural for industrial robotics. But, the | work envelope compared to a manipu- | of this unique robot. At the handing
+industrial robot has not found wide | lator, isadisadvantage forthe industrial | over ceremony Staubli explained how
+application in the industry. Much more | robotin nuclear applications. However, | the idea of a nuclear industry robot had
+
+in evidence is the telemanipulator in = i
+
+which tasks are performed under total | | 4 #4 i} H a 3 ae Pee ae eee
+
+human control through master-slave BSS D8 a ese A. Bee te
+
+actuation. Here, the intelligence of the . . ws F ey eae
+human operator is being utilised to Sravey ae oe TAU ELIS 5: i) aoa
+7 . VMIMATIO cs f uarirtarie’ ca .
+
+perform complex manipulative tasks. £Y, S >
+
+However, within these complex tasks ‘ # '
+
+are many mundane ones in which an | | q ae
+
+unintelligent industrial robot would be 7s £ |
+
+quite at home. Coe oe
+
+But there are many disadvantages of iy 71. h
+
+using industrial robots, or ‘fixed Py a 2
+
+envelope manipulators’, to quote Ed .” :
+
+Abel of the Remote Handling and a ’
+
+Robotics group of Harwell! Labora- ne ae
+
+tories, a part of the UKAEA Tech- 2m .
+
+nology. In a presentation to the 1989 —_—_
+
+IEEE Nuclear Science symposium in \ ~~ | :
+
+San Francisco last year* Abel argued eye : » Z
+
+4 Pan? 4 a ? rz
+
+a A v y 4 "i pall i
+
+**Telerobotics and 3-D TV ~ what you need to ® ¥ :
+
+know’, by E Abel - Proc. 1989 IEEE Nuclear
+
+Science Symposium, 25-27 October 1989, San John Collier (right), chairman of UK Atomic Energy Authority, accepts the keys of
+
+Francisco, USA. the first NEATER robot from Anthony Staubli, presidentof. Staubli International.
+
+42 March 1990 The Industrial Robot
+
+a a ee
+Harwell Laboratory and implemented
+by Staubli Unimation at Telford. a_i
+. NEATER is based on the clean room co \
+‘ version of the PUMA 762 robot. a
+4 Harwell re-engineered the device for
+e ; “4 use by the nuclear industry in radio- Th
+y"} active decommissioning work. It is ei :
+° | e designed for easy maintenance and tobe =
+f ‘ , "]| tolerant of a typical radiation environ-
+a ment.
+) ae y There are anumber of areas that have =
+' “7 §| been worked onto endow the robot with
+radiation-tolerant properties. First, it
+L «, has double seals on all axes and the iy
+ees | @i | covers are protected against the ingress
+2 | ofcontamination. Each axisis protected I]
+r oe either by an extra grease filled labyrinth
+: ( il seal or, at the wrist, by a gaiter.
+. “ig % Much care was taken in meeting the
+d maintenance requirements as_ this
+NEA TER has been designed for easy remotely ian e ° 7 Oa fie The base of the nuclear robot can be
+maintenance. design is such that the outer link or split for easy handling.
+forearm can be removed as a complete
+been conceived by Staubli Unimation | unit. Also, the base has been reduced in | internal elements, such as wiring con-
+through the success of the clean room | size and can be split to reduce the total | nectors and bearings. Where necessary
+version ofits PUMA robot. Cleanroom | weight of the individual parts. All bolts| these were replaced by radiation
+robotics has proved to be a successful} and fixing are designed to be easily | tolerant alternatives. As a result it is
+niche market for the robot company. As | tightened or removed using conven-| anticipated that the robot will be able to
+aresult, some two years agoitidentified | tional or remote handling techniques, | tolerate an integrated dose of 10° GY
+the nuclear industry as offering a new | such as master-slave manipulators or | before a major overhaul has to be
+opportunity for the clean room through hands-on maintenance in pres- undertaken.
+PUMAs, particularly in waste manage- | surised suits. The surfaces have a NEATER can operate in a pure
+ment and decommissioning applica-| smooth finish and cracks and crevices | robotic mode using the PUMA’s
+tions. are avoided to minimise contamination | standard VAL controller and software.
+Also, at that time the UKAEA wasa | build-up. It can be programmed through the
+user of standard PUMAs at Harwell, An exercise was also undertaken to | standard teach pendant or from an off-
+Risley and Sellafield. Its experience of | examine the irradiation properties of | line programming system. Or, it can
+industrial robots, particularly at
+Harwell, and its thinking on the = ss
+development of telerobotic devices led au yj
+to it entering into discussions with a mod
+Staubli Unimation. Ed Abel, now a
+business development manager at AEA r
+Technology, comments favourably on }
+the co-operation shown by the robot
+manufacturer in developing NEATER.
+He told The Industrial Robot, ‘When ;
+the project started we examined several ‘
+well-known robots, but went for the ra
+PUMA because Staubli Unimation Se eer | aia -
+were so open with information about 3 = ee)
+the controller, and we needed that data NS j S a
+to be able to interface our teleoperator 0 er G SS 7
+controller to the robot’s. Also, the . Pe ~i'4 P;
+proximity of the Unimation operation Nea =.
+in Telford was a strong factor in further- . a
+ing the work, particularly because of its e = bad
+control expertise’. This expertise comes
+from the fact that the VAL controller
+was developed and built in Telford.
+The nuclear engineering design of
+NEATER was undertaken by AEA’s | Labyrinth seals are used on all of the major joints of NEATER.
+The Industrial Robot March 1990 43
+
+ae
+5, suitable for a spectrum of applications,
+, from the well structured to the totally
+, unstructured and unpredictable. With
+other developments in nuclear remote
+handling, such as radiation tolerant 3-D
+TV, the robot can be used to tackle
+complex tasks requiring teleoperation
+=| | with the confidence that comes from
+_ precise control over position orienta-
+ee iP tion and speed of movement. And,
+\ | “ap ! ms Pi without the penalty of high cost or long
+, | ‘ : development time scales.
+- A e ey Some of the tasks for which the device
+j Yi\ - . fi a ete ~ || is claimed to be suitable include fuel
+; ee fabrication, filter changing, waste drum
+as of 5 eee eta handling, posting and bagging opera-
+ee") | tions, as well as routine manipulation
+and tool deployment.
+“_ Both Staubli Unimation and Harwell
+&> are confident that NEATER has a
+promising commercial future. Market-
+me ing and systems will be the responsibility
+Stainless steel and smooth surfaces are designed to minimise contamination build-up. | of AEA Technology, and specifically
+Ed Abel. He comments, ‘The result (of
+operate as a telerobot in a remote | nuclear power generated in Magnox| the development) has been an
+control mode via television using the | stations is waste management and de- | extremely cost effective alternative to
+Harwell Input Controller. commissioning, and NEATER should | having to develop special purpose
+In the latter mode the operator | allow these to be reduced. It is an] equipment with the boldness that
+controls the robot’s motions using joy| important development that will be | NEATER {is very well placed to capture
+sticks or a simple six degree-of-freedom | welcomed by Nuclear Electric’, world-wide sales’. And, with Staubli
+input device. The Harwell Controller NEATER is not meant to replace | Unimation’s French connections and
+checks the demands from the joy stick | through the wall master-slave manipu- | the high degree of nuclear power
+or input device so that the instructions | lators because of its shape and weight. | generation in that country, there would
+can be passed directly to the VAL II| However, itcanbeusedeitherasarobot | seem to be a natural market for the
+controller without the operator having | or as a telerobot and, therefore, is | robot. Oo
+to worry about the robot stalling or
+tripping out if excessive demands are Wy! | | | I Ke) INN
+made. |
+Abel believes that the advanced | | a | i : 1 suse! \
+nature of the VAL II controller was very | FIRB I Fa Si Stave oa, a
+significant in dealing with this problem. | MMH] ' 23 a ee ad
+He comments, ‘It was relatively easy to | J Ht} } \ Li sn ; ® rh _
+interface to the VAL controller, as, 7 mee mn >" = 4 % f * way
+unlike many robot manufacturers’ Pye. rN ZA i i} 4
+systems, the Unimation controller a | he hi aS k
+drives all six axes virtually simul- ‘ — y B.,. St: eta
+taneously’. 7 a ae - i_-
+The Harwell Controller uses a Be i? : ci wr.
+Research Machines VX-20 computer b+ | 3 o hn
+with an 80386 microprocessor and 80387 ees r Re 4 ie
+co-processor to calculate robot kine- “ie : } 1,
+matics and manage singularities and fH ¥ y¥ , yt ey
+joint constraints. Harwell is constantly ~| F aw a oe “Lh
+developing new software algorithms to | ‘ 4 - eo ii
+allow for easy surface following, stand- = Sh : aes
+off dominant or ranked degrees of | BR & P| , RES Th 4
+freedom — for drilling and cutting — and | Bay eae a ase Pie ee ce eee = Ee
+for trajectory generation and control. | Be" Ct aa ee Pe Oe ae SE ee SG
+The nuclear robot is likely to be used | Bate Stier = Si oe eta erin, Sa Pf at mee
+primarily for decommissioning and | Harwell’s NEATER telerobot team (from left to right); Dr Ed Abel—- NEATER
+waste management application. In | business development manager, John Phillpott — head of Engineering Science
+receiving the robot Collier commented, | division, Dr Chris Watson — head of Remote Handling and Robotics group, and
+‘One of the reasons for the high cost of | Trevor Hanna- NEATER project manager.
+44 March 1990 The Industrial Robot
+
+nn
+a> Mee
+
+Te et
+, aT ee
+ee
+
+7 Ps, cold a : -
+Ee aera ee .
+

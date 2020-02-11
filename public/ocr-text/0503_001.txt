@@ -1,0 +1,395 @@
+FEATURE
+= application. The challenge is therefore | 5
+Nuclear telerobotics and to retain these advantages, while at the
+same time meeting the nuclear require-
+ments. The successful development of
+3-D TV — new tools for the Neater shows that this is indeed possible.
+a Any remote handling system with a
+ind ustry human operator in real-time control, for
+example Neater or the hydraulic
+manipulator, is only effective if the
+The remote handling and robotics group at Harwell Laboratory has, _ operator knows exactly what he is doing.
+over the last five years, developed telerobotic techniques for use in The objective of the radiation tolerant
+the nuclear industry. The approach has been to apply available stereo TV development programme was
+. . . . . . to ensure that the nuclear operator
+equipment, modify available equipment, or design and build anew. feceived, GS Mich Visualeinformmron
+Ed Abel and Christopher Watson describe the developments. about his workplace, as if he were free to
+enter it and see for himself. Studies at
+T he nuclear industry tends to be R&D strategy Harwell have shown that the sense of
+conservative in its approach to depth provided by stereo TV is a vitally
+new remote handling technology. The Harwell R&D strategy in these areas important part of this information,
+This is not surprising, since the penalties has evolved over nearly a decade. Atthe permitting the operator to undertake
+for the in-service failure of such beginning of this period, the emphasis tasks quickly, and in the confidence that
+equipment within anactiveenvironment was on innovation, and it was regarded damage will not result to either the
+can be very high, both as regards the as acceptable to design such equipment manipulator or the workpiece.
+cost of recovery and the risk or doses to from scratch to meet each actual or Although the main focus of the work
+operating staff in the process. anticipated requirement. Given the at Harwell has been on teleoperation — ie
+Consequently nuclear plant designers unusual nature of the requirements and operation of a robot or manipulator
+and operators tend to require full-scale, the relatively primitive capabilities of system with a man constantly in the
+highly realistic inactive demonstrations industrial equipmentavailable then there loop, exercising real-time control — there
+of the reliability of any new technology — was little choice. are often circumstances (especially in
+on offer before they are prepared to The hydraulic manipulatorisasystem such areas as decommissioning and
+incorporate it into active plant, or even which Harwell designed during this waste management) where this constant
+into pre-construction pilot studies. They period. However during the last few operator control is exhausting, and
+do not very often press for the  years,ithasbecomeclearthatinnovation ultimately unreliable. It therefore makes
+development of new technology. in the non-nuclear applicationsofremote sense to move, as we have, towards
+An active handling research group, handling, particularly in industrial semi-autonomous operation — ie to pass
+such as the remote handling and robotics robotics, has progressively outstripped back to the machine those control tasks
+group at Harwell, is therefore obliged to _ that of the nuclear industry. Thus there to which it is best suited, while leaving
+operate at two levels — first to undertake _ has recently been a shift of emphasis at the operator in overall control. This
+generic R&D, aimed at developing Harwell away from radically innovative approach, which has been called
+equipment with new or enhanced design, and towards the adaptation of _ telerobotics, in effect combines the best
+capabilities, and then to customise this industrially available equipment to meet of industrial robotics with all the skills
+equipment to specific applications, and nuclear requirements. of a human operator.
+give convincing demonstrations of its These adaptations are by no means
+effectiveness in those applications. trivial—industrial products typically .
+Described below is new acti handling lack the radiation tolerance and easy The teleoperation interface
+technology which has been developed decontaminability required by the To adapt an industrial robot for
+and demonstrated in this way at nuclear industry, and they are normally  teleoperation, it is necessary to design
+Harwell —in particular three systems: better adapted to routine tasks in a some additional hardware and electron-
+e the nuclear engineered advanced highly structured environment than to _ ics to provide an interface between the
+telerobot (Neater); the unpredictable tasks in disorderly human operator and the industrial
+e the hydraulic manipulator; environments which are liable to arisein robotic controller, which by itself can
+e the radiation-tolerant stereo Tv. nuclear applications. However it is still only effect pre-programmed sequences
+These three developments, although possible to benefit from the two primary of operations. Some industrial control-
+initially undertaken within a generic advantages of industrially-manufactured _lers provide much more assistance than
+R&D programme, have all advanced to equipment — its relatively high reliability others to the designer of the interface.
+the point where specific applications and low cost. After surveying the available industrial
+have been identified, and the correspond- An industrial robot, for example, is controllers, particularly in relation to
+ing inactive demonstrations have been likely to have experienced many the facilities offered for on-line path
+successfully completed. The hydraulic thousands of hours of trouble-free modification, we selected the VAL II
+manipulator is already experiencing operation before it is launched onto the controller from Unimation, and we
+active service; the other two systems will market, and the scale of production is undertook some initial trials with a
+be introduced into highly active such that the unit cost is many times Puma 560 robot, using as the input
+environments within the next few lower than that of a one-off device device (master arm) a smaller, kinemati-
+months. specifically engineered for a given cally similar, serial linkage.
+ATOM 402 APRIL 1990
+a fo
+
+Nuclear telerobotics
+6 These trials confirmed that such a able modification of the electrical and Initial cost estimates for production
+system was viable. However, it was electronic components, the most models of Neater (the nuclear engineered
+relatively easy to trip out the robot vulnerable to radiation damage. robot plus an input controller) suggest
+controller by exceeding joint angle limits The robot had to have a reasonable _ that significant cost savings can be made
+or by trying to drive through arm _ load capacity and reach—say 20 kg at
+singularities. So instead of dependingon 1:5 m—and to have sufficiently protected 2 a ;
+the kinematics of the master arm, a_ working parts to make it decontaminable , —T er
+microprocessor-based kinematic model without excessive redesign. On all these } mids
+grounds, the Staubli Unimation Puma [ay — v4 +i
+ii 762 robot was selected. Its design has Ty - ie } i}
+: been thoroughly assessed, in association ) 4 mah '
+vs with the manufacturer, to ensure that all Dt | “ A o¢
+» | af components are suitable for the most i *
+a fue -| demanding nuclear environments. , haul @
+- an e
+en Improved seals at each joint and a “
+a —— > T 4» wrist gaiter minimise the ingress of 7) ie Rey
+——— SC 7 contamination. Alf 7
+eS ——y. ty 4 The forearm can be easily removed to ! ‘'f Us ~ Ls
+= «=~ 4 improve maintainability and a reduced jy ee. a
+Ze j jum base cuts down the weight of the arm. 4 \ pis «
+; : '. 4% Wiring, connectors, bearings and other oak y >
+Figure 1. The Harwell input controller internal elements have also been 4S u
+examined and radiation tolerant ‘eS ee
+alternatives have been produced where 2
+of the arm was developed. Software necessary. : —~
+within this microprocessor could then The prototype Neater has been ,, : :
+be used to condition demands from any delivered to Harwell (figure 2). In all Se eee
+of a range of possible input devices such respects except one, the prototype is
+as joysticks or forceballs, to ensure that fully nuclear engineered, up to the design compared to special purpose derived
+limits and singularities were avoided. target of an integrated dose of 10°Gy manipulators designed to a similar
+The operator could then drive the robot before a major overhaul is required. The _ specification. In addition, Neater is based
+at full speed, in teleoperation mode, one exception is the set of six optical on a family of industrial robot designs
+without compromising the robot shaft encoders, used to sense the angle which are operating successfully in many
+performance. Since the microprocessor subtended at each joint. Design of different countries.
+could also accept instructions to move (equally) radiation tolerant encoders is
+from teleoperation mode to pre- now well advanced, and these will be : :
+programmed robotic mode, itcould also backfitted to the prototype shortly, The hydraulic manipulator
+act as a telerobotic controller. thus completing the development The Harwell hydraulic master slave
+The latest version of the Harwell programme. manipulator (MSM)? is specially designed
+input controller (figure 1) allows control for through-wall use and can be used to
+of the robot in joint, world or tool directly replace existing MSMs (figure 3).
+co-ordinate systems. The operator selects Figure 2. Neater — the nuclear engineered Mechanically linked MSMs have reached
+the mode of operation of the input advanced telerobot their limitation in reach and load
+controller through a touch screen menu. : capacity, and are not particularly well
+Additional features include speed b suited to the production environments
+scaling, and constrained motion — where ES yo associated with reprocessing and waste
+: specified degrees of freedom can be Os ~~ handling. For those applications, loads
+suppressed or constrained — allowing can be substantial, and failures of
+straight line, planar motion or offset Se conventional MSMs result in a loss of
+planar motion. These latest features give a 7 productivity and potentially high costs
+significant improvements in tasks such " \\ ' 6 in maintenance, spares inventories and
+as scanning complex surfaces and drilling b pa i staff radiation exposures. The majority
+and cutting workpieces. ‘ie \ v of conventional MSMs do not incorporate
+zz load balancing features and operator
+Nuclear engineering an industrial fatigue can be considerable.
+robot The first machine built at Harwell was
+yj | rated at 23kg. Following successful
+In selecting an industrial robot for re 4 trials at Sellafield, in a decontamination
+adaptation to the nuclear environment, cell serving two magnox fuel element
+the primary requirements were the decanning caves‘ a second version of the
+proven reliability of the robot, and the y hydraulic manipulator was designed with
+willingness of the manufacturer to a load capacity of 30 kg at full reach
+engage in a joint development pro- é (4-1 m) and a direct lift capability of
+gramme. This would involve consider- 350 kg. The chosen fluid is water glycol
+APRIL 1990 ATOM 402
+7
+
+Nuclear telerobotics ©
+operating at 210 bar; the manipulator is position alongside an existing work- | 7
+also controlled by a position difference station. A more compact display which
+servocontroller. A force-reflecting can be built into a control desk has also
+master arm is under development* to i been produced. The colour display can
+improve the performance of the , also be used as a 3-D computer graphics
+manipulator, using a combination of , * and simulation display. Techniques for
+control techniques. It will enhance : the cost effective recording of 3-D TV
+dynamic performance and give the Fi pictures have also been developed!.
+operator a sense of contact with the : he Having gained experience in building
+workpiece. A series of tests and , experimental 3-D TV systems, and
+simulations have been carried out to 7. eo | confirming their benefits and ease of use,
+optimise the master joint actuators and a radiation tolerant version has been
+a combination of direct drive, low =I constructed, which is suitable for hot
+transmission ratio and high gear ratio ah _ Vali cells or reactor inspection. It is specified
+drives has been specified. Figure 4. Colour 3-p camera to operate at up to 150°C, it has its own
+lighting and it can be inserted through a
+3 150 mm diameter tube.
+Wy and a radiation tolerant version (to an
+For effective teleoperation, visual integrated dose of 10+ Gy), which are «as . .
+feedback is as, if mat more. important easy to use and can be used comfortably Application-driven trials
+than force or position feedback from a over long periods of time. Initially we All three systems described above were
+manipulator. In particular, 3-D or avoided using zoom lenses (which in initially developed within a generic R&D
+stereoscopic TV enables operators to radiation tolerant-forms are expensive programme — influenced, but not driven,
+assess accurately the remote environ- and bulky) by constructing the camera- by specific applications. In each case, a
+ment, forexample, during inspection, or system using a turret lens change for suitable nuclear application was then
+to interact remotely, accomplishing wide and narrow angle views. The identified, and the system was custom-
+complex tasks involving manipulation display technique is to use two good _ ised to that application, and subjected to
+or tool deployment. Studies began at quality monitors, usually broadcast extensive inactive trials. These trials are
+Harwell in 1980 to verify the known — standard, modified for excellent picture discussed in the following sections.
+potential of 3-D Tv, by analysing the matching, and a combining mirror.
+importance of the various controllable Camera pairs and monitors are optically ‘ as
+parameters which influence 3-D, building matched to ensure that their alignments Telerobotics applications
+the best systems technically possible and _ fall within the guideline values which we Two specific applications of telerobotics
+measuring their performance in have set. have been investigated. The first is the
+comparison to other TV systems®~§. A colour system has been produced, _ use of telerobotics to scan and monitor
+These studies showed that 3-D Tv (figure 4) which uses off-the-shelfcamera radioactive hot spots on a metal surface
+gives the operator a perception of depth, sensors and a special lens mechanism. in a regular manner, and subsequently
+scale, scene texture, and a confidence This mechanism, similar to that of the decontaminate the surface using an
+that a manipulative task can be earlier black and whitecamera, controls electrochemical method. This example
+completed in unfamiliar or cluttered focus and convergence simultaneously, makes use ofa computer based kinematic
+environments. Other benefits are that to maintain coincidence of focal and model of the robot, its serving system
+often tasks can be completed more convergence planes. The display and its target workplace, establishing
+quickly using 3-D TV than with systems (figure 5) is designed to be moved toa compatibility of hardware and the
+based on several 2-D TV arrangements,
+and sometimes new tasks that previously Figure 5. Colour 3-D ali yw van -
+had been impossible can now be display ~~ dls i
+contemplated. Sg |= 22 0 9 8 aes 6
+To engineer a 3-D TV system success- a a Ps
+fully requires attention to both display | 2 = ans A 7
+and cameras. The principle is to arrange . ‘a == 3
+simultaneous display of two pictures E . ; | -
+which are very accurately matched Saree Dee)
+except for the small horizontal disparities oe aS
+which allow the perception of depth. It pe cf Sie)
+is as important to control the camera \a : y Bb ania te f ‘
+parameters as those in the display. The Wa \ ‘iy
+observer can accept scaling of images =
+easily. Attempts to display scenes with ; =e ;
+excessive depth, or ones with vertical ei —
+disparities or inconsistent matching of ae [
+images result in discomfort and =
+reluctance to use a system. ‘ —
+We have built several complete 3-D , iN
+systems, black and white and colour, Se
+ATOM 402 APRIL 1990
+ay —_
+
+Nuclear telerobotics
+8 | task!°. A robot simulation package has Figure 6. a =
+been used to provide off-line pro- Glovebox size oe so name
+grammes to control the robot when it is reduction . =. — an
+not operating under teleoperation. By ee ede
+using the Harwell input controller, Se) peetiih Te
+particular degrees of freedom can be ; j =.
+constrained to provide restricted motion, ee | ; yf.
+for example pure planar or pure linear ae \
+motion. With feedback from position | ‘| !
+sensors, offsets and controlled compliant a ———
+forces can be applied to an arbitrarily- ‘ feos ——-=
+oriented workpiece, which is necessary i. —
+for effective deployment of the de- yes nm kh
+contamination head. if (me — =
+The second application of telerobotics | : =r)
+involves using slightly modified — ; |,
+industrial cutting tools to effect size sl aaa
+reduction of plant items such as
+gloveboxes. The telerobot deploys the
+tool under teleoperation (figure 6) and six degree of freedom input device has laboratory. Initially we undertook
+the glovebox can be reduced by nibbling, been used to control the telerobotintool simple comparisons of performance
+sawing, grinding or drilling. Thistask has or world co-ordinates, as we plan to between high definition and 3-D Tv
+hitherto been carried out by pressurised- extend our work to allow tool and systems; these then gave way to more
+suit workers, and a telerobotic solution interaction forces to be fed back to a complex applications of TV involving
+can show a potential benefit ina longer force reflecting master input device. some form of manipulator task.
+cutting working day, reduced labour In this use it is probably not Comparisons have been made using
+costs and less risk to personnel. cost-effective to automate the operation force reflecting manipulators, a variety
+These tools, attached to the robot bya completely; it is better to leave some of task boxes and sorting tasks where
+compliant tool mounting plate, work functions under operator control. For depth information is important to avoid
+well. Tools with their own reaction forces instance, as we currently envisage the the uncertainty which is liable to arise in
+and torques are preferable, to reduce task, the operator of the telerobot uses unstructured environments.
+wear in the robot transmission. If the glove ports to change tools, replace Trials at Windscale Nuclear Labora-
+task is not close to an operator, acoustic broken blades and maintain end effector tory have compared performance
+feedback can help him to determine the tooling. Figure 7 shows such an __ benefits of 3-D Tv over two orthogonal
+optimum tool feedrate under tele- operation—changing a broken blade. 2-D Tvs, in operations such as remotely
+operation. 3-D Tv has also been used in The telerobot control is interlocked out cropping reinforcing bar using an
+this application, and with the addition before access to the glove ports is industrial robot carrying a hydraulic
+of control software in the Harwellinput possible, and the telerobot and the tool  tool8.
+controller, similar to that used in the just cannot reach the glove port wall. Another experiment, also at Wind-
+decontamination application, tool feeds scale, evaluated the benefit of a colour
+can be constrained to be parallel or . - 3-D TV system in a decommissionin
+normal to the glovebox surface even Evaluation of viewing systems operation which involved handling
+though the telerobot co-ordinate system Many evaluations of viewing systems large steel plates, representing samples
+is not aligned to the workpiece. A single have taken place in the viewing of cut reactor pressure vessel. The plates
+had to be grabbed by a crane and
+Figure 7. located precisely in a rack prior to
+, . Manual blade cementation".
+changing using A visual perception experiment has
+‘ gloveports investigated the effect of flicker rates on
+-. 3 | } visual search tasks for different frame
+“ A rate displays!?. Some guidelines for
+y. ‘ reducing flicker in control rooms have
+\is rt < x been set, and work in this area continues.
+’ ; ie. 5 ig We have identified flicker as a major
+SN , \¢ \ ele ae problem in the acceptability of some
+eI } 2 AG | E eno commercially-available 3-D Tv systems
+a 8 | for long-term use.
+i ‘
+as) : Lessons learned
+} loam . pl Telerobotics using industrial robots has
+<a , required the development of a special
+a microprocessor-based input controller.
+The benefit is that the attributes of the
+APRIL 1990 ATOM 402
+~&y-
+
+Nuclear telerobotics
+robot controller and the robot perform- Although 3-D Tv does not in every case analyses of task and subtask completion | 9
+ance are not degraded by teleoperation. show significant benefitin the time fora times. In particular, indicators of
+The input controller can work with a simple operation, it is of quantifiable operator fatigue, and strategies for task
+variety of input devices, allows a benefitin many typical remote handling completion can be identified by analysis
+selection of control modes such as tool tasks which require complex decision- of the experimental video record.
+alignment, predeterminate degrees of making processes, relating to an
+freedom, tool offset or compliance, operator’s perception of unfamiliar or Caution
+scaled tip speed and can act as a_ ill-ordered scenes.
+conditioning unit for sensor information If the task requires ballistic motions The understandable caution of the
+used to actively control the telerobot ofahigh quality manipulator in cluttered nuclear industry in accepting new remote
+trajectory. Six-degree-of-freedom hand or restricted workspaces, the 3-D Tv handling technology makes it necessary
+controllers are available which can be shows a significant improvement in to undertake generic R&D to develop
+used to control the robot at low cost, performance of the task compared to such new technology, and then to follow
+and are simple to operate. single 2-D TV or combinations of up these developments with inactive
+Re-engineering arobotforthenuclear cameras. 3-D TV is not as critically trials of the new systems, customised to
+environment is not a trivial task. dependent on position or deployment specific practical applications. This
+However, by careful analysis of the throughout a task and is not so badly approach has been followed for three
+materials and construction, radiation affected by lighting variations. new systems-a nuclear engineered
+tolerance can be built into a design For any task that requiresjudgements robot, a hydraulic manipulator, and a
+which differs only slightly from industrial to be made about surface texture (eg stereo TV system. In each case the trials
+production machines. To accomplish during inspection) or about the haveshown that these new tools are now
+re-engineering requires a good working interactions of a manipulator, 3-D TV ready for exploitation by the nuclear
+relationship with the robot manu-_ shows tangible and significant benefits industry. fl
+facturer, to ensure a thorough under- compared to other Tv techniques. In our
+standing of the initial design principles _ view, the budget allocated to TV systems
+and the manufacturing. eehnitihes in a remote handling system should at Acknowledgements
+involved. least be on par with that allocated to the The work described in this paper is
+For the hydraulic manipulator trials manipulator system itself. We also funded by the Department of Energy’s
+at Sellafield have confirmed the believe that assessments of TV systems active handling programme. The authors
+soundness of the basic design of the which include observation of the acknowledge the contribution made by
+prototype machine. In the early months operator, give a better insight into — staffin the remote handling and robotics
+we experienced a number of minor performance than do the classical group to this work.
+failures; their remedy has led to the
+development of an improved machine.
+The new machine has a stronger wrist, a References ? C. w Smuty and a afin 3-D Ne
+y a iremen elevision nal o
+greater load capacity, and can : be 1) E. Abel, M. H. Brown, P. J, Fischer, D. R. the Royal Television Society, Vol. 25, Januaty/
+installed from the cold face witha gaiter | Garlick & T. T. Hanna, The Harwell robotics February 1988 pp.9-15.
+already fitted. It will fit into a 254mm _ | programme —telerobotics plus industrial 8) A. A. Dumbreck, E. Abel, J. Holt, PR M.
+MSM port, and has extended reach. As it standards, Proceedings of ANS topical meetingon — Scheiwiller and V. M. Reading, Three dimensional
+stands, the basic manipulator has two remote systems & robotics in hostile environ- television system for remote handling, Proceedings
+Plenieinel Gperior imal imechanisms ments, Pasco, WA, 27 March to 2 April 1987, of BNES conference on remote techniques for
+. : P a P pp. 263-9. inspection and refurbishment of nuclear plant,
+—a kinematically similar master arm or 2) E. Abel, Robotics devices for future nuclear Stratford-upon-Avon, December 1988,
+a simple box containing potentiometers plant? The cec working party meeting Hot pp 109-114.
+for position demands. However a force nee handling, Cadarache, 26 to 9) em eee ne ereand Of ee
+1 - une 5 sioning nuciear Jacuuies, echnical repor
+be arm is now under 3) G. Vv. Cole, A hydraulically powered series no. 267, Vienna, 1986. 7
+ae manipulator for the nuclear industry, Proceedings 10) E. Abel, M. H. Brown, P. J. Fischer, D. R.
+The trials highlighted the need for of the 7th international fluid power symposium, Garlick, T. T. Hanna and K. V. Siva, Nuclear
+post-repair pre-installation tests, and Bath, 16 to 18 September 1986, BHRA, pp. 231-6. _ robotics research at UKAEA’s Harwell laboratory,
+training courses for maintenance and 4) G_ V. Cole, K. Kershaw and C. Daly, Proceedings of ANS third topical meeting on
+operational staff. A shrink-fit sheath on Operating experience of a hydraulic master slave _ robotics and remote systems, Charleston, March
+. manipulator in a nuclear facility, Proceedings of 13-16, 1989.
+the original arm has been shown to be ANS third topical meeting on roboticsandremote 11) A.A. Dumbreck, E. Abel, J. Holt, P M.
+effective in reducing contamination traps systems, Charleston, 13 to 16 March 1989. Scheiwiller and V. M. Reading, A 3-p television
+and results in acceptable levels for aa ae Shee B. Pe ene ow wystern ie ga pone oceneae!
+. . . Mposnl ¢
+oe magn nance following simple aad cried heme eS conteeL BSA! Tuly 1988, Ergonomics Society,
+swabbing. The jaw assemblies have Proceedings of ANs third topical meeting on IFS, pp. 197-207.
+been decontaminated using a caustic robotics and remote systems, Charleston, 13 to 12) P M. Scheiwiller, V. M. Reading, A. A.
+bath, and a jaw change station has 16 March 1989. Dumbreck and E. Abel, The effects of display
+been constructed to permit the 6) A. A. Dumbreck, C. W. Smith and S.P flicker rates on task performance, ibid.,
+automatic replacement of damaged end Murphy, The development and evaluation of a pp. 249-260.
+stereoscopic television system for use in nuclear 13) PM. Scheiwiller, A. A. Dumbreck and A.
+effectors. environments, Proceedings of ANS topical meeting D. Chapman, Video recording 3-p pictures,
+The manufacture of 3-D TV displays on remote systems and robotics in hostile presented to the SPiIE/SPSE symposium on
+and cameras has confirmed that the environments, Pasco, wA, 27 March to 2 April electronic imaging, Santa Clara, CA, USA,
+demanding design performance can be Aah Fetruatyel 720:
+achieved by careful attention to detail.
+ATOM 402 APRIL 1990
+—_— 5-
+
+&
+o
+af 2g Ps a , Pv . r y r y , [ie f | we -
+—
+From the seed of the idea, through to
+fruition, from design to build, there's only
+one name you need to know for remote ;
+handling technology in the nuclear industry }
+SAC Hitec knows your problems inside : a
+out. Bringing together the most respected F |
+consultancy and construction resource in j
+advanced engineering technology with a _
+proven pedigree in the use of robotics for -
+inspection, repair, maintenance and f
+decommissioning ; \
+For the complete answer, whatever the
+size of the project, trust SAC Hitec to get
+right to the core
+NET COMO rom Colo rely a F
+/ —
+/ , ' 7 i
+‘oC : :
+ie ll eT oe
+clad a a
+5 selephonast
+ww ui Vial c
+a rT a ,
+: ae
+ti ;
+—* f
+rie
+* od an
+eo = ™ A oP 4 : ’ '
+OS LIAN %. es
+ss 4 dad / —
+—— S FIT. — ~ .
+=F id TS i . C-— ~
+ss —_ FJ (ly = a wo
+ET “—r a. =~ - RB A?
+ee a oa. = - a At Sas
+, . A op" \ ee . We . \S .
+7 a VAR Xx
+\ a“ A. ‘ ~~ ‘
+\ \, PE TERNS ‘
+ae \ KAA
+\ \ \ SSO \
+a 7 ‘% \ *
+" ‘ a” & \ ~ SAA ™~
+

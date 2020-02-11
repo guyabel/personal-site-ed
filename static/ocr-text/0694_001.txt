@@ -1,0 +1,424 @@
+4. Nuclear robotics and remote handling at Harwell Laboratory
+E. ABEL, M. H. BROWN, P. J. FISCHER, D. R. GARLICK, T. T. HANNA and K. V. SIVA, UKAEA, Harwell
+Laboratory
+After reviewing robotics technology and its possible application in nuclear remote handling systems
+of the future, six main research topics were identified where particular effort should be made.
+The Harwell Nuclear Robotics Programme is currently establishing sets of demonstration hardware
+which will allow generic research to be carried out on telerobotics, systems integration, the man
+machine interface, communications, servo systems and radiation tolerance. The objectives of the
+demonstrators are to allow validation of the techniques required for successful active facility
+applications such as decommissioning, decontamination, refurbishment, maintenance and repair, and
+to act as training aids to encourage plant designers and operators to adopt developments in new
+technology.
+INTRODUCTION SOME CONCLUSIONS FROM HISTORY
+
+1. Conventional active handling activities 4, Observations made on the development of
+rely on manipulation based on master slave nuclear remote handling over the years (ref.4)
+manipulators, power manipulators, cranes and indicate that the full potential of major
+hoists. As plant has become larger and more innovation is often never realized because the
+complex, and demands increase for manipulative solutions proposed are too expensive, do not
+tasks to include maintenance, inspection, address actual requirements, nor can be
+refurbishment and ultimately decommissioning, adequately demonstrated under realistic
+new solutions have to be found that complement conditions in mock-ups and active plant. In
+existing hardware and will be accepted by plant particular, the development of electrically
+designers and operators. linked foree reflecting servomanipulators is
+
+2. The Engineering Sciences Division at only just beginning to result in machines being
+UKAEA's Harwell Laboratory carries out research designed into operational facilities. The
+into active handling with an emphasis’ on usually long gestation period of active handling
+developing solutions for future plant (ref.1). systems can be out of step with similar non-
+Within this framework, the Harwell Nuclear nuclear developments, and progress with the
+Robotics Programme specifically studies the balance-of-plant design. The reasons are often
+technologies associated with robotics’ and that the equipment is special purpose, has some
+advanced teleoperation and aims to identify novel features and requires a significant time
+gaps in non-nuclear research which could be for testing, performance evaluation,
+critical in adopting effective solutions in qualification and commissioning. By the time it
+nuclear applications. The Programme is is ready for deployment, operational objectives
+complemented by work carried out under other may well have changed, along with those users
+parts of UKAEA's Active Handling Programme, originally responsible for agreeing the
+such as research into advanced viewing systems, functional specification.
+including stereoscopic television (ref.2) and 5. Project-driven development can avoid many
+manipulation (ref.3). of these pitfalls, because of the close
+
+3. Having reviewed the trend of non-nuclear relationship between designer and = eventual
+development in robotics technology areas the operator. Generic research is more likely to
+Nuclear Robotics Programme has focussed suffer because objectives are not necessarily
+attention onto six main research topics. These allied to specific plant problems. The
+topics are telerobotics, systems integration, philosophy of the Nuclear Robotics Programme is
+the man machine interface, communications, to base development and research on non-nuclear
+servosystems and radiation tolerance. These industry standards wherever possible, and to
+topics are being studied on an individual basis devote resources to making systems suitable for
+but also form important components of several the special requirements of the radiation
+demonstration projects. The purpose of this environment. In this way, the Programme can
+paper is to summarize the reasons behind the have immediate access to a much greater research
+choice of the research topics, to describe the effort, and specialize in technologies
+capabilities of the demonstrator projects, and unavailable elsewhere. The gestation period of
+to show how they can be used to help improve new remote handling techniques should be much
+the efficiency and versatility of remote shorter, and eventual products will be easier to
+techniques for inspection and refurbishment of procure because they match conventional
+nuclear plant. industrial practice.
+Remote techniques for inspection and refurbishment of nuclear plant. BNES, London, 1988. 19
+
+MANIPULATORS AND ROBOTIC SYSTEMS
+Telerobotics
+8. Ref .4 highlighted the potential for
+robotic applications in nuclear plant. A
+anaes standard industrial robot would not be well
+Computer information suited to nuclear environments. An analysis of
+systems transfer a robot which was being considered for reactor
+decommissioning showed many subsystems’ that
+would suffer radiation degradation in operation.
+Radiation tests confirmed the analysis and no
+Power . straightforward re-engineering could mitigate
+transfer te against the radiation effects. The robot in
+Teleoperation question was also needed to operate with a
+studies man-in-the-loop, which was a variation which
+could not be easily accommodated by the control
+Materials Radiation system. In general, robots can be used for
+tolerance active handling, provided care is taken in
+matching their capabilities to the task, and
+P provided integrated doses are well below 10?Gy.
+resent : .
+(i 9. Our developments in telerobotics centre
+on adding the features needed to make robots
+tolerant to the environment and easy to use. A
+cornerstone of the research is to retain as many
+of the robot design principles as possible so
+that the experience gained from _ production
+Fig. 1 Technology Areas in the Nuclear Robotics techniques and a large installed base of
+Programme machines working in varied applications is not
+lost. The addition of an ability to control a
+RESEARCH TOPICS robot's motion in real time, through the use of
+
+6. The original nine technology areas (see an input device is essential, and we have
+Fig. 1) analysed in the early part of the developed a series of suitable devices which
+Programme have been consolidated to six. As have been demonstrated on robots ranging from
+mentioned in paragraph 2, advanced television- 2kg-20kg capacity. In its simplest mode, the
+based viewing systems, essential features of robot can be controlled in either tool or world
+nuclear robotics applications, are researched coordinate systems and a joint by joint control
+in a complementary programme. The six topics is also possible. The devices interface easily
+are: with the standard robot controller, and are
+
+based on an IBM PC-AT; the input signals are
+
+@ telerobotics automatically checked to ensure that servo
+
+@® systems integration errors do not arise from exceeding joint angle
+
+® man-machine interface limits or demanding too fast a response. The
+
+@ communications PC-AT contains a kinematic model of the robot
+
+® servosystems (in addition to that residing in the robot
+
+e radiation tolerance. controller) to perform these checks. The input
+
+device can be used to teach the robot if
+Each of these topics require developments and teleoperation is not required. This approach’
+techniques that cannot be assumed to be readily can be faster and more natural than the
+available in other industry applications. conventional technique of using the teach
+Often the difference is emphasized by a systems pendant. A joystick input device has been
+configuration driven by radiation tolerance or supplied to Windscale Laboratory to allow
+contamination control criteria. simulation of WAGR decommissioning processes.
+
+7. The research topics are essentially non 10. If a robot can be successfully operated
+specific in terms of active handling as a teleoperator, which our studies suggest is
+applications. The aim is that understanding a valid hypothesis, then the factors which would
+resulting from the research will be useful to make it suitable for a nuclear application have
+any potential application throughout the fuel great variety. For example, applications may
+cycle; because of the difficulty known to exist dictate that effective contamination control is
+in gaining acceptance for new technology, the more important than radiation tolerance or that
+topics will be investigated in conjunction with decontaminatability is more important than speed
+sets of demonstration hardware, which can also of operation. Clearly, to address the needs of
+be used to encourage plant designers and applications ranging from fuel fabrication and
+operators to adopt the developments in new glovebox decommissioning to PIE and hot cell
+technolgy. The demonstrators are: operations will require a corresponding number
+
+of discrete solutions. Even so, a set of key
+
+e the Robotics Demonstration Facility functional requirements for the nuclear industry
+
+@ a teleoperated robot for decontamination have been identified as:
+
+and decommissioning
+
+@ a remotely controlled hydraulic independ- @ Very high reliability [MTBF of in-cell
+
+ent slave arm serviced components >5000 hours ]
+20
+
+PAPER 4: ABEL, BROWN, FISCHER, GARLICK, HANNA AND SIVA
+e ease of servicing [MTTR of in-cell serviced a
+components <1 hour] _ i
+@e long service intervals [>1000 hours for ,
+in-cell components J
+@ use of industrial components 7
+@ contamination control ” Y ;
+® ease of decontamination . * ~
+@ radiation tolerance [>10"Gy for in-cell 7 x ‘
+components ] ot
+@ industrially supported servicing 4 — oa 7h ;
+@ teleoperator and robotic operating modes. — a a
+More general requirements for specific * .
+applications might be
+n
+@ load capacity [at least the same as a . {
+human's, ie 10kg]
+@ reach .
+e ease of use/dexterity pa . —— w
+@ ability to communicate with other plant. a - “= = s
+Each of these functional requirements are being
+examined in relation to a specific series of
+industrial robots to establish the modifications
+needed to produce a prototype nuclear-engineered Fig. 2. A Hand Controller based on the
+industrial robot that can also operate as a Stewart Platform
+telemanipulator.
+unilateral operation of a slave arm, but are not
+System Integration easily configured to produce force reflection.
+11. In some cases the different demonstration Work has begun on developing a general purpose
+hardware will have similar components such as hand controller (ref.5) which is based on the
+software or subsystems. These potentially parallel kinematics of the Stewart platform.
+strong interactions which may lead to duplicate The mechanism design is compact and easy to
+solutions are guarded against by application of service and maintain. It has the potential to
+a policy of system integration. Guidelines have be a cheap and versatile input device for
+been defined for the hardware and software teleoperation, and in its basic form can be used
+requirements of controllers and their inter- as a compound joystick (Fig.2).
+faces. Quality Plans and documentation 13. A workstation design can accommodate
+standards have been issued which are common to several different input devices, master arms and
+all developments. The standard control hardware television display monitors (including stereo-
+is the IBM PC AT; it has been selected because scopic displays). A touch sensitive screen is
+of its good price/performance index. It is also used to select modes of operation and a task box
+able to act as host to high speed array designed to present typical manipulative tasks
+processors or arrays of transputers for to human operators will feature in human factors
+computationally intensive tasks that have to be and visual perception studies in the Robotics
+executed in short sample periods. By writing Demonstration Facility.
+software modules with sufficient generality to
+satisfy a large number of applications, software Communications
+costs can be considerably reduced. The greatly 14. As in-cell equipment becomes more
+increased exercising of each software module complex, the communication load increases,
+helps to improve software reliability. Multicored cables for cranes and gantry mounted
+Integration of the system just for the Robotics manipulators are already meeting their limits in
+Demonstration Facility requires joining five IBM terms of reliability, ease of procurement, cost
+PC ATs, all operating as real-time controllers, and maintainability. Existing cell structures
+with each PC running under the real-time are usually optimized to reduce unused space,
+Operating system MTOS. A design methodology is and access to gantries can be difficult, which
+used for the software analysis and design phases poses special problems when considering
+of the software life cycle. refurbishing present plant. Outside the active
+area, however, communications can follow
+Man-Machine Interface non-nuclear practice by using standard
+12. As well as the joystick control mentioned communication hardware and protocols. It is
+in paragraph 9, other input devices are being important to ensure that the communication
+examined for their suitability. The use of system is transparent to individual controllers.
+single hand controllers such as the DFVLR and The use of a broadband cable in the Programme
+CAE force balls appears to be beneficial, but allows a common communications strategy to be
+initial trials suggest that cross coupling used throughout. Point to point modems link
+effects between controlled axes ean give rise to equipment, and multiple video, audio and full
+unexpected motions, Both devices allow duplex digital data can be transferred around
+21
+
+MANIPULATORS AND ROBOTIC SYSTEMS
+Translator’ Backbone cable IBM PC-AT a —
+remodulator MODEMS/ SS a
+
+Puma = MAP I/F = =
+amy C= es ZZ
+A\ Amp - —
+
+| 3d VALI Splitter
+iy controller () :
+
+—— Z o Voice .
+S : :
+= Splitter Joystick Y h
+() Trackball /, | | mee a
+7 fs 7 a
+r (]Forceball | £ ae Vy =
+|_| Tap o Universal | ay f De of aoe 1 A
+MODEMS/ ke force + position aie ~* eo Pia
+MAP I/F ® controller ant pn = _- « oa | > a.
+| a a ae
+. 1 "DD -
+Fig. 3 Use of the Broadband Cable for <5 -
+Communications : Ps *e., ei
+~~ a
+the system. The robot input devices and their Ya Yh ;
+PC-based controller are linked to the robot a . =D
+controller via the broadband cable (Fig.3) which “@ r Wf A
+can be used to support MAP associated Enhanced 7 ——
+Performance Architecture hardware for real-time Fig. 4. Retrofitted Cross Travel Motor.
+control if required.
+
+15. Currently, camera systems for radiation controlled motion and positioning of the long
+environments tend to use twisted pair signal and cross travel has been possible by using a
+transmission. A study has looked at’ the digital motion controller. Creep speeds of a
+techniques for radio frequency communications, few millimetres per second and bumpless revers~
+and in particular has examined alternatives such ability has been shown. The hoist motor will
+as bus bars, non-radiating and radiating leaky soon be replaced with an AC servo motor which is
+feeders and pseudo free-space transmission with rated to maintain the crane rated load of 5
+non~directional or directional antennas. Some tonnes in suspension without application of
+of the candidate options will be tried and mechanical brakes. Active compensation of hook
+evaluated on the Robotics Demonstration heave motion and hook swing is planned. The
+Facility. dynamics of the hook motor have been simulated
+
+and its performance and precision of simulation
+Servo Systems will be confirmed through experiments with the
+
+16. The overall objective of servo system motor mounted on a test stand.
+development is to assess and demonstrate the 18. Several experimental manipulator powered
+servo control techniques that are most suited to joints have been produced with different torque
+the wide range of motion control tasks that are ratings and gear ratios. The principle of an
+encountered in teleoperation and crane electronically backdriveable high gear ratio
+transmissions. Emphasis is placed on_ the powered joint has been demonstrated for a
+application of present and emerging standards, prototype bilateral servomanipulator test rig,
+and ineludes modelling, simulation and and special purpose motors have been designed
+optimizing the control system, drive components and built for the evaluation of force reflection
+and servos. Digital control techniques are now through direct drive master arm joints.
+coming into widespread use, but their perform-
+ance depends on the quality of measurement of Radiation Tolerance
+position, velocity and acceleration. Robust 19. Radiation effects on system performance
+sensors are needed that are compatible with the ean be difficult to quantify. Shielding
+active environment, and system solutions are calculations. in general do not consider the
+being evaluated on test beds to establish the migration of contamination within cells, and
+validity of simulations, and to build up data on data on activity distribution within shielded
+which control strategies can be based. enclosures is limited. Across the range of
+
+17. Smooth crane control has been demonstrated active handling facilities overall beta/gamma
+on a refurbished 1952 5 tonne crane. The long activity may vary by eight orders of magnitude.
+and cross travel motors were removed, and re- As more reprocessed fuel enters the fuel cycle,
+placed with brushless AC servo motors (Fig.4). handling equipment in gloveboxes will also need
+Position measurement of long and cross travel to be assessed for radiation tolerance as well
+was achieved by using two infra red electronic as the more conventional criteria of
+distance measurement systems which were located contamination control. Within the Programme,
+at ground level and whose beam paths were radiation tolerance studies include subsystem
+directed by mirrors and _ retroreflective and component testing and redesign to suit a
+elements. Despite the age of the crane and its level of radiation tolerance. The testing and
+original transmission elements, repeatable literature reviews form part of a data bank on
+22
+
+PAPER 4: ABEL, BROWN, FISCHER, GARLICK, HANNA AND SIVA
+radiation damage mechanisms, device performance ion using industrial robotics and a variety of
+and degradation mechanisms (ref.6). An early input devices, and an arrangement for the
+design of a radiation tolerant [10’Gy] camera examination of system level strategies such as
+with a split head has recently been upgraded to cooperation, collision avoidance, cell
+include a remote scan drive circuit and Management and sensor data fusion.
+presently available tubes.
+
+20. The redesign of a series of industrial A Nuclear Engineered Teleoperated Robot
+robots (paragraph 10) for radiation environments 22. Decontamination and decommissioning are
+requires a complete examination of subsystems just two of many different applications which
+and components. The analysis indicates that the would benefit from the introduction of a nuclear
+major constraints on redesign are in obtaining a engineered robot design. Bearing in mind the
+consistent accountable source of components and Programme developments in telerobotics
+materials which can be built into the nuclear (paragraphs 9-10), application studies have
+robot with some guarantee for success. examined in detail the way in which a prototype
+Radiation testing has shown that devices with device could be effectively deployed, and the
+the same electrical characteristics and type engineering implications for plant operations.
+number, but sourced from different The prototype robot will be used to confirm the
+manufacturers, can have a tremendous difference predictions made by simulation of the task and
+in the onset of degradation. Almost certainly, to assist task definitions. One recent example
+device selection will be based on a statistical of an -application study concerned the
+technique associated with batch testing. | decontamination of . the insides of | stainless
+? "wt : steel boxes’ used as refurbishable containments
+. THE DEMONSTRATORS for chemistry experiments. The stainless steel
+: boxes are removed from their shielding and moved
+The Robotics Demonstration Facility to a shielded refurbishment bay. Hot spot
+21. This facility consists of a demonstration monitoring and selective electrochemical
+area with a control room at each end. An decontamination could reduce background levels
+inverted PUMA 560 robot is suspended from an X-Y to allow man entry for refitting, and a
+gantry system, which can move the PUMA at speeds simulation was performed using GRASP, a robot
+of up to 0.5ms7~’ in the 6x3x2m working volume. kinematic and solid modeller. The simulation
+In the working volume of the gantry is a floor modelled a PUMA robot with special tooling which
+mounted PUMA 760 robot (Fig.5). Above the was introduced into the box through a rear door;
+gantry is a computer controlled 5 tonne crane additional degrees of freedom were needed to
+(paragraph 17) with a positioning accuracy of transport the robot into the box (Fig.6). The
+Imm. Mono and stereo camera systems are linked simulation showed that the initial choice of
+through a broadband cable system to one of the robot size posed difficulties in trying to
+control rooms where a workstation has_ been perform sequential decontaminations because some
+designed to accommodate a selection of cctv required motions exceeded joint limits. A
+monitors and man machine interfaces. A revised simulation selected another size of
+hierarchical control system is distributed over robot which was then seen to perform adequately
+the broadband network with a top level control throughout the box volume. Similar studies and
+computer which issues system level instructions practical trials are presently underway
+to lower level subsystems controllers. The investigating the use of the prototype robot for
+facility provides the communications test decommissioning.
+infrastructure, the hardware for realistic
+demons trations of the 7, of teleoperat Ss
+act SS ae
+2S ee SS
+. ——-« = OSE
+Qe — aot = : ae Moe
+= . Seiiteneed Diane - , - ° YH
+—y Ll 7 aah = ee |
+| i | ‘el °
+: ; Per, 3 See
+j tly rs } a cal pen
+: as ' | | en'd
+: - . | aT | Sy
+es Ps x z
+ees — eS
+Fig. 5. The Robotics Demonstration Facility Fig. 6. GRASP Simulation
+23
+
+MANIPULATORS AND ROBOTIC SYSTEMS
+for manipulation in the nuclear industry of the
+. future, With the use of simulation to predict
+Fm ~ behaviour of systems, and demonstration hardware
+an to validate simulation and on which to base
+. specific experimentation, designers will be able
+pe u iz to become familiar with the new techniques that
+(pea 51 Co . are arising from outside the nuclear industry,
+ae a , f | \ in automation, communications, robotics and
+oN control. Work so far has concentrated on
+\ I ; | improving the man-machine interface for
+Cie \ 4 | : é | industrial robots so that they operate
+4 —= LS efficiently as  teleoperators. Application
+& mei <a studies into decontamination and decommissioning
+ut have established the suitability of the
+"i f igen approach. Future work into remote workstation
+| Pha design, systems integration and implementation
+[ ss a, will establish the ground rules for effective
+" G Pee systems configurations based on truely remote
+a
+| J~ handling.
+Ni 4y fr 474 Kf REFERENCES
+ES -' \ 1. SANDERS B.C., ABEL E., BROWN M.H., COLE
+Wg . Ji \ , ake G.V., and WHITE L.J. An Overview of the United
+| Le dl “43 \e Kingdom Atomic Energy Authority's Active
+Tee . Handling and Robotics Programme. Proceedings of
+\ 5 \U the American Nuclear Society 1987 International
+ot 2 Topical Meeting on Remote Systems and Robotics
+ayy — in Hostile Environments, Pasco, 27 March-2 April
+i 1987, pp. 14-21.
+2. DUMBRECK A.A., ABEL E., HOLT J., SCHEIWILLER
+Fig. 7. The Remote Independent Slave Arm P.M., and READING V.M. A 3-D Television System
+for Remote Handling. Proceedings of the British
+The Remote Independent Slave Arm Nuclear Energy Society Conference on Remote
+23. The Remote Independent Slave Arm [RISA] Techniques for Inspection and Refurbishment of
+is a continued development of the Harwell Nuclear Plant, Stratford, 28 November-1 December
+hydraulic manipulator, with force feedback. 1988, :
+Local and remote [over 400m distant] work-
+stations will allow control of the slave arm 3. COLE G.V. A Hydraulically Powered
+using a single broadband cable communications Manipulator for the Nuclear Industry.
+network. Feedback of stereo vision, force and Proceedings of the 7th International Fluid Power
+other kinaesthetic cues will be frequency- Symposium, Bath, 16-18 September 1986, BHRA, pp.
+division multiplexed over the cable. RISA will 231-6. .
+consist of a hydraulically powered slave with
+electrical and hydraulic connectors that can be 4, ABEL E. Robotic Devices for Future Nuclear
+automatically connected as the arm is lowered Plant? 24th Plenary Meeting of the CEC Working
+onto its mounting plate attached to a cell wall. Party "Hot Laboratories and Remote Handling",
+(Fig.7). The concept allows plant flexibility Cadarache, 26-28 June 1985.
+in that the manipulator can be placed exactly
+where it is needed rather than in some permanent 5. SIVA K.V., DUMBRECK A.A., FISCHER P.J., ABEL
+position. The use of an electric master arm E. A General Purpose Hand Controller for
+means that force feedback control is possible, Advanced Teleoperation. Proceedings of the
+and one master can be used to service several International Symposium on Teleoperation and
+slaves, in sequence, if required. This Control, Bristol, 12-15 July 1988, The
+demonstrator will allow an evaluation to be made Ergonomics Society.
+of realistic remote handling, communications
+techniques and workstation design. 6. GARLICK D.R. The Selection of Radiation
+Tolerant Electrical/Electronic Components for
+CONCLUSIONS Gamma Radiation Environments in the Nuclear
+24, The Nuclear Robotics Programme is Power Industry. Harwell Laboratory Report No.
+developing some of the generic techniques needed AERE R10715, September 1984.
+24
+

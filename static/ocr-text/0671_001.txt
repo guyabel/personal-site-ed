@@ -1,0 +1,369 @@
+MAGIEV VEHICLE OSCILLATIONS AND DAMPING MECHANISMS
+R.G. Rhodes, B.E. Mulhall, E. Abel.
+Paper presented at the Conference on
+CONTROL ASPECTS OF NEW FORMS OF GUIDED LAND TRANSPORT,
+LONDON, 28 - 30 August 1974,
+and published in I.E.E. Conference Publication No.117, pp 214-220.
+* Ok OK Ok Ok OK
+Sunt
+For high speed ground transport, magnetic levitation, using
+repulsion between moving high field (superconducting) magnets and an
+electrically conducting guideway may be considered. ‘The same magnets
+may be the field windings of a linear synchronous motor for propulsion.
+The nature of the magnetic and other forces acting on the vehicle
+are discussed. For acceptable ride characteristics additional damping
+is needed, probably provided by an active control system.
+The Wolfson sponsored project to build a demonstration maglev
+vehicle at the University of Warwick is described.
+ty
+
+MAGLEV VEHICLE OSCILLATIONS AND DAMPING MECHANISMS
+
+R. G. Rhodes, B. E. Mulhall, E. Abel*
+
+introduction
+
+The possibility of overcoming wheel friction, wear and vibration by
+contactless suspensions for high speed vehicles is being investigated
+
+at a number of centres throughout the world. Both the air cushion or
+hovercraft principle and levitation by magnetic forces are being actively :
+developed for future ground transport systems. Of the several magnetic
+suspensions proposed, utilizing either attraction or repulsion between
+magnetic poles, the one involving the repulsion force generated between
+Superconducting magnets mounted on the vehicle and an electrically-
+conducting aluminium guideway is being examined at the University of
+Warwick supported by the Wolfson Foundation.
+
+This method of levitation, generally referred to as 'maglev', has the
+desirable feature of being inherently stable in contrast to the alternative
+'attraction' system which requires a control loop for its stability.
+Magnetic Levitation
+
+The basic principles of the maglev system are fairly simple and reasonably
+well understood and the applications to vehicle suspension and guidances
+have been exhaustively studied and described by a number of authors.!?2?3?4
+In brief, the relative movement of the d.c. vehicle magnets induces eddy
+currents to flow in the surface layers of a conducting sheet (or loop)
+guideway. These transient currents circulate in such a direction to
+produce repulsive lift forces. The force increases rapidly with speed
+and in the high speed limit it is equal to the 'image' magnet force, i.e.
+an imaginary magnet replacing the conducting sheet, carrying an equal and
+opposite current to the real magnet and situated the same distance below
+the guideway as the vehicle magnet is above it. In practice the lift
+force approaches its upper limit at a vehicle speed which depends on the
+magnet coil dimensions (the length to width ratio of rectangular coils)
+and the thickness of the aluminium guideway, but is typically a few tens
+of km/hr. However, the eddy currents flowing in an aluminium guideway of
+finite conductivity dissipate a certain amount of power in the forn of
+Joule losses which appear as a drag force on the vehicle magnets. ‘This
+drag force passes through a peak value at low speeds of a few km/hr and
+then decreases continuously with speed approximately as 1/v?.
+
+To achieve the levitation forces that would be consistent with levitation
+heights of 200 - 300 mm which are considered desirable for high speed
+ground systems, very large currents are needed in the vehicle magnets.
+These can only be provided economically by the use of superconductors and
+the superconducting magnet, having virtually zero resistance, consumes no
+power in operation other than the small amount necessary to keep it a low
+temperature (4.2K). With a vehicle-track clearance of this magnitude the
+ride quality should be relatively independent of the surface smoothness
+and irregularities in the guideway.
+
+* Department of Engineering, University of Warwick
+
+*
+
+The propulsion of a levitated vehicle by methods similar to aircraft would
+be quite unacceptable at ground level for obvious environmental reasons.
+Linear electric’ mtors would appear to offer the best solution, therefore,
+and both the induction and the synchronous types are being considered for
+this purpose. However, partly because of its weight, and partly on account
+of the stringent requirement for a small gap (approximately 1 em) between
+the stator winding on the vehicle and the reaction rail on the track of
+the induction motor propulsion this type would probably not be compatible
+with the large-gap of the maglev suspension. The linear synchronous motor,
+on the other hand, can still operate at reasonably efficiency with air
+gaps if several centimeters and with the very high d.c. fields provided
+by the superconducting coils on the vehicle, it is natural to consider
+propulsion by this type of motor, the armature winding being laid out along
+the track. With this arrangement of powered track a variable frequency
+supply is necessary for acceleration and deceleration of the vehicle. To
+provide for this an alternative system, being investigated at Warwick, is
+to switch the track winding in a manner analogous to the commutator in a
+d.c. machine; the switch, however, would be remotely operated by solid
+state SCR devices and a three-phase power supply would be used.
+The Wolfson Project
+With a grant from the Wolfson Foundation a small team has recently beer:
+set up to both demonstrate the feasibility and to test the performance of
+a magnetically levitated vehicle model with the object of high-lighting
+those engineering problems to which a full-scale revenue vehicle may be
+subjected.
+A straight and level track of approximately 600 m in length and 1 meter in
+width, allowing test speeds up to 250 km/hr, will be constructed on tne
+University campus. A vehicle 3 m by 1 m and weighing 500 kg is being
+designed with accommodation for two passengers. For levitation and
+guidance the vehicle will carry two or more superconducting coils
+approximately 0.8 m square with a field of 7 x 10* A-turns, providing 4
+net vehicle-track clearance of about 100 mm.
+Some of the major elements of hardware, in particular the concrete track
+structures and aluminium guideway, terminal facilities, and vehicle body,
+cryostat and superconducting coils, are being designed.
+The design is such as to permit maximum flexibility in the configuration
+of the levitation, guidance and propulsion elements, since parallel
+theoretical and laboratory studies of these are still ina pre lirinary
+stage. A major part of the design study, and testing of the vehicle,
+will be devoted to the dynamic behaviour with a view to determining how
+far the natural characteristics of the levitation will need modifying,
+either by passive or by active control. At this stage it is already
+possible to state the problem in broad terms and identify particular
+areas.
+Vehicle Constraints
+The steady, or slowly-varying forces on the vehicle are its weight, aero-
+dynamic drag (including the sideways component due to crosswinds), magnetic
+lift, guidance and drag forces from the guideway, and electromagnetic '
+thrust (and in general also vertical and sideways forces) from the propul-
+sion system. Although there is inherent stability in the vertical direct-
+jon it is not obvious a priori that the same is true of other modes e.g. ,
+roll, or indeed that sustained oscillations cannot develop from the
+
+linear motor propulsion. It is already known that the magnetic forces are
+
+associated with very little damping, and hence even in a stable mode any
+
+disturbance may be expected to produce oscillations only decaying over
+
+many cycles.
+
+The object, nevertheless, is to provide a ride of sufficient smoothness to
+
+be not only acceptable from the point of view of passenger comfort, but
+
+also to be better than present day ground transport systems, and ideally
+
+even better than modern aircraft can provide. The question of acceptable
+
+standards is considered extensively elsewhere 5; our purpose is to
+investigate what is required of the system design to meet them. The main
+
+sources of disturbance will include :
+
+a) aerodynamic, from wind gusts, passing vehicles, nearby structures and
+
+the like.
+
+b) aerodynamic oscillatory forces arising from vortex shedding in a steady
+wind flow over nearby structures or over the vehicle itself 6,
+
+c) track roughness and undulations
+
+d) the periodic structure of the track windings, where these are used for
+levitation in place of a continuous sheet or where certain types of Linear
+motor, such as the linear cormutator motor, are used, giving rise to
+oscillatory disturbances.
+
+e) acceleration and deceleration, or centrifugal forces.
+
+Because of the large gap and consequent relatively low compliance of the
+magnetic forces the motion is on the one hand less sensitive to traci
+roughness, and on the other more sensitive to other disturbances, than
+the much stiffer suspensions of traditional transport systems.
+
+Magnetic Forces
+
+The magnetic forces are best understood, in the sense that they are
+completely prescribed by the system design. Moreover, given a fairly
+simple system the lift and guidance forces can easily be computed in tne
+nigh speed limit (they are just the forces between the vehicle magnet and
+its images). In more complicated geometries the high speed limit forces
+can be deduced from inductance measurements on scale models, provided that
+the measuring frequency is high enough for the 'skin effect! in the model
+to be well developed.
+
+Three different guideway patterns are being seriously considered, as
+sketched in Figs. 1. In Fig. l(a) lift and guidance are produced by tne
+horizontal and vertical surfaces respectively, and in general mocions
+along the two axes are decoupled. However, the presence of the vertical
+members is expensive of track material, is physically restricting (thougn
+this may be advantageous in case the magnetic system should fail), and
+has increased drag on account of the extra image magnets created.
+Somewhat less restrictive physically, and with the ability to shed deoris,
+is a V or inverted V track. A variant of the V is the semicircular tracé
+of Kolm and Thornton +, which is claimed to allow the vehicle to roll to
+the correct angle of bank on bends. Unfortunately it may be shown !?*
+that the coupling of roll and sway gives rise to instability in most
+practical situations (suspension from an overhead track is an exception).
+Means to overcome this, for example, by providing additional perpendicular
+surfaces (Reitz 5 et al) or by a magnetic 'keel' (Thornton 4), have been
+proposed.
+
+hi
+
+4
+From the point of view of track costs, visual acceptability, ease of
+switching, freedom from the accumulation of debris, and compatability
+with other vehicles, the scheme of Fig. (e) is interesting. The lift is
+reduced relative to scheme (a), thus requiring perhaps 50% more super~
+conductor, but this is more than offset by the savings in aluminium.
+Typical lift and guidance behaviour is sketched in Fig. 2; this does not
+however show the couples generated in roll, and the conditions for vehicle
+stability have not as yet been deduced.
+Other Forces
+A considerable amount of data is available on aerodynamic forces on venicles,
+some of which is summarised by Reitz et al ’. The most significant point
+is that, for typical revenue vehicles, the magnetic forces dominate. “le
+same authors also present an extensive discussion of the characterisation
+of guideway roughness,
+Analysis of Motion
+Given quantitative data on the forces discussed in the preceding section,
+
+analysis of the motion of a magnetically levitated vehicle is in principle
+
+relatively straight forward. Indeed, since aerodynamic forces in general
+appear to be small, it should be possible to derive the response (transfer
+function) of the vehicle from a knowledge of the magnetic forces alone;
+the disturbing forces are then an input to which we wish to make the
+system insensitive.
+Difficulties arise because the equations in fact are highly non-linear,
+and because all possible modes of motion may be present equally and will
+in general be more or less strongly coupled. ‘Thus, although analyses of
+vehicle behaviour have been published ®, they are restricted in that the
+equations are linearised (and hence are only appropriate to small oscilla-
+tions about equilibrium), and some degree of decoupling has been assuned .
+so that only two or three modes are considered simultaneously. To 4
+large extent the linear approximation is of interest, since the limt of
+validity appears to be of the same order (vibration amplitudes of a few
+millimetres) as the limit of acceptable ride quality. Nevertheless, it
+will also be necessary to demonstrate that motions of the largest amplitude
+that could arise infact represent a safe situation.
+How far the assumptions of decoupling are valid is not a present clear.
+It has already been demonstrated that with the most economical guideways
+there is strong coupling between modes.
+A similar situation arises where a linear electric machine is used for
+propulsion, since as well as thrust there will be vertical forces, and
+also lateral forces if the vehicle winding is displaced laterally relative
+to the track winding; moreover these forces are similar in magnitude to
+those produced by the magnetic levitation schemes described. The natural
+conclusion is that in the interest of efficiency and econory the levitation
+and propulsion should be designed to aid, rather than oppose each other.
+Unfortunately we have not, at the time of writing, sufficient results to
+show dynamic stability.
+Methods of Control
+The work of the Stanford ® and Ford ° groups has shown that the natural
+damping of magnetically levitated systems is insufficient for vassenger
+comfort. Damping can be added by means of short-circuited coils situated
+
+2)
+between the levitation magnets and the track, though for best performance
+these should be cooled, to reduce their electrical resistivity (typically
+to 80 ~ 100°K). With this passive damping, however, it is difficult to
+damp out the fundamental vehicle frequency of approximately lHz, fixed
+essentially by the large suspension height. Reitz et al ° propose a
+secondary suspension, but suggest it would be difficult to produce satis-
+factorily as its own natural frequency should be 0.4 Hz or less.
+
+The general conclusion is that for acceptable ride quality, some form of
+active control is required. The problems of active control centre on the
+choice of output device for the control system and three possibilities have
+been considered:
+
+(1) the levitation coils themselves
+
+(2) auxiliary coils, which may replace the passive damping coils
+
+(4) aerofoil surfaces
+
+Tne last method has been discussed, for control of vertical oscillations
+
+by Reitz et al 7, who found that the simple flaps considered were too
+
+large in area to be readily acceptable. ‘Thus, although this work is not
+definitive, the prospects for this type of control are not good.
+
+Both the Ford and Stanford groups have discussed electrical contrcl systems,
+and find that the control power needed for typical guideway roughness is
+rather modest. However, figures are not quoted for smoothing out the
+effects of strong wind gusts; since the force produced by a 100 kph gust
+
+2s likely to be several times that of guideway undulations of 10 mm or so,
+the total control power required might be increased by an order of.
+magnitude. Under these circumstances it will be preferable to use
+auxiliary control coils rather than the levitation coils themselves, for
+two main reasons :
+
+(1) the power losses in the superconductor, when subject to the control
+current fluctuations, would prove unacceptably large.
+
+(2) by placing the control coil nearer the track than the main coil (it
+would typically be on one of the cryostat vessels forming the thermal
+insulation for the superconducting coil) less reactive power would be
+needed.
+
+The design of such a system is included in the Wolfson Project.
+
+Conclusion
+
+The problems of designing a magnetically levitated vehicle to afford good
+riding qualities have been outlined. It is concluded that a satisfactory
+system will incorporate auxiliary coils in the cryostat, probably as part
+of an active control system.
+
+The Wolfson project at the University of Warwick, directed specifically to
+prodee a demonstration and test vehicle has been described. A vehicle is
+being designed, and calculations and model tests to establish the stability
+of the guideway illustrated in Fig. le are being undertaken. Propulsion
+of the model by a linear synchronous or commutator motor is being considered;
+initial theoretical and model studies of the motor are in hand, to be
+followed by an analysis of its effect on the vehicle's dynamic behaviour.
+
+6
+
+REFERENCES
+
+l. R. G. Rhodes, A.R. Eastham, ‘Magnetic Suspension of High Speed Trains'
+Final SRC Report, October 1972.
+
+2. J. R. Reitz, R. H. Borcherts, L.C. Davis, T.K. Hunt, D.F. Wilkie,
+‘Preliminary Design Studies of Magnetic Suspensions'!, Report
+FRA-RT-73-27 (PB 221696 of U.S. Nat.Tech.Inf. Service).
+
+5. H.T. Coffey, F. Chilton, L.O. Hoppie, ‘Feasibility of Magnetically
+levitating Vehicles', Report FRA-RT-72-39.
+
+4, R.D. Thornton Proc. IEEE 61, 5, 586
+
+5. Ref. 2 Chapter 6 ;
+
+6. T.V. Lawson, University of Bristol Dept. of Aeronautical Engineering,
+private conmunication,
+
+7. Ref. 2 Chapter 5
+
+8, Ref. 2 Chapter 4
+
+force lift
+guidance
+lateral ;
+displacement -
+Fig 2. Typical Force Characteristic for guideway
+
+fj %
+; section
+an —
+Z y aluminium (b)
+y AW y guideway
+le sszrranea ig aade a LIL
+Less Cera Ne o's woe Re ok
+section of Bay oP
+a oele
+(9) levitation RY VE
+coil
+. (c)
+. 4
+X, $s
+zzz
+(e)
+(d)
+Fig I. Various Guidway Configurations
+9
+

@@ -1,0 +1,750 @@
+Proc. int. Symposium Teleoperation and Control, 277-290
+July 1988, © IFS Ltd and authors, ISBN 1-85423-009-3
+Development of a general purpose hand controller for advanced
+teleoperation
+K V Siva, AA Dumbreck, P J Fischer and E Abel
+Harwell Laboratory, UK
+
+ABSTRACT
+A development project has been initiated at Harwell Laboratory to
+investigate the feasibility and ramifications of a general purpose
+hand controller for bilateral control of standard 6-axis manipulators
+and robots. By general purpose, it is meant that the input command
+device shall be capable of co-ordinating and controlling the remote
+manipulator's joints as the operator desires. Forces and torques may
+
+. also be reflected on the three positional and three orientational
+axes of the hand controller giving the operator a kinesthetic sense
+of the task he is manipulating remotely. Since the kinematics and
+dynamics are dissimilar between the hand controller and _ the
+manipulator, the implementation of the unilateral and bilateral
+control system requires a computer to deal with these disparities.
+This paper reviews the state of the art of general purpose hand
+controllers and examines the use of parallel link and hybrid
+serial-parallel link structures for use in the development of an
+efficient bilateral hand controller, as part of the on-going Nuclear
+Robotics Programme at Harwell.
+
+277
+
+1. Introduction
+
+The increased need for remote manipulation in hazardous environments -
+Nuclear, Undersea, Outerspace etc, has been widely recognized. Complex and
+unplanned tasks are difficult to perform with programmable or robotic remote
+manipulators. Human judgement, skill and sensory interaction are often
+needed to perform these tasks successfully and safely. The sensory
+information to the operator during remote manipulation includes vision,
+hearing and kinesthetic sensations. Additional information on the remote
+task environment (such as temperature, humidity etc) is also beneficial in
+these operations. A mechanical input device such as a joystick or a master
+arm is normally used to control the movements of the remote manipulator.
+Force reflection is added to the input device to enhance the remote
+manipulative performance. The state of the art of advanced general purpose
+hand controllers is not well developed. Perhaps an evidence for this is the
+number of different input devices used today to control robots and
+manipulators. The comparative merits are not yet established. This paper
+describes the features of a compact 6-axis input device based on parallel
+linkages for single-handed operation of a remote manipulator, currently
+under development at Harwell Laboratory.
+Even though the emphasis made in this paper is the use of a general purpose
+hand controller in the control of a general 6-axis "shoulder-elbow-wrist "
+type of manipulator, it has potential for uses in a large variety of
+manipulations. The basic requirements for such a device are examined from
+the viewpoint of general manipulations and efficient operator interactions.
+These basic requirements for a good general purpose hand controller are
+believed to be:
+(i) The controller must have six degrees-of-freedom so that the
+
+6-axis slave manipulator can be commanded by displacements in
+
+the controller to move the slave to any point in its workspace
+
+and be orientated at any desired attitude angle.
+(ii) The control input device must be easily backdriveable so that
+
+the fatigue levels of the operator can be kept to a minimum.
+(iii) The operator must be capable of generating input commands of
+
+more than one axis simultaneously with minimum or no
+
+unintended movements on other axes using one hand only.
+
+‘ (iv) It must be possible to indicate the external forces/torques
+
+being applied at the slave manipulator, during manipulation,
+
+to the operator using force/torque feedback to the hand
+
+controller.
+
+(v) A suitable base in the hand controller for the operator to
+
+rest his wrist so that fine motions can be generated when
+
+needed in performing a remote task.
+An example of a control input device embodying most of these basic
+requirements is the bilateral or force-reflecting master-slave manipulator.
+The disadvantages of this device are its large operational volume, thus
+increasing fatigue and lessening safety, and its high cost. It is mainly
+under these circumstances, that a general purpose efficient hand controller
+becomes attractive.
+
+278
+
+2. Review of General Purpose Hand Controllers
+The range of general purpose hand controllers can be classified into two
+broad categories:
+(i) Geometrically dissimilar master arm
+(ii) Cartesian co-ordinate command input device
+A geometrically dissimilar compact master arm was developed by JPL Tele-
+operator Laboratory (1),(2),(3) and is called a Universal Force Reflecting
+Hand Controller. Fig 1 shows the kinematic arrangement of this device. It
+has been mechanically and electrically counterbalanced and provides force
+reflection.
+There are several types of cartesian input devices developed for the control
+of a 6-axisS manipulator in the cartesian frame. Fig 2 shows the X-Y-Z
+motion generation by the controller developed at MIT's Man-Machine System
+Laboratory (4). A special purpose joystick handle with micro switches is
+used to command the other axes of motion. An experimental 3-D joystick
+developed by CEGB's Marchwood Engineering Laboratory (5) also uses the pure
+X-Y-Z form of kinematics. Fig 3 shows a hand controller with X-Y-Z
+translational motions and usual pitch/roll motions developed by Harwell
+Laboratory specifically for the control of a micro manipulator called Elite.
+The hand controller under development by the University of Florida is shown
+in Fig 4 (6), and is called a Universal Floating-Hand Controller. The
+device does not provide force reflection at present (7).
+The 6-axis control input device developed by CAE Electronics Ltd, Canada
+(8) provides + 0.5ins (13mm) for the X-Y-Z motions and + 15 degrees for the
+rotary ¢-B-%& command inputs. An ordinary 3-axis joystick is used for
+the rotary motions. The X-Y motions are generated using a parallelogram.
+linkage arrangement and the Z-movement by a normal translational action.
+All the axis of movements are sprung to return to the neutral position and
+no other external force feedback is provided.
+The input devices described above require some displacement to generate
+either position or rate command(s). However, it is also possible to
+generate cartesian frame based input commands without any displacements
+using a fixed force/torque ball, Fig 5. It would not be possible to use
+bilateral control to provide force reflection using these devices. A
+number of controllers are commercially available based on Force/Torque Ball
+Joysticks (9),(10),(11). Sometimes two 3-axis joysticks are used to
+generate X-Y-Z motions and wrist orientations but they limit the use of
+single-handed operation (12),(13), Fig 6.
+It must be pointed out that there is no hand controller which could even
+approximately match the dexterity and manipulative capabilities of the human
+hand. Two critical performance parameters, the task performance time and
+the number of errors made during the performance of the task can provide a
+good index for the effectiveness of a hand controller. This could be
+compared against the performance when the task is carried out directly by a
+human operator.
+279
+
+3. The Principle of Single-Handed Operation
+
+Amongst the possible methods and devices for controlling a remote
+manipulator, identical master-slave control system with force reflection
+nearly approaches the direct operations by an operator. However, it limits
+the human capabilities - necessitates the use of the other hand to control
+interaction of axes, increases operator fatigue and imposes safety problems
+under bilateral control. It will also be difficult to control other
+functions in the system such as remote viewing when both hands are needed
+for the control of manipulation. Sometimes, two manipulator arms are used
+to perform a task. For example, one arm holding an object while the other
+is used to do some work on it, or use of both arms to move an object in a
+desired path or trajectory. Therefore, what is needed in these instances,
+is a single hand controller to control the movements of an operator. The
+input device must ideally permit an operator to direct each of the two arms
+to grasp an object at chosen locations, simultaneously if necessary and then
+to perform a desired operation such as moving it from one place to another
+along a designated path.
+Computer control can be used to adopt strategies that will minimise operator
+fatigue and maximise the system performance. In the bilateral control mode,
+forces due to the dead weight of the slave manipulator, can be cancelled out
+and force-feedback actuation can be turned off when the maniputator is
+stationary. Different control modes such as position control, rate control,
+force contro] and bilateral control can be selected at will to accomplish a
+task. To make the best use of human judgement, all possible information on
+task ‘environment and the task itself must be communicated to the operator
+for interpretation or perception.
+It will be useful to have a larger displacement range in the hand controller
+as practicably as possible to enhance the operator's accuracy. Since there
+is disparity between the motion ranges in a compact hand controller and a
+slave manipulator, it is necessary to incorporate different control modes.
+The motion ranges could be scaled to match each other under position
+control. Alternatively, rate control can be used for the gross motions in
+the workspace and 1:1 fine incremental motions between the hand controller
+and the slave unit near the task zone. Should the hand controller reach one
+or more of its displacement travel limits, it could be allowed to return to
+the neutral position under computer control without causing any movements in
+the slave, (similar to the positioning of the cursor in a display screen
+using a mouse). Almost all researchers now agree that an efficient hand
+controller must be capable of providing force feedback to the operator.
+Kinesthetic sensations can be regarded as essential in certain kinds of
+remote manipulation because most actions depend upon the perception of the
+manipulative forces. In addition to the enhancement of operator's
+commanding accuracy, larger motion ranges in the hand controller are also
+essential to allow the force feedback actuators sufficient displacement for
+better functioning.
+The important principles need to be embodied in the design of a general
+purpose hand controller for single handed operations can therefore be
+summarised as follows:
+
+(a) Compact kinematics or geometry
+
+(b) Sufficient displacement ranges
+
+(c) Easy backdriveability and minimum cross coupling between motions
+
+(d) Kinematics solvability for computer-aided control
+
+(e) Mechanism rigidity for achieving increased servo stiffness in
+
+the force feedback servos.
+280
+
+The need for the solution of the direct kinematics problem can be easily
+understood when the parallel link mechanism is used as an input device,
+Fig 7. The inverse kinematic problem and the Jacobian matrix of the
+mechanism are needed when adding force reflecting characteristics to this
+input device, Fig 8.
+It is also being considered whether a hybrid form of the mechanism, using
+part of the parallel link topology for the X-Y-Z motions and the
+conventional serial link arrangement for the wrist “%-P-¥- motions (as
+used in the earlier Harwell's hand controller for the Elite manipulator)
+could also be a good compromise between computational complexity and
+mechanical simplicity.
+
+4. Description of the New Hand Controller
+A new hand controller based on parallel linkage topology is under develop-
+ment at Harwell Laboratory, Fig 9. Some research has already been carried
+out on the use of parallel links for stiff robotic structures after
+Stewart and McGough (14) who used this arrangement for the first time
+to generate aircraft flight simulations and tyre testing machine motions
+respectively. There are research machines based on this mechanism at the
+Marconi Research Centre (UK), University of Florida (USA), Oregan State
+University (USA), Massachusetts Institute of Technology (USA) and the
+National Research Institute for Information and Automation (INRIA - France).
+A commercial robot marketed by GEC, called "GADFLY" for the assembly of
+components in the electronics industry uses part of this topology (15).
+Three parallel links are used for the positioning and a serially linked
+conventional 3-axis wrist used for orientations. The mechanical arrangement
+using parallel compliant links has also been used to provide passive
+compliance in the end-effector for performing robotic assembly tasks (16).
+An experimental application has been reported where the robot performs an
+assembly task on a six degrees-of-freedom workstation based on parallel link
+mechanism (17). Some 6-axis force/torque sensors are also constructed
+around this parallel link structure (18).
+The parallel mechanism is more rigid and more accurate than a serial
+mechanism but the disadvantages are more joints and smaller working volume.
+The joints in the parallel manipulator are passive and only the linear
+travels are active under computer control.
+There are several forms of this 6-axis parallel mechanism being studied for
+various applications. Many authors have published material on the kinematic
+analysis of these mechanisms for use as a robotic device (19),(20),(21),(22)
+which indicates recent increased interest in this mechanism. As a robotic
+device, the kinematic problem is, as usual, "What are the values of joint
+(leg lengths) variables for a given position and orientation of the gripper
+in space?" However, as an input device or a hand controller, it is
+necessary to determine the cartesian position and orientation for a given
+configuration or leg lengths of the parallel link platform. Even though the
+values of the joint variables (ball joints, universal joints) are not needed
+in the control or use of it as an input device, the range of these joint
+variables is needed, for instance, during the design of the mechanism.
+E F Fichter et al has described a method for determining these values (23).
+
+281
+
+The displacement equations given in the Appendix show that the inverse
+kinematic problem of finding the leg lengths for a given end-effector
+position is readily solvable, but the direct kinematics problem is a rather
+difficult task since it involves the solution of a set of highly non-linear
+Simultaneous equations. The situation is, therefore, exactly the opposite
+of the case of the kinematics of a serial link or open chain manipulator.
+The hand controller is based on the conventional design of a parallel link
+manipulator. There is a Hooke or Universal joint at the base end and a
+large angle (25° - 40°) ball and socket joint at the platform end of the
+link. A backdriveable linear slide is interposed between these joints for
+the telescopic action of the links. This will be replaced by a
+backdriveable linear actuator (eg rack and pinion) when force feedback is to
+be added to the hand controller.
+5. Conclusions
+
+A feasibility study of a platform type of input device for remote
+manipulations has been carried out using mock-up models and elementary
+theoretical analysis. Findings until now show that a careful assessment is
+needed to determine a choice between a fully parallel link mechanism and a
+hybrid serial-parallel mechanism for use as a general purpose hand
+controller structure. It is believed that teleoperations can be efficiently
+performed using this type of compact displacement type of input device. It
+has features such as structural rigidity, a base for resting operator's
+wrist/hand and small but safe operational volume for bilateral control.
+The input device presented in this paper will form one of the type of input
+devices available at Harwell in the future to make an assessment of
+Man-Machine Interface for motions between human operator and a remote
+manipulator or a robot. The types of input devices planned for this
+experimental assessment programme include the following:
+
+(a) Scaled replica master arm (with and without force reflection)
+
+(b) Two 3-axis joysticks (resolved cartesian rate control)
+
+(c) Single fixed displacement 6-axis force/torque joystick
+
+| (d) Single displaceable 6-axis joystick (with and without force
+reflection)
+The material presented in this paper will be experimentally evaluated,
+clarified and expanded in the future.
+282
+
+a
+if
+| bax PE CH 7
+CAS HER) fl) RX "| A
+Hs [TT WIZ
+SF rif Ye
+— J
+Fig.1. JPL’s Universal Hand Controller
+Fig.2. MIT’s Hand Controller
+[oe ne |
+L (Re |
+| }
+AoW
+A,
+aan SM ALL |
+Ban
+a
+Fig.3. Harwell’s Elite Manipulator Hand Controller Fig.4. UOF’s Hand Controller
+4) f= F)
+Ks) Y A) 5)
+E “1 GL
+I> \ Y
+— WH \
+(( | —4 |
+~~ IAS
+Fig.5 Force/Torque Ball Joystick Fig.6 Use of Two 3-Axis Joysticks
+JPL - Jet Propulsion Laboratory, University of California, USA
+MIT - Massachusets Institute of Technology, USA
+UOF — University of Florida, USA
+283
+
+3
+o 9
+3 6
+ck
+g S
+3 4 7
+3
+3 >
+3 | / , Ee:
+t :
+7 ee ay A
+2 ano NO | j-
+Zz \ /
+ec Pe \
+= Sox — \ | oft
+: 4 7 Vd
+a . s i
+3 on ;
+2 -*
+a a
+2 \ \
+f , Ys
+= ° \
+S N ‘ 5
+a] os
+a \ 46 35
+@ SO Ea
+3 uv e3 esas
+2 6 Ea ES On
+o “ee 25 rz 5
+cS » |g wie ee
+oo
+c= /\
+oo oF
+OE :
+< i
+| NON
+
+wil = u”
+
+9 rol ce aH 5 oy A
+ZeEylseEege = “ue L
+Boseeasseé 6 uk 3
+
+| 5 5
+om
+> 2 gu oe S
+7 en
+aféass a ER :
+gee Ss -x = r
+SEaG ST < os 2 nw
+egesere lo S x
+Ess © 01g € o | s
+al oo os o
+5 | 8 < 828 S
+2l €| sy 8 g5sves :
+2 2 NO” &. g3 5“_", 9 é
+Q a = N <j x fa}
+E|/ oc) SIN= ro za 3 2
+| S| c| Sle] |ga 23 2] £
+Oll ‘>~s x 3 aD = 2
+oS ” a] x 2 a4 Ea vos <
+= ® oO a 4 g S 7
+ei c=] « ag ce g
+§|| 3 25 555 :
+ol] Oo I | © Los 5
+2 3S
+3e228 il 3
+e —~as gSs9 s 2 €
+= we «
+Q | 35 355 gx8 :
+3 n S55 @
+2a | 2-2 :
+(_ | . ®
+aS i tc
+o
+I | g ;
+2 | 5 g .
+c of 5
+22 S732, —————=
+38 OE o8 8
+Oo. xm o 9
+te ue S
+ao ° fen
+I Si 2
+= = > S
+; A a
+f—7 | ©
+* {_A, \si as
+5 ~— =
+= yi Po
+3 ~.
+= ~S
+5 \ aos
+7 Paget b; °
+3 N eee RE iS
+© eS Ts
+r OS.
+_—_™
+‘i a |
+284
+
+Ze
+a 2
+> =
+=
+< zs
+=
+[e}
+ao
+~
+a
+>
+2
+. me Oo °
+°o
+7 .
+2 a 4 i
+g a
+f C) a
+~~ < m :
+c a
+§ “v
+x
+3
+2 ° Lo
+= Noe ——_ ---—---- —_—-
+s erescees =i
+D
+5
+3 c
+& 7 one o
+2 Blo 3
+s o||5 S
+5 a|/o Ec
+S el} 8
+2 ge e
+| |FE z
+a
+i =
+2 Sl ¢ | =
+of ~§ <
+cs 53 3
+oe 732 2
+E fat 7
+oO
+ao
+®o
+a
+2 =
+6 Da
+eS 8 *@ a
+mw i 5
+ge 8 * 5
+=
+_ 5 Di Be)
++ 7
+Ss
+Ss ft. 2
+| — : G
+| oO
+i on
+= =
+| = 3
+$3 se ° @ é
+oes a) |/3 &
+ES £ PRORIO =
+ra OS oc —~ os: < E
+3 Pope, CRIS =
+5 § 7 ID -><1.5 c 5
+E oto eee oe eee ons eee +. 9 =
+E K = 7
+oO ><! €
+3 °
+5 x! =
+z oO
+Oo oe —— 3 |
+2
+seoses | =
+a 2 | —
+g8iqee 5
+oes S x < |
+£°aA cS 3
+§°ass S
+Ww
+F :
+iz 5 a)
+=
+~¢
+°o
+a 7 >
+l °o
+> cz ><
+as ye
+—
+5 ih
+2 :
+= | > aN
+ec < e
+8 N) weer eh gi Pr
+Ay |”
+Oo qe Ps
+e <—
+x= a
+
+z
+Cc oy
+1A
+a (----x Handle
+all.
+Ball Joint ag E79) ys Force Sensors
+i Sate
+Ta BE \ Ke Six Back-driveable
+an a — 4+ Linear Actuators
+om ] A \ | Potentiometer
+niversal Joint L Ng of Motor
+Py Gh
+e ~<
+—,
+= bs
+Stewart Platform Configuration
+(as a 6 Degrees of Freedom Joystick)
+Fig.9 Hand Controlier Based on Parallel Link Mechanism
+7 ; S ,
+; 4 - v :
+. ie oe i
+: a bs
+pan,
+a 2 ‘
+. ) " ae,
+of wi
+Fig.10 Mock-up of the 6-Axis Paraliel Link Joystick
+286
+
+References
+
+1. "Kinesthetic Coupling between Operator and Remote Manipulator", by
+A K Bejczy et al, Proc ASME Computer Technology Conference,
+
+San Francisco, August 1980.
+
+>. "Joint Co-ordination for Manipulator Tracking", by T Turner, Proc
+20th IEEE Conference on Decision and Control, San Diego, December 1981.
+
+3. "Dynamic Stabilization Methods for Bilateral Control of Remote
+Manipulation", by M Handlykken, Proc of ISMM Symposium, San Francisco,
+May 1981.
+
+4. “Human and Computer Control of Undersea Teleoperators", by T B Sheridan
+etal, Mil Man-Machine System Laboratory Report, July 1978.
+
+5. "CEGB Work on In-Reactor Maintenance Techniques", by S B Hosegood,
+
+Proc of the 29th Conference on Remote Systems Technology, 1981.
+
+6. "Computer Augented Manual Control of Remote Manipulators", by R E Shultz
+et al, Proc of IEEE Conference on Decision and Control, San Diego,
+January 1979.
+
+7. “An Interactive Animated Display of Man-Controlled and Autonomous
+Robots", by C D Crane et al, Proc of the 1986 ASME Computers in
+Engineering Conference, Chicago, July 1986.
+
+8. "CAE - 6 Axis Controller", Product Catalogue, CAE Electronics Ltd,
+Quebec, Canada.
+
+9. "Direct Digital Robot Control using a Force= Tordve Sensor", by
+G Hirzinger, IFAC Real Time Digital Control App ications, Mexico, 1983.
+
+10. "Remote Manipulator Control with Six Degrees-of-Freedom Force-Torque
+Joystick”, Product Catalogue, JR3 Inc, Woodland, California, USA.
+
+11. “Force-Torque Spacestick", Product Catalogue, Basys Systemsoftware mbH,
+Nurnberg, West Germany.
+
+12. "The CEGB Advanced Robotics System Developments for In-Reactor
+Inspections and Repair", by D W Perratt, Proc of the Int Workshop on
+Nuclear Robotic Technologies, University of Lancaster, July 1987.
+
+13. “Two 3-Axis Joysticks for the Control of the Control of PUMA Robots",
+Private Communication with P J Fischer, Harwell Laboratory, Oxford, UK.
+
+14. “A Platform with Six Degrees of Freedom", by D Stewart, Proc Inst Mech
+Engrs, Vol 180, No 15, London, 1965.
+
+15. "GEC Advanced Device for Assembly", by S L Potton, Manufacturing
+Systems, Vol 13, No 2.
+
+16. “A Compliant Device for Inserting a Peg in a Hole”, by H McCallion
+et al, The Industrial Robot, June 1979.
+
+5
+if
+287
+
+17. "On Machine Perception of the Relative Position of Two Objects using
+Bilateral Tactile Sensing Systems", by H McCallion et al, Proc Inst Mech
+Engrs, Vol 1988, No 10, 1984.
+
+18. "Cross-coordinate Control of Robotic Mani ulators", by J R Jones, Proc
+of the Int Workshop on Nuclear Robotic Technologies and Applications,
+University of Lancaster, July 1987.
+
+19. "Feasibility Study of a Platform Type of Robotic Manipulator from a
+Kinematic Viewpoint", by DC H Yang et al, Trans ASME J Mechanisms,
+Transmissions and Automation in Design, Vol 106, 1984,
+
+. 20. "Parallel peetpulators - Part I, Theory, Design, Kinematics, Dynamics
+and Control", by Jean Pierre Merlet, Researc Report No 646, INRIA,
+France, March 1987.
+
+21. "Instantaneous Kinematics of Fully Parallel Devices", by M G Mohamed
+et al, Proc of the 6th World Congress on Theory of Machines and
+Mechanisms, New Delhi, India, 1983.
+
+22. "Determining the Motions of Joints on a Parallel Connection
+Manipulator", by E F Fichter et al, Proc of the 6th World Congress on
+Theory of Machines and Mechanisms, New Delhi, India, 1983.
+
+23. "A Stewart Platform Based Manipulator: General Theory and Practical
+Construction", by E F Fichter, Int J of Robotics Research, Vol 5, No 2,
+1986.
+
+24. "Structural Kinematics of In-Parallel-Actuated Robot Arms", by K H
+Hunt ,Journal of Mechanisms, Transmissions and Automation in Design,
+
+Vol 105, December 1983.
+
+25. "The Analysis of a Six Degree-of-Freedom Work Station for Mechanised
+Assembly", by H McCallion et al, Proc of 5th Congress on Theory of
+Machines and Mechanisms, Montreal, July 1979.
+
+26. "Hand Controllers for Teleoperation", by T L Brooks et al, JPL
+Publication 85-11, March 1985.
+
+288
+
+APPENDIX Kinematics and Inverse Kinematics of 6 Axis Parallel Link Mechanism
+The problem of inverse kinematics is more straightforward for a parallel link
+manipulator than for a serial link manipulator. Therefore, the problem of finding the
+link lengths for a given position and orientation of the top platform based on Yang's
+[19] method is outlined first.
+ur
+As |A v Ar
+Apatae> A
+7 LZ a
+LL AY Agi 3 VER LL
+man ae
+Ly | AY V'\
+lf [i DBs (|
+2 O y 4
+i SSN
+B) x
+7 |
+Fig 11: Definition of the Co-ordinate Frames
+Denoting R and r as the radii of the bottom and top plates respectively, Xo as the
+nominal length of the legs or links and h as the distance between the plates when all
+leg lengths are equal to hos Ly through Lé as the varying leg lengths; Ay through to
+Ag as the locations of the ball joints in the top plate and B, through Be as the
+locations of the universal or Hooke joints in the bottom plate; X-Y-Z as the fixed
+co-ordinate frame of the bottom plate and u-v~-w as the moving co-ordinate frame of the
+top plate.
+The locations of the ball joints and universal joints can now be expressed in their
+respective co-ordinate frames, as follows:
+[ it
+A, = [r,o,o]® B, = [R,0,0]
+A, = [r Cy r Sy,0]° By = [R Ca, R Sq,0]°
+27 Y’ Y’ 2 6’ 0°
+Aa = iP Crono? Sy9,,0]* B, = {RC R S4o,,0]°
+3 120? 120° 3 120? 120°
+fA , jt | me. au
+Ay = Lt Cya94goP Sya9+g90] By = LR Cy2g+@* R Si20+9 01
+jt “t
+A, = (Pr Cong? r S5y990] Bs = [R Cougs R Songs0]
+- at - -£
+Ag = LP Congsys ° Souosy! Be = LR Cougsg» R S2uo+e»%!
+289
+
+where Y is the angle between ball joints A, and A, and so on; and Cy and Sy represents
+Cos Y and Sin Y respectively. Similarly 6 is the angle between B, and B, and so on.
+The position of the platform relative to the fixed base can be defined by a vector p
+which is a position vector from the origin of the base co-ordinate system X-Y-Z to the
+origin of the platform co-ordinate system u~v-w:
+t
+BP = (Py Py Pz)
+Similarly, the orientation of the platform relative to the base can be defined by a
+rotation matrix R:
+4
+i By Vy
+R= | ay By Vy
+a, BL Y
+[a2 Z 2 |
+Where (ays Qe Gy)» (bys bys Bods and (Vy: Vys Vin) are the direction cosines of the
+axes Uu, V and w with respect to the fixed X-Y-Z co-ordinate system. The geometrical
+relationship between the fixed co-ordinate frame and the moving co-ordinate frame is
+usually represented by a 4x4 homogeneous transformation matrix as follows:
+—
+ee By Vy Py |
+; |
+iT], = iy By Ty Py
+a, By Vz Pz
+o oo 1
+The location of each ball joint (A, through Ag) on the moving top platform with
+respect to the fixed co-ordinate frame can now be obtained as:
+Px] r-
+: = LT], Oo, and so on
+|
+ZS ay |
+The link lengths can be obtained by calculating the distance between the corresponding
+pair of joints in the moving top plate and the fixed base. For example:
+x | [ rt Xp xX R
+= r+ and = Oo
+y ~ Oy Vp. y
+Zz Al Oe rt 2p | Z Bl O°
+Hence, 1¢ = (a, r+ Xp 7 R)* + (ay rt Vp)* tip r + Zp)*-
+The above form therefore represents a set of explicit input-output equations for the
+inverse kinematics of the parallel link mechanism. It can also be seen that the
+direct kinematics problem involves the solution of a set of non-linear simultaneous
+equations.
+290
+

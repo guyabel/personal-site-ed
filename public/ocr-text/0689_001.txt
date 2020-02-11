@@ -1,0 +1,62 @@
+tC i f &
+PATENTS ERANCH INVENTION REPORT) 3 &4eats tee eae)
+| SECURITY GRADING OF THIS REPORT | COMME RCFALSAN CONFIDENCE sos | |
+| - OO TT ne 13152 MdH
+| ANTICIPATED GRADING OF PATENT APPLN |
+| iNvENTOR(S) | E. Abel; S. M,. Third |
+oni | Three Dimensional Trackball |
+| P oe a | — ; |
+feose auate Job No, : .
+on all correspondence | | Due Dote | Riera "ye Sit cers
+= Patent AppIn. No. | bi -4
+} | (Completion, etc.) |
+| | | | M&S Potenss |
+| a |
+| | | |
+; |
+| | _ | I | |
+Subject matter: 07.05 |
+A trackball is a sphere mounted in a frame and free to turn about any
+axis through its centre. Rotation of the trackball about any one of
+three non-coplanar axes (which may be orthogonal) is detected by a |
+respective detector, so that rotation about any axis is resolved into
+three component rotations. The trackball may have a hole in one side
+large enough to accommodate an operator's hand, and may be used at the |
+master end of a master/slave manipulator to control the pitch, roll,
+| and vaw motions of a slave arm, the link between the trackball and the
+| slave arm preferably being electronic.
+The detector of the rotation may be mechanical, optical, electromagneti
+or magnetic. The mechanical detector might comprise a multiturn poten- |
+tiometer turned by a wheel in frictional contact with the trackball, and
+such a wheel may comprise a circular sheet of neoprene sandwiched betwean
+rigid flanges. The optical detector might scan a pattern of dots or
+lines on the surface of the trackball. The electromagnetic detector
+might comprise a search coil surrounding the trackball, or a small
+ferrite-cored search coil, with a primary coil inside the trackball
+Supplied with an a.c. Signal, and the magnetic detector might comprise |
+a reluctance detector scanning a dimpled ferromagnetic trackball.
+|
+Force feedback could also be provided by using a conducting material in |
+the Se eee induction motors to create the feedback SORGes 4
+ti [30 yesss tes Cady
+% Pele Apakicohn fer tein ¢ olket Bdqvee f Fede (+ by erkasra, melbole |
+DoF: ) sagnt devis Gone haohe con eh of a ronte ‘lem . Pe jecked by
+Frecrwel Patek Bean as bes sy Nom~Coviree co ¥ hoviny na phe han. by nee Moke 1
+Suu .
+Wap pke bok cen becom eo en peck Jewtes “Keen bx cit fe the coh ) riley hah,
+DamnW, T (in Boost) Wied waht ete gush Capt dewes. Thiha Fe |e att’
+| oecision a 7 eee OO OO eet k Fee
+DECISION To follow. To be considered at the Patents Advisory Committee |
+| Ci oy elena. (Mechanical) Meeting on Thursday 26th November, and
+| Mr. S.M. Third observations to assist the Committee may be sent to
+Mr. G.W. Peagram* the undersigned beforehand.
+| Mr. K.J. Hill? . on - -e |
+_ x ‘Please notify Patents Branch promptly if there
+Mr. S.L. Naylor — ; 4 ” . -
+: are any queries over inventorship.
+P. T. Mansfield 18.11.91 GY) |
+H.S?2 rev. 9/74 Potents Officer venpscmenmucrccacsmmns Datta ssscg Nee
+{ ee SS ee t wes BSI
+fateAs Brinch cold
+Ca get O ede. Cigtel
+

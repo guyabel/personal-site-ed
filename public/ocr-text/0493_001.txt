@@ -1,0 +1,1481 @@
+AERE-G 4873
+PCOMWP(88)P14
+2 re) ca
+ade re ‘e fag
+Evaluation of the Harwell Colour
+Z-D Television System for Windscale
+AGR Decommissioning.
+P. M. Scheiwiller. A. A. Dumbreck.
+V. M. Reading. E. Abel.
+Department of Visual Science Engineering Sciences Division
+Institute of Ophthalmology Harwell Laboratory
+University of London Oxfordshire
+Judd Street OX11 ORA
+London.
+WC1H 90S
+May 1988
+
+Summary.
+
+Trials of the Harwell colour stereoscopic (or three
+dimensional) television system are described. A task was based on a
+real operation planned as part of decommissioning Windscale’s Advanced
+Gas-Cooled Reactor (WAGR); two heavy steel plates were moved between
+
+stands and a plate rack using an overhead gantry crane. The task
+required translation, rotation and accurate positioning of the plates.
+
+Operators were timed whilst using 2D or 3D television
+viewing systems. For analysis, the task was divided into components.
+The one which required accurate alignment of a plate benefited most
+from using 3D and was performed 17% faster. The difference was
+statistically significant. The data from this component are consistent
+with the supposition that 3D is particularly useful in unfamiliar
+situations or the initial learning of a task.
+
+Videotapes of two of the operators recorded during the
+trials showed that a supplementary 2D view was used differently when
+the main view was 3D rather than 2D; with 3D, the operators looked at
+the supplementary view for only a small percentage of the time. A
+third operator showed a less marked difference, but was thought not to
+be typical of those who participated in the experiment.
+
+A questionnaire was completed by 8 operators. Picture
+quality of both 2D and 3D was highly rated. All except one had
+preferred using the 3D and would have been happy to do so for extended
+periods. Most thought that they had performed the task better with 3D
+and that a supplementary view was less of a necessity with a 3D main
+view.
+
+Two main improvements were suggested by the operators;
+that the camera should be fitted with either zoom lenses or a
+switchable angle of view, and that clip-on polarising glasses should
+be made available for spectacle wearers.
+
+Some of the subjects” comments suggest, in accord with
+earlier findings, that the positioning of a single 3D view is far less
+critical than the optimal siting of a pair of 2-D views.
+
+il
+
+Table of Contents. Page
+1.0 Introduction. 4
+1.1 The Harwell Stereoscopic Television 4
+System.
+2.0 The Task. 5
+2.1 Task Lighting. 6
+2.2 Camera Positioning and Views of the Task. 6
+3.0 Viewing Station Layout. 7
+Sir Crane Controls. 7
+3.2 Camera Controls. 7
+4.0 Subjects. 8
+5.1 Experimental Design. 8
+Sriz Procedure. 8
+6.0 Results, Analysis and Discussion. 9
+6.1 Speed of Performance. 9
+6.2 Videotaped Subjects. 13
+6.3 Questionnaire Results. 14
+7.0 Conclusions. 15
+8.0 Acknowledgements. 15
+9.0 References. 16
+List of Photographs.
+Photo l Harwell Colour Stereoscopic Camera.
+Photo 2 Harwell Colour Stereoscopic Display.
+Photo 3 view of Task in HERO facility.
+2
+
+List of Figures.
+Figure 1 Floorplan of HERO Vault.
+Figure 2 Plan of Viewing Station.
+Figure 3 Time Difference, 2D minus 3D for Components.
+Figure 4 Mean 2D minus 3D Time for Repetitions 1] to 8.
+Appendices
+Appendix 1 Normal Probability Plots for Components
+3,4 and X. i
+Appendix 2 Correlation Matrix for Components and
+Notes on Correlation. iii
+Appendix 3 Analysis of Variance Tables and Notes on
+Repeated Measures Analysis of Variance. iv
+Appendix 4 Text of Questionnaire. vii
+3
+
+1.0 Introduction
+
+This report describes evaluations of the Harwell Colour
+Stereoscopic (or 3D) television system at Windscale in December 1987.
+Trials were carried out in the HERO vault, a facility designed to
+develop and test remote handling equipment and techniques for nuclear
+decommissioning, and in particular, the Windscale prototype Advanced
+Gas Cooled Reactor (WAGR).
+
+Previously 3D television systems have been evaluated
+and compared with conventional two-dimensional (2D) television using
+the same facility and similar tasks [1], but the present trials were
+perhaps more rigorous, and used a camera and display incorporating the
+latest developments and design changes.
+
+Evaluations in a realistic setting are important to
+ensure that future development progresses in the right direction; by
+allowing potential users access to the equipment useful feedback can
+be obtained. Our aim is to design and build a stereoscopic television
+system which not only improves operator performance, but is easy to
+use and comfortable to view.
+
+In the trials reported here operators were timed
+executing a pick-and-place task of heavy steel plates with an overhead
+gantry crane. The crane was driven from a control room outside the
+vault, with no direct view of the task. It was envisaged that accurate
+position of the plates would be facilitated by stereoscopic
+television and the task would be completed measurably faster than with
+conventional 2D TV views.
+
+When the main view of the task was 3D, it was expected
+that a supplementary, 2D view would be little used, but with a 2D main
+view it would be much needed. To this end, three of the operators were
+videotaped using both 3D and 2D television systems and the percentage
+of the time spent looking at each view was assessed.
+
+In addition, all of the operators completed a detailed
+questionnaire. They were asked, amongst other things, to rate the
+quality of the 2D and 3D pictures, to quantify how much use _ the
+supplementary view had been and finally to express a preference.
+
+1.1 The Harwell Stereoscopic Television System
+
+The camera and display are described in detail
+elsewhere, [2,3]. Briefly, the camera (see photo. 1) uses two re-
+packaged, single-sensor CCD cameras and photographic fixed focal
+length lenses. Camera convergence is achieved by axial offset of the
+lenses to avoid trapezium distortion associated with camera toe-in.
+Camera focus is accurately coupled to the convergence by a mechanical
+link. The display (photo. 2) uses two broadcast quality TV monitors,
+to enable accurate picture matching. The pictures are optically
+combined by a semi-reflective mirror. Polarizing filters, in front of
+each monitor and in spectacles worn by the viewer, select the
+appropriate image for each eye. Improvements over previous systems
+include colour, enhanced resolution, better dynamic range, improved
+
+4
+
+highlight handling, better matching of lens apertures and a more
+precise focus and convergence mechanism.
+2.0 The Task
+
+The task was based on an operation planned as part of
+WAGR decommissioning:- Steel plates dismantled from the pressure
+vessel will be transported out of the vessel, ina basket, into a
+specially constructed chamber called the Upper Sentencing Cell. Here
+they will be removed to a multiple plate rack by a remotely controlled
+crane mounted on an overhead slewing beam. In appearance the rack will
+be like a giant toast rack and when completely loaded, will be lowered
+through a hole in the floor into another chamber, the Lower Sentencing
+Cell, where it will be set in concrete for disposal.
+
+The part of this operation mocked-up in the HERO vault
+was the transfer of plates to the rack. A full size rack was’ used,
+but the distance over which the plates were moved was smaller. The
+crane in HERO is mounted on a fixed beam rather than a pivoted one, so
+the plates initially rested in specially built stands, each holding a
+single plate and placed under the axis of the beam, rather thanin a
+basket. Only five of the ten slots in the rack could be reached by the
+crane, but the task still involved rotation, translation and accurate
+positioning of the plates. Photograph 3 shows the layout and figure l
+the floorplan.
+
+Two plates were used, a curved piece of thermal
+shielding, 1.54m by 0.61lm and 5 cm thick with a radius of curvature of
+about 12m, anda flat plate 1.03m by 0.6m by 8cm thick. These were,
+respectively, inserted into slots in the toast rack 8.0 and 8.3cm
+
+~ wide. The plates were always inserted into the same slots in the rack
+and returned to the same stands, the slots and stands being identified
+by coloured tape wrapped round the neighbouring prongs. The stand for
+the curved plate was the further away from the rack and the slot was
+the second of the rack. The straight plate was inserted into the fifth
+slot of the rack, the furthest away from the stands reached by the
+crane. Thus both plates were moved through approximately the same
+distance and neither occluded the view of the other to any large
+extent during the task. (See fig.1l.)
+
+In the start position both plates were in their stands
+and the crane parked at the end of the beam furthest away from them.
+Subjects were required to transfer the flat plate to the rack, the
+curved plate to the rack and then return, in turn, the plates to their
+stands, curved plate first. The sequence was then repeated and finally
+the crane returned to the end of it’s beam.
+
+The time taken for each plate transfer, from stand to
+rack or vice-versa, was divided into five components:-
+
+Component 1: From start position (or end of component 5) till
+first touch of plate with the crane grab.
+5
+
+Component 2 : End of component 1 till grab is attached and plate
+is lifted clear of a stand or the rack.
+
+Component 3 : End of component 2 till plate first touches
+rack or stand.
+
+Component 4 : End of component 3 till plate is inserted fully
+home in rack or stand.
+
+Component 5 : End of component 4 till grab is released and
+lifed clear of the plate.
+
+2.1 Task Lighting
+
+The Task was lit by quartz-halogen lights, positioned
+as shown in figure 1. The key source was a 3.6 kW array of six 600W
+lights arranged in three banks and the fill lights were 800W Red
+Heads. The lighting was balanced by 3 channels of a 4 channel
+dimmer; 2 channels for the Red Heads and a third for one bank of the
+key light. The other two banks ran at full power.
+
+No measurements of illuminance were made at the time,
+but subsequent measurements in a similar setting suggest that the
+plate rack was illuminated with around 6000-7000 Lux.
+
+2.2 Cameras; Positioning and Views of the Task
+
+Two television views of the task were provided - a MAIN
+view and a SUPPLEMENTARY view - based on camera positions possible for
+the real operation, (although at present only a single view -the MAIN
+view -is planned.) The MAIN view was from a height of 1.6m above the
+multiple plate rack, more or less square to the slots, and _ the
+SUPPLEMENTARY view was from a similar height but displaced to the left
+(see Fig.l). The MAIN view was either 2D or 3D, whilst the
+SUPPLEMENTARY was always 2D. Both could be panned and tilted through
+large angles.
+
+Two cameras mounted on the same pan and tilt head gave
+the MAIN view; a Panasonic F10 colour CCD camera for 2D and the
+Harwell colour stereo camera for 3D. These were aligned so that their
+axes intersected at the centre of the plate rack. Picture quality and
+resolution were very similar for the two cameras, since the same type
+of sensor is used in both cameras. The SUPPLEMENTARY view, from an
+identical F100, and 2D MAIN view were fitted with 12.5 to 75mm zoom
+lenses giving an angle of view ranging from 7 to 39 degrees. In 3D,
+the MAIN view had a fixed angle of view of 30 degrees. Since the task
+subtended an angle of approximately 44 degrees, the whole scene could
+not be encompassed in 3D without panning.
+
+The view from the stereoscopic camera, and the
+SUPPLEMENTARY view were matched, by eye, for brightness and contrast.
+It was not possible to match the 2D MAIN view from the zoom camera as
+accurately, -the picture was always slightly darker- but the
+a@ifference was small and unlikely to have been of any consequence.
+
+6
+
+3.0 Viewing Station Layout.
+
+Figure 2 is a plan of the viewing station showing the
+placement of television monitors and controls. The operator was seated
+directly in front of the stereoscopic display, which was always’. the
+MAIN view; a 2D picture could be displayed either by connecting the
+same Signal to both monitors and viewing through the polarising
+glasses, or by connecting a signal to only one of the monitors and
+viewing without glasses. The SUPPLEMENTARY view was displayed on a JVC
+14", colour monitor to the left of the operator, angled at about 120
+degrees to the screen of the MAIN view.
+
+A video camera was set up above and slightly behind the
+SUPPLEMENTARY monitor to enable recording a view of an operator during
+the task.
+
+3.1 Crane Controls.
+
+Traversing the crane was controlled by simple on/off
+push buttons, whilst raising and lowering the grab used two-stage
+buttons; when depressed to the full extent of their travel the faster
+of two speeds was selected. Rotation of the grab was controlled by a
+rotary switch and although a speed of rotation control was available,
+it was preset throughout. The controls acted so that the television
+image of the crane moved in the same sense as the controls: i.e.
+depressing the left button moved the crane to the left in the picture
+and turning the rotary control clockwise rotated the grab clockwise in
+the picture.
+
+The grab attached to the crane was opened and closed by
+lowering until its weight was supported by the plate and the
+suspending cables were slack. This actuated a ratchet mechanism -like
+that ina retracting ball point pen- and the grab remained open and
+could be lifted clear, or closed as the suspending cables were
+tensioned. Thus there were no separate controls for the grab.
+
+3.2 Camera Controls.
+
+Camera pan and tilt were controlled by a_ proportional
+joystick for the MAIN view, and by push buttons for the SUPPLEMENTARY
+view. To tilt a camera down the joystick was moved forwards, or the
+push button furthest away was depressed.
+
+zoom, focus and iris of the 2D views were controlled by
+push buttons. For the 3D, iris control was automatic and focus’ was
+linked to the convergence control of the camera, a paddle switch. The
+convergence control was used to ensure that the object or area of
+interest appeared to be in the plane of the screen, giving an optimum
+stereo image and best focus. This was most easily achieved by viewing
+the display without polarising glasses and adjusting the control until
+the appropriate part of the images overlayed. Although the subjects
+were free to use the control, in this case it was perfectly acceptable
+to leave the convergence at its initial setting, -the centre of the
+plate rack.
+
+7
+
+4.0 Subjects
+
+Eight male subjects aged between 22 and 43 years, with
+a median age of 24 years, participated in the trials. All had 6/9 or
+better visual acuity, five with spectacle correction, and scored 8/10
+or better on the Titmus test of stereo acuity.
+
+Driving the crane was not as simple as the controls
+suggest. A particular technique was necessary to avoid setting the
+load swinging uncontrollably and colliding violently with equipment
+and fixtures in the vault. Therefore all eight of the subjects had
+had some instruction and were registered as crane drivers, although
+experience varied from half an hour to several hours.
+
+5.0 Experimental Design
+
+Two viewing arrangements were compared:-
+
+(1) 3D MAIN view + 2D SUPPLEMENTARY view.
+
+(2) 2D MAIN view + 2D SUPPLEMENTARY view.
+
+Conditions (1) and (2) are loosely referred to as 3D
+and 2D conditions. In condition (1) operators were free to switch the
+MAIN view between the stereo camera and the 2D camera if it was
+absolutely essential to use a wider angle of view or the zoom
+facility. The 2D could be viewed without removing the polarising
+glasses. Similarly in condition (2), operators could switch the MAIN
+view between the 2D camera and the left eye view from the stereo
+camera. By setting the zoom lens to its widest angle of view this
+facility could be used to toggle between two angles of view.
+
+Each of the subjects did the task under both viewing
+conditions in two sessions, separated by at least three hours. Half
+used arrangement (1) first, the others arrangement (2). Three of the
+subjects were videotaped under both conditions. Two of these used 2D
+first and 3D second, the other 3D first. All subjects answered a
+questionnaire after completing both sessions.
+
+5.1 Procedure
+
+At the start of a session the viewing arrangement and
+camera controls were explained and the subject was allowed several
+minutes to familiarise himself with their operation. For a 3D session
+the subject was given the choice of three styles of polarising
+spectacles. Where spectacles were already worn to correct deficient
+eyesight, the polarising glasses were worn on top of normal
+spectacles. In this respect, some styles were more comfortable than
+others.
+
+The task was explained and cameras were returned to a
+predetermined start position. When it was clear that he understood
+the task, the subject was instructed to start.
+
+The experimenter ran a timing program on an IBM PC/AT
+
+8
+
+and entered the start and finish of each component of the task by
+depressing a button on the computer mouse. A code was entered after
+each plate transfer, so that any components missed by the experimenter
+could later be identified. To monitor the subject’s progress, the
+experimenter could view a TV monitor connected to the stereo camera
+and could see the SUPPLEMENTARY view over the subject “s shoulder. The
+times (if any) when the subject switched the MAIN view from the stereo
+camera to the 2D camera were also recorded.
+
+In theory, a session ended with the start position restored,
+but it was sometimes found that the plate rack or stands had _ been
+moved by heavy collision of a plate which had been allowed to swing
+excessively. The correct positions were marked by adhesive tape stuck
+to the floor and small adjustment were made by manual effort.
+
+After the second session had been completed, the
+questionnaire was answered and the ophthalmic tests administered; a
+standard letter chart for visual acuity and the Titmus test for stereo
+vision.
+
+6.0 Results, Analysis and Discussion
+
+The facility to switch the MAIN view between the stereo
+Camera and 2D camera was very seldom used; subjects preferred to pan
+or tilt the camera rather than switch to 2D and use the zoom.
+Therefore under condition (1) the the MAIN view was considered to be
+entirely 3D.
+
+In the following, where t-tests were calculated the
+significance levels are for a one-sided test since it was expected, a
+priori, that 3D would give the faster times. A one-sided test
+addresses the question:- is A faster, or bigger, etc than B? A two-
+sided test asks the question:- is A different from B?
+
+6.1 Speed of Performance
+
+Response time or speed of performance is often analysed
+in conjunction with the number of, or rate at which errors are made,
+since it is possible that accuracy is traded against speed of
+performance or vice-versa. In this case it is difficult to say exactly
+what constitutes an error. It was inevitable that the plate would
+contact the rack or stands during insertion. What magnitude of
+collision should be -considered an error ? However any serious
+misjudgement of position and subsequent collision set the crane
+swinging. The swing needed to be corrected or inserting the plate
+became very difficult. Therefore it was assumed that errors or
+inaccuracies were reflected in the time taken to complete the task and
+performance could be assessed by analysing time alone.
+
+a) Overall Time.
+
+The variability between subjects was considerable; with
+
+3D MAIN view, the longest time taken to complete the session was 2278
+
+seconds and the shortest 1097 seconds. With 2D the time ranged from
+9
+
+1279 to 2594 seconds. The result of a paired t-test (ie subjects 2D
+time minus 3D time) was not significant (t=1.42, d.f=7, p=0.099)
+although the mean 2D-3D difference was 141 seconds.
+
+b) Component Times.
+
+Unfortunately, it was not possible to recover most of
+the data for the 3D session of one subject. Therefore he was not
+included in the following analysis. In order to keep the experiment
+
+balanced and easily analysed, a second subject had to be dropped. The
+first had used the 3D viewing arrangement first session, so the other
+subject had to be one of those who had used 2D first. Rather than pick
+at random, the subject we chose not to include had considerably more
+experience of driving the crane and using conventional 2D television
+than the rest. The following is therefore based on data from 6
+operators, and although there were some missing values where the
+experimenter failed to record the start or finish of a component, the
+experiment remains reasonably balanced.
+
+If it is assumed that the two plates were of equal
+difficulty to move and that the directions, from stand to toast rack
+and from rack to stand, were equivalent, then each component was
+repeated eight times per session. For each repetition of each of the 5
+components for each subject, the time taken with 3D was subtracted
+from the corresponding 2D time. This reduces the variability and
+allows for a more precise testing of statistical significance.
+
+The mean time difference (2D-3D time) for each
+component could be tested for significance with a t-test. However this
+assumes a normal distribution of the data and normal probability plots
+revealed that the assumption did not hold for components 3 and 4. (See
+appendix 1.) This is important because these were the components most
+likely to have been affected by the choice of viewing system and a
+rigorous test is highly desirable.
+
+It could be argued that accurate alignment of a plate
+will sometimes have been largely achieved before the first touch of
+the rack or stand, and sometimes afterwards. In the former case the
+plate could rapidly be inserted into the rack soon after the first
+touch, whilst in the latter case more time would elapse between first
+touch and the plate being fully inserted: there would be a negative
+linear correlation between the times for components 3 and 4. The
+correlation coefficient of the 2D-3D times for these components was
+calculated to be -0.31, which is statistically significant. (d.f.= 46,
+p < 0.025 one sided.) Therefore a better definition of components
+would be to combine components 3 and 4 in a single component which
+always included alignment of the plate. This component, termed
+component X, wasS calculated simply by adding the times for components
+3 and 4. The distribution of the difference, 2D minus corresponding
+3D time is now approximately normal. (See appendix 1.)
+
+The correlation matrix of component 2D-3D times (see
+appendix 2.) indicates that there are _ two other Significant
+correlations; between components 1 and 5, (r = 0.42 d.f = 46, p <
+0.005) and between components X and 2 (r = -0.37, d.f = 46, p <
+
+10
+
+0.025). There is no intuitive reason why these components should be
+correlated, other than that they are repeated measures of subject ‘s
+performance. However the main interest here is the difference between
+3D and 2D, no strong claims are made about the differences between
+components, so they have been regarded as independent.
+
+The mean 2D-3D component times are shown in figure 3.
+Table 1 gives the results of t-testing the hypothesis that these mean
+time differences are greater than zero.
+
+Component Mean 2D-3D Time Standard N T p
+(Seconds) error
+1 2.7 + 3.5 47 0.76 0.23
+2 3.7 + 5.5 47 0.67 0.25
+x 18.2 + 11.0 46 1.72 0.04 *
+5 -2.7 + 3.7 48 -0.74 0.77
+Total 23.8 + 13.0 45 1.82 0.04 *
+Table l
+T-tests of Mean 2D-3D times.
+* indicates a significant result.
+
+Note that “Total” is the mean of the sum of components
+rather than the sum of the component means. Since there were missing
+values and the component means were not based on the same number of
+observations, these will not necessarily be the same.
+
+Table 2 shows the absolute mean times (in seconds) for
+the components.
+
+3D Mean Time 2D Mean Time
+
+Component + Standard Error N + Standard Error N
+
+1 39.9 + 3.6 48 42.7 + 3.4 47
+
+2 36.8 + 4.1 48 40.7 + 3.3 47
+
+xX 103.1 + 9.8 46 124.7 + 10.0 48
+
+5 20.8 + 3.9 48 18.1 + 2.0 48
+Total 200.6 + 13.4 46 226.2 + 12.9 47
+
+Table 2.
+Mean Component Times
+
+Component X was the part of the task which required the
+
+most positional accuracy and showed the most benefit from using 3D; an
+ll
+
+improvement of 17%.
+c) Serial Order Effects.
+
+Previously we have hypothesised that stereoscopic
+television is particularly useful in viewing unfamiliar situations
+[1]. Here it might be expected that differences between 2D and 3D will
+be most pronounced in the early repetitions of the first session.
+
+However the cross-over nature of the experimental
+design does not allow a very precise comparison; considering the first
+session alone there would only be three subjects per viewing
+condition. Perhaps because of the large individual differences, the
+mean 2D and 3D times for each repetition do not show any recognisable
+trend.
+
+There may also be another difficulty: any such effect
+could be confounded with periodic effects arising from violations of
+the assumptions (a) that the plates were of equal difficulty to move
+and (b) that the directions were equivalent (see section 6.1 b). For
+instance, if the curved plate was considerably more difficult to move
+than the straight plate, the mean time for every other repetition
+would be increased. If both assumptions were violated the periodic
+pattern would be quite complex.
+
+For component X, which showed the largest percentage
+2D-3D difference, a two-way analysis of variance revealed that the
+directions were distinct; moving a plate to the rack took longer than
+returning it to a stand (F(1,89) = 17.1, p < 0.001). However there was
+no statistically significant difference between the plates and no
+plate-direction interaction. The analysis of variance table is given
+in appendix 3 (table A3.1). There was no interaction between direction
+and viewing system and therfore no need to qualify the conclusions
+Graw in the previous section (i.e using 3D facilitated moving plates
+both to and from the rack). Table 3 gives the mean times for each
+Girection under 2D and 3D viewing conditions.
+
+3D Mean Time 2D Mean Time
++ Standard Error + Standard Error
+Stand to Rack 125.4 + 15.8 158.7 + 16.4
+Rack to Stand 82.7 + 7.8 94.3 + 9.8
+Table 3.
+Mean Time (Seconds) for Component X for Direction and View
+Adjusting component xX for direction, a further
+analysis of variance showed that the effect of repetition was
+statistically significant (F(7,71) = 2.29, p = 0.04, table A3.2), but
+the difference between sessions was not. Note that the analysis took
+into account the expectation that for each subject, performance in
+12
+
+session 1 would be correlated with performance in session 2, but not
+necessarily with that of any other subject in either session [4]. It
+was also found there was no interaction between session and
+repetition. Therefore the two sessions can be pooled and the 2D-3D
+times used. Precision is improved, data from all six subjects are used
+and the periodic effects of direction are intrinsically removed.
+Figure 4 shows mean 2D-3D time for each repetition of component X.
+Calculating the linear regression of 2D-3D time on
+repetition showed that there was no linear trend; the slope was not
+significantly different from 0 (F(1,44) = 0.88, p = 0.35, table A3.3).
+However a curve of the form:-
+Time = a + b * Exp(-c * repetition)
+with the parameters a = 9.4, b = 443, c= 1.9, fitted the data
+somewhat better. This is the curve drawn in figure 4. The trend is not
+Statistically significant (F(2,43 = 2.04), p= 0.12, table A3.4),
+unless the same curve is fitted to the mean 2D-3D time for each
+repetition (F(2,5) = 14, p< 0.01, table A3.5, whereas linear
+regression is not significant:- F(1,6) = 1.76, p= 0.23 ), but does
+suggest two things. First that the principle difference between 2D and
+3D is to be found in the first two repetitions and second, that
+thereafter the 2D-3D time is asymptotic to some small positive value;
+for this component performance will always be slightly better with 3D
+viewing.
+6.2 Videotaped Subjects
+Videotapes of two of the operators recorded during the
+trials showed that the SUPPLEMENTARY view was used differently when
+the MAIN view was 3D rather than 2D; with 3D the operators looked at
+the SUPPLEMENTARY view for only a small percentage of the time. (See
+table 4.) A third operator was videotaped but showed a less marked
+difference between 2D and 3D. However he was perhaps not typical and
+had more experience of using orthogonal, 2D viewing systems,
+preferring to use a way of working which was familiar and ignoring the
+depth information provided by the 3D.
+3D 2D
+
+Op. MAIN SUPPL Controls Other MAIN SUPPL Controls Other
+
+1 94.9 <0.1 3.9 1.1 67.4 26.8 4.1 1.7
+
+2 94.2 0.2 4.2 1.4 52.8 38.6 5.8 2.8
+
+3 61.9 27.5 7.4 3.2 55.3 32.9 8.7 3.1
+
+Table 4.
+Percentage of time spent looking at MAIN view, SUPPLEMENTARY view,
+controls and elsewhere.
+13
+
+The sample is too small for any reliable statistics,
+but does strongly suggests that the depth infomation provided by the
+3D view made the SUPPLEMENTARY view largely unnecessary for this task.
+There is also no evidence to suggest that these operators found the 3D
+system uncomfortable to watch; they did not frequently have to look
+away or peer into the display.
+
+6.3 Questionnaire Results
+
+All eight subjects answered the questionnaire; the text
+is given in appendix 4. The following summarises the main findings:-
+
+a) Picture quality of both 2D and 3D views was rated
+highly. On a scale of 1 to 10, where 10 equals excellent, both had a
+median score of 9.
+
+b) All except one subject thought that he performed the
+task either slightly better or very much better when the MAIN view was
+3D. The exception found no difference. However, slightly at odds with
+this, on a scale of 1 to 10 (l10=extremely difficult) the median score
+for task difficulty was 4 for 3D and 5 with 2D - only a_e small
+difference.
+
+c) In concordance with the videotapes, the
+SUPPLEMENTARY view was used differently with 3D and 2D MAIN views. On
+a scale of 1to10, where 1 = no use at all and 10 = absolutely
+essential, the median rating with 3D was 3 and with 2D, 8.
+
+ad) With one exception, the subjects would have been
+happy to use the 3D system for extended periods. With 2D there were
+two exceptions.
+
+e) The most difficult aspect of the task was driving
+the crane in a way which minimised swing of the load. This required
+a fair degree of skill, but was independent of viewing system. Two out
+of the eight thought that joystick controls would improve matters.
+
+f£) Seven out of the eight subjects thought that the
+display monitors for MAIN and SUPPLEMENTARY view could have been
+better positioned; closer together, particularly for 2D. Despite this,
+they thought that the effect on performance was slight or that there
+was no effect at all. However closer placing of the monitors would
+have made the videotapes difficult to analyse.
+
+g) Finally, two subjects very much preferred using the
+3D, five slightly preferred 3D and one slightly preferred 2D.
+
+The subject in g) who preferred using 2D viewing was
+the exception in d) who would not have been happy to use 3D for
+extended periods. He was also the subject in b) who did not think he
+performed the task better with 3D viewing, and the third of those
+video taped. This lends support to the contention in the previous
+section that he was atypical.
+
+14
+
+A number of comments were made by more than 1 subject:-
+
+a) A wider angle of view, a choice of angles or a zoom
+would be desirable for the stereoscopic camera. (4 subjects).
+
+b) 3D was preferred because it gives a better spatial
+sense. (4 subjects).
+
+c) For 2D viewing plan and elevation views would have
+been preferred. (2 subjects).
+
+ad) For those who normally wear spectacles, a clip-on
+polarising viewer, like clip-on sunglasses, might be more comfortable
+than wearing two pairs of spectacles. (2 Subjects).
+
+7.0 Conclusions
+
+The use of Stereoscopic television gave a worthwhile
+and statistically significant improvement in operator performance for
+part of the task. This was the one which required most positional
+accuracy, and with 3D the mean time was 17% faster. Considering the
+slow speed at which the crane moved and the relative clumsSiness of the
+controls this is a fairly large margin. For a more dextrous task we
+expect this margin to be even wider.
+
+It was not possible to demonstrate conclusively that 3D
+was particularly useful in an unfamiliar situation or during the
+initial learning phase, but the results are consistent with this
+supposition. With hindsight, such an effect would have to be very
+pronounced to be apparent from an experiment of the design used here.
+
+The videotapes recorded during the trials suggest that
+for this task a single 3D view is almost entirely sufficient, and in
+addition, that the operators had no difficulty in using it. The use of
+stereoscopic television for the real operation is recommended.
+
+Answers to the questionnaire and subject comments
+proved that the stereoscopic system was well liked and comfortable to
+view. In addition, support was given to the analysis of the
+videotapes; operators thought that the SUPPLEMENTARY view was of less
+use when the MAIN view was 3D rather then 2D. There is also the
+suggestion that perhaps 3D camera positioning is less critical than
+with conventional 2D views.
+
+Two main improvements were suggested; that the camera
+should have a zoom lens, or switchable angle of view, and that some
+clip-on polarising glasses should be made available.
+
+8.0 Acknowledgements.
+
+We would like to thank Mr Ed Perrott of Windscale
+Laboratory for arranging the trials there.
+
+Funding for this work was provided by the Department
+of Energy, the Generating Boards and BNFL.
+
+15
+
+9.0 References
+
+[1] Dumbreck A A, Abel E, Holt J, Scheiwiller P M, Reading VM. "A
+3D Television System for Remote Handling." Ergonomics Society,
+International Symposium on Teleoperation and Control, Bristol,
+1988.
+
+[2] Dumbreck AA, Smith C W, Murphy S P. " The Development and
+Evaluation of a Stereoscopic Television System for Use _ in
+Nuclear Environments." American Nuclear Society, International
+Topical Meeting on Remote Systems and Robotics in Hostile
+Environments, Pasco, WA, USA, 1987, 106-113.
+
+[3] Smith C W, Dumbreck A A. "3D TV: The Practical Requirements."
+Television, Journal of the Royal Television Society, 1988 Vol 25,
+9-15.
+
+[4] Montgomery DC. "Design and Analysis of Experiments." Wiley,
+1976.
+
+[5] BMDP Statistical Software, University of California Press 1981.
+
+[6] GLIM Version 3.77 Statistical Software, Numerical Algorithms
+Group Limited, Oxford, 1985.
+
+{7] MINITAB Statistical Software, Release 5.1, Minitab Inc. 1985.
+
+16
+
+eI a
+Pitt
+et ts | el
+et Sern mT. Eo Ral
+he | ; r 7 » = Pd *
+“he ss Aa = ; eh 7
+Se. ,
+REN,
+etree el.
+ee
+io SRS
+a I aT a att
+eS. s .
+eee Goo Ae y=
+see art 2 Nt 2 ot Pee
+é Mei $4 ae : y 6
+a7 BPS hs, Se <2
+eds 7A ol”
+jar ae dnd aeneenmmenemmenl ©
+- Sa ee -
+So ote ary Ss &
+as j ' 5
+Risa 3
+ie >
+> Rais.) sea aiettote i 2
+- ” 3 2
+= =" 4 5
+4, — ¥ °
+— .:
+8 . | i os
+< , ™ : \ c
+7
+| | 2
+o
+te 1
+¥
+ca =| v
+—_ a
+i
+aa
+ry
+i
+
+. ; £3. Bere!
+: ii act i: } ; f
+; Mec ery ae c t ‘ i
+| | 7 ) t
+. a ew? 4 f
+mie
+| ote
+= p.4
+= —_ . 2) =
+- appa ee at:
+————_—_/
+. ————— ee
+ok - zs i i
+i: . & 3
+“4 : bee
+_— d bes
+: ss =
+; == = ==. §
+wh ye
+} 7
+| ,
+> ee
+“1 =
+Photograph 2: 3-D Display.
+
+as Aa oe
+. “See
+, ; j ot. * Ey
+. : “Se a — + i Me Vor
+of 2 eS = i. be! T bs
+a - ‘ ® : ie fF
+( fe Le ya
+ea : ~/
+= " Z
+= - - oy - z
+_* . x oe ; r
+= | in) . a 1
+Pb An ~ Ua
+“P ry ~~ g
+“ == a,
+| 4 a i xa
+" j ¥ |
+>. c
+ee —
+“I u ae SS
+Se, ) ) arr
+N Pr f a 5 =
+= / fo) a —~— : =
+ae einai _—S_ e
+Mane — - S$
+5 ame : oO
+’ 5 _ d
+LS Fm ®
+r 3 bee mrp” =
+oT nN, eh 5
+' rs A =
+f es ai it B
+- &
+L " a \. J v _
+Ten Z ~~ a , wn
+4 d- . wet a
+; ec, i 4 , 1a
+& a To. | ; XA 6
+, 5. > c
+; ey a s
+Vie S
+\ t Se i rs)
+LA e
+— > r wu. 5 seis ° <=
+ang i. —e
+— a - . _ s
+yy ;
+‘ ‘\
+| —"\
+J my os m
+" - te ae :
+F 2 : - to be é
+Fi . or 7 - .
+om y , > vay
+. = A :
+- . att !
+\ ws |
+ri a
+a \-
+. ‘s. "
+‘
+
+an
+/ rT |
+/ t & ! |
+, bP a =
+/ “es = & :
+= a. =
+(U7 TEP!
+“ 5
+& i : :
+Ned
+
+z
+: -
+foot
+$ § 7
+> is
+| sie i i
+r FL @
+ft :
+j &
+a,
+§
+eS
+$
+u
+
+@ fo —sSC—s
+c cs
+Poo.
+a ass
+ms Bos
+¢ Baas:
+ra) oS
+9 5
+a. aS
+aS
+. 6 5, ' =
+ts set aes ‘ Ses
+9 Bae So <2
+ms & 3 at
+585 soe, bee <e,
+& it a .
+qe
+see 7 325 OSS: ‘o* ?
+= a
+a
+a
+a.
+a
+. a. -
+oe
+8 oe as
+fs ee ro
+c aoe eee o
+Be - = eos)
+Bas oe c
+pee Se
+pats » . aoe Ss
+& ‘s ee y
+GQ ae
+ao
+PH a.
+=
+~ eS oe 3 e
+~
+s
+E aoe
+BO
+o pes
+. < oe
+oss
+~ a Soe
+Bee
+a Pass Se
+-— SB 8
+i *3 3
+82
+*
+ee ee
+See Sass <
+8
+eee
+a
+BR e
+So ae
+« S
+N o ;
+ie oO
+Sees
+-— Res c
+a aoe
+pee 5
+eee ~ 2
+80 et Oh
+oo ee e
+pe
+-_ Se ts
+Ses e
+oe Q
+a ) £
+(Sp
+Be
+Rs
+ns a
+Qe ons
+ae
+as
+oes
+Bes
+iO OO o.
+rion
+
+c
+9
+Q
+=
+G
+® 0 =
+° 5
+OQ
+Cc
+W C rt
+. 5
+oO e
+c = oS io
+Oo
+= » «jv
+= © OC
+pa o m5
+» Cc yy iN e
+7 Oo LW c
+Oo. Qa Oo OQ
+0g E cen 4 Q
+ow Oo { , a c
+a + OD
+6 a -
+G o
+a m ©&
+£
+“
+-~
+Q J
+°
+©
+WN
+w=
+£
+Oo
+a
+=
+7 ©
+oO wn Oo yy) oO Cp) Oo YY O
+in A oO ~ W) N A wn
+— ~~ — 1 I
+(Spuosssg) SwUti OE-Oe
+
+Appendix ]
+Normal Probability Plots for Components 3,4 and xX.
+NORMAL PLOT OF VARIABLE 6 COMPS
+SYMBOL COUNT MEAN ST.DEV.
+x 46 7.278 59.998
+E
+x 1.8
+P
+E
+c
+T
+E «90
+D
+Ww
+0
+R 0.0
+4
+A
+L
+Vv -.90
+A
+L
+U
+E
+-1 «B
+-180 -60. 60. 180
+-240 -120 0.0 120
+COMP3
+NORMAL PLOT OF VARIABLE 7 COMP4
+SYMBOL COUNT MEAN ST.DEV.
+x 46 10.894 62.407
+E
+x 1.8
+P
+E
+c
+T
+E 09D
+D
+N
+0
+R 0.9
+M
+A
+L
+Vo =-.90
+A
+L
+u
+E
+-1.8
+-50. 50. 150 250
+-100 0.0 100 200
+COMP4
+(i)
+
+NORMAL PLOT OF VARIABLE 9 COMPX
+SYMBOL COUNT MEAN ST.DEV.
+3 46 18.172 71.741
+
+E
+x 1.6
+P
+E
+c
+t
+E «90
+n
+N
+0
+R 0.0
+mM
+A
+L
+Vv -.90
+A
+L
+U
+E
+
+-1.8
+
+-180 -60. 60. 180
+-120 0.0 120 240
+COMFX
+Notes on Normal Probability Plotting
+1) Data with'a normal distribution will be plotted as a straight line.
+2) Some deviation from a straight line is to be expected at _ the
+extremes.
+(ii)
+
+Appendix 2
+Matrix of Correlations between Components 1,2,3,4,5 and X.
+Compl Comp2 Comp3 Comp4 Comp5
+Comp2 -0.16
+Comp5 0.42** -0.04 0.01 0.29
+CompX 0.17 -0.36* -- -- 0.26
+* indicates statistical significance at 5% probability level.
+** indicates statistical significance at 0.5% probability level.
+Notes on Correlation
+1) The correlation coefficient between two variable x and y is’ given
+by:- er)
+le
+r= 1 Dom By F)
+N Sx Sy 7
+Where:-
+N is the number of observations of x and y,
+Sx and Sy are respectively the standard
+deviations of x and y,
+xX and y are the means of x and y.
+
+2) The maximum value of r is +l and the minimum -l. A correlation of
++1 indicates a perfect, linear functional relationship between x
+and y where increasing x is associated with increasing y. A value
+of -1 indicates a perfect functional relationship where
+increasing x is associated with decreasing y.
+
+3) A correlation of 0 indicates that there is no linear relationship
+between x and y; they are uncorrelated.
+
+4) Intermediate values of r indicate a trend rather than a_ strictly
+functional relationship. The larger the modulus of fr, the
+stronger the trend. Positive values indicate that increasing x is
+associated with increasing y, whilst negative values indicate
+the association of increasing x with decreasing y.
+
+(iii)
+
+Appendix 3
+Analysis of Variance Tables
+: Sum of $ s Mean : $
+Source : Squares : df. : Square : F : Pp
+, Plate : 4312 : 1: 4312: lel : > 0.5
+Direction : 67720 : 1 : 67720 +: 17.1 : < 0.001%
+Interaction : 13777 : 1 : 13777 +: 3.4: 0.07
+Residual : 351451 : 89 : 3949: :
+Total : 437259 : 92: : :
+Table A3.1
+Time for Component X, 2D and 3D.
+: Sum of : : Mean : $
+Source : Squares : d.f. : Square : F 3: p
+Subject : 97656 ; 5 : 19531 : :
+Session ‘ 2791 : 1: 2791 =: 1.0: 0.43
+Repetition : 44051 : 7: 6293. : 2.3: 0.04%
+Interaction : 27327 : 7% 3903 =: 1e4: 0.22
+Residual: 197713 =: 71: 2784: :
+Total ‘ 369539 : 91 : : :
+Table A3.2
+Time for Component X, 2D and 3D, Adjusted for Direction.
+* indicates a statistically significant result.
+(iv)
+
+: Sum of : : Mean : :
+Source $ Squares : d.f. : Square : Fo: p
+Regression : 4585 : 1: 4585 : 0.9: 0.35
+Residual : 226996 > 44: 5159: :
+Total : 231581 > 45 3 : :
+Table A3.3
+Linear regression of 2D-3D Time on Repetition.
+. Sum of : : Mean ‘ :
+Source : Squares : d.f.: Square ; F : p
+Regression : 20141 : 2 : 10070 +: 2.0: 0.12
+Residual: 211440 > 43: 4917. : :
+Total : 231581 > 450: : :
+Table A3.4
+Exponential Curve Fitted to 2D-3D Time on Repetition.
+oi Sum of $ : Mean $ :
+Source 7 Squares s d.f. Square : F : p
+Regression : 3926 : 23 1963 : 14 +: 0.009%
+Residual : 665 : 5 3 133: :
+Total : 4591 : 7: : :
+Table A3.5
+Exponential Curve Fitted to Mean 2D-3D Time on Repetition.
+* indicates a statistically significant result.
+(v)
+
+Notes on Analysis of Variance for Table A3.2.
+
+1) The times for each Repetition of component X were corrected for
+Direction by subtracting the appropriate Direction mean.
+
+2) The factors Repetition and Session are repeated measures. They are
+within-subject factors, and likewise their interaction. Since
+repetition has the same meaning at each level of session, the
+factors are crossed.
+
+3) For the correct analysis the mean squares should be compared with
+the within-subject residual. Hence the first line of table A3.2
+gives the between-subject sum of squares and the required residual
+sum of squares can be calculated by subtraction.
+
+(vi)
+
+Appendix 3
+Questionnaire to be Completed After Using Both Viewing Systems
+Please answer the following questions carefully; your answers are
+important. If there is anything you don’t understand, please ask.
+Name:
+Age:
+1 Do you normally wear spectacles?
+YES [ ] No [ ]
+If YES, then during the experiment, were you wearing glasses:-
+FOR DISTANCE [  ] FOR READING [ ] BI-FOCALS [  ]
+2 Are you right handed, left handed or ambidexterous?
+RIGHT [ ] LEFT { ] AMBIDEXTEROUS [  ]
+3 Had you been drinking anything alcoholic in the 24 Hours prior to
+doing the experiment?
+a) Using the 2D viewing system YES [ ] No [ ]
+b) Using the 3D viewing system YES [ ] No [ ]
+If the answer is YES to either of these, how much and aproximately how
+long before?
+2D system:
+3D system:
+4 Are you taking any medication? YES [ ] no [ J
+If YES please specify:
+5 Were you cold during either part of the experiment?
+First session YES [ ] No [ ])
+Second session YES [ ] No [ ]
+(vii)
+
+6 Did you find that the camera views were satisfactory?
+a) 3D MAIN view YES [ ] no [ ]
+b) 2D MAIN view YES [ ] no [ ]
+c) SUPPLEMENTARY view YES [ ] No [ ]
+If not how could the views have been improved?
+3D MAIN:-
+2D MAIN:-
+SUPPLEMENTARY :-
+7 On aescale of 1 to 5, how would you rate the difficulty of
+controlling the crane? (l=very easy, 5=very difficult)
+a) With the 3D viewing system: 123 4 5
+b) With the 2D viewing system: 1 2 3 4 +5 (Circle answer)
+8 Would joystick controls for the crane have made the task easier?
+YES [ ] no [ ]
+9 Which of the following two factors most affected your performance of
+this task; the method of viewing, or operating the crane? Did it help
+or impede your performance?
+HELP IMPEDE
+METHOD OF VIEWING [ ] [ ]
+OPERATING THE CRANE [ ] {[ ]
+(Tick one box only)
+(viii)
+
+10 On ae_escale of 1 to 10, how would you rate the overall picture
+quality of:-
+a) The 3D view: 12 3 4 5 6 7 8 9 10
+b) The 2D view: 123 4 5 6 7 8 9 10
+(l=very poor, 10= excellent) Circle answer
+ll Was the lighting of the task:-
+TOO BRIGHT ABOUT RIGHT TOO DIM
+[ ] {[ ] |
+12 Was the lighting at your viewing position:-
+TOO BRIGHT ABOUT RIGHT TOO DIM
+[ ] { ] [ ]
+13 Did you find the controls for the cameras confusing?
+3D MAIN view YES [ ] No [ ]
+2D MAIN view YES [ ] No [ ]
+SUPPLEMENTARY view YES [ ] No [ ]
+14 On a scale of 1 to 10, how easy did you find the task?
+3D SYSTEM: 123 4 5 6 7 8 9 10
+2D SYSTEM: 123 4 5 6 7 8 9 10
+(l=very easy, 10=extremely difficult)
+15 Could the display monitors have been better positioned?
+YES [ ] no [ ]
+If YES please specify:-
+(ix)
+
+16 Please indicate whether the following factors affected your
+performance:- (Tick one box per row)
+AFFECTED SLIGHTLY AFFECTED NO AFFECT AT ALL
+The positioning of
+the monitors [ J [ ] [ ]
+The camera positions
+a) 3D MAIN view [ ] { ] [ ]
+b) 2D MAIN view [ J [ ] [ ]
+c) SUPPLEMENTARY
+view [ ] { ] [ ]
+The cold [ J [ ] [ ]
+The lighting of
+the task [ ] [ ] [ ]
+The lighting of the
+viewing position [ ] [ ] [ ]
+Difficulty in
+controlling the crane [ ] [ ] [ ]
+Difficulty in
+controlling the
+cameras
+a) 3D MAIN view [ J [ ] [ ]
+b) 2D MAIN view [ J [ ] [ ]
+c) SUPPLEMENTARY
+view [ ] [ ] [ ]
+17 Did the viewing system make any difference to your performance of
+the task?
+3D VERY MUCH BETTER [ ]
+3D SLIGHTLY BETTER [ ]
+(Tick one box only)
+NO DIFFERENCE {[ J
+2D SLIGHTLY BETTER |
+2D VERY MUCH BETTER [ ]
+(x)
+
+18 On a scale of 1 to 10, how much use was the SUPPLEMENTARY view?
+(l= no use at all, 10= absolutely essential)
+3D SYSTEM: 123 4 5 6 7 8 9 10
+2D SYSTEM: 123 4 5 6 7 8 9 10 (Circle answer)
+19 Did wearing the glasses, whilst using the 3D system cause any
+problems or discomfort?
+YES [ ] No [ ]
+If YES then please specify:-
+20 Did you experience any of the following symptoms whilst using, or
+immediately after using either of the viewing systems? (If the answer
+is yes then tick the box)
+3D 2D
+Headache [ ] [ ]
+Double vision [ ] [ ]
+Difficulty in focusing
+your eyes on near objects [ ] [ ]
+Difficulty in focusing
+your eyes on distant objects [ ] [ ]
+Pain in your eyes or
+“eyestrain’ [  ] [ J
+Back or neck pain [ ] [ ]
+Other {[ J [ ]
+If Other, please specify:-
+21 Would you be happy to use these viewing systems for an extended
+period of time?
+a) 3D YES [ ] NO [ ]
+b) 2D YES [ ] no[ ]
+(xi)
+
+22 On a scale of 1 to 5, how do you think that your performance of the
+task improved during the experiment?.
+2D SYSTEM: 12 3 4 5
+3D SYSTEM: 1 2 3 4 5
+| (l=not at all, 5=very rapidly)
+23 Did any objects viewed by the 3D camera appear to be unusual or in
+any way "unrealistic"?
+YES [ ] NO [ ]
+If YES please specify:-
+24 Overall, which system did you prefer using?
+3D VERY MUCH PREFERRED [ ] |
+3D SLIGHTLY PREFERRED [ ]
+NO PREFERENCE [ J
+2D SLIGHTLY PREFERRED |
+2D VERY MUCH PREFERRED [ ]
+Why?
+25 Please use the following space to add any comments.
+[An A4 sheet of paper was attached for comments.]
+(xii)
+
+DISTRIBUTION LIST: PCOMWP(88)P4 AND P14
+POWER AND COMMUNICATION WORKING PARTY
+Dr E Abel (Chairman) ... 8351.28, Harwell
+Dr R S Adrain eee eee CEGB, Marchwood Eng Lab
+Mr K Basson ... eee wee E257, UKAEA, Risley
+Mr A G Castle eee eee UKAEA, Dounreay
+Mr J Doogan ... «ee eee  B148, BNFL, Sellafield
+Mr A J Finlayson ... we. E and I DO, H400, BNFL, Risley
+Mr T T Hanna ... «os «ee 8351.28, Harwell
+Mr M Kear eee coe eee Culham Laboratory
+Mr C LeekS eee woe eee UKAEA, Winfrith
+Mr C Stubbs) ... «62 «ee #B3, UKAEA, Windscale
+Mr G Telford ... .e. «+» B Al4.4 MoD, AWE(A)
+Mr A Dumbreck (Secretary) B401.4, Harwell (10)
+CEGB OPTICAL INSPECTION LIAISON GROUP
+Dr P WaltOn wee woe oes CEGB, GDCD, Barnett Way, Barnwood, Glos, GL4 9RS
+Dr D W James ... wee eee " " " " " " "
+Mr T Wickett ... ... .-. CEGB, Gravesend Lab, Canal Road, Gravesend
+Mr S Mansfield wee oes " " " : : :
+Mr J Moorby ... eee wee CEGB, SW Region, S and TG, Bedminster Down,
+Bridgewater Road, Bristol
+Mr R P F Clayton ... ... CEGB, S and TG, Timpson Road, Wythenshawe,
+Manchester, M23 9LC
+Mr R Dixon see eee eee Hinkley Point 'B' PS, CEGB, Nr Bridgewater,
+Somerset , TA5 1UD
+ADDITIONAL
+Mr J Phillpott ...... EScD, B392.7, Harwell
+Mr J Williams .. ... ...  AFPD, B10, Harwell
+Mr S Hansford .. ... ... Chairman, Viewing Working Party, BNFL, Risley
+Mr H Whittle ... ... ... Hinton House, BNFL, Risley
+Mr P Vickery ... os. oe. R412, BNFL, Risley
+Mr D Yeomans ... «2. «- Hinton House, BNFL, Risley
+Mr G Stewart ... ... «+.  B125, BNFL, Sellafield
+Mr A Webster ... ... .-- B148, BNFL, Sellafield
+Dr M CroSS) wee wee eee B3, UKAEA, Windscale
+Dr J Wakefield =... eee " " " :
+Mr E Perrott ... eee eee " . e
+Mr D Perratt ... ... ««. | CEGB, Marchwood Eng Lab, Marchwood, Southampton
+Mr J HOt 2. soe cee cee 7 : . 4 : "
+Mr R Carrey ... «+. «+ | CEGB, Hunterston Power Station, Hunterston,
+Ayrshire
+Mr I Angell ..- «e+ «++ . CEGB, Hunterston Power Station, Hunterston,
+Ayrshire
+Mr J A Ward ... ees eee [EScCD, B351.28, Harwell
+Mr MH Brown 2... coe coe Secretary, Steering Group for Active Handling,
+EScD, B351.28, Harwel]
+Dr E Abel 2. soe eee eec EScD, B351.28, Harwell
+Mr S P Murphy .. wee eee EScD, B401.4, Harwell °
+Mr P Schetwiller ... ee. B401.4, Harwell
+Dr J C Evans wee cee ove EMScD, B364, Harwell]
+Dr V M Reading... eee Institute of Ophthalmology, Judd Street,
+London, WC1H 9QS
+

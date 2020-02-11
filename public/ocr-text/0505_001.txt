@@ -1,0 +1,460 @@
+IEEE International Workshop on Intelligent Robots and Systems . >
+IROS °90 , Taly zh 1990, Tsuchium , (hbaralci, sa Poet
+NUCLEAR TELEROBOTICS AND DEXTROUS CONTROLLERS
+Ed Abel and Kumar V Siva
+AEA Technology, Harwell Laboratory
+Oxfordshire, OX11 ORA, United Kingdom
+ABSTRACT: Two new fields of development at AEA intervention and interruption of robotic
+Technology's Harwell Laboratory are described, operation, and so for effective application of
+covering telerobotics and hand controllers for industrial robotics to nuclear plant to occur,
+the nuclear industry. The first development operators must be able to augment the
+describes the production of a Nuclear Engineered functionality of the robot controller, providing
+Advanced Telerobot (NEATER) for applications in man-in the loop or telerobotic control. This
+decommissioning and waste handling. It is a re- paper describes how two developments at AEA
+engineered industrial robot based on_- the Technology's Harwell Laboatory have provided
+Staubli-Unimation PUMA 762 clean room manip- solutions to the problems that had prevented the
+ulator. The second development described application of industrial robotics to nuclear
+concerns dextrous hand controllers which can be plant processes, Working with an established
+used to control the motion of a _ telerobotic robot manufacturer, a radiation-tolerant version
+manipulator end effector as it moves in space of a commercially available industrial robot has
+and contacts surfaces and ‘workpieces. Several been produced, that is easy to maintain and
+input devices have been’ investigated for decontaminate, and is tolerant to high levels of
+characteristics such as user-friendliness, radiation (1056y). Telerobotic control of the
+» compactness and cost effectiveness. Servo robot is accomplished by uSing a microprocessor
+control of bilateral systems has been examined based input controller which conditions commands
+to optimize end point bilateral control. from joysticks or other input devices such as
+force balls. The input devices are usually
+configured for control of the tool or _ end
+effector, and the input controller takes care of
+1. INTRODUCTION the kinematic transformation of the appropriate
+co-ordinate system used by the robot controller.
+The nuclear industry relies on a variety of
+systems for remote handling that has changed The Nuclear Engineered Advanced  Telerobot
+little over the years. In comparison, (NEATER) and the appropriate choice of input
+automation has dramatically improved efficiency devices working through the input controller
+in conventional industries, and the industrial provide the necessary means of widespread
+robot has allowed a flexible approach to be application of industrial robot practice
+taken to assembly operations. There are similar throughout the nuclear industry,
+pressures to apply more advanced remote handling
+techniques in the: nuclear’ industry, but 2. APPLICATION AREAS
+uncertainty in task definitions and their
+precise description makes fixed automation The majority of remote handling operations in
+difficult to apply, except in regular near- nuclear plant are carried out by master-slave
+production plants such as re-processing or waste manipulators, power manipulators, cranes and
+processing. Even in these applications, special purpose machines. In general, except
+non-repetitive tasks occur, and the skill of for low radiation environments, robots are not
+human operators to adapting the use of used because radiation Soon damages sensors,
+manipulators to many different constraints is an cabling and any electronics. Many tasks would
+important feature of the operational life of the now be carried out using industrial robots if
+facility. If the processes involved in nuclear the radiation hazard was removed, and the
+facilities had no radiation hazard, industrial corollary is that a radiation-tolerant robot
+robots would feature in the tasks carried out. would be immediately useful to the industry.
+The corollary is that if a radiation-tolerant Uncertainty in tasks and their precise
+robot existed, it would be immeediately useful description and the complexity of non-repetitive
+to the industry. The uncertainty associated operations are other factors that preclude
+with some tasks would still need the human Strict robotic operation of manipulators, and
+— 363 -
+
+make some reliance on the skills of human pieces which could be remotely mated in-cell, if
+operators essential. Telerobotic control is a plinth was not available. Split-ring seals
+therefore required. Our approach has been to were added at major joints to increase the
+make as much use as possible of the industrial sealing efficiency and allow the use of a free-
+robotic controller, but condition operator running pressurised decontamination wash down,
+commands for tool deployment before they are prior to maintenance.
+sent to the Standard robot controller. This
+provides a more robust system design because the Basic performance parameters of the machine are
+development effort already incorporated in the unchanged, It has the same load capacity as the
+robot controller is made available to the 762 PUMA and the same reach. However it was
+overall product, and is not lost to the realised that variants were required to cover
+customer. The resulting system produces an the vast range of potential nuclear
+easy-to-use interface for the operator, and environments. The machine can be configured to
+Supports either pure robotic operations or suit three main combinations of activity and
+hybrid telerobotic/robotic operations. contamination.
+The mainstream applications for NEATER are 1) A basic radiation tolerant version of the
+thought to lie in the areas of decommissioning clean room PUMA without modularity or
+and waste management. However, because of the improved sealing, for high radiation, low
+flexibility of application of the machine, it is contamination applications (for example in
+envisaged that it may be also applied to: waste drum handling or swabbing) - designated
+PUMA 762N (N for nuclear).
+e fuel fabrication (including Mox fuels)
+e filter changing 2) A modular version, with improved seals but
+@ waste drum handling not highly radiation-tolerant, for
+@ inspection, monitoring and assay applications where decontamination is
+@ swabbing at any contamination level necessary but radiation levels are low (for
+@ posting and bagging operations example in replacement or assistance to
+@ decontamination pressurised-suit operations) - designated
+@ routine manipulation and tool deployment PUMA 762M (M for modular).
+@ decommissioning (from gloveboxes to reactors)
+3) A radiation-tolerant decontaminable version,
+3. FUNCTIONAL REQUIREMENTS which can be used in the most’ extreme
+environments, with modularity to help
+The design was envisaged as a two-Stage process. maintenance-designated PUMA 762NM (nuclear
+Initially the robot design would be re-worked and modular).
+with the robot manufacturer Staubli-Unimation to
+Produce a machine that was easy to service, had The prototype NEATER at Harwell began as Version
+high reliability with the attendant long service 2, with modularity, improved seals and some
+intervals, use as many industrially sourced radiation-tolerant components. It is now being
+components as possible, and potentially was of brought to a target tolerance of 105Gy,
+low cost. The design of the PUMA 762 clean room (Version 3) by the addition of specially
+robot, and the good surface finish of this re-designed radiation-tolerant encoders, and has
+machine, meant that it would be potentially easy already been exercised for over 1000 hours
+to decontaminate. The production of a prototype without failure. Fig 1 shows NEATER in the
+machine would allow many radiation-tolerant Robotics Demonstration Facility at Harwell
+components to be included and tested for their engaged in non-active trials of telerobotic
+compatibility of operation. Longer lead time glovebox size reduction.
+developments would be added on to the prototype
+machine in the second stage to bring its 4. SPECIFICATION OF PRODUCTION NEATERS
+anticipated radiation-tolerance to beyond
+1046y. Radiation testing of components and As mentioned, the 20 kg capacity of the 762 PUMA
+sub-systems has been carried out at Harwell and is available in the NEATER design at a top speed
+the results have been fed back into the design of 0.4 ms-l, At 1 ms-! this is reduced
+and manufacturing process. to 12 kg. An increased reach version, the 761
+PUMA, is also available in all three nuclear
+A maintenance review of the machine was carried environment versions,
+out to establish a procedure for dealing with
+failures of a contaminated machine. The review The final specification for the most advanced
+identified the benefit of having a removeable model, the 762NM is summarised as:
+forearm (equivalent to a detachable wrist in a
+conventional master-slave manipulator). A Load Capacity: 20 kg at a reach
+weight reduction of 100 kg was also possible, of 1.4m
+which would ease the burden on in-cell handling
+equiment, by simply making the base in two Maximum Velocity: 0.4ms-1 (20 kg)
+or 1.0ms~! (12 kg)
+— 364-~-
+
+Repeatability 35 kq in its entire workspace and a direct
+(robotic operation): + 0.2 mn vertical life of 350 kg, Fig 2. The proposed
+kinematic arrangement of the master arm is shown
+Operational Temperature: 10-50°C in Fig 3. Force reflecting characteristics are
+added along each degree of freedom to enhance the
+Radiation Tolerance: 10°Gy (100Mrad} overal| teleoperator performance. Different
+integrated dose kinds of drive arrangements and control system
+anticipated before implementations have been analysed by both
+major overhaul - simulation studies and experimental evaluations
+based on sub-system initially for a single axis system (3),
+and component test Results have shown that stable bilateral
+irradiations. performance can be established using electric
+force feedback actuators within the master arm.
+Contamination Protection: double seals on all Fig 4 shows typical simulated time responses of
+axes and covers the system using a position-to-position servo
+including grease system. It can be seen that backdriveability is
+packed labyrinth provided to the hydraulic servo drive by the use
+seals on axes 1-4 of an inner pressure feedback Joop. The
+and wrist gaiter on experiment! results shown in Fig 5 also indicate
+axes 5 and 6 the achievaable bilateral coupling stiffness
+between the master and the slave joints using
+Modularity: splittable at elbow the simpler position-to-position bilateral
+(joint 3) and at control scheme.
+base
+In order to add teleoperation capabilities to
+Maintainability: all bolts, fixings the NEATER Robot, it was decided to initiate a
+and electrical new development project to investigate the
+inter-connects feasibility and ramifications of a general
+designed for remote purpose hand controller for bilateral control (4).
+assembl y/disassembly By general purpose, it is meant that the
+input command device shall be capable of
+Weight: whole robot: 568 kg co-ordinating and controlling the remote
+forearm only: 66 kg manipulator's end effector as the operator
+base stand: 112 kg desires; for example, in a _ tool co-ordinate
+frame, world co-ordinate frame, inclined planes
+etc. Since the kinematics and dynamics are
+5, MASTER COMMAND INPUT DEVICE(S) dissimilar between the hand controller and the
+manipulator, the implementation of the
+Command input devices for teleoperations fall unilateral and bilateral control system
+into two distinct categories. The majority of essentially requires the computer to deal with
+the designs are based on a master arm which is these disparities - joint travel limits,
+kinematically either a replica or a scaled singularities etc.
+replica of the slave manipulator. The other
+kind of input device, sometimes called a general The first phase of the project is involved in
+purpose hand controller, is geometrically the development of a user-friendly input device
+dissimilar to the slave arm. Operator mechanism. Characteristics such aS compactness,
+preferences seem to vary from one industry to cost effectiveness etc, are of significant
+another. For example, operators in the nuclear importance to widen the scope of its use and
+industry have higherto preferred to use a thus improve performance. The use of two 3
+kinematically similar master arm to control a degrees of freedom joysticks, CAE's 6-axis
+slave manipulator, perhaps influenced by their joystick and DFVLR's 6-axis force/torque ball
+experience of handling mechanical master-slave demonstrated that unilateral end point control
+manipulators. By contrast D Yeorger (2) for of the NEATER Robot (4) could be achieved cost
+example, notes that operators in the of fshore effectively. However, some tasks require the
+industry have a great dislike of anthropomorphic end-point force/torque information to be
+master arm type input devices with large communicated back to the operator for successful
+coverage volume, as these tend to cause fatigue completion af these tasks.
+in prolonged operations.
+In order to add force reflection to a 6-axis
+At Harwell Laboratory, we decided to investigate joystick, it is necessary that the joystick is
+both options, initially for use with Harwell's displaceable over a _ reasonable range of
+Hydraulic Manipulator and more recently for the movement. This has led to the development of a
+upgraded PUMA 760N - NEATER Robot. The 6-axis displaceable joystick based on the
+independent hydraulic slave manipulator, which parallel link kinematics of the Stewart
+jis derived from an earlier hydro-mechanical platform, Fig 6. The mechanism design is
+master-slave system has a payload capacity of compact and easy to service and maintain. It
+— 365 -—
+
+has the potential to be a cheap and versatile
+input device for teleoperations, and in its
+basic form, can be used as a compound joystick.
+6. CONCLUSIONS
+The development programme has lasted two years
+and has resulted in a commercially available
+telerobot which can be easily used in a variety
+of nuclear applications. The short development
+timescale was possible because of the
+co-operation of an established robot
+manufacturer, and the ability to test, specify
+and re-engineer radiation-tolerant components at
+
+Harwell. The use of the prototype machine in
+
+active trials is anticipated within AEA
+
+Technology's Decommissioning and Radwaste
+
+programme, following the conclusion of inactive
+
+proving trials,
+7. REFERENCES
+
+1. E Abel, MH Brown, P J Fischer, D R Garlick,
+T T Hanna, kK Y Siva, “Nuclear Robotics
+Research at UKAEA's Harwell Laboratory", Proc
+ANS 3rd Topical Meeting on Robotics and
+Remote Systems, Charleston, 13-16th March
+1989, Paper 1-5,
+
+2. Subsea Teleoperations, Dana Yoerger (Woods
+Hole Oceanographic Institution) ONR Workshop
+on Dexterous Manipulation, Oxford August 1989,
+
+3. "The Development of a Force Reflecting Master
+Arm to Control the Harwell Hydraulic
+Manipulator", by K V Siva et al, Proc of the
+ANS Third Topical Meeting on Robotics and
+Remote Systems, Charleston, SC, March 13-16
+1989, The American Nuclear Society,
+
+4. "A General Purpose Hand Controller for
+Advanced Teleoperations", by K V Siva et al,
+Proc of the Int Symposium on Teleoperation
+and Control, Bristol, 12-15 July 1988, The
+Ergonomics Society.
+
+UKAEA Copyright 1990
+
+— 366 ~
+
+} Sem
+eRe hs eee
+a ae. ]
+s> : .
+© > : ;
+. e | , oe i |,
+Be 2 & , bY} 4 An oF
+. 1% : ~~ — rs in
+b 1 a =~
+\\ . ;
+- ay prem Sa
+—_ =) 7 hes ee
+y {= A —— a
+=~ {
+= h
+. FIGURE 1 - NEATER being used to continue non-active
+trials of telerobotic size reduction of
+gloveboxes
+— 367 -
+
+(é SS, Range of movements
+Ne and overall dimensions
+NA
+{i 45°
+((
+Mh
+Ny
+i}
+ove <a
+tsa 2s He |
+< h 60° |
+SF ’ dh 542 |
+=z TY |
+| th
+a 847
+Le +180°"
+}
+a y
+>
+gag
+KS
+£270°
+Yp
+— 368 -
+
+_ée
+‘| \s ca
+c : ¢ os i IO
+FT ff i s a
+\  & s\ fH 4 AE it
+4 Yb 4]
+c
+“ye |
+Z
+or Ih
+TT pideceel iO.)
+|; laa SY i (|
+ate Y Wh co :
+at rs a) nf
+¢ SG i 1 i i
+. {My oa C > at L |
+Soy , Ce) bbK
+LL ' ses EF (OS
+FIGURE 2 - The Harwell Hydraulic Manipulator
+— 369 -
+
+Macter Hendle Digital Conboliar Slave Arm (1 DOF) Master Hendie = Digilal Controller Steve Arm (1 DOF)
+i Poriion | f Position ]
+| Servo | | Sem |
+tenaucee [J © wonsducer [| T i
+raneducs i = t Position rans ducer enn = han Positron
+Ex] | {Comoensaton} QQ transducer [Combinoxntn} ; Tansdveer
+Sop LE) I PS csp | a
+' Mande
+Harti i {
+, Load ett Current ee
+i Current } urren
+F 4 Ampater - E Ampther vive
+Power e n Power e a
+Ampwiew --4 Ampliier 4
+LH 5 Presswe Force torquel_ J Presume
+Signal Transducers Servo Signal Transducers
+Conditioning Conditioning
+Module Module
+A Position-to-Position Bilateral Servo System A Force-to-Position Bilateral Servo System
+(with Pressure Feadback to Provide Backdriveability)
+v= sce oe <7" yo eae poe ee ey —__*~—$%-s0
+| \
+| |
+|
+Vv © 008 oom Se Y = O08 +000 i v= 00t-+ -
+Plot of master-slave positions Plot ct master-slave positions . Plot of master-slave positions
+FIGURE 4 - Simulation of the Bi] ateral Servo Systems
+@ =
+ce eGo oietonmter | Analog Digtal to
+Sow Controfler (PACS)
+Conrhtionng ir —— J me
+< ] | Re command ~|| (reduce [Slave { “e
+} / | ; Pressure | rite f+ eeva Vatve | 4 sf ‘
+sec “ | ; Transducers t Ampitrer Li Aanethee ! = 4
+Valve < | arp 4s
+Ampiter
+Zo Ur Slava Acm CE
+Reduction ~~ rian 4 )) |
+on Mx] rome | WY Nt
+SA Awplber , ' % . |
+AB | dhe iss NES yo pl =
+! Ap mesuee | 1" Y'} Py aa n |
+‘ 1 ? 6
+Poteetio a \ i | [ ww }
+miter p 1 i ‘ ! ma J
+= ' 1
+ee a \ Led
+= Ceeribe (clectny Po {Sy et rene
+UY Single 0.0.F. Experimental Layout (Schematic) Conirol System Arrangement
+= 0} i ‘ - Me 4 4 t — 178 one
+fs} oh Eos, oS —_——
+' . 5 ' : : <0 3
+* wwf Pr ns ss | = = e
+i io § /* of bo > }
+é ; < Tre reece ° ak Te pecs ° : 1 Tee eres
+Time response (somidirect drive) Mastor joint stiffness (semi-direct drive) Slave to master FFB ratio (sembdirect drive)
+FIGURE 5 - The Experimental Ri g and Some of the Results
+~ 870 -
+
+Ni
+_
+a
+* sal :\ ° r
+hl ee - lee) a
+ttl, M wn t
+p /
+» \
+gd Wi , \ ‘ "
+SS & s -
+/ : t) 2: 7
+— - a ‘ ‘>
+~_— oF Woy °1 a
+| ,
+- I e ‘ a °
+FIGURE 6 - A Hand Controller based on the Stewart Platform
+~ 371—
+
+' . ° . , - , .
+. “ : ‘ oe ;
+ie * ~ = - a . 7 =
+. . . ‘
+?
+‘
+.
+
+‘
+4
+
+patOho merle,
+Towards a New Frontier of
+Applications
+
+IEEE International Workshop
+on Intelligent Robots and Systems
+IROS ’90
+Workshop Organization
+|
+|
+General Co-Chairman: Tatsuo Gotoh (Hitachi Koki Co.)
+General Co-Chairman: Ichiro Kato (Waseda Univ.)
+General Co-Chairman: Richard P, Paul (Univ. of Pennsylvania)
+Advisory Council Co-Chairman: Fumio Harashima . (Univ. of Tokyo)
+Advisory Council Co-Chairman: Toshio Fukuda ~~. (Nagoya Univ.)
+Advisory Council Co-Chairman: Shin’ichi Yuta (Univ. of Tsukuba)
+Technical Program Co-Chairman: Suguru Arimoto ie (Univ. of Tokyo)
+Technical Program Co-Chairman: Masakatsu Fujie i (Ilitachi)
+Administrative Council Co-Chairman: Toru Hayama (Hitachi)
+Administrative Council Co-Chairman: Yasunori Tashiro (New Tech. Foundation)
+General Secretary: Taro Iwamoto (Hitachi)
+General Secretary: Norihisa Miyake (itachi)
+Technical Program Committee
+Co-Chairman: Suguru Arimoto (Univ. of Tokyo) -~-—
+Co-Chairman: Masakatsu Fujie (Elitachi)
+v~™ FE. Abel (Harwell Lab., U.K.) R. C. Luo (N. Carolina St. Univ.)
+K. Asano (Toshiba) M.Mizukawa (NTT)
+M. Brady (Univ. of Oxford) R. Neville (SPAR Aerospace )
+R. Chatila (LAAS, France) W. Newman (Philips)
+P. Dario (Univ. of Pisa) T. Ohmichi (Mitsubishi FHvy. Ind. )
+P. Forster (Univ. of Edinburgh) F.G. Pin (Oak Ridge Natl. Lab. )
+G. Fraize (CEN/FAR, France) N. Roth (Siemens )
+M. Garfinkel (General Electric) J.K. Salisbury (MIT)
+V. Graefe (Univ. Bw. Munchen) R-D. Schraft (PA, F.R.Germany)
+Hl. Hashimoto (Univ. of Tokyo) A. Takanishi (Waseda Univ.)
+G. Hirzinger (German Aerospace Res. Est.) K. Takase (ETL,MITD
+S. W.Ilolland (General Motors Res. Lab.) K. Tanie (MEL,MI'TD
+Ii. Holler (Kfz., Karlsruhe) T. Uchiyama — (Fujilsu)
+5. HMosogai (Science Univ.of Tokyo) A.C. Weaver (Univ. of Virginia)
+N. Ichikawa (New Tech. Found.) W. Whittaker (CMU)
+A.C. Kak (Purdue Univ.) T. Yoshida (Shimizu Build. Const.)
+J-C. Latombe (Stanford Univ.) Y. F. Zheng (Ohio State Univ.)
+C. Laugier (LUFIA, France)
+Advisory Council
+Co-Chairman: Fumio Harashima (Univ. of Tokyo)
+Co-Chairman: Toshio Fukuda (Nagoya Univ.)
+Co-Chairman: Shinichi Yuta (Univ. of Tsukuba)
+F. Aldana (Univ. Politec. Madrid) B. Roth (Stanford Univ.)
+M. Bjiri (Hitachi) A. Rovetta (Politec. Milano)
+M.Feldmann (CESTA, France) A.C. Sanderson (Rensselaer Poly. Inst.)
+G. Giralt (LAAS, France) Y. Sawaragi (Japan Inst. System Res.)
+H. Hanafusa (Ritsumeikan Univ.) G. Schmidt (Tech. Univ. Munchen)
+T. Ishiguro (NEC) T. J. Tarn (Washington Univ.)
+T. Kanade (CMU) R. 1. Taylor (IBM )
+J. Lammasniemi(Tech. Res. Ctr. Finland ) 5. Thuji (Osaka Univ. )
+V.d.Lumelsky (Yale Univ.) S. Tzafeslas (Univ. of Athens)
+T. Martin (Kfz., Karlsruhe ) H. Yamazaki (Univ. of Tokyo)
+M.Nakamura (New Tech. Found. ) K. Yonemoto = (Japan Ind. Robot Assoc.)
+E. Ohno (Mitsubishi Electric ) If-J. Warnecke (IPA, F.R.Germany)
+M.H.Raibert (MIT) .
+b
+

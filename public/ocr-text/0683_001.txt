@@ -1,0 +1,182 @@
+PULSED CRYOGENICALLY COOLED COILS FOR MAGLEV EXPERIMENTS
+E, Abel .
+Atomic Energy Authority, Harwell, U.K.
+J.L. Mahtani and R.G. Rhodes,
+Engineering Department, University of Warwick, Coventry CV4 7AL, U.K.
+
+As a less costly altermative to the use of a superconducting coil
+
+in the experimental testing of the split-track maglev system for
+
+high spead transport, pulse-operated copper coils, cooled with
+
+liquid nitrogen, have been successfully used for the force measure- .
+
+Ments. Calculations have been carried out for constant current
+
+conditions to establish the conductor specific heat, resistance
+
+and voltage time relationships during the pulse, together with an
+
+experimental investigation of coil heat transfer in restricted open
+
+pool boiling. The result has been an increased sensitivity and :
+
+the ability to examine a variety of configurations at a reduced :
+
+cost.
+INTRODUCTION
+For small scale levitation experiments based on the electrodynamic principle, super-
+conducting magnets with their relatively small power supplies have been used for ext-
+ended running and, at Warwick, tests have been carried out with a superconducting .
+coil mounted in a force balance above a 3-m diameter test wheel, operating up to
+45 m/s. However, it was found that the superconducting coil with its mechanical
+supports within the helium cryostat and vacuum assembly tended to make design changes
+relatively expensive and experimentally difficult, For prototype design configur-
+
+ese ations, therefore, it would be advantageous to use conventional copper coils to invest~
+
+igate the effect of coil shapes on the strength and distribution of the forces gener-
+ated. This would enable an optimised coil geometry to be developed as the initial
+stage before constructing the superconducting coil, .
+The design of the coils requires a minimal cross-section conductor area in order to
+model the geometric relationship with the superconducting equivalent. To match the
+constant flux condition of the superconducting coil the high current density is acco-
+mmodated by pulse operation of the coils under constant current excitation. More
+normal operation of pulse coils is with a constant voltage and so a previous analysis
+is re-examined for constant current conditions. The calculations establish the con-
+ductor specific heat, resistance and voltage time relationships during the pulse and
+these are supplemented with an experimental investigation of coil heat transfer in .
+restricted openpool boiling, This investigation. has allowed pulse-operated copper.
+coils with a liquid nitrogen cryogen to be used as an alternative to superconducting
+coils over the 3-metre test wheel, Levitation force measure ments have established
+parameter dependence for the split-track system and the results compare with predict-
+10ns.
+In the following analysis the voltage and temperature rise in a cryogenically-cooled
+copper coil, pulsed with uniform current density, are established (the ampere-turns
+are kept constant under current control),
+
+Vree. Niat 4k. CY exenee Eng eony Confer seR
+
+KA Teen
+I -ld May (96t  ( CECI.
+
+ANALYSIS. FOR PRECOOLED COILS ‘
+The analysis has been carried out on the basis that the resistivity of the copper coil
+is reduced by a factor of 8 at the temperature of liquid nitrogen. Likewise, the
+‘ specific heat, c_ , is also temperature dependent. The fundamental equations govern-
+; ing the current Bad temperature rise in a uniform current density, pulsed coil are
+given by,
+v(t) = L di(t)/de + i(t)(Re + R(t)) . (1)
+and 2
+. ar(e) /de = i”(e)R(t) /ye, (¢) (2)
+where v(t), i(t), R(t) are the terminal voltage, coil current and coil resistance
+at time t, respectively, and L = coil inductance, Re = extemal (current lead)
+resistance, y = conductor density (kg/m3), V = conductor volume (m3), ¢ (t) =
+conductor specific heat (J/kgk), and T(t) = conductor temperature (K). P If we assume
+that both v(t) and T(t) can be represented by a power series expansion [1] then
+equations (1) and (2) can be satisfied for all the coefficients sequentially, thus
+oa
+2 3 n : n
+v(t) =v Fvjttvyt tvyt + eet VE eee ae (3)
+and since the current will be kept constant, then di(t)/dt = 0 and i(t) = I so that ata
+(1) becomes
+v(t) = 1(R, + R(t)) (4)
+The way that the coil resistance R(t) and R(t)/c (ct) varies with time is not known, ;
+but can be deduced. from the temperature at time E by the relationships:
+R(t) = R[l + (T(t) - 7] (5)
+R(t) /yVe_(r) = ¢ [1 +B (T(t) - T.)] (6)
+P 9 o oo 1 .
+and T(t) =b + bit +b t2 + batt oe eth t+ ... 2) bt. (7)
+o 1 2 3 n nzo @
+7 n a
+so that R(t) = R [1 + ak, bat ] (8)
+and R(t)yVe_(t) =c [1+ bt 9
+Ye, ol pL atl (9)
+a
+ia and from (7), dT(t)/dt = ) pb ae (10)
+n=1 =n
+Substituting (3), (8), (9) and (10) into (4) and (2) and equating coefficients, it
+can be shown that:
+_ 2 12.22 .,1.4, 3,3 :
+(v(t) - vg/TR, = Valet + gibeot + eI Bet + -o- | (11)
+x
+Now if the specific heat of the conductor at t = O (and T = T) is c, then from (9)
+* - -
+co = R/yWe, and introducing another non-dimensional constant x, the ratio of coil
+power input to coil heat capacity normalised by the coil time constant, L/Rj(=T,)5
+i.e. Xx = Ve L/R,s (12)
+. So, if equation (11) is normalised by the coil time constant, then by substituting .
+(12) and, by using the Maclaurin expansion for ePXt to give a closed solution, it
+can be shown that
+v(t) -v DAR, = a/B (ex* - 1] , (13)
+and for the conductor temperature rise,
+~p -2ypbxt yy ad fy@ 5
+T(r) - T= G [e al Fe [x 1 (14)
+. 0
+The constants a and B relate to copper conductors at liquid nitrogen temperatures,
+a
+
+and have values of 0.031 and 0.014 respectively [3]. Equation (13) is plotted in |
+Fig. 1 for a range of values of xt. For low values of xT, the relationship is |
+linear, decade for decade. |
+Fig. 2 shows the normalised voltage rise for a family of x and t. The values of x
+in parenthesis refer to the higher values of 1, where Tt has an expanded range. |
+: For other values of x or Tt, the abscissa or x value can be scaled appropriately.
+|
+.
+CONCLUSIONS |
+This investigation has shown that pulse-operated copper coils with liquid nitrogen
+cooling can be used as a cheaper and more versatile alternative to superconducting
+coils for scaled experiments. It is also suggested from this work that copper or . |
+aluminium coils with liquid nitrogen, pool boiling could provide an acceptable and
+cost effective alternative to superconductors for the field coils of a linear :
+synchronous motor drive for a wheeled suspension, transport system, |
+ACKNOWLEDGEMENTS — |
+The authors wish to express their thanks to the Science and Engineering Research
+Council for a grant in support of this research.
+REFERENCES
+1. Montgomery, D.B., 'Solenoid Magnet Design’, John Wiley, New York, 1969.
+26 Brechna, H., ‘Superconducting Magnet Systems’, p.443, Springer-Verlag, és
+Berlin, 1973.
+3. Johnson, V.J., ‘Properties of Materials at Low Temperatures’, Pergamon
+Press, New York, 1961. |
+é
+q '
+|
+|
+|
+
+/
+7
+7 :
+if
+V(t) /
+ae -| 7
+Vo {7
+1 7
+‘¢
+J
+“01 .
+f 1:0 10:0 100
+| —— “3 Xt— |
+Fig. 1. Normalized voltage vise for ‘constant current coil.
+: a , ae
+vit) 4
+Vo , .
+10 360} 240 120 «/90 . 60 Ls
+(12)) (8) (4) / (3) (2) 5) | P
+8 30
+2 : ; (1)
+z (
+20 .
+‘ : (699)
+15
+2 (0-5)
+10
+(0°33)
+1:0 2-0 3-0 4:0
+(30) (60) (30) T (120)
+————
+Fig. 2. Normalized voltage rise for constant current coil.
+

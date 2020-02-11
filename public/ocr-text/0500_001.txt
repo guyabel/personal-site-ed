@@ -1,0 +1,146 @@
+y REMOTE TECHNOLOGY
+u a
+By E Abel and A A Dumbreck
+1 1 . 7
+AEA Technology's 3D TV equipment shows performance benefits over conventional
+television — it is quicker and easier to use, requiring less precision and less camera
+deployment manipulators. Operators have taken to the new system very quickly.
+ay i a8
+Sek he
+: ? ah . Me, 4
+ae - _— b
+os an ~
+ad oa a e- a : nS
+diet ee awe 4 : :
+Cae Rs a ag “Sie eed cont
+I ce ae , {’ | im
+re, = ,
+el j — : ,
+a é — Fates ~ ; ET OS —
+-* © Pal eieey K Ls oe
+r, P ai po —— a : sy , eee Ber ui a f a .
+fi “ I 7 ron PS eas | ' ; if , ¥ mo ‘
+| : y Bott aa 4 ( >
+m4 ' t zz f Py Bes tad hd 4 ly
+bs ‘ Fi A ~ ieee i dene - A
+ee Ze Wo OREM WF oN:
+ed de ER ye vif : ae
+PAD cha (Cee
+. vig: pled yt” F P
+e« " pi? a Say ny 4 ) (
+aa r a ry S dy ~
+es: ste
+Ne — ae
+. oy eater Loko = .
+i , 1 T rec, BE: i
+5 } —_—
+17m
+3
+A The latest, third generation 3D TV camera can be used in many different nuclear applications. Requirements were matched at
+different nuclear facilities in the UK and the most stringent values adopted. This approach placed extreme constraints on the
+camera design, but the result is a versatile and robust camera which will also be suitable for many applications beyond those
+foreseen at present.
+Direct viewing of remote handling tasks useful cool for remote handling has @ Evaluating and deploying chese
+in decommissioning, operation, inspec- existed for some time. Experiments at third generation systems in radioactive
+ction and repair of nuclear facilities ts Harwell in che lace 1970s began to environments,
+constrained by the need co contain the quantify the benefits that could be
+workspace and co provide adequate obtained by using simple orthogonal tv Alongside chis programme, work has
+shiclding for operators and other staff. configurations (separate Tv cameras been carried out on the videocape record-
+Improvements in camera design and viewing a workplace from 90°-aparc ing of sb celevision pictures, which ts
+display technology, and an underscand- positions), high definition Tv, and proto- useful for referencing and = archiving
+ing of radiacion colerance and human type stereoscopic systems, In 1983 che facility equipment and for craining
+factors, have been brought cogether ac programme of work was focused onto the operators in new techniques. Extensive
+AEA Technology co provide a range of objective of producing practical, easy-to- human faccors studies carried out during
+stereoscopic or 3b TY viewing systems. use and reliable 3p rv syscems tor the the evaluacion of che 3p rv systems have
+These allow operators to assess condi- nuclear indusery. confirmed che adequacy of the design
+tions accurately in a remore environ- The development programme has criteria and allowed guidelines co be set
+menc, and can be used either to observe gone chrough the following stages: which can be praccically achieved in che
+or inspect, and to help in completing manutacture of sb TV systems.
+complex manipulations and tool deploy- @ Determining che design criteria for
+ment. comfortable-cto-view, useful 3p TV. sys- CAMERAS AND DISPLAYS
+tems. Successful engineering of a 3D TV syscem
+DEVELOPING 3D TV @ Building engineered prototype cam- requires atcenction both co the cameras
+The concept of producing 3p Tv as a eras and displays. and co che display technique. The
+@ Evaluating prototype systems in principle is co arrange two separate (left
+The anthars ave with AEA Vechnulagy. DER Business cold mock-ups. anc right) images from che cameras ina
+thowell Laboratory, URAEA, ONTL ORA. UK @ Building second generation systems, display. The images are naturally similar
+AEA Tichnudagy as the trading nani fur the legal entity , aloaey . : - , : ve
+on a ar and evaluating them. bur presenc slight horizoncal disparicies,
+UKALA. DER = Deommisioning and Ruadweste Buni- en ae . . Le é Fe :
+nex — me af the wine busineser unhin ABA @ Building third generation, radia- providing depth informacion when
+Kednadogy tion-tolerant black and white syscems. viewed correctly. The display mechod
+44 NUCLEAR ENGINEERING INTERNATIONAL
+Nov. 1990
+VARS Ne 436
+
+REMOTE TECHNOLOGY
+that has been chosen for current work Third generation. The latest development significant benefits, including:
+uses (wo monitors, each with polarizing is a third generation 3p Tv camera that
+filcers at cheir faces, set together at right can be used in many different nuclear @ A general reduction in the number
+angles. The two polarized images repre- applications. The specification was de- of views (and hence cameras and support
+senting left and right camera views are rived by matching requirements at dif structures) required.
+combined through a_ semi-reflective ferent nuclear facilities in the UK and @ Paster operational cimes, with
+mirror, and then viewed with polarized adopting the most stringent values. This greater improvements for cask elements
+spectacles similar in appearance to ordi- approach placed extreme constraints on requiring alignment.
+nary sunglasses. the camera design, but the result is a @ Fewer manipulator movements for a
+There is no time difference becwcen versatile and robust camera which will given task, which implies fewer errors
+the display's left and right images. The also be suitable for many applications and less collisions.
+mechanical design embodied in the beyond those foreseen at present. In @ less critical camera positioning.
+camera mounting and control, with the particular, the long cable length and @ Operator preference for 3p.
+precise assembly of the monitors, ensures slim diameter of the camera make it
+that the design criteria can be met. The ideal for reactor inspection and in-cell The last point is significanc in that no
+observer can accept size scaling of images viewing of manipulative or decommis- ill effects have been noticed in trials of
+easily, but attempts to reproduce scenes sioning-type tasks. A target radiation the prototype and engineered systems.
+with excessive depth, or ones with either tolerance is LO°Gy, with dose rates up to The face that new and untrained opera-
+vertical disparities or inconsistent LO'Gy/h. Individual components have tors appear to be at ease with a task more
+matches of images, resulc in discomfort been irradiated at Harwell and shown to quickly using 3b Tv implies that the
+and a resistance to using the system. perform well, but specific applications complexity of the task could be in-
+Controls for picture shape and adjust- may require extensions to these confir- creased, or conversely, that less skilled
+ment of parameters such as colour and matory experiments. operators could be used. The results of
+grey level are available for setting-up, Computer control of focus and conver- human factors and experimental trials
+but in practice, che pictures remain gence (which are noc mechanically have been used to refine the design of the
+stable over long periods of time without linked in this camera) allows a skilled 3b Tv system hardware and operational
+the need for recalibration. operator to further enhance performance procedures. a
+Other designs for black-and-white of the system if required. The computer
+displays, smaller displays and built-in is used co provide information on lens aa deveropment _— has Deen carried
+workstations have been produced and status (wide or narrow-angle pairs), a Central Electricity Generating, Board.
+buile. The method of display using coolant flow, temperature, and conver-
+polarizing light was chosen after assess- gence distance — which can be used for UKAEA Copyright 1990
+ing all che reported methods of 3p Tv measuring distances with accuracy.
+display; it gives the bese pictures. It is
+worth mentioning briefly two alterna- SUBSE IG ThktSrSiieM prac a
+tives. Time division displays produce During the development programme, ‘ iret oak Se
+noticeable time differences between left evaluations and operating experience has ne __-:___iy
+and right images. Simple versions show accumulated. It is apparent that for (ates
+flicker, which we believe is unaccepta- effective teleoperation, visual feedback is eg
+ble, and these versions should be avoided as, if not more important than force or ' 3 a i |
+because of operator discomfort. Higher position feedback from a manipulator, \G ‘ ae
+quality time division systems are feasible and this should be reflected in the 9 et
+but would be expensive because of the budgetary process in specifying equip- a WH
+need for non-standard equipment. Pro- ment. Initial simple comparisons of ' = = on
+totype autosctereoscopic Tv displays have performance of high definition and 3p Tv ba Rf
+been demonstrated at Harwell. These systems were supplemented by more ees ee as
+systems do not require the observer to complex applications of Tv involving . fs
+wear viewing aids and show promise for some form of manipulative task. Com- ) i.
+some future applications. parisons have been made using force , . nay | ie
+The first two prototype black-and- reflecting manipulators, a variety of task no. | pe esa
+white 3p TV cameras used four solid-state boxes, and sorting tasks, where depth ere
+cameras with a wide-angle pair stacked information is vital in avoiding uncer- S55 55 S555) ae |
+on top of a narrow angle pair, replicating tainty in unstructured environments. 7 Ne ——
+the extremes of a zoom lens arrange- Trials at AEA Technology's Windscale dd OO ,
+menc. The camera optics were designed Nuclear Laboratory have compared per- ren |
+so that focus and convergence were formance benefits of 3p TV over orthogo- Taso *
+coincident for each camera pair. The nal TV in operations such as remotely ee 4
+appropriate camera pairs were selected at cropping reinforcing bars using an in- =
+the display control panel. dustrial robot carrying a hydraulic tool. ‘ i
+Colour 3b cameras used pairs of Another experiment, also at Windscale,
+repackaged single sensor solid-state confirmed the benefit of 3p Tv in han- -: :
+cameras, and improvements in the lens dling and accurately relocating samples =
+carriage mechanism meant chat ic could of cut reactor pressure vessel using a : =
+accommodate other sensors. The opera- crane, -
+tor could select automatic or manual iris ; ; A Usingthecolour3D display. Designed
+control, and che position feedback of Langible benefits. Some of the major to be moved into position alongside a
+focus gave data from which range infor- conclusions to come out of these evalua- manipulator control station, it is larger
+mation could be calculated. tions are that 3b Tv gives tangible and than a built-in display.
+November 1990 45
+

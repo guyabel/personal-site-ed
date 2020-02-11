@@ -1,0 +1,438 @@
+611
+NEATER - A TELEROBOT FOR THE NUCLEAR INDUSTRY
+E Abel, MH Brown, PJ Fischer, RE Sharp, KV Siva
+Remote Handling & Robotics Department
+AEA Technology
+Harwell Laboratory
+Oxfordshire OX11 ORA
+United Kingdom
+Tel: +44 235 434987
+ABSTRACT
+A new telerobotic manipulator has been produced for
+use in nuclear and other industries where teleoperation
+or robotics is required, and environmental conditions
+exclude the use of standard manipulators. NEATER, the
+Nuclear Engineered Advanced Telerobot, is based on the
+adaption of a commercially available industrial robot to
+the particular needs of the nuclear industry. AEA
+Technology has worked directly with a robot manufacturer
+to ensure that NEATER benefits from the long term reli-
+ability that is common in_ industrial robots. “Radiation
+tolerant sub-systems have been included in NEATER’s
+design and three’ different versions are available to
+meet a wide range of application areas. A_ telerobotic
+controller is connected to the standard robot control-
+ler. The prototype NEATER has __ successfully ‘operated
+for over a year, with more than 1200 operating hours.
+Trials using telerobotically deployed tools for glovebox
+decommissioning have proved the concept, and _ robotic
+operations such -as swabbing have been completed. The
+paper describes the background to the design, identifies
+the main features of NEATER and gives details of appli-
+cation areas.
+INTRODUCTION
+The Remote Handling and Robotics Department [RHRD] of AEA
+Technology has just completed the development of NEATER - the Nuclear
+Engineered Advanced Telerobot. [Figure 1] NEATER represents a new
+approach to remote handling, and is based on the adaption of a commerc-
+ially available industrial robot design to the particular requirements of
+the nuclear industry. The result is a manipulator which is significantly
+cheaper than a purpose-built design, and which benefits from the experi-
+ence gained of millions of operational hours of thousands of similar
+models working in non-nuclear applications.
+The NEATER concept has evolved over the last five years under the
+Department of Energy funded Active Handling Programme. The potential for
+using modified industrial robots came from a study completed in 1985 [1].
+A telerobotic controller that could be interfaced easily with a standard
+ANG Pr. Lb be Topic Reta Fer Ft mo RdoAat ent Syshus,
+—~  PAbngmesne ¢- 6- 6h»
+
+612
+= Ste tala — ~ : “4
+See TS aht+
+aa
+a= th Bee. “aon . et i = # - agate
+a eS mn eae me * Mag a eaqgt Or 7
+is
+rer c ra Se + : '
+ip ; ae es KP ' -
+ae uF Pp: ner : Se os “A
+ee 7
+ews Se -
+Vo Pr ae a
+ee ; ' ul ie
+ay er
+ae (lle Pe hie ot ;
+‘ aa - - ft SAE PEN o ewe = ae 4 "
+a ian ae mie w t a > |
+ou ee Pe ne s/n me =k ya
+ions + “it rary a
+) h | | rs
+‘ . r Ay Sire , we
+Tm 5 ae Ss
+| ll
+SNS TSS fae
+3 * 5 yl E aD
+Figure 1 NEATER in the Robotics Demonstration Facility)
+
+a) The Robotics Demonstration Facility is described in References 2 and 3. Several:
+different robotic or telerobotic systems can be used to carry out inactive feas-
+ibility trials of tasks such as surface monitoring, decontamination, decommiss-
+ioning, waste handling and packaging.
+
+613
+robotic controller has also been built.[2,3] Input devices such as joy-
+sticks or force balls are available to drive the robot [acting as a slave
+manipulator] in a tool or world co-ordinate system. The robot acts as a
+man-in-the-loop controlled manipulator, or telerobot. Programmed operat-
+ion is still available, and off-line programming techniques can be used,
+in conjunction with a proprietary kinematic modelling system, GRASP. New
+input devices will allow force reflection.[4]
+
+Teleoperation needs good viewing, and also in RHRD, a parallel
+programme of work in 3-D TV for nuclear applications has produced robust
+hardware. {5] The design of 3-D TV is based on guidelines that have
+been tested in human factors evaluations of tasks using the 3-D TV and
+other TV combinations, often with a manipulative task. [6]
+
+Staéubli-Unimation and AEA Technology combined experience to develop
+NEATER. Stiubli-Unimation carried out the mechanical design and manuf-
+acture of a prototype machine based on their 20kg capacity PUMA-762 Clean
+Room Robot. AEA Technology assessed the original design for radiation
+tolerance, and specified the new materials and subsystems which were
+incorporated in the design process. The machine has been at the Harwell
+Laboratory for over one year and has accumulated over 1200 operational
+hours experience without failure. Variants of the design have been built
+and tested for a high activity application [10° Gy] and inactive trials
+have continued using NEATER to investigate telerobotic decommissioning of
+gloveboxes.
+
+APPLICATION AREAS
+
+The majority of remote handling operations in nuclear plant are
+carried out by master slave manipulators, power manipulators, cranes and
+special purpose machines. In general, except for low radiation environm-
+ents robots are not used because radiation soon damages sensors, cabling
+and any electronics. Many tasks would now be carried out using industr-
+ial robots if the radiation hazard was removed, and the corollary is that
+a radiation tolerant robot would be immediately useful to the industry.
+Uncertainty in tasks and their precise description and the complexity of
+non-repetitive operations is another factor that precludes strict robotic
+operation of manipulators, and relies on the skills of human operators.
+Telerobotic control is possible and our approach has been to use as much
+of the supplied robotic controller as possible, but condition operator
+commands for tool deployment before they are sent to the standard robot
+controller. This provides a more robust system design because the
+development effort applied to the robot controller is incorporated in the
+overall product, and not lost to the customer. Pure robotic operations
+and hybrid telerobotic/robotic control produces a easy-to-use interface
+for the operator.
+
+The mainstream applications for NEATER are thought to lie in the
+areas of decommissioning and waste management. However, because of the
+flexibility of application of the machine, it is envisaged that it will
+also be applied to:
+
+614
+¢ fuel fabrication [including Mox fuels]
+° filter changing
+* waste drum handling
+* inspection, monitoring and assay
+¢ swabbing at any contamination level
+* posting and bagging operations
+¢ decontamination
+* routine manipulation and tool deployment
+* decommissioning, gloveboxes to reactors
+FUNCTIONAL REQUIREMENTS
+
+The development of NEATER was envisaged as a two stage process. [3]
+Initially the robot design would be reworked with Stiubli Unimation to
+produce a machine that was easy to service, had high reliability with the
+attendant long service intervals, and use as many industrially sourced
+components as possible. It would be a low-cost machine, compared to a
+special purpose one-off design. This first stage would include a target
+specification that would be useful for the majority of contaminated
+environments. The high-radiation-tolerance applications would be tackled
+in the second stage of the development programme. Wherever possible, the
+first stage version would be designed to accommodate high radiation
+tolerant components in the second stage up-grade.
+
+The design was based on the PUMA 762 clean room robot, and the good
+surface finish of this machine meant that it would be potentially easy to
+decontaminate. The production of a prototype machine would allow many
+radiation tolerant components to be included and tested for their compat-
+ibility of operation. .Longer lead time developments would be added on to
+the prototype machine in the second stage to bring its anticipated radi-
+ation tolerance to beyond 104 Gy. Radiation testing of components and
+subsystems was carried out at Harwell and the results were fed back into
+the design and manufacturing process. It was found that a radiation tol-
+crance of -106 Gy was possible through careful selection of components,
+and so the two stage process has been completed through one prototype.
+
+The robot and telerobotic controllers would be outside the radiolo-
+gical controlled area, as shown in Figure 2. A maintenance review of the
+machine was carried out to establish a procedure for dealing with failur-
+es of a contaminated machine. The review identified the benefit of hav-
+ing a removeable forearm [equivalent to a detachable wrist in a convent-
+ional master-slave-manipulator]. A weight reduction of 100kg to ease the
+burden on in-cell handling equipment, was also shown to be possible, by
+simply making the base in two pieces which could be remotely mated in
+cell, if a plinth was not available. [Figure 3] Split-ring seals were
+added at major joints to increase the sealing efficiency and allow the
+use of a free-running pressurised decontamination wash down, prior to
+maintenance.
+
+Basic performance parameters of the machine are unchanged. It has
+the same load capacity as the 762 PUMA and the same reach. However it was
+realised that variants were required to cover the vast range of potential
+nuclear environments. The machine can be configured to suit three main
+combinations of activity and contamination.
+
+615
+wa Modified robot QQ
+so sy SQ
+% ie
+Standard controller =
+i
+~ <3 ah
+6 OY 4 ‘i Wh
+I.
+e Ya a
+4 RB
+Radiation tolerant interconnections
+Figure 2 Separation of the Modified Robot System
+Saat %
+Quick release
+connectors
+| = «<—— Separation
+J at base
+Figure 3 Modularity of the Modified Robot System
+
+616
+1) A basic radiation tolerant version of the clean room PUMA
+. Without modularity or improved sealing, for high radiation,
+low contamination applications [for example in waste drum
+handling or swabbing] - designated PUMA 762N [N for nuclear]
+
+2) A modular version, with improved seals but not highly
+radiation tolerant, for applications where decontamination is
+necessary but radiation levels are low [for example in
+replacement of or assistance to pressurised-suit operations}
+- designated PUMA 762M [M for modular].
+
+3) A radiation tolerant decontaminable version, which can be
+used in the most extreme environments with modularity to help
+maintenance - designated PUMA 762NM [nuclear and modular].
+
+The prototype NEATER at Harwell began as Version 2, with modular-
+ity, improved seals and some radiation tolerant components. It is now
+being brought to the target tolerance of 106 Gy, [Version 3] by the add-
+ition of specially redesigned radiation tolerant encoders.
+
+SPECIFICATION OF PRODUCTION NEATERS
+
+As mentioned, the 20kg capacity of the 762 PUMA is available in the
+NEATER design at a top speed of 0.4ms-!. At ims-! this is reduced to
+12kg. An increased reach version [the 761 PUMA], is also available in
+all three nuclear environment versions.
+
+The final specification for the most advanced model, the 762NM is
+summarised as:
+
+Load Capacity 20kg at a reach of 1.4m
+
+Maximum velocity 0.4ms-![20kg] or 1.0ms-!{12kg]
+
+Repeatability[robotic operation] +0.2mm
+
+Operational temperature 10-50°C
+
+Radiation Tolerance 106Gy [100M rad] integrated By
+
+dose anticipated before major
+overhaul-based on sub system &
+component test irradiations.
+
+Contamination protection double seals on all axes and
+
+covers including grease packed
+labyrinth seals on axes 1-4 and
+wrist gaiter on axes 5 and 6.
+
+Modularity splittable at elbow [joint 3] &
+
+at base.
+
+Maintainability all bolts, fixings & electrical
+
+interconnects designed for rem-
+
+ote assembly/disassembly
+Weight whole robot 568kg
+
+forearm only 66kg
+
+base stand 112kg
+
+617
+EXPERIENCE WITH NEATER
+Maintenance of NEATER
+All components on NEATER are designed to be easily removed if
+maintenance operations are required. All the bolts and fixings may need
+to be manipulated by pressurized suit operators, and they are designed to
+accept tools that can also be deployed by another manipulator. Electric-
+al and service connectors are the quick-release type. The maintenance
+sequence is made up of the following steps
+« detect failure
+¢ diagnose fault and identify remedial action
+* separate robot arm at joint 3 remotely, if appropriate
+* transfer forearm and wrist or upper arm, shoulder, and trunk to
+decontamination area
+« decontaminate, remove gaiters, and monitor exterior of machine
+* transfer to low radiation and contamination maintenance area
+* remove arm covers and monitor interior
+¢ dismantle, repair, replace and readjust assemblies to correct
+fault; hands-on or semi-remote maintenance in a glovebox.
+* undertake preventative maintenance tasks; recalibrate potentio-
+meters
+¢ replace arm covers and seal, external seals and gaiters
+* carry out functional tests
+e transfer to working cell
+* reassemble robot arm at joint 3 remotely
+* operate machine.
+Glovebox Decommissioning
+Inactive trials at Stiubli Unimation’s Telford works and at Harwell
+Laboratory have been carried out over the last year. More than 1200
+operational hours have been experienced without failures of the special
+components in the manipulator or in the standard controller. The tele-
+robotic controller [originally consisting of three communicating PCs] has
+been rebuilt using a single 486 PC. Work on glovebox decommissioning
+trials has continued, using a range of cutting tools that are currently
+used in manual glovebox decommissioning [Figure 4].
+Many tools such as nibblers, bandsaws, hacksaws, jigsaws and drills
+have been tried, to investigate the best performance in cutting up to 6mm
+steel plate. [Figures 5,6] Most of the tools require compliant mountings
+
+618
+. : RT vas, Oh. y 7 Psi =e -{ . iS
+a FP er a
+i ‘ “ y r / Ba de eer” *
+. : i ; ra a ela — ’
+re
+y ¢
+i Re
+fe oo
+Pre y f
+Figure 4 NEATER Completing Glovebox Decommissioning Trials
+c oe Ce HF sy a ea ; '
+: - ee f 4 Fi 3 ,
+¢ _ ~~ p
+ea Zé fi al
+ih % . a, Y
+st * — A. &. ;
+ad PSone (i /m “ NS {
+‘ ae Olas | Oe
+ee ay a | , \
+Se ™ | ‘i ’
+oat , \
+Bg iy
+= Pe.
+5 ite me
+Figure 5 Electric Nibbler
+
+619
+to isolate the telerobot from parasitic vibrations, and to prevent tool
+jams. The tools have a common interface with the robot which allows easy
+exchange either through a gloved change or through a tool change station.
+
+4 x ewe
+i i ft Ms
+i jj bs
+—— — i; aa ‘
+™ RS “ iq Ci rems | /
+mo _—
+is a, ae yo
+Pa) ot ad eee Wes
+= Bier, - i M ae s ; at : ren
+it Ps % ; “ 4 ; i re n
+wy : ? > | -
+i iN t
+tn
+er os : = ‘
+oo | ;
+a 2 )
+ee 2 = : * , rs co -
+. on wae, AEC Pa <e
+Pe ae 7
+i al : Bet es x ” ns .
+r ih oan remy as nei
+a
+ee Se ae
+. ro i  aaettl
+— ae oe, ‘
+- rv he ~ = Mes.
+LOB SoS, eee
+yen Ane Pech 7 S's
+— oa dl area” “aoa
+ S—tt”*~ti‘CS id
+: Catt ae pC eS
+a 1 ; f Bae
+Figure 6 Electric Drill
+Contamination Survey
+Two NEATER robots have been supplied to swab the outsides of high
+level vitrified waste containers. The specification called for 50°C
+operation, with a contact dose of up to 5.103 Gy per hour. 750 cycles
+per year are demanded from the manipulators, and over a two year period
+an integrated dose of 106 Gy could be expected. Because there is
+unlikely to be a contamination hazard to the machine, PUMA 761N_ versions
+[radiation tolerant, no modularity or extra sealing] were supplied.
+
+620
+
+Inactive demonstrations of the system were performed following a
+simulation using GRASP. The robots had to perform complete surface swab-
+bing, providing a fixed contact pressure, and then exchange the swab at a
+transfer station. The first robot was produced and delivered after cust-
+omer acceptance trials, and was followed by the second machine. Radiat-
+ion tolerant encoders have been fitted and it is anticipated that the
+first manipulator will be installed in an active area in late 1990.
+CONCLUSIONS
+
+The development programme has lasted two years and has resulted in
+a commercially available telerobot which can easily be used in a variety
+of nuclear applications. The short development timescale was possible
+because of the co-operation of an established robot manufacturer, and the
+ability to test, specify and re-engineer radiation tolerant components at
+Harwell. The use of the prototype and subsequent machines in active
+trials is anticipated within AEA Technology’s Decommissioning and Rad-
+waste programme, following the conclusion of inactive proving trials, and
+commercial versions have been supplied to a high radiation tolerance
+application.
+ACKNOWLEDGEMENT
+
+This work is funded as part of the Department of Energy’s Active
+Handling Programme.
+REFERENCES
+1, E. Abel, "Robotic Devices for Future Nuclear Plant?" The CEC Work-
+ing ee Meeting "Hot Laboratories & Remote Handling", Cadarache, 26-28"
+une ,
+2. E. Abel, M.H. Brown, PJ. Fischer, D.R. Garlick, "The Harwell
+Robotics Programme ~- Telerobotics plus Industrial Standards," Proc. of
+ANS Meeting Topical Meeting on Remote Systems & Robotics in Hostile
+snvironments, Pasco, , 27 March-2 Apri 7 pp263-9,
+3. E. Abel, M.H. Brown, P.J. Fischer, D.R. Garlick, T.T. Hanna and
+K.V. Siva, "Nuclear Robotics Research at UKAEA’s Harwell Laboratory",
+Proc. ANS Third conical Meeting on Robotics and Remote Systems, Charlest-
+on, 13- arc , Paper 1-5.
+4, K.V. Siva, P.J, Fischer, M.H. Brown, E. Abel, "The Development of
+Bilateral Input Devices for Teleoperation", Proc. 4th ANS Topical Meeting
+on Robotics and Remote Systems, Albuquerque, 25-27 February 1991,
+5. A.A. Dumbreck, E. Abel, S.P. Murphy, J. Holt, P.M.Scheiwiller, V.M.
+Reading", °3-D TV: Evaluations and Lessons Learned", Proc. ANS Third
+1seocs Meeting on Robotics and Remote Systems, Charleston, 13-16 March
+1989, Paper 4-2.
+6. C.W. Smith, A.A. Dumbreck "3-D TV: The Practical Requirements",
+Television, Journal of the Royal Television Society, Vol. 25, Jan/Feb
+1988, pp. 9-15.
+UKAEA Copyright 1990
+

@@ -1,0 +1,1759 @@
+TR - Ae 7
+4
+\,
+A study of the Power Consumption
+of German Maglev Passenger Vehicles
+(EDS and EMS)
+by
+
+“ qi»
+SUMMARY
+
+The sample revenue vehicle designs of the two German Maglev groups
+have been analysed and the complex power requirement at trackside substations
+has been calculated,
+
+The two systems are the Electromagnetic system (EMS) with either linear
+induction motor (LIM) or long stator motor propulsion, and the Electro-
+dynamic System (EDS) with linear synchronous motor (LSM) propulsion.
+
+The operational conditions considered were 400 and 500 km/h velocities
+either at a steady-state cruise or with a grade or headwind additional
+loading.
+
+It is found that the LSM of the EDS is the most suitable form of
+propulsion for these operating conditions, the long stator motor for the
+EMS having reasonable characteristics at 400 km/h, but becoming degraded at
+500 km/h, and the LIMs studied being unsuited to 500 km/h, and not very
+good even at 400 km/h.
+
+These results highlight the need in a system comparison to not
+merely compare specific power or lift to drag ratio, which denote the
+active power supplied to a vehicle, but to compare complex power at )
+wayside substations to indicate the overall efficiencies and power factors
+of the competing system.
+
+a iti -
+CONTENTS
+Page
+Summary ii
+List of Figures iv
+List of Tables iv
+Tw Background and reason for study ]
+2. Electrodynamic System (EDS) of Levitation 2
+2.1 Vehicle Concept 2
+2.2 Drag figures at 500 km/h 3
+2.3 Drag figures at 400 km/h 4
+2.4 Power Factor and Efficiency 4
+2.4.1 Power factor and efficiency at 500 km/h 4
+2.4.2 Power factor and efficiency at 400 km/h 5
+2.5 Other power requirements 6
+2.6 Final figures for EDS ; 6
+3. Common points for short and long stator EMS systems 6
+3.1 Make-up of total power requirements 6
+3.2 Power mix for previous EMS designs 7
+3.3 Statusseminar EMS designs 10
+4. EMS short stator system nN
+4.1 Drag figures at 400 km/h 1
+4.2 Drag figures at 500 km/h 12
+4.3 Power factor and Efficiency 13
+4.4 Final Figures for short stator EMS 13
+5. EMS long stator system 14
+5.1 Drag figures at 400 ki/h 14
+5.2 Drag figures at 500 km/h . 15
+5.3. Power Factor and Efficiency 16
+5.4 Final Figures for long stator EMS 7
+, 6 Analysis of Final Figures 7
+6.1 Common Points 17
+6.2 Active Power Requirements 18
+6.3 Reactive Power Requirements 19
+6.4 Complex Power Requirements 23
+7. Conclusions 23
+"7.1 System Conclusions 23
+7.1.1 EMS Long Stator 23
+7.1.2 EMS Short Stator 24
+7.1.3 EDS Power Factor and Efficiency 25
+7.2 Overall Conclusions | 25
+8. References 27
+
+- iv =-
+List of Figures
+Figure 1. EDS Passenger Vehicle AVF/P06
+2. Distribution Network for EDS LSM Propulsion
+3. EMS Passenger Vehicles
+4. Distribution Network for the EMS Short Stator Propulsion
+5. Distribution Network for the EMS Long Stator Propulsion
+6. Total Active Power of Systems
+7. Relative System Active Power Requirements at 500 and 400 km/h
+8. Total Complex and Active Power of Systems
+9. Relative System Total Complex Power Requirement at 500 and
+400 km/h.
+Page
+List of Tables
+Table 1. Characteristics of EDS vehicle 3
+2. Power breakdown for EDS (500 km/h) 3 .
+3. Power breakdown for EDS (400 km/h) 4
+4. Total machine input active and complex power for long stator EDS, 6
+5. Characteristics of 3 car EMS designs 10
+| 6. Common characteristics of 2 car EMS designs 10
+7. Power breakdown for short stator EMS 12 |
+8. Power breakdown comparison for 400 and 500 km/h short stator Ems 14
+9. Total machine input active and complex power for short stator Ems |4
+10. Different drag powers (in MW) associated with long stator EMS 14
+11. Power breakdown for long stator EMS 15
+12. Power breakdown for 400 and 500 km/h long stator EMS Vv
+13. Total machine input active and complex power for long stator EMS 7
+14. Total active, reactive and complex power of systems 20
+15. Total active reactive and complex power of systems as a percentage
+of EDS 500 km/h steady state values. 21
+| 16, Total active, reactive and complex power of systems as a percentage
+of EDS 400 km/h steady state values 22
+17. Efficiency, power factor, and apparent efficiency . 24
+
+A Study of the Power Consumption of German Passenger Vehicles (EDS and EMS )
+1. Background and reason for study
+
+The two German Maglev groups have prepared sample designs for passenger
+and goods carrying vehicles. However, although vehicle details are
+relatively easy to find in the literature, vehicle performance, and general
+operating power consumption data are not so forthcoming.
+
+A recent publication (1) quotes figures of power consumption for the
+comparative German designs which are misleading, because, as the author
+correctly states, the EDS (Electrodynamic system) and EMS (Electromagnetic
+system) long and short stator cannot be directly compared,
+
+Of particular damage to the EDS désign is the section 4-2 in the Table
+which compares power supply requirements of the substations, in real power
+rating. ‘
+
+(a) EMS short stator 5SMW/vehicle at 400 km/h
+
+D.C. substation every 12 km, 4 kV distributio
+
+(b) EMS long stator 4.7 Mil/vehicle at 400 km/h
+
+nee ° Substations every 12 km, with pulse
+inverters and isolators feeding a
+travelling field machine.
+Frequency 0-200 Hz.
+
+(c) EDS long stator 12.5 MW/vehicle at 500 km/h
+
+Substations every 15 km, with pulse
+inverters and isolators feeding a travelling
+field machine.
+Frequency 0-50 Hz.
+
+A literal conclusion from these figures could be that the EDS is
+particularly wasteful in real power consumption, needing two and a half times
+
+as much real power as the other two systems. This is not a valid conclusion
+and the following major differences in design should be observed:
+
+(a) The cruise speeds are different
+
+(b) - The vehicle weights are different
+
+(c) The passenger capacities are different
+
+(d) The EDS system has railway bogies
+
+(e) Overall power factor - efficiency product is not included
+
+(i.e. no indication of system total MVA requirement)
+-J]-
+
+Sone comparisons can be made for speed extrapolations from the
+base designs. The "Konstanz 1977 Statusseminar VI"(2) gives sufficient
+detail for the active power requirements to be estimated, but there is
+little clear information on power factor and efficiency of the short
+and long stator motor EMS designs.
+
+Vehicle weight differences in the designs will effect the specific
+power of the levitation system (kW/tonne). In particular, the choice
+of railway type bogies on the EDS vehicle for low speed guidance and
+Support must impose a greater weight penalty than, for example, the
+Canadian Maglev Revenue Vehicle wheel sets. (The wheelset weight is
+only 4% of all-up weight in the CIGGT design).
+
+Passenger capacity is the least important difference, with respect
+to power requirement, since the pay load is a small proportion of
+the vehicle total weight.
+viz. EMS short stator 240 passengers, 24t on 170t, 14.1%
+
+EMS Tong stator 240 passengers, 24t on 165t, 14.5%
+EDS "  " 200 passengers, 20t on 130t, 1544%
+
+_ An increase af 40 passengers on the EDS system gives a weight
+increase of 4 tonnes, or 3%, so this would have about the same effect
+on propulsion power requirements, but the overall effect on specific
+energy consumption (kW-h/passenger-km) would be a reduction of about
+15% (i.e. quite marked),
+
+Because of the different characteristics of the three systems,
+they will be analysed individually.
+
+2. Electrodynamic system (EDS) of Levitation.
+2.1 Vehicle concept.
+
+The vehicle is made up of two similar end sections. A five section
+
+train can be made by intvoducing three middle sections with their own
+lift, guidance and propulsion. Passenger seating is 100 per section. .
+
+The lift is provided by ten superconducting magnets, and the
+guidance and propulsion by fifteen magnets, per section.
+
+The main vehicle characteristics are from Chapter P "Application
+Investigation and Project Design, Description and Explanation of the EDS
+Concept", by K. Mandt (2) and are reproduced in Table 1. Figure 1 shows
+
+a ~?.
+
+a general section of the passenger vehicle
+Vehicle length 56m No. of levitation magnets 20
+Length of one section 28m Strength 616 kAT
+No. of sections 2 Size (LxW) 1.5x0. 3m
+Speed 500 km/h Mass 470 kg
+No. of passengers 200 No. of propulsion magnets 30
+Vehicle mass 135t Strength 1. 15MAT
+Payload 20 t Size (LxW) 1.12x0.7m
+Vehicle height 4.2m Mass (of a 3 coil cryostat) 2.2 tonne
+Vehicle width 3.5 m Damper winding mass (3/cryostat) 280 kg
+Rail gauge 1.435 m Pole pitch 1.4m
+Levitation gauge 2.7 m
+Leyitation height 0.20 m
+Table 1 Characteristics of EDS Vehicle
+Figure 2 shows the substation and armature winding of the linear
+Synchronous motor (LSM) distribution network.
+2.2 Drag figures at 500 km/h
+From reference (2) the values of magnetic drag and aerodynamic
+drag at 140 m/s (500 km/h) are displayed graphically as 41.7 KN and
+47.5 kN respectively. The steady state drag on the vehicle is therefore
+89.2 kN or 12.5 MW.
+Although the level of residual acceleration needed to overcome
+head-on gusting and gradients is not quoted for the EDS system, a figure
+of 0.013g will be taken, as this is used in the EMS studies.
+Table 2 gives a breakdown of the steady state and effective power
+required for propulsion. . Specific power,
+Drag kN Power MW lift/drag  —Ss kW/t
+Magnetic drag 41.7 5.8 31.8 43.2
+Aerodynamic drag 47.5 6.7 27.9 49.3
+Total steady state drag (89.2) (12.5) (14.9) (92.5)
+Residual acceleration 17.2 2.4 77.0 17.8
+Effective total drag 106.4 14.9 12.4 110.3
+Table 2, Power Breakdown for EDS (500 km/h)
+-~-3-
+
+2.3 Drag figures at 400 km/h
+The aerodynamic drag at 490 km/h can be obtained by interpolation
+of graphical data (28 kN), or by observing that aerodrag is proportional
+to (velocity)?, (3).
+2
+Aerodrag @ 400 km/h = Aerodrag @ 500 km/h x (Ut) = 29.9 kN
+Magnetic drag power from a graph is 4.9 Mu, which corresponds
+to a drag force of 44,1 kN,
+Table 3 gives a breakdown of the power requirements at 400 km/hr.
+Drag kN Power MW lift/drag Specific power, kW/t
+Magnetic drag 44.) 4.9 30.0 36.3
+. Aerodynamic drag 29.9 3.3 44.3 24.6
+Total steady state drag (74.0) (8.2) (17.9) (60.9)
+Residual acceleration 17.2 1.9 77.0 14,1
+Effective total drag 91.2 10.1 14.5 75.0
+Table 3 Power Breakdown for EDS (400 km/h)
+2.4 Power Factor and Efficiency
+Sreesanth Siesta CI ENG
+The LSM is capable of operating at high power factor and
+efficiency. However the choice of power factor depends largely on
+the superconducting coil design, and the leakage inductance in the
+track winding. Similarly, the efficiency is determined by the
+transferred power required, and the track winding cross-section.
+Both parameters are obtained by a machine design which takes into
+account the energy used, and the capital costs of the system, and
+trades the two against each other.
+2.4.1 Power factor and efficiency at 500 km/h
+ep nat ianenseestenseprnte any aman ;
+Albrecht gives a power-factor-efficiency product of 2/3,(4), for
+a 120 tonne two section vehicle, with 87 kN thrust at 500 km/h. The
+machine output power was 12 MU, and total input power 18 MVA.
+The Statusseminar values differ only slightly, being presented
+, as fractions of the number of sections in the train, and the track
+wound sectional area.
+-4-
+
+Typically, they are n = 0.75 product = 0.66
+
+cose = 0,88
+So for a steady state, on the level cruise at 500 km/h, the machine
+input power is 16.7 MN, and total input power is 18.9 MVA.
+
+For operation with full residual acceleration, the power factor
+and efficiency have to be re-evaluated. Since the motor thrust is
+proportional to armature current (and is also speed independent),
+and since the track losses are proportional to (armature current)?,
+then
+
+Track losses for 106.4 kN thrust = losses for s.s. 89.2 kN
+2
+thrust x (108.5)
+8922
+= 4.2 x 1.42 = 6.0 MW
+i.e. an input power of 14.9 + 6.0 = 20.9 MW,
+and an efficiency of 1.9 5 0.71.
+20.9
+For the LSM, if the airgap m.m.f. waves are in quadrature, the
+= power factor can be expressed as a fun-tion of the efficiency and
+reactance-resistance ratio, X/R.
+cose = ——1____
+X 3
+(1 + Re (1-n)2)
+rearranging, z = Hang.
+l-n
+
+Using the steady state of n = .75 and cose = .88, X/R = 2.16. For
+residual acceleration operation, n = 0.71, so cosé@ = 0.85, and
+total input power is 20.9 24.6 MVA.
+
+0.85
+
+; 2.4.2 Power factor and efficiency at 400 km/h.
+
+- As with the last section, losses can be established at the
+different thrust requirements, and the efficiency and machine active
+power input found, Using the reactance-resistance ratio the power
+factor can also be found. The losses at 400 km/h for steady state
+
+oa ‘ and accelerating duty are 2.9 MW and 4.4 MW, that is 68.8% and 105% 7
+of the loss for steady state duty at 500 km/h, respectively. The
+
+efficiencies are hence 0.74 and 0.70, giving power factors of 0.91
+and 0.89. Total input complex powers become 12.2 and 16.3 HVA.
+-5-
+
+2.5 Other power requirements
+On board power requirements are met by a gas turbine set, The
+gas turbine drives the Helium compressor and also a 400 Hz three
+phase generator. Power js distributed throughout the vehicle on a
+380 V, 400 Hz line. Albrecht quotes a figure of | MW for vehicle on
+board power (4), and the Statusseminar gives 300 kl required for
+the Helium compressor and 238 kW for other on board systems per
+section. These are hydraulic and pneumatic power, heating, ventilation
+for oil and gas heat exchangers, lighting, primary damping for list
+and guidance, and at low Speeds, wheel synchronization.
+2.6 Final figures for EDS
+. Or EUS
+The power breakdown for the EDS long stator is Summarised in
+Mabie) 4. 400 km/h 500 km/h
+Magnetic drag MW 4.9 5.8
+Aerodynamic drag MW 3.3 6.7
+Steady state drag MW 8.2 12.5
+Losses MW 2.9 4.2
+Propulsive power, machine input (@ n),MW 11.1(.74) 16.7(.75)
+" : total input (@ cose), MVA 12.2(.91) 18.9(.88)
+Residual acceleration, MW 1.9 2.4
+Total effective drag, MW 10.1 14.9
+Losses MW 4,4 6.0
+Propulsive power, machine input (@ n), MW 14.5(.70) 20.9(.71)
+" : total input (@ cose), MVA 16.3(.89) 24.6(.85)
+Table 4. Fotal Machine Input Active and Complex Power for Long
+Stator EDS.
+A
+Note that the residual acceleration chosen is in line with the EMS
+value, rather than any published EDS figure. .
+. . 3. Common points for short and long stator EMS systems
+3.1 Make-up of total power requirements
+In establishing the tota] power used by a transportation system, i
+ue the choice of specific power consumption in kWh/passenger-km only
+highlights the real power consumed. However the plant and power
+~6§-
+
+converters are all rated in terms of total power used, and with
+inductive magnetic energy transfer (linear induction motors) the
+power factor and efficiency can have an extreme effect on calculations
+based purely on real power transferred across the air gap. Energy
+drawn from a supply utility will also be costed to take into account
+the amount of reactive power used.
+
+Generally, the total power flow is made up of the following
+parts:
+
+(a) Aerodynamic drag power is proportional to the cube of
+velocity and the aerodynamic reference area for the vehicle.
+
+i (b) Magnetic drag power is proportional to (velocity)3/2 and
+is made up of both guidance and lift drag components. The exact
+
+, value is highly dependent on gap size and magnet control and
+suspension strategy.
+
+(c) Cooling drag power is required to overcome the inlet
+momentum drag associated with the cooling air for the on board-power
+conditioning, magnets and motors.
+
+(d) Residual acceleration power is the spare capacity for
+
+| acceleration at cruise speed over inclines, headwinds, etc.
+
+(e) Power losses within the on board systems.
+
+(f) Acceleration power to reach cruise speed.
+
+(g) Miscellaneous power demands. |
+
+| (h) Distribution losses in trackside equipment downstream of
+the substation.
+
+(1) Reactive power loading is the total amount of power flowing
+in quadrature to the active power, and is associated largely with the
+leakage inductance in the supply network and the linear induction motor.
+
+(j) The steady state drag power is the sum of (a), (b) and (c).
+
+(k) The effective power is the sum of (j) and (d).
+
+(1) The picked uppower is the sum of (k) and (e).
+
+(m) The installed propulsive power is the sum of (1) and (f).
+
+(n) The total active load is the sum of (m), (g) and (h).
+
+(0) The total power flow is the vector sum of (n) and (i).
+
+3.2 Power mix for previous EMS designs ‘
+
+The literature is scarce of complete sets of figures for power
+
+mixes of EMS vehicles. The two exceptions are Hebst (5) and Winkle (6).
+_7-
+
+Interpolation of Hebst's diagram for power flow gives the following
+mix (based on magnitude of total active power load = 100).
+Total reactive power load 200
+Total active power load 100
+Installed propulsive power 85
+Power pick up 67
+Effective power 42
+S.S. drag power 33
+The effective power is broken down as
+Aero drag 48%,
+Mag drag 20%
+Cooling drag ~ 11%
+Residual acceleration 21%
+These figures are based on a 720,000 1b (327t) vehicle with three cars
+and 300 passengers.
+The overall power factor is '/Y5 (0.45), and the overall
+efficiency is
+n = 1] - tosses = 1 ~- (Power pick up - Effective power) _ 0.75
+active power active power
+The figures are inconsistent within the paper, but using the quoted
+figure of 17.8 MW as the speed x total drag, total effective power
+(assumed to be at steady state, on the level).
+Aerodrag 61% 10.9 MW ,
+Mag drag 25% 4.5 MW
+Cooling drag 14% 2.4 MW
+17.8 MW
+i.e. the cooling drag is ~ 20% the magnitude of the aerodynamic drag,
+, and 54% the magnitude of the magnetic drag.
+Winkle quotes. the mix for the propulsion power as being (for a
+short stator EMS)
+3 ” ' _Aerodrag 45% See A . as
+Mag drag 20%
+Cooling drag 11%
+Residual acceleration 24%
+ale
+
+j.e. virtually identical with Hebst, even though the vehicle weight
+has now changed to 270 tonnes.
+Winkle also quotes an aerodynamic coefficient CF = 9.0 m4,
+which corresponds to 68.2 kN or 7.6 MW at 400 km/h. His figures
+for traction resistance and mechanical propulsion power (128 kN
+and 14.2 MW) do not fit with the mix mentioned. 68.2 kN is 53.3% of
+128 kN, so by changing the amount of residual acceleration, but keeping
+the ratios of magnetic and cooling drags to aerodrag the same, the
+mix would become
+Aerodrag 53.3% 68.2 kN 7.6 MW
+Mag drag 23.7% 30.3 kN 3.4 MW
+Cooling drag 13.0% 16.7 KN 1.8 MW
+Residual acceleration 10.0% 12.8 kN . 1.4 MM
+128.0: kM 14.2 MW
+Here the cooling drag is 24% the magnitude of the aerodynamic drag,
+and 55% the magnitude of the magnetic drag.
+Winkle suggest values of power factor and efficiency for both
+the EMS designs. The total picked up active power for the EMS
+short stator is quoted as 25.6 Ml, which suggests an efficiency of
+On S55).
+The long stator motor efficiency and power factor suggested
+by Winkle is 0.8 and 0.72 respectively. Comparing this apparent
+efficiency of 0.58 to the 0.3 of the short stator motor illustrates
+that for every kW of drag supplied by the propulsion, the terminal
+rating of the short stator machine would have to be roughly twice that
+of the long stator equivalent.
+The characteristics of Hebst's and Winkle's vehicles are given
+in Table 5
+Common details: Vehicle length (train) 91m
+Length of end section 32m
+Length of middle section 27m
+. No. of sections 3
+i. ee . Speed 400 km/h:
+No. of passengers 300
+(continued over)
+5 he
+
+Winkle
+Hebst .
+Sher Stakes iemy Skater
+Maximum vehicle mass, t 327 270 205
+Resulting payload, t 34 30 30
+Tractive resistance
+@ V = 400 km/h, kN 160 128 63
+Aerodynamic coefficient
+CF >» me 12.9 9.9 6.3
+Mechanical propulsion power
+@ V = 400 km/h, Mu 17.8 14.2 7.0
+cosw 0.5 0.5 0.72
+n 0.7 0.6 0.8
+Picked up active power
+@r = 400 km/h, MW 25.6 25.6 8.8
+Table 5. Characteristics of 3 Car EMS Designs
+3.3 Statusseminar EMS designs
+Chapter D, "Design of EMS Vehicle and Guideway," by Weidinger of
+Transrapid-EMS (2) gives outline designs for both long and short
+stator propelled vehicles, with passenger and goods payloads.
+The common characteristics are reproduced in Table 6, and sections
+of proposed Revenue Vehicles are shown in Figure 3.
+Vehicle length (train) 64 m
+Length of one section 32 m
+. No. of sections 2
+Speed 400 km/h
+No. of passengers 240
+Payload 24 tonnes
+Maximum vehicle width 4.2
+. Track gauge 3.0 m-
+Average acceleration 0.3 m/s?
+Average braking deceleration 0.75 m/s2
+Residual acceleration 0.013 g
+; Aerodynamic coefficient: CF 4.75 m2
+Table 6. Common characteristics of 2 Car EMS Designs
+- 10 -
+
+It should be noted that a common aerodynamic coefficient is
+used for the long and short stator designs. The short stator vehicle
+has protruding brushgear, but this only affects the aerodynamic drag
+by 5% (200 kW).
+
+Extension of the two designs to 500 km/h and 300 km/h operation
+was performed and the power division and weight breakdown were presented
+graphically. No estimates were given for the power factor or efficiene y
+of the designs.
+
+Figures 4 and 5 show the distribution systems used for the
+short and long stator propulsions. The main difference is the absence
+of mechanical pickup for the long stator design. A linear generator
+
+provides the power transfer to the on-board network. The difference ~
+of weight of only 5 tonnes between EMS vehicles despite the lack of
+massive on-board components for propulsion on the long stator vehicle
+is caused by a larger magnet weight decided by a lower working current
+density, and by an increased battery weight required to maintain slow
+speed running.
+
+: The short stator machine picks up power from a 4 kV d.c. rail,
+whereas the long stator machine has the 12 km distance between substations
+subdivided into about 8 subsections, through auxiliary thyristor switching
+and tapping, to carry the variable frequency line power.
+
+4. EMS short stator system.
+‘ 4.1 Drag figures at 400 km/h
+
+The power division of a short stator EMS vehicle (total weight
+170 tonnes) is given in Chapter D of the Statusseminar (2). Knowing
+the aerodynamic coefficient of 4.75 m2 gives an aerodrag power of
+4.0 MW, the steady state propulsion power (6,6 MW) can be split down
+into aerodrag and 2.6 MW of remaining power. Presumably the majority
+of the 2.6 MW is cooling drag, but the text does not specifically refer
+to it as such.
+
+The power for lift and guidance comes to 0.5 MN or ~ 3 kW/tonne
+vehicle weight. The lift specific power is ~ 2 kW/t. Residual
+
+“acceleration propulsion power is the power surplus needed for the extra
+-acceleration over gradients, at cruise speed.
+-ll-
+
+Table 7 gives a breakdown of the effective propulsion power required.
+Power, MW Drag, kN Lift/drag Specific Power, kw/t
+aun I 0:5 4.5 370 2
+Guidance | |
+On board systems 0.4 3.6 463 2
+; Aerodynamic drag 4.0 36.0 46 , 24
+Remaining s.s. drag 2.6 23.4 71 15
+Total s.s. drag (7.5) (67.5) (25) (44)
+Residual acceleration _4.4 21.6 77 14.
+Effective total drag 9.9 89.1 19 58
+Table 7. Power Breakdown for Short Stator EMS
+4.2 Drag figures at 500 km/h
+Weidinger only gives the 500 km/h values of steady state and maximum |
+power with respect to the maximum power at 400 km/h.
+The steady state figure is 14.5 MW, maximum figure 18.2 MW, interpolated
+from a graph.
+Because of the increase in propulsive power required, two linear
+induction motors (LIM) per section are necessary, and this increases
+the all-up weight by 20% to 205 tonnes.
+As a check on the graphical values, the 400 km/h values can be
+scaled approximately as follows.
+(a) Lift and guidance : scales as (velocity)34 , .5 x 1.42 ./7 MW
+power
+{b) On-board systems : assume scales with » 4x 1.2 5 MW
+vehicle weight .
+(c) Aerodynamic drag > scales as (velocity)? , 4.0x 1.422 9 1 my
+(d) Remaining s.s. drag : assume this is all
+cooling drag,
+and motors are doubled
+up 22.6 x 2 5.2 MW
+Total steady state drag, sum of (a) - (d) ; 14.5 Mw
+(e) Residual acceler-  : (.013g m/s2) scales with 2-ix i-26
+ation. velocity and weight > x AD 3.7 MW
+Total effective: drag 18.2 MW
+-12-
+
+4.3 Power Factor and Efficiency
+
+The statusseminar makes no attempt to display the power factor
+or efficiency of the short stator machines. The product of the two,
+i.e. the ratio of active power output to total complex power input,
+is not likely to be high.
+
+Winkle (6) quotes an efficiency of 0.6 and power factor of
+0.5 (apparent efficiency = n cose = 0.3) and states that new calculations
+suggest efficiencies ~ 0.78 and power factors of » .65, which brings
+the apparent efficiency up to 0.51. It must be emphasized that these
+are calculations and do not represent measurements on constructed machines.
+
+Since the apparent efficiency is not known with any certainty at
+400 km/h, predictions for 500 km/h must be questionable. Although it
+might be argued that the "goodness" of the overall machine could be
+expected to increase, in fact the design calls for two motors per
+section, whose output rating will not change much from the 400 km/h
+motor. (18.2 MM at 500 km/h, 9.9 MW at 400 km/h). Therefore the estimates
+of input power will be made using the same power factor and efficiency
+
+: used at 400 km/h.
+
+4.4 Final Figures for short stator EMS
+
+The total steady state and total effective drags are shown in Table
+8. Note that the 500 km/h individual breakdown is from deduced values,
+and the total drag figures are interpolated from a graph in reference (2).
+
+The machine total active power input and total complex power input
+are deduced from values of power factor and efficiency suggested by
+reference (6). They are shown in Table 9.
+
+No attempt has been made here to estimate increased losses in current
+collection systems running at 500 km/h, if indeed this is possible for
+
+‘ loads of 30 MW (see Section 6.1). An increased loss in the on-board
+power convertor which has a 4 kV D.C. input and output to the double-
+sided linear induction motors must also be expected, as well as in‘the
+4 kV distribution system itself.
+3
+
+400km/h 500km/h
+Lift and guidance power 0.5 0.7
+On-board systems 0.4 0.5
+Aerodynamic drag 4.0 8.]
+Remaining s.s. drag 2.6 5.2
+Total s.s. drag Vie 14.5
+Residual acceleration 2.4 3.7
+Effective drag total 9,9 18.2
+Vehicle mass (tonnes) 170 205
+Table 8. Power Breakdown Comparison for 400 and 500 km/h Short
+Stator EMS (Power in MW)
+400 km/h 500 km/h
+Total s.s. drag, MW 7.5 14.5
+Propulsive power, machine input (@ n),MW 12.5(.6) 9.6(.78)  24.2(.6) 18.6(.°
+i. ", total input (@ cose),MVA 25.0(.5) 14.8(.65) 48.4(.5) 28.6(.:
+including residual acceleration:
+Total effective drag, MW 9.9 18.2
+Propulsive power, machine input (@ n),MW . 16.5(.6) 12.7(.78) 30.3(.6) 23.3(.7
+" "5 total input (@cose), MVA 33.0(.5) 19.5(.65) 60.7(.5) 35.9(.6
+Table 9. Total Machine Input Active and Complex Power for Short
+Stator EMS
+center etnies mein wks aeproteemegeenteeeqrarsprnernevomcennnccee
+Note: Losses in the d.c. line and pick-up system are not included.
+5. EMS long stator system
+5.1 Drag figures at 400 km/h
+. Some slight inconsistency exists in reference (2) on the values of
+drag forces on the long stator vehicle. Weidinger's Chapter D and Weh's
+Chapter G, "Investigation into EMS Long-stator Technology," values are
+given in Table 10
+Weidinger Weh
+Lift and guidance drag 0.2 : Iron losses 0.5
+On board systems 0.2 On board systems 0.35
+Aerodynamic drag. 4.0 ‘Aerodynamic drag 4.35
+Remaining s.s. drag 1.7 Winding loss 0.8
+Steady state drag 6.1 Distribution loss 0.8
+Steady state drag 6.8
+Table 10. Different Drag Powers (in NW) Associated with Long Stator EMS.
+~14-
+
+Weh's total for power output (Aerodynamic drag + on-board systems)
+is 4.7 MW; this could be the source of Leonhard's figure for power
+supply requirement.
+
+It is difficult to know which figures to use, especially as the
+cooling drag is unknown. For continuity with section 4, Weidinger's
+figures will be used with the assumption that the distribution and
+winding losses are the main system losses.
+
+In common with the short stator design, a residual acceleration of
+0.013g requires a power of 2.4 MW.
+
+, Table 11 gives a breakdown of the effective propulsion power
+required.
+Power, MM Drag, KN Lift/drag Specific Power, kW,
+Lift and Guidance 0.2 1.8 899 a2
+On board systems 0.2 1.8 899 1.2
+Aerodynamic drag 4.0 36.0 45 24.2
+Remaining s.s. drag 1.7 15.3 106 10.3
+Total s.s. drag (6.1) (54.9) (29) (36.9)
+Residual acceleration 2.4 21.6 75 14.5
+Effective total drag 8.5 76.5 21 51.4
+Table 11. Power Breakdown for long stator EMS
+5.2 Drag figures at 500 km/h
+
+As with the figures for the short stator vehicle, steady state
+and maximum power with respect to the maximum power at 400 km/h are
+plotted in reference (2). In addition a numerical value of 11.5 MW
+is given in the text as the steady state 500 km/h power requirement. The
+graphical value for maximum power at 500 km/h is 14.8 MW. The vehicle
+weight is increased by 10%, to ~ 180 tonnes for the speed increase.
+
+Scaling the 400 km/h values approximately, results in a difference
+of 200 kW from the quoted 11.5 MW, s.s. power
+
+- (a) Lift and guidance =: Assume scales as (velocity)3/, .2x1.42 0.3MW
+(b) On board systems : Assume scales with vehicle wt., .2x1.1 0. 2M
+. (c) Aerodynamic drag .: scales as (velocity)3, 4.0x1.422. 8.1MW
+(d) Remaining s.s. drag: assume all cooling,
+drag scales as (velocity)? 1.71.59 2. 7MW
+-~15-
+
+(e) Remaining 500 km/h s.s. drag 0.2 Mi
+Total steady state drag, sum of (a) - (e) 11.5 Mi
+(f) Residual acceleration : scales with velocity and
+weight 2.4 x 1.26 x 7.1 3.3 Mi
+Total effective drag ra 00 TM
+| 9.3 Power factor and Efficiency
+
+As with the short stator designs, the statusseminar does not
+quantify the power factor or efficiency expected with the full size
+vehicle design. However, Weh's figures for 800 kW winding loss and
+800 kW distribution loss indicate an efficiency of
+
+5 ly - losses _ 1 - 16 = .79.
+input 6.1+1.6
+For comparison, Winkle's figures are 0.8 for efficiency and 0.72
+for power factor.
+
+Assuming n= .79 and cose = .72, and using the power factor -
+
+efficiency relationships from section 2.3.2,
+cose = 1 : ‘ -tane . 4 59
+X © (1 = 4)
+(1 +7 (1 7 n)2)2 |
+The corresponding reactance-resistance ratio at 500 km/h is 5.78,
+
+As in Section 2.4, the losses can be scaled by the ratio of drag
+forces, squared, to obtain loss at differing drag powers. The
+efficiency can be computed, and power factor obtained using one of the
+above formulae.
+
+It should be noted that the equations used for power factor
+estimation are suitable for an air cored armature, as in the L.S.M.
+Inherent saturation and extra leakage in the EMS long stator armature
+implies that the resulting power factors will be lower than calculated,
+
+| leading to an increased MVA requirement to that tabulated. Detailed
+design characteristics are not available, and so the estimates have been
+made on this basis.
+- 16-
+
+5.4 Final Figures for long stator EMS
+The total steady state and total effective drags are shown in
+Table 12. Note that the 500 km/h individual breakdown is from deduced
+values, and total drag figures are interpolated from a grasph in
+reference (2).
+Total active and complex power inputs to the machine are shown
+in Table 13. The increased losses are scaled froma 1.6 MW loss
+on the steady state 400 km/h baseline. Power factor estimates are
+made which are on the conservative side since saturation and leakage
+effects are ignored,
+400km/h 500km/h
+; Lift and guidance power 0.2 0.3
+On board systems 0.2 0.2
+Aerodynamic drag 4.0 8.1
+Remaining s.s. drag 1.7 2.9
+Total s.s. drag 6.1 11.5
+Residual acceleration 2.4 3.3
+| Effective drag total 8.5 14.8
+| Vehicle mass (tonnes) 165 180
+Table 12. Power Breakdown Comparison for 400 and 500 km/h Long Stator EMS,
+(Power in MW)
+400km/h 500km/h
+Total s.s. drag, MW 6.1 11.5
+Propulsive power, machine input (@ n), MW 7.7(.79) 15.1(.76)
+: "+, total input (@ cose), MVA 10.7(.72) 26.0(.58)
+inaluding residual acceleration:
+Total effective drag, Mi 8.5 14.8
+Propulsive power, machine input (@ n), MW 11.6(.73) 20.8(.71)
+", total input (@ cose), MVA 18.4(.63) 40.8(.51)
+Table 13. Total Machine Input Active and Complex Power for Long Stator EMS
+6. Analysis of Final Figures
+. . 6.1 Common Points. .
+It must be emphasized that the values obtained are modified from
+the published speed extrapolations for short and long stator EMS designs
+| -17 -
+
+by assumptions of efficiency and power factor. For the EDS systen,
+however, the 400 km/h extrapolation is obtained by reworking the
+990 km/h values, and this does not represent a re-optimised system.
+
+Inclusion of a residual acceleration of 0.013g into EDS figures
+brings the accelerating mode of operation in line with that of the
+EMS studies.
+
+The short stator EMS design has no estimate for the distribution
+loss in the 4 kV D.C. line, or current pickup loss or on board inverter
+loss. A typical line copper loss (equivalent to voltage regulation)
+might be 15%, which represents a 2.2 MW increase on just the 12.5 MW
+active power load drawn by a 400 km/h accelerating LIM. Overall
+power factor efficiency product of 0.51 for the short stator system
+is evaluated, although 0.3 represents a more probable figure.
+
+. Figures for the Tong stator EMS system must be regarded as
+tentative, since the only linear testing has been on the 100 m_ track
+at Kassel (Thyssen Henschel) and the 30 m track at Braunschweig,
+at low speed..
+
+6.2 Active Power Requirements.
+
+The figures generated in the previous sections are displayed as
+the active power requirements for each of the three Maglev systems
+in Figure 6. The total values are broken down into their constituent
+parts, Steady state (i.e. cruise) power is the sum of blocks 1-5 for
+the EMS and 1, 2 and 5 for EDS. Including a residual acceleration
+(block 6) incurs an additional loss (block 7), which added to the
+
+steady state value gives the total accelerating active power requirement
+shown at the top of each column.
+
+It is immediately apparent that in terms of real power consumed
+the long stator EMS and the EDS are roughly equivalent, when loaded,
+
+at 500 km/h. The low efficiency short stator uses roughly 45%, the
+high efficiency short stator roughly 11%, more active power (ignoring
+~ dic. line loss). Including a 15% line loss the figures are 70% and
+31% respectively.
+
+At 400 km/h, using the unoptimised EDS as a base of 100%, the
+equivalent long stator EMS figure is 80%, loaded, short stator EMS
+114% and 88% (134% and 103% with 15% line loss).
+
+Sat ee
+
+Figure 7 expresses the active power requirement as a percentage
+of the steady state, 500 km/h EDS value of 16.7 MW.
+6.3 Reactive Power Requirements.
+
+Table 14 shows total active, reactive and complex power of
+the Maglev systems, for the four operating conditions. Figures which
+include an allowance for the EMS D.C. rail loss estimated at 15%
+complete the range of data.
+
+Table 15 is a reworked version of Table 14, normalised by the
+500 km/h steady state EDS values.
+
+The most striking feature of Table 15 is the relative success
+of the EDS system in using only small amounts of reactive power to
+provide propulsion of the vehicle. As mentioned in Section 2.4 this
+is mainly because the superconducting magnets provide the majority
+of machine air gap field, and also because of the low per-unit reactance
+of the air-cored long stator winding. The figures for steady state 500 km/h
+operation of the long stator EMS machine are 21.2 MVAR, i.e. 241% that
+of the EDS design. Roughly the same figure is obtained for the high
+efficiency short stator EMS (247%), and inclusion of D.C. line brings the
+figure up to 291%. The low efficiency short stator EMS figures are
+476% and 561% respectively.
+
+Table 16 is Table 14 reworked, normalised by the 400 km/h steady
+state EDS values.
+
+= ou
+
+TABLE 14 Total Active, Reactive and Complex Power of Systems
+| rae om MVAR | MVA se MW T var mA
+12.2 | LONG i 7.4 10.7
+| 63 STATOR a fae 14.3 | 18.4 |
+| 8.8 18.9 3 21.2 26,0
+13.0 | 24.6 4 40.8 |
+suoet | 1 9.6 | 11.2 sHoRt 17.4
+STATOR 2 14.8 19.5 STATOR 2 17.4 22.9
+| HIGH n | 3 28.6 HIGH 1 3 25.6 | 33.7
+EMS _ MW MVAR EMS
+SHORT 1 12.5 21.7 SHORT 1 29.4
+sraron | 2 33.0 | | stator 38.8
+fF tow as] 3 vac | | rows 57.0
+1 400 km/h steady state
+2 400 km/h accelerating
+3 500 km/h steady state
+4 500 km/h accelerating
+-20-
+
+Mi MVAR EMS Mi MVAR MVA
+Pfs sf os] Jw [ff fo
+ay BF | 86 STATOR | 2] 69 | 163 97
+3 | 100 90 | 241 | 138
+t 4|125 |399 | 216
+EMS MVAR MVA EMS MW MVAR MVA
+310 190 + 15% 4 164 365 | 223
+EMS MVAR MVA EMS MVAR MVA
+1. 400 km/h = steady state
+2. " accelerating
+3. 500 km/h steady state
+4, accelerating
+_ Table 15, Total Active, Reactive and Complex Power of Systems as a .
+Percentage of EDS 500 km/h steady state values.
+- 2] -
+
+EDS mw | MVAR | MVA. EMS My =} MVAR| = MVA
+1} 100 100 | 100 CoMG’ if 69 | 145 88
+| a 145g 138 STATCX 12 | 105 | 280 | 151
+3 150 173 185 3 | 136 | ate | 213
+4| 188 255 | 202 4 | 187 | 688 | 334
+| SHORT | 1 86 SHORT 1 | 102 | 259 | 143
+STATOR| 2} 114 | 290 | 160 STATOR 2 | 134 | 341 | 188
+HIGH n| 3| 168 | 425 | 234 HIGH n 3 | 197 | 502 | 276
+4} 210 | 535 | 294 +15% loss |4 | 247 | 629 | 346
+cS MVAR | MVA EMS MVAR| MVA
+sraron|2| 149 | 561 | 270 | | stator 2 | 175 | 659
+Lown qe] 218 fy) 822 7 Lon  |3 | 257 | 969 | 467
+4] 273 | 1029 | 497 415% loss}4 | 321 |1210 | 584
+1. 400 km/h steady state
+2. a accelerating
+3. 500 km/h steady state
+4. " accelerating
+Table 16. Total Active,Reactive and Complex Power of Systems as a Percentage
+; ; of EDS 400 km/h steady state values. .
+| 298 =
+
+6.4 Complex Power Requirements
+
+Figure 8 shows the total complex and active power requirements
+of the Maglev systems. The power factor of the systems is simply
+the abscissa to ordinate ratio for each of the operating conditions.
+Since it is the complex power value that must be designed for and
+for which system penalties will be incurred, the relative merits of
+the three systems is demonstrated by the size of the ordinate. Ficure 9
+displays just the total complex power requirements, in percentages
+of the 500 km/h steady state EDS, for the four operating conditions.
+The EMS long stator has 38% more, the high efficiency short stator
+51% more than the EDS base, despite the rough equivalence of active
+power used, Including line loss the short stator value
+rises to a 78% increase. If the tower efficiency short stator EMS
+is considered, then the figures become increases of 156%:.and 202% on
+the EDS 100%.
+7. Conclusions.
+7.1 System Conclusions.
+
+Because of the multiplicity of operating conditions, the systems
+performance will be taken in turn, referenced to the values obtained
+for 400 km/h (Table 16) and 500 km/h (Table 15), EDS steady state
+service.
+
+7.1.1. EMS Long Stator.
+
+7.1.1.1. 400 km/h. Compares well with the EDS in. terms of active
+power (69% EDS value) and complex power (88%). Uses, however, an
+extra 45% more reactive power. When loaded, the advantages are
+degraded, and needs an extra 51% more complex power compared to an
+EDS requirement of an extra 34%.
+
+’ 7.1.1.2. 500 km/h. Marginally better than one EDS in terms of active
+power (90%) but uses 141% more reactive power, resulting in an extra
+38% total complex power needed for steady state. Grade operation
+requires an extra 116% more complex power, compared with an EDS 30%
+requirement.
+7.1.1.3 Power Factor and Efficiency. At the 400 km/h operating
+condition, the apparent efficiency of the long stator motor is 0.57.
+
+- 23-
+
+Operation at grade or at 500 km/h, steady state, and at arade,
+reduces this to 0.46, 0.44 and 0.36 (Table 17). As mentioned
+in previous sections, this means that an excessive amount of complex
+power 1s required for other than low speed cruise. Insufficient evidence
+exists to confirm these values which are computed predictions. Only
+very low speed testing on short linear tracks has been accomplished
+(Section 6.1).
+EDS EMs n ncose
+1}0.74]} 0.91 0.67 LONG 1} 0.79 | 0.72] 0.57
+219.70} 0.89 0,62 STATOR] 2} 0.73 | 0.63] 0.46
+3|0.75 |] 0.88 0.66 3| 0.76} 0.58] 0.44
+4/0.71 | 0.85 0.60 4} 0.71 | 0.51] 0.36
+EMS n cosé EMS n ncose
+SHORTSTATOR SHORT STATOR
+HIGHn 0.78) 0.65 0.51 LOW n 0.60} 0.50 | 0.30
+1. 400 km/h steady state
+2. : accelerating
+3. 500 km/h steady state
+4, " accelerating.
+Short stator values the same for all running conditions 1-4.
+Table 17. Efficiency, Power Factor and Apparent Efficiency
+7.1.2. EMS Short Stator
+7.1.2.1 400 km/h. The high efficiency version compares well with the
+EDS in terms of active power, and including a line loss the values
+are virtually identical. However, uses 43% more complex power and
+88% more (compared to 34% more) than the EDS, when leaded.
+The low efficiency version is a lot worse; without including
+a line loss, the complex power used is twice that of the EDS;
+including a line loss, complex power is 141%.more than for steady
+state, and 218% more when loaded, (compared to 34% for the loaded EDS).
+- 24 -
+
+7.1.2.2 500 km/n. As might be expected, the operation of the
+
+linear induction motor at very high speed degrades its performance.
+The increases in complex power required at steady state operation
+
+for the high efficiency motor are 51%, and 78% including a line
+
+loss. Loading the vehicle results in 90% and 123% increases compared
+to 30% for the EDS.
+
+A similar result for the low efficiency machine produces a
+requirement of 156% and 202% increases at steady state, with and
+without line loss, 221% and 277% compared to 30% for EDS when
+loaded.
+7.1.2.3 Power Factor and Efficiency. As mentioned in Section 4,3,
+
+there is little performance data forthcoming about power factor
+and efficiency and their product for multi-megawatt motors. It was
+therefore decided to use the values of 0.6 and 0.78 for the
+low and high efficiency machines respectively, with power factors of
+0.5 and 0.65, resulting in products of 9.30 and 0.51,and to assume
+that these values are load and speed invarient. In doing so it
+
+| cannot be argued that particularly "bad" machines have been used
+in the analysis and comparisons.
+7.1.3. EDS Power Factor and Efficiency. A previous section (2.4)
+has indicated that chosen power factor and efficiency values of the
+EDS are energy and capital trade-offs rather than being inherently
+limited. There is little change in apparent efficiency in going
+from 500 to 400km/h (0.67 to 0.66, steady state, 0.62 to 0.60
+loaded).
+7.2 Overall Conclusions.
+
+This study has attempted to establish total power requirements
+for the three German Maglev vehicles operating under similar conditions.
+
+The comparisons cannot be strictly rigorous, since the EMS and EDS
+vehicles are primarily designed for different baseline operation.
+
+. However, the spread of system total complex power, at. the trackside
+substations, (Figs. 8,9), is indicative of the type of system performance
+that might be expected for identical service conditions.
+
+Several conclusions can be drawn from the dat studied, namely
+
+- 25 -
+
+(1} The EDS has good system performance at 500 and 400 km/h in
+
+terms of energy conversion and power consumption,
+
+(2) The short stator induction machines for the EMS are unsuitable
+
+for high speed (500 km/h) operation, and are not very suited to
+
+400 km/h operation, because of the high reactive power consumption
+
+resulting in excessive overall power requirement. For example,
+
+at 500 km/h, compared to the EDS machine on cruise, the higher
+
+efficiency LIM studied required 1.8 times, and the lower efficiency
+
+LIM, 3.0 times as much total complex power. At 400 km/h, the figures
+
+are 1.4 and 2.4 times for the higher and lower efficiency LIMs studied,
+
+respectively.
+
+(3) The long stator motor EMS appears to need marginally less power
+
+than the EDS at 400 km/h cruise (90% EDS value), but when loaded,
+
+or at the higher speed of 500° km/h, this slight advantage is lost;
+
+(loaded, 400 km/h, 1.13 times EDS value, 500 km/h, 1.4 times EDS
+
+value cruise, 1.7 times EDS, loaded).
+
+An additional shortcoming is that the machine concept has only
+
+been tested at low speed, so high speed operating characteristics
+
+must be tentative.
+
+(4) In assessing system performance, using the value of specific
+
+power (kW/tonne), lift to drag ratio or specific power consumption
+
+(Wh/passenger-km) only indicates active power supplied to make up
+
+thrust and (if included) losses in the system. Because of the low
+
+power factors in some of the systems, trackside and transmission
+
+components as well as Utility energy supply costing will be in
+
+terms of total complex power used by a system. The MVA as well
+
+as the MW requirements of a system must be obtained, related to
+
+a common guideway route and similar baseline specifications before
+
+a totally reasonable comparison can be made.
+
+- 26-
+
+8, References
+
+1) W. Leonhard (T.U. Braunschweig), "Technische Alternativen
+bei der Magnetschwebebahn", (Technical Alternatives for a
+Maglev System), VDI Nach., No. 15, 15 April 1977, pp. 42-3.
+
+(In German).
+English Translation: R.G, Rhodes, J.H. Rakels, (University of
+Warwick), Electronics and Power, 1978, to be published.
+
+2) "Spurgefuhrter Fernverkehr Magnetbahnentwicklung", Proc. 6th
+Statusseminar des Bundesministeriums fur Forschung und Technologie,
+Konstanz, 1977. (In German). (Guided Track Transportation,
+Maglev Development).
+
+3) E. Abel, (University of Warwick). "Aerodynamic Drag on German
+Revenue Vehicles", Internal Memo, October 1977.
+
+4) C. Albrecht, (Siemens), "Development of Levitated Vehicles with
+Superconducting Magnets", 2nd Conference on Advances in Magnetic
+Materials and their Applications, London, 1-3 September 1976,
+
+IEE Conference Publication No. 142, pp. 113-6.
+
+5) W. Hebst, (M.B.B.), "Weight and Performance Characteristics of
+Magnetically Suspended High Speed Trains as Compared to Aircraft",
+34th Annual Conference of Society of Allied Weight Engineers,
+Inc., Seattle, 5-8 May 1975, SAWE Paper No. 1059.
+
+. 6) G. Hinkle, (Transrapid-EMS), “Forschungs-und Entwicklungsstand
+
+der Elektromagnetischen Schwebetechnik in der Bundesrepublik
+Deutschland", (State of Research and Development of Electromagnetic
+Suspension Engineering in the Federal Republic of Germany), ETZ-A,
+Vol. 96, No. 9, 1975, pp. 367-73. (In German).
+
+E. Abel.
+
+January 1978.
+
+Draft 1. .
+
+- 27 -
+
+A ‘ is os é . « = <« ‘a ‘
+a
+a
+el
+* | :
+"
+i
+'
+4
+*
+)
+
+| / iia mT JAPEY
+LATE | fees
+nm j 2. Nh Ls i} fk a PebA ‘ Y _*
+PBB) BR
+/( aS | | _— a A
+w : “ mba) J oe
+Ff ¥ | | arc 4
+® Ht meet
+fees | TIEN |
+x ASH eee Lt ls ae
+IE a Mle | Pe ,
+eh | } 9 Jt f— — RSA; ~ 7
+ral eer | | ur | eel Canta
+THO qi | Tarts c a
+HT Syl a aise eee
+5 \ | . 5 OP u Nakrtd | yt
+IT ay ' | at Bae og H Rett
+(4 ie oy Eat [ez (\\, di
+i U 44 | © fi Ls wu
+| LJ Tyr Pot lap ET a TAL
+ania | a4 ey : | Are ito EC Pe ;
+“uh QUITS | | PLL eS eae
+iT Sag sci ee
+; C) Gq i > 8 uy AG # feats eaten eee :
+DSSEy| | WRSelir-7oamait:
+WH Goie I) HERS) gore
+HG, Hil Saale ic GOL ae :
+Hes ii esi | | Ui eS
+! Het PEE Td cae) AY LE Ae !
+We Ali DHTTE RC LA or al ¢
+‘| Tes ht) 1) RS a hase
+H — oy “7. 4 FH mt : “ L
+1 Ons Freer) |
+4 : 2 eet th i ease: ep.
+H Opts | PRPC
+| pee | | SEA ;
+| SE ie 3 am i feral *
+. Hee ; ; ea = ot i
+—— i]. | I] 3 HPL ELE=I os Fi Es:
+: br . f ! i o % Al Hi | E =
+i is J Apj| . “isis
+
+|
+
+|
+
+4
+|
+
+-
+
+“| “
+
+: &
+ia
+ry
+; fe
+>. La
+-Q)-+ . ) ue |
+= c
+im y 2 Ss :
+re = e ° font
+= = = q ss 5% 3s
+Cc - S ~~ Pe) 4 o Eso a.
+2 oo & a Re Pa eer} -
+co e 7 7. =2 2 a.
+i ~~ Doe aS e ? =m We
+| & & 333 $ =| PsP os 5
+o- = mz a. : wn
+3 = - S&S - a ow $ rt) ~
+> o hr = a” <i res
+x | Oe ec Of F - <a 1 e&
+—, ct.
+=) i oO
+™ ~~
+A
+— 2
+2 ; a
+—_ e >
+; c
+s s
+Pr 2
+CQ) a
+ay
+i ec <=
+9° ~
+; 8 5
+, S$ 4 e
+c ~
+Ss 2£ €&
+> 7 = 2
+frre = =
+4 = o ™
+aw. ¢e
+2 e °&
+| eo dd
+i 2
+a | i=
+CY) -+b++4> pip &
+o
+- = ow so-—
+ats | 7
+> e
+“Ss
+=
+% Le.
+
+. is * , ad © 7 . 7 - - =
+ris
+1
+of
+'
+ay
+mo -
+; >
+~
+Ay
+l
+1
+ss s
+“
+me i
+,’
+il
+"
+oe
+ir
+”
+|
+-
+
+VE
+Tell § Fi :
+af Hg} ee
+Bll alt HAE rey Sita.
+| Berl ait HM) GP a es Hf iz
+| Hy Set ies : Sy : bl ils ES a
+EET I Resi ise Z
+Beh nt \ ite | * 4
+Rett SOE)
+‘ pi | . Sx ; | y , , a oT
+Hisey me Loe ae% 3
+Cig Je Be BH Bs :
+Bie | ~ S38 £285 #3
+om | ee oe ret >
+ince | | AeeCETTRRERS - S.
+[ee iW gs Ar E tf ae : s
+Ieery da] § | Aver RAAT SS 2
+He SINTER eae) 5
+Ulett TIT | Ge 2 2 ~
+; tag Wd : ir PS yyw a
+; Le th i sbee eeed I i , ei i: =
+tom : i " i ce i oh a ‘2 :
+1 Hi eA FY Fee Ww nw
+ct Ss — HES «S
+be *. I2'y>—__—|
+Mo. =
+BY %
+
+: - a "s : - "2 * "Pr « : oc " -
+7
+i
+4 '
+. ig
+I
+/ I -
+I
+a F
+*
+!
+t
++
+I
+i
+'
+i
+I
+i
+= ; ;
+i .
+- I
+i
+i
+a
+i
+fT
+<4 ay
+| :
+I
+
+rT >
+ss ti=*d
+a3 eg
+[3 | a
+| op
+| | 3
+| || 38 7
+-_ (i , | 8
+as 3 | | “a
+| EF Un
+Or s| §&
+__ 3 ! i
+=a — | @ 2 7
+O83 7
+| a3
+1 1g
+| I OT TG
+| 13
+/ 8
+; = i
+VW)
+! : 7
+{ c :
+| = : mol 4
+cy T in .
+Ls tt =~
+ad fl XN | &
+Po a
+gl
+a |
+OBS —a Sy
+| = | on :
+Sees va - :
+. £3
+a
+Qo
+~~
+oa
+La.
+
+a " : a * : * "2 7 ‘! "620 : ie .
+7
+I
+« a
+i *
+J
+ee Pe
+-
+i‘@
+I
+- =
+if
+I
+I
+7
+; ; .
+I
+_s
+j |
+; =|
+rel
+i
+I
+: *
+1 : / -
+I
+-_
+i
+i
+iI
+Ww
+oy
+| ,
+|
+||
+||
+il
+-
+
+OD
+| © |! |
+| { |
+| ©| Q
+| S| S 7 2 |
+| | J) Ss 21 .
+S| 7 ew «bi 2
+- jb Ss] = =]! 3
+: ©), st og | :
+| | NR! 3
+| © 112 IB |g
+| | Co) | ‘a
+| N | z
+: po {LL g
+s
+Ww)
+r STE eg ai
+i. 2 a
+Ry 1 3 :
+| = | =
+| Ls | 3
+Cc
+S| | 3
+| [Xe | =i
+4 ‘ =
+3 | a | s
+ir : B
+| 2 3
+Ela | ,
+—— | in
+og
+LL.
+
+7 . + : @ 2 : ‘e! "30 7 ia a :
+"
+«, !
+‘
+: che
+I
+: 1
+-/ 1 7
+“fi :
+- 1
+2 IL
+1
+| |
+i
+1 I 1
+ll I 1 ;
+I a 7 1 ;
+/ 1
+“1
+\\
+Il.
+I
+TT
+' FA - t
+.
+"OP
+a0
+in 1
+a
+=
+: I
+rT
+a
+aw
+.
+he es
+1
+«ji
+, ,
+|
+I 1
+- t ;
+od
+Lo *
+i
+|
+
+Ag, FS a
+mn a
+AM
+: —
+oo c< jo
+m wn + = Ss =
+© xm ie
+© Oo Oo
+“ + . mo oO th =
+nw nm nw im 25 v
+~ = = Ww
+* =°s o
+E _J
+wn wl ° an) a
+; eT tw
+os =
+re
+Be od
+rm oOo =
+' Oo
+wn —_—
+°o = Ss
+i a
+aed = =<g a
+2 ~ “ Sh iH
+my a . ~ 7 w w —
+NX a] an wn O a) Q
+73 685 g
+w it a
+wo; + oO lS uve
+. ° z+ = 2
+— ™ oO to)
+-e =
+me i
+_ vn *
+wn =
+Oo es Me =
+i rm 7 x5 wn
+3 o bs! + wn o me: o
+oz 2= ~~ = 4 wn
+= .aDad : o xX wh w
+< oO
+Os ox £+ rT wW Oo
+aoe J Q Ww — a
+wm pee mn
+=O Vink tun S
+2QuUN Aa , Oo >
+wn age oO
+YSoz sae a.
+uJ = a 4
+Beas BSS 23 »
+oui zu my wn “|Z 5 >
+a 2 ~
+as a cpencnline, nasecile Oo] ao] e > mn 9
+“<rowwrnmnuwn wu} aH] ™ oO o
+y=
+. Nw = ©
+eS 3
+av
++ T ts -_—
+oe ad
+mm
+of Oo Oo oO —_
+wm = ~ a i...
+
+i] oo i 73 1 " mse:
+:
+| 1.
+|
+|
+| = | |
+|
+| -
+1
+
+_ MZ Ww’:
+ft ZZ VN
+| UNE FERRO
+
+; 4 : - * * - 7 _? 7 = a -
+. / ;
+I 7
+» :
+i
+t -_
+|
+r
+{
+h :
+he
+“fi
+I
+D
+-
+|
+i i
+ah *
+|
+!
+i
+
+= sf
+= in
+oO —
+o
+oO cw]
+un fx =
+“hb B
+oz S
+a 8
+o
+i in 2
+= ww
+Las =
+7 8
+= cq
+_ _ = =
+SS mm ©
+J owe cc
+oO Oo 1
+i ¢
+| w oO 1
+| 3%
+J
+) RES xi
+=e“) ZI
+! Se
+°
+| Sus =
+| wn ;
+=F "
+| ed E
+a
+Le oO uw
+>
+= “
+Ro TST Thao us
+wn
+= r+ =
+| oe
+© a
+| S x >
+| E a.
+| 2 hin 2
+RO 5
+| S23 ©
+wo 0
+co SP nnsS 0
+: ZEEE | Be ro
+> eheh as
+ae i
+= ta 2 Ud > oO x
+rag pane = =
+= SESE + oO EE
+= oa 7 N oOo
+= S3es8s o” 3S
+~ 33ee ~~? [=
+—! AE =
+a. TMA =— in :
+5 a co
+lad .
+7 nt =
+Le.
+Oo oO -_ Oo oO oO oO oO
+laa oO S +r ie] Cl _
+
+“y "* 7 4 7 ” * - . ¢ ‘ae - ”
+*|
+
+1
+
+I -
+
+} ”
+
+I
+
+1
+
+| al
+
+j
+
+l
+
+i
+
+i
+
+i
+
+|
+
+a]!
+
+7
+
+|
+
+|
+
+—— Ne
+
+: — NY
+ime :
+At LT ted |
+
+ee payee: Pee
+
+{
+
+I
+*
+| .
+
+“+
+
+4
+
+|
+
+!
+

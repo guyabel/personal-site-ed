@@ -1,0 +1,1497 @@
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Replacement of the PLUTO reactor top shield plug in 1983
+— a lesson in pre-decommissioning, decommissioning
+
+Dr Ed Abel
+
+Harwell Reactors Decommissioning Manager
+
+UKAEA, 404 Rutherford Avenue
+
+Harwell Science and Innovation Campus
+
+DIDCOT, Oxfordshire, OX11 ODF
+
+United Kingdom
+
++44 1235 434168
+
+ed.abel@ukaea.org.uk
+Introduction
+The decommissioning of Harwell’s two 26 MVWth) Materials Test Reactors (MTRs) started as soon
+as operations ceased in 1990. Initial defuelling, removal of the balance of plant and most of the
+surrounding buildings and facilities was completed by 1998. Several different dismantling plans
+have been proposed, but until now, the option of early removal of the reactor top shield plug in the
+decommissioning sequence has not been seriously considered.
+The drive to produce accelerated decommissioning plans for the Harwell Site (and MTRs) between
+2004 - 07 forced the reactor decommissioning methodologies to rely heavily on remote handling
+techniques and increase the shielding for access to the reactors’ internal components. Early
+physical removal of the top shield plug was not a viable option. However, these programmes have
+been postponed and reactor internal dismantling is now unlikely to occur before 2027. Any further
+delay will make top plug removal a more plausible option, as activity levels decay.
+In 1981, there were operational needs for rig access to the full core height in PLUTO. The solution
+was to totally replace the top shield plug with a new design that had more penetrations, including
+ones that avoided the horizontal through tubes. Two years of planning, design, procurement,
+testing and training followed. The replacement was carried out successfully on 5th November
+1983, with the high active operation being controlled remotely from the Emergency Control Room,
+and lasting only 15 minutes. The reactor had been shut down on 28th October and reached full
+power again on 18th November. In essence, this was a pre-decommissioning, decommissioning
+operation.
+The 1983 top shield plug replacement operation is described, and photographic records of the
+event are included. The original calculated and measured radiation levels are presented.
+Although radiological protection standards have improved since then and would influence a
+modern scheme design and operation in a different way, lessons can be learnt that will influence
+future decommissioning projects with similar tank-type reactors.
+Background
+In the early 1980s, the Windscale AGR was closed. There was still a need to carry out CAGR fuel
+pin studies and PLUTO was identified as a suitable replacement, provided the full core height
+could be accessed. PLUTO’s vertical rigs were constrained by horizontal through tubes which
+were originally designed for rig experiments but were almost exclusively used for neutron beam
+work. As PLUTO was expected to run for more than another ten years, a new top shield plug was
+designed with more and larger holes and ones that avoided, wherever possible, the horizontal
+through tubes. A new top plate was also procured.
+The old plug was highly radioactive on its underside (stainless steel plate, 19.1 mm thick, backed
+by 2 mm thick layer of cadmium). Neutron streaming up the side wall of the plug (12.7 mm thick
+stainless steel) meant that this too was extremely radioactive, to a height of about 420 mm. Initial
+measurements put the activity levels at least as high as 33 Gy h’. Measurements inside the
+reactor were at about 200 Gy h’', from various other sources inside and including the Reactor
+Aluminium Tank (RAT). The old top shield plug was too large and radioactive to dispose of and so
+was incorporated into a new Rigs Storage Block built next to PLUTO. A method of transferring the
+old plug to its new location and installing the new plug was devised.
+
+1
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Planning the transfer operation
+The large shape and size of the plug and its activity levels meant that the Polar Crane would have
+to be controlled remotely. Background levels in the Containment Shell were calculated to be so
+high during the transfer operation that no staff could be present and all operations would have to
+be managed from the Emergency Control Room. Dose levels at the Site fence were considered to
+be too high to allow Public access and the UKAEA Police would have to use control checkpoints.
+A revised scheme relied on a shielded pathway between the top of the reactor and the new Rigs
+Storage Block location. The new plug would provide shielding at one end of the pathway and
+shielding blocks were stacked to form the shielded channel. The sequence of operations was:
+e lift the top shield plug out of the RAT with the (remotely-controlled) overhead Polar Crane;
+e traverse it across the reactor top to the new Rigs Storage Block;
+e lower it partially into the new Rigs Storage Block;
+e pick up the new top shield plug already on one corner of the reactor top;
+e traverse it to the RAT;
+e lower it partially into the RAT.
+i Concrete shielding blocks I New reactor plug
+tL "
+Lead-brick wall i Storage block) A
+pen senn a Sa ane qrntanenn dean
+Bi © } Slools (Zofi—  @ ft | © |
+Y Uy-----<=---= 4) _ if -----5------ } —
+pir] rtim@0 a
+GY —_— —— ——_)——p aaa Wa Reactor -
+Wp med V/, top level
+No 1 .
+Yi ne eee Foe} Jacks (6 off 174 —Aecesssssseseseey <Plug supports
+Un wet eset Sand bags A7 @ (*4ARollers {Reactor}
+pip osssszesos A einting plug Mt
+Ct © FT |ietbere cater w | 7
+, pepe UIT ees plug posillon in POSE TON, SPER ATEION
+sides rae sequence of 4 REACTOR -PLUG EXISTING POSITION
+SA WT iia we 2 PLUG PARTIALLY REMOVED USING
+Ray, panes operations} JACKS AND ROLLERS POSITIONED
+oagahy I NEST) AROUND ALUMINIUM TANK
+Sues suena} 3 PLUG IN FULLY RAISEQ POSITION
+anes Rien! 4 PLUG MOVED OVER STORAGE BLOCK
+OES 1 Suara 5 PLUG PARTIALLY LOWERED ONTO
+FESS torvelieasbiend! tank 6 NEW PLUG LIFTED
+UN R ace mene Reaclorseeeneum: inn 7 NEW PLUG MOVED OVER ALUMINIUM
+ak ee € NEW plus panTiLy LOWERED oxo
+19 Woo CLLLLLLL LL, 7 RELA IRN, me pup
+yo LOWERED COMPLETELY
+10 ROLLERS REMOVEO FROM AROUND
+STORAGE BLOCK ANO PLUG
+LOWERED COMPLETELY
+Replacement sequence for the top shield plug
+What appears at first sight as a casual gesture towards dose management was in fact an
+engineered system that was based on a comprehensive assessment of different exposure
+pathways using the best available computer models and many different safeguards.
+The methodology used to plan the replacement operation was structured to ensure a safe method
+of work, with contingency arrangements, and attention to control of lifts so that there would be no
+damage to other reactor components (especially the RAT) and that there were no significant
+radiation fields outside the Containment Shell. The plan that was put to the Reactor Safety
+Working Party provided pragmatic solutions to the following aspects:
+2
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+
+e the magnitude of the radiation from the top-shield plug underside and wall;
+
+e the magnitude of the radiation from the open RAT;
+
+e the condition of the gap between the top shield plug and the RAT;
+
+e preventing the RAT from being inadvertently lifted with the top shield plug ;
+
+e the possibility of adhesion of the two mating flanges;
+
+e the possibility of overloading the crane in the lifting operation;
+
+e the likelihood of either of the top shields not hanging vertically and jamming, particularly in
+
+the RAT;
+
+e difficulty of negotiating the step in the RAT/top-shield plug walls;
+
+e the possibility of some or all motions of the crane failing.
+Radiation levels
+The underneath and sides of the top shield plug were considered to be the most highly active
+surfaces to be exposed but the RAT also made a significant contribution. Attempts to take TLD
+measurements of the underside of the plug failed as contributions from sources in the reactor
+swamped the results. A shielded holder gave an indication of values of about 33 Gy h'. The
+bottom stainless steel plate was drilled to produce swarf that could be analysed through gamma
+spectroscopy. The most important contributors to dose (specific activities and gamma emission)
+were the longer-lived nuclides: *'Cr, Fe and ®°Co. Activity distribution appeared to be less in the
+central region of the shield compared with positions over the reflector, possibly as a result of
+shielding by CCAs and the presence of rigs.
+Based on the known Cr and Fe content of this stainless steel (18% and 73%) and the specific
+activity of *'Cr and “Fe, the calculated neutron flux in the surface layers of steel in the region
+around the core was about 6 x 10''n cm™s"'. Using this value and the measured specific activity
+of the Co (185 MBq g" stainless steel) indicated a °°Co content of 1120 ppm. Recommendations
+were made that for the radiation calculations a uniform specific activity for °°Co of 222 MBq g'
+stainless steel be used for the whole of the underside of the top shield. The contribution from °'Cr
+and Fe in terms of photon energy per gram of steel was small compared with °°Co and was
+bounded by using the °°Co specific-activity value.
+The side wall of the plug was more difficult to sample, but a hole was drilled in the top flange of the
+top shield directly above the gap between the shield and the RAT wall. A small introscope was
+inserted in the hole and down the gap. It was found that both surfaces appeared to be quite clean,
+giving confidence that the plug removal was possible. A narrow strip of spring steel was passed
+down through the hole until the bottom of the strip was level with the underside of the plug. The
+strip was irradiated at 0.6 MW for 30 minutes, and by comparison with a piece of the same steel
+calibrated in GLEEP, the neutron flux in the gap was calculated and extrapolated to 25 MW
+operation. The flux at the bottom of the gap was 9.3 x 10''n cms, which compared reasonably
+well with the 6 x 10'' n cms" calculated for the stainless steel plate. Integrating the flux up to a
+height of 420 mm above the bottom of the shield plug (above which the flux and hence activity was
+negligible), and assuming the *°Co content of the stainless steel sidewall was 1500 ppm, the
+equivalent uniform source strength was 47.4 MBq g" stainless steel. For the radiation calculations,
+a value of 48.1 MBq g" for the activated height was used.
+The RAT was believed to be exposed to a fairly uniform neutron flux of ~10'? n cm™s"'. Above the
+water level the flux fell off rapidly and in line with the measured flux in the gap between the top
+shield and the RAT. The plan was to over-fill the RAT to increase shielding from the RAT itself but
+there were limitations on the maximum height possible. Just around the plug reduced diameter,
+the RAT wall thickness increased to 31.8 mm. The important requirement was to obtain the *°Co
+content of this aluminium. The specification for the RAT material was 99.8% Al, 0.075-0.15% Fe,
+0.05-0.15% Si, and 0.01% max. Cu. The inter-space hole was used to sample the RAT but
+because of the choice of drill and shroud tube material, there was considerable uncertainty about
+the sample analysed. In the absence of better information, radiation calculations were based on
+the value of 187 ppm. The activity of the aluminium due to cobalt in a thermal-neutron flux of 10'°
+n cms ‘was 651 MBq g" aluminium. This figure was used for the aluminium below heavy-water-
+
+3
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+surface level. Above the normal water level, the flux was assumed to fall exponentially. At a point
+780 mm above the water level, the flux would be 10“ times the value at water-level. This fall-off in
+activity matched the fall-off in thermal-neutron flux measured up the gap at the side of the top
+shield plug.
+Shielding Design
+The Winfrith Shielding Group had used the RANKERN code to determine the dose rate at the Site
+fence, 40 meters away. With no shielding, the dose rate would be about 17 mGy h'. Hand
+calculations produced a very similar value of 16.5 mGy h". The dose rate on the reactor top, 1.2
+m from the side of the exposed top shield and just below the bottom level was calculated to be 8.8
+Gy h'. These values drove the strategy of retaining the old top shield plug within the Containment
+Shell, using it as the top shield for a new Rigs Storage Block and locating the new block in a
+position that minimised the amount of crane movement with a highly activated component.
+The shielding requirement was for a wall thickness equivalent to 1.2 m of concrete. The walls were
+made up of 0.6 m x 0.6 m concrete blocks, which were supported by additional steelwork — some
+of which was already needed to support the new Rigs Storage Block. The shielding route formed a
+trough and was closed at one end by
+blocks and at the other by the new top
+shield plug. The calculated dose rate at AIO OOO DOO
+the fence was then expected to about 0.1 RTS So SRC pice
+-1 . . DO ix R454 wall
+uGy h”, with no scattering element HRS —> BI
+included. The blocks were stacked two SOY (ew RK
+high by two deep on the reactor top and KSEE | storage RAS
+LSS] block XK
+extended three blocks below the reactor KI RII
+RS] RSS)
+top. The new Rigs Storage block was SS 4S
+surrounded by two by two blocks and gaps RXR RRS] aft texans
+were dealt with around the rig galleries by RY KY he ees
+combinations of concrete blocks, lead 21t thick RASC Meee
+. concrete blocks, PICS ; eM
+blocks and sand bags built up to fill supporied on SOKXY ‘Centre «tine ISS 5.4
+. steel fromewor' KR OhS4 jo! traverse BIS
+spaces. Some parts of the flooring had to beyond seasior Rees mation KON
+be temporarily removed. The blocks on SOS ieatenst
+the reactor top were not put in place until race «HOP A neactel wen KOotOd prc 1
+the reactor had shut down and all fuel PSoRSG RTS
+ical ri oop XS
+elements, absorbers and vertical rigs had PSSPSCH fo top- KIRSOH
+been removed from the RAT. SorH ahield PSS CS Reactor
+SRO plug DOS ure
+Poors} | Pees
+Additional shielding and precautions were SPS | ASAE
+needed for the RAT as although direct . WKS =< RRA
+radiation would have only minimal effect So ones
+j <4 on
+because the Containment Shell would be race KOO] new top. DSN hace 2
+evacuated, the scatter caused by the steel ee
+roof, the crane and the air would give rise :
+to significant radiation at the boundary
+fence. If access was needed to the crane
+while the RAT was_ unshielded, for Shieldi fi ti
+example as the result of a drive or elaine Fenigarauen
+electrical failure, radiation levels there
+would be very high. The least complicated method of improving shielding was also the most
+effective — the heavy water would be raised above the normal level. As the heavy water was
+contaminated with tritium (about 200 GBqI") there was a concern about extreme tritium
+concentrations in the air of the reactor building. The solution was to fit a rubber diaphragm just
+above the raised water level. The plan was developed in conjunction with the plug lift. The plug
+would be raised 810 mm and supported on four stools, bolted to the flange. 480mm of plug would
+still be in the RAT and radiation levels were expected to be still acceptable. The diaphragm would
+be inserted through a large diameter reactor top hole (7V3) and positioned using guide ropes
+4
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+through other holes (7V4). This operation (and the retrieval through the new plug) would put
+operators most at risk and was carefully managed; finger dosimetry was worn. Once inserted, the
+diaphragm would be inflated to produce a vapour- Stool 16)
+proof seal. Open-hole doses for this operation were a
+in the range of 200 — 500mGy h". clamping 59cm
+| Top-shleid
+
+The consequences of the planned shielding Mester plate) moo oat
+arrangements, including raising the water to a level Height of
+of 2.45 m was that the radiation dose constraint at 1 hag :
+the Site fence of 50 uSv would allow up to 50 hours fn
+of operation with the top shield plug removed. There —- —|yRubber diaphragm |
+was confidence that the operation would be easily 7 265 Max, height of 0,0
+completed in this period and the margin was 72cm oF bhem
+adequate for any recovery operations needed to | _—<L. base. of suai RAT.
+make the arrangement safe if equipment failures _—-: Norma! 020 level
+occurred. RAT. 184 cm
+Potential failures of the Polar Crane
+The position of the new Rigs Storage Block was on a
+radial line from the RAT. This meant that once the
+Polar Crane was aligned, only the transverse and
+the hoist/lower motions were required. The failure ; —
+modes considered were: D;0 height variation
+
+e electrical failures of the motors;
+
+e failures of the controls or wiring to the motors;
+
+e failures of the drive trains;
+
+e failure of the brakes, including failure to release;
+
+e mechanical failures of the motors, bearing seizures or shaft breakage;
+
+e gearbox failures including gear tooth breakage or shaft coupling failure;
+
+e rope or clamp failure.
+Emergency arrangements were put in place to lower the load and traverse the crab without the
+load, using additional remote mechanisms and pull-blocks. These operations would have to be
+carried out by operators working from the crane walkway in radiation levels of up to 66 mGy ht,
+which were assessed as accepable but very time-restrictive. Further improvements were not
+considered necessary as the crane had worked well for 25 years, carrying loads comparable to the
+22 tons of the top shield plugs. In addition, a NDT survey by an Independent Third Party of all the
+crane’s principle moving parts was carried out. Only a very minor defect was found, in a relay coil
+which showed signs of over-heating. The crane was subjected to the standard overload test of
+32% tons.
+Pre-replacement preparations
+Preparations for the replacement operation included fixing the Polar Crane alignment, rehearsal of
+operations using the new top shield plug, installing additional CCTV equipment and lighting, adding
+ventilation to capture any escaped tritiated vapour should the diaphragm fail, adding gamma
+monitors at the crane gantry in case recovery operations were needed and positioning the
+shielding. Emergency operations were planned and rehearsed.
+The crane alignment was set to the planned path of the top shield plug. Microswitches were
+placed so that a cam would actuate them when the exact crane traverse position was reached and
+light an indicator in the Emergency Control Room. The crane ropes were painted white at
+particular reference levels and could be seen by CCTV cameras that looked along the line of the
+transfer. Two additional orthogonal cameras were set just below the crane rail to give an overview.
+Each plug was fitted with three cameras at 120°, which looked downwards over the sidewall. The
+
+5
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+crane operator could see whether the plug swing had finished and have confidence that the plug
+would be lowered correctly.
+Rehearsals used the new top shield plug and demonstrated that the plug could be inserted into the
+Rigs Storage Block and onto its stools. The two lifting frames had features at their top to guide the
+crane hook into position and the engagement and disengagement was practised. The rehearsals
+also allowed repositioning of cameras and other equipment to ensure the best views were
+available to a crane operator in the Emergency Control Room. An arrangement of guide rollers
+would be fitted to the top flanges of the RAT and RSB so that the crane driver could manoeuvre
+the plugs without damaging the RAT walls if the alignment was not precise.
+The fitting and operation of the rubber diaphragm (also known as the “padling pool”) was practised,
+as it was a vulnerable part of the operation. Three were made, one was used for testing and
+handling trials in a mock-up and two were available for the replacement operation — one was a
+back up in case the first failed. The endurance of the rubber was expected to be about 5 hours in
+the RAT. If the diaphragm failed or tritiated vapour concentrations became too high in the
+Containment Shell, the team were prepared to use air-line breathing equipment for the re-entry
+phase.
+iN g ) ‘Ne
+A , ” joe ble —- — r a (i aed ¥ Ve mL si of
+
+eg eS re = wma hee atl
+
+a a wa TT spa oh s i “ at ( &
+
+b z “ y i = | Gary oa at ~ el i” oe
+if” > A a a ee ey pe : ‘ s r mi SS y Pi rae " «
+a» —_ ~ - A a” ¥ ‘ 4 Po
+
+o: . a, +} ~~ : Jam
+
+Se, A Pa eed Cc 3 ase)’ Sr BPE
+J H : Y ts } = SS e . , a, FE a /\ . . |
+. = . yy! t * ~~ r ro
+Installing the new Rigs Storage Extra structural steelwork Checking the new plug fits in
+Block (RSB) that would accom- around the RSB would support the RSB. Side-wall stools are
+modate the old top shield plug _—_— the 0.6 m x 0.6 m concrete attached so the plug is not fully
+shielding blocks lowered
+"| = . ‘Se ‘ wn Pa oN en al PsN ;
+' > Ye : As na : 2 0
+tl a os a | a] “ >» ba ~
+- és -- he rd ‘ 1 ,
+of J ee aN ‘ Ss ! °° &
+a am ‘ % y
+The ECR: Crane Operator’s View from auto-camera - old top Video link screen-shot - old top
+CCTV and remote controls shield plug is prepared shield plug is prepared
+Initial Lift of the old top shield plug
+The reactor was shut down on Friday 28th October 1983 at 0900 hours. Over the next four days
+the rigs, VCRs, the fuel elements, control absorbers and adaptors were removed. The CCAs were
+decommissioned and unloaded and the D2O system drained down. The RAT was kept at a slight
+depression to prevent uncontrolled escape of tritiated vapour when pipes were disconnected.
+There were doubts about whether the old top shield plug would come away easily from the RAT.
+Rather than just relying on the crane, eight screw jacks were fastened to the flange using holes
+6
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+and tappings that had been prepared during earlier shutdowns. The lifting frame was attached to
+the crane and a load cell was included to make sure the crane was not overloaded. Several of the
+jacks seized because of an inappropriate design, but the crane was able to free the plug, without
+overload. Additional bracing bars were fitted to the RAT flange so that it would not distort when
+loaded with more water than usual. Radiation levels rose significantly when the plug had been
+raised to about 760 mm, from the RAT itself and source blocks that were still in the horizontal holes
+shining up the side-wall gap. Shorter stools were used so that the plug was raised just 559 mm;
+the radiation levels were still up to 50 mGy h"' next to the gap. The guide rollers were fitted.
+Other pieces of equipment were installed on the crane when it was not in use. It was aligned to the
+top shield plug pathway and final checks were made on views and camera controls when
+controlled from the ECR. The recovery mechanisms for the crane were fitted and tested with the
+new top shield plug hung from the Polar Crane. Most of the areas around the Reactor top and
+towards the new RSB were sheeted out so that if there was mobile contamination on the old plug
+then decontamination would be easier. Because of the widespread interest in the operation, colour
+CCTV was relayed to monitors in the Research Reactors Division B521 Conference Room. All the
+preparatory work and testing that could be done was complete by the end of Friday 4th November.
+The Replacement of the Top Shield Plug
+As the dose rates outside the Containment were calculated to be high for non-Classified staff, the
+operation was planned for a weekend with strict limits on the numbers of those involved. Progress
+had been better than expected so the replacement took place a day earlier than planned, on
+Saturday 5th November. The first operation was to make sure all safety and operational personnel
+were ready and that communications and control between the Health Physics staff, the Police and
+the Operational team worked. The Police established road blocks to seal the areas around PLUTO
+so that unauthorised access was not possible. Health Physics teams were set up as direct support
+and at external monitoring positions, where they could record the dose levels during the transfer.
+The diaphragm was fitted but initially the mechanism used to thread the diaphragm ropes through
+the 7V holes caught on obstructions underneath the plug. Two sleeves that had been fitted into old
+safety rod holes projected approximately 200 mm below the plug base. The sleeves had not been
+seen on previous CCTV inspections and had to be removed. With the diaphragm finally in place,
+the D2O level was raised to 2 m, just at the underside of the membrane. The radiation through
+hole 7V4 when the RAT was empty was 500 mGy h"' but dropped to 7.5 mGy h"' when the water
+level was at 2 m. As the water provided additional shielding, the shorter stools were changed for
+the longer ones. Radiation levels from the plug side wall then ranged between 20 — 40 mGy h”.
+The teams left the Containment Shell between 09:45 — 10:00; the standby diesel-generator was
+started and run disconnected (off load), ready for connection in the unlikely event of mains failure.
+Key staff assembled in the ECR. At 10:30, the replacement of the top shield plug began.
+The replacement was achieved without any serious set-backs. There was no need for any
+emergency intervention. The old plug was lifted until white paint markers on the crane ropes were
+level, indicating a correct traversing height. As the plug moved along the shielded trough towards
+the RSB, it passed over two high-level radiation monitor chambers, one on the edge of the reactor
+well, the other on top of the shielding towards the RSB. Their amplifiers could be read by CCTV.
+The maximum radiation level detected (at a distance of 1 metre) from the plug was 11 Gy h”.
+Peak levels measured on the crane gantry walkway next to the Shell wall were 2 mGy h".
+The three cameras on the lifting frame were useful in helping the crane operator position the old
+plug above the RSB by equalising the gaps around the base. Minor adjustment was required but
+the plug was set down on the stools in the RSB. At this point, the crane gantry gamma monitor
+directly above the RAT only read 200 uGy h", showing the increased water level had successfully
+reduced the radiation. The assumptions on cobalt content of the aluminium were considerably
+lower than the most pessimistic prediction or the activation had not reached as far up the RAT or
+shield plug as assumed. The maximum at the nearest section of Site fence was 3 uGy h”.
+
+7
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+uh > eer “ EN ey Phat dt in
+Pe Prien. - om :
+eek en ih Se
+i . Pt Ua ‘ : Sh a .
+Py. ik * Oh ee ’ SA
+ae S , Oe pl er. ee
+<P ra B, . | 4, - - fr a + ; m7 od Ay . . ;
+oe Ey be : Udy : al
+—— ——_ . ee ~~
+10:30 10:31 10:32
+Lift of plug from RAT begins Top shield plug is clear Traverse to RSB
+Re ae een. RNS beara
+atin 1] Pee ie i)
+eS , bao as | = i ae, i | ty
+eS oN OS ST OE ae ssf), 403
+. he rn < G KE = Ts <i) 4
+. : 4 And J = " “ : 5 j
+eS au a \ bie ; ’ ee ay x ‘<
+i < | a meee
+b > eV 7 De“ } > oF y
+10:33 10:34 10:36
+Positioned over RSB Lowering into RSB Installed & crane hook clear
+go re B Pins s Bis
+eS a ~ = Ss f
+Se Oa Ce Ok
+4 aay - = r . » c 4 ’ 4 t ~ \ r
+Sl Sh << _hel
+< a BY i - ES :
+LS AR » - ~~ Ps i ‘ ee a rs mR * =
+10:40 10:43 10:45
+New plug lifted over RAT Lowering into RAT New plug installed into RAT
+a | ( r7 Bs Pit no \ r on ‘F. ; ae _—
+os Pe, — ms ot <a 5 SA, a
+7 i oS ~ ww iy me ~ ( — hf ge o : =. oe
+WS — Sal) io <ul in ah
+2 3% = on as af
+= SE . ‘ ‘ >. SR a y a an . "
+Pl . ‘| ook ’ x ; s. ’ r ] coke
+11:35
+Health Physics monitor new and old plug positions Re-occupation of reactor top
+a
+™~ . .
+> ~ i Sons i x 7< *
+| . _ or ™ A “ae ie 7 a
+bof | me! . \ ¥ — er: ae iH ed — Ja i, 2 =
+eh tg ee cas 1 za)" 4 x sng
+; a7 j oh. & oad a > ~ ers 7s
+38 y J y : 9 ~~ Wa - ete = "A i & :
+Fixed position video and auto- Overview, showing sheeting to | Present-day view of PLUTO
+stills cameras aid decontamination reactor top
+The crane was remotely unhooked from the old top shield plug frame and hooked onto the frame
+for the new plug. It was positioned over the RAT and was lowered slowly, using the 120° cameras
+and guide rollers to attempt to centralise itself. The new plug did tip sidewise and then was slightly
+8
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+raised. It was left hanging on the Polar Crane until re-entry was possible; the radiation hazard was
+greatly reduced and the decision was that it could be introduced into the RAT more effectively with
+closer supervision.
+Two Health Physics surveyors entered the building and proceeded to the reactor top carrying
+radiation monitors and contamination-monitoring equipment. No significant contamination was
+found, and the remaining staff were admitted to the reactor building at 11.35 hours.
+On re-entry, the team lowered the new plug on to the 760mm stools and drained down the RAT.
+The diaphragm was removed. Measurements were made of the gamma radiation inside the RAT
+at different levels. The high-range monitor saturated as it was lowered into the RAT, indicating the
+full scale deflection and a radiation level of > 100 Gy h" at a depth of 2.75 m. This value was
+probably driven by the source blocks in the horizontal tubes. Measurements using TLDs of the
+underside of the old top shield plug in the RSB gave a range of 10 — 60 Gy h'‘, which compared
+favourably with the shielded measurement of 33 Gy h’*.
+There was no personnel contamination as a result of the preparatory shutdown work or the top
+shield plug change. Contamination levels were kept below 4 Bq cm” within the Containment Shell.
+No member of the team exceeded an investigation exposure threshold (10% of annual limit). The
+collective whole body dose recorded by the 64 members of staff throughout the four weeks of the
+whole shutdown period was 0.165 man Sv. Included in this value would have been exposures
+from essential maintenance work carried out in the same period. The maximum individual
+exposure was received by a Health Physics operator whose record was 5.5 mSv for the four
+weeks.
+Over the next two weeks both the New Rigs Storage Block and PLUTO were put into commission.
+By 11:55 on Friday 18th November 1983, PLUTO was started up and reached full power at 15:15.
+Lessons for decommissioning
+This replacement operation was a success because the reactor team had access to a well-trained
+team and coherent supporting services such as shielding analysts, health physics, engineering
+design and manufacturing capability. Many of the components were designed and built using
+facilities that existed at the time on the Harwell Site. There were ample opportunities for training
+and testing before the actual active operation. Emergency equipment and response was tested
+beforehand but was not needed on the day. The safety and regulatory arrangements seem much
+less stringent than are in place today, but they were adequate.
+The calculated dose levels were in line with measured values. However, the actual radiation levels
+from the RAT with a higher water level was less than expected, at about 60 — 100 yGy h",
+because the precise material properties of the tank were not known to sufficient accuracy.
+Attempts to take samples increased uncertainty as the sample appeared to be cross-contaminated
+with the sampling tool. There was an assumption that the more easily accessible aluminium at the
+top flange may be different from the sample taken at the step in the side wall. Operational reasons
+meant that not all source material could be removed from the reactor and this prevented
+measurements of the RAT activity profile at lower levels before it was refilled.
+The RAT cobalt content was discussed at the DIDO Operators’ Meeting in Julich, in June 1997. At
+that time the inventory calculations for the MTRs assumed the concentration value was 5 ppm.
+The Julich team commented that they had taken a very small sample from the plenum plate and
+the measured value of cobalt was less than 1 ppm. This value is in line with a sample taken from
+the top of the RAT in PLUTO and also matches the generic value given to the Reactor team by
+metallurgists who specialise in aluminium alloys, after the Julich meeting. The current calculations
+for the Harwell MTRs have been reworked using the lower figure.
+Accurate knowledge of the actual composition of key reactor components can be critical to the
+decommissioning methodology that is chosen. The amount of knowledge retention practised by a
+
+9
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+decommissioning project can have a significant effect on the cost and viability of decommissioning
+and waste management.
+
+The replacement operation described in this paper did not solve the problem of what to do with a
+highly radioactive top shield plug as it was simply reused. The decommissioning challenge is
+whether the plug can be dealt with safely after removal and can be processed to an appropriate
+waste stream. Available infrastructure, both in terms of useable equipment and trained staff has to
+feature in the overall plan and in some cases, early plug removal may not be the best solution.
+When Stage 2 decommissioning for DIDO and PLUTO was completed in the mid 1990’s, the plan
+for rig disposal was just to remove samples and make rigs inert. As there was no waste facility for
+the activated rig components, they were put back into the MTRs and the associated storage blocks
+within the Containment Shells. Over 450 rigs, plugs and thimbles were reinstated. Most of the
+MTRs’ support buildings were decommissioned, including the DIDO High Activity Handling Cell.
+The View Cells and external storage blocks in the Active Handling Bays, the office blocks and the
+DIDO AHB were demolished. In the Shells, all ancillary equipment was removed and the Polar
+Cranes were disconnected and isolated from power supplies; the crane hooks were removed. The
+plan was to start decommissioning in the late 2030’s, when a National ILW Store was expected to
+be available and the majority of benefits from radioactive decay would have occurred.
+Accelerated decommissioning plans identified that once the rigs were removed, the top shield
+plugs became the most awkward single item to decommission, from both the physical size and the
+radiation perspectives. The approach to early decommissioning has been to leave the plug in situ
+and extract the other components inside the biological shielding through an engineered shielded
+access route through a side wall. Remotely-operated equipment would be able to size-reduce the
+lower plug shield plate from within the biological shielding to minimise the complexity of dealing
+with the plug. As the plans for decommissioning DIDO and PLUTO move to future years, there
+will be a point where the removal of the top shield plug could be a cost-effective solution, but it may
+not be for another 30 years.
+Knowledge Management
+This paper has been prepared from material extracted from the UKAEA’s Records Management
+Service and the UKAEA’s Imaging Resource Centre. Four Archive boxes, approximately 200
+photographs and a VHS tape were retrieved. The archive material covered the period 1981-1984
+and included design, procurement and safety documents. Operational records included the Health
+Physics log books and the Reactor Manager’s annotated check list cards for the Long Shutdown,
+28th October — 17th November 1983, which included the retrieval operation.
+Although this activity occurred only 25 years ago, the MTRs decommissioning project records
+passed between the last four Decommissioning Project Managers contain no evidence that this
+event occurred. Original records from the old Research Reactors Division have been archived but
+there is no comprehensive or integrated database of information that might be important to
+decommissioning teams decades in the future. The Archive boxes contained files that by chance
+had associated information but their actual contents could not always be inferred from the file titles.
+Although adequate records for decommissioning exist, information retrieved, as in this example,
+could have a profound impact on the front end decommissioning engineering stage in future plans.
+Information needs to be managed in a more efficient way or it will be simply lost forever.
+An exercise was started last year to capture information sources for all three of the Harwell
+Reactors and rebuild the knowledge that has been lost. The UKAEA electronic data management
+system is the host for long term managed decommissioning records and the existing metadata of
+records for Harwell Reactors will be improved.
+
+10
+
+oD
+
+oe
+
+O OD
+
+TS x
+
+(io a
+
+iat. LLJ
+
+oir, =
+
+=) ©
+
+ee OQ
+
+ox :
+= oO
+
+ISS Oo
+
+0 6 i
+
+—s (ep)
+
+oC ©) ro)
+
+ae ne
+
+oy Pa
+
+<>
+
+ee Tab
+C =
+
+Oo & :
+
+ir . if
+
+a tT
+
+O oO
+
+—- —
+
+36  £
+
+aT
+
+Pan S
+
+ramen =
+
+oT Yeh a
+
+= oO
+
+Of %
+
+a
+
+Ooms)
+
+an)
+
+Ont O
+
+eee O
+
+A.
+
+Qo ,
+
+i)
+
+(a
+
+vd
+Ce
+Cc e U
+— ah S
+ty 5 mR \c “| “
+% Cane den Ve | |
+_ \)
+sannamanennane Miss F |
+ik, Se A |
+Fn $V -
+| po ee a
+| j a
+z ti |
+er Oe ay
+| “i ‘ . wf . }
+: = i) , Ie P
+SS - om [23
+ea / mn | *F
+Pig
+F y = i
+7 |
+f Pie . 5
+ile : ja a8 r i
+
+o re i
+a Roy 7
+ra © =
+5 = a :
+S © [= O
+@ Oo “ oO E
+_ — “Nh
+OS gs
+ze) —- O ‘@)
+£2) ) =~ Cc a
+Ss = Ci O
+= }
+O Dy 4) ®
+S Y = +
+ma oon (a)
+op) ® ‘c O ‘ou
+_ ac
+i ee =
+Te ee Oo a
+— = rd
+See a gs 2 we
+ee
+pr eee sae
+Cc ie vans = Se rb)
+O ar me Caray GO
+7°) On} ot > a
+> ® i ole)
+is Pa. - > OVe ad
+a 7 © ©)
+ey re ce) yy SS
+(40) — © cy 5 fC 5 @
+= oct OW oes »
+ae aN CS oo Lud
+eee hs) Sea
+= £@G £m ECL G
+r r e e =)
+a6
+
+be
+At
+Cc r)
+00 z
+Tet Tee
+mn ane; Aer OM oe S
+<= © Saag G58 5
+= a int? ro aes =
+aa en Z
+Peres. a
+omy ae =
+ee) nas Al
+ao oe oe a
+a como oa = oH
+0 Q 2 el 4
+oie O09 an
+Fe Sof ie S
+g 2
+ze At eg 1S 2
+a 5 meee a
+ies ona ols at
+on = ;
+fo} eon =
+=O aay ;
+5 nT oe
+o> no :
+== ae
+= a2) 0 = =
+ae olre! mar
+ue om E
+Od a Rec
+yuo. = CeOnon
+4c aa ane
+o> aaa me
+ne ees
+= oo S;
+3 ee 5 O
+a aa
+a =a > a
+= oh
+rm
+
+ap
+=
+5
+or <
+_ = eS
+a o,
+®
+see =
+ie) 7 fo’
+Ones yp =
+ra 2 D
+an rv =
+2 Ss > 2
+ee ee - ©)
+= a D =
+® 7p) ae fay}
+ro) Oe
+on yy Oo
+tp 7 = @
+Sa oan
+oF = 2
+— oO
+ee Oo s =
+oO) & re
+Me) nr
+n a nn on
+od) rm we ro
+> Oo ry N Cc ny ~ .,
+© - on? o Oc
+= ae P= EL z=
+= oe SS) AS 2S =
+Oo la. ot o>. reas
+4 non rn CE £€CwoO OW S
+Oo ~- OH HLH oO WD
+ag r r r e e e =)
+e
+
+r
+5
+< ay
+an 7
+pe ok
+=)
+©
+s
+_)
+=
+a e EF ww co)
+. HAE =
+5 43 go*
+Py PTO Oo Oo] ; 4 aa
+RA, KARE RRS SSR OOO RON . ;
+“ REP obese oer oR
+SPT ROR ORR OME SSD
+Kx ROO POOQO DAKO IDV) ROX
+Ss - 2 a 2 P cS
+3 ae \t NVR
+i ee sea oom Soe eG
+a g8 i OO
+5 =o : 1 BS
+= 8 a 3 os
+is 4
+OPS SEER RIOR
+BORK KK MO ODL. COE. PRON BS
+IN RKC KPO KP KK MP PORK OM
+R OCS P SA ASCE
+we Loy \
+: es Yo
+: nag “3
+
+c . . =
+Hom Buypying——__f /  / 7,’
+4 < 44 io
+4 -* 7 f
+Y f eo Ooze ft n
+if of Et: S E
+¢ 2 7 /
+® Z o of be io
+> J be . / ae e
+O fei for 3
+a / ¢ 23
+ou 77 re
+oor - / E
+; ot Z C
+oy a cs
+=) a Pipher mena SS a ae im 5
+as Fe whe ene nnnne x"
+©. “A f woo |e
+(hem nnn sxattleralls °
+Vt o s
+” DANO eemersnm manera snenenntmn= 7 p¢
+4d) SC AUINSS _&=
+Neg NSS 3
+@ ~ *., NA oe im a
+«Ae tis ~ & <
+NSE S< =
+= N *~* ween, ~. 6 © me
+SES Se os ~
+ra) swt wien ee z$ ie ee
+hans 3 eS §
+O sa 8 os. 8
+oa Le NIAC €
+9 o Z “SQ CN 0 2
+aD) Eo 2 ~ NEG n Y
+c en F ERREES RRA g
+8 3 % 3 SSN eo a
+E xa ‘Ss 3 \ NA a
+CL vo 3° bo \ #9 \ m
+2 . 2 Ss \ AVE oO
+O “ef? & Sone °
+963 E yom GBuipying ————_—___—_\ NV V4:\;
+= z584 =
+= oO ww ~t ” N Fe °
+~~) (24/74) ADmyIDM AsjuOB-auDI2 VO sjaAe] UO}DIPOY r=
+O
+aaa ee
+hr,
+cB)
+tA
+
+Yr
+he
+ot
+a q)
+= Oo
+3 7 a ae
+rr 3 po SN WYNN a a)
+SS MOY PS SNS or
+> [panes PPI ZI mm - eo)
+BS ae iee aepsckspicent inet secytpe a Dosaneds SACRE x DN DERE _
+HRA aR i Ae ee Deaet | __esaatd (D
+sihetin Crerpehsii anes dba teacieing Fe 1! ey i 4 1 =
+NEST Ee iter eg ae rahe tte tele eee 14 i t , 4 ' RS
+eye n teh te eet ceetean i
+oe om EP A Toe
+NE a oe ei
+Br Ry este et) re] —
+Ve ———$— # @ij-+ © i Jexse=
+Qa elo eR ; i : i? i
+Shenae SO Set Rs  Canaeaeeen RENEE NT ; 1
+eee —————$ if ™ $1) ft § agg =)
+pS ctioa as CO aaa +i it ‘ { : ae
+HAR MR Maine pane t laeetbenant | Swtemeet YO 4
+3 RRS Och Asal ds Aaonne operant: — So
+bP RR te Cato sate me abit bttat huge el seutaetaMeny
+ianasnoivenoay Peri anen ae agit Bu Op)
+\ iba ticees Abe ana ea ele ee ae Specs TPIS 3m] n
+Pp —Ci‘“CS;CSCSC~*i z ime
+eo 6
+25H =
+SRBzee vs J £8 O
+seegee ag {8 8
+OSness 7 aslo =
+Begs Is Ta \ Bd a 4)
+a! oO S ~
+ae i = 3 ® z =)
+2 “2336 “Nog ¢&
+io so | ‘ 3 3
+5 D
+g { Ss
+7 + as Es pone Seasee S
+. ' ! nt \ ; ' So
+Cc ' | H} ' ' ' RR, a
+‘ ' ur ' Psy
+3 — ' we | i as ‘Ss
+a } ' ' ale | . Won, -- sae
+_ ' ’ 1. —i ' Leen
+Cc ‘ ' 4 ’ i ' ' a
+3 h ! r a i ' ' 3?
+' ; Ne \ ! uw
+: ; 3 ° ' | “vf
+3 t of oe ft Ge
+‘ t =<
+> Pd dese mss
+SS
+VT
+~ oc FF | z
+o oOo DP une w 2 5 6 | 7
+“a fe © a
+—- 8
+a7 0 zy =
+593 S28 28 25 § 24222 BE? eB a 3 3
+ga 25° ¥2 22 2 9k & 8 25 F 8 a 7
+DEM DEG = 295 de =
+ano Gaa ae 2 2 Sah 87 O'S &
+mms ag “4g a a FAX Sanaa
+Qb2 Sy0 Ep zc MOE SF CIES
+Sho Es §2 2 n fox g «< 2or
+“ao = = ze
+eae eas Se §m@es 2 in Q
+GEO Teo oe og Rms gp Fae G SF
+=| a uw 4 3
+Moy Man x& QO am <4 i z= 2
+Pre: oy ~ a > =a
+“25 “28 ag 3 pak go BRS 8.
+-? in =] pea en oD
+cz BOR GAGS 2 <8
+Sy =) i E hom oc & oy
+a DO mo ¢ nz 3 oa 5
+g p43 £ 8329 BR3
+§ ge °o 2 E
+o & o
+
+2
+a
+E
+7 x
+“2 o zu 5
+ao 5 5 “ 3) '
+7 = i
+ono a & E ly
+O92 i o E 2 BS) ~ I |
+ca E 3 2 & @ ® |
+Se ys = | 8 fh!
+w 3 cF& o £ c |
+os] ves o s i “) 2 fy]
+Ss 252 2s 2 ° 3 ‘so| 2 ; |
+— u — c
+cUvUy ~~ c . |
+S| Cae 8 8. 5 ££ &§ ep e€ fly |
+a oo? a a “— y ~~ = |
+3] 58 2 oa o 8 @ o| @ [IS
+=| arte Oa EF a. a oa; =x Qa |
+bil
+ro
+“a ,
+=p
+ia
+—
+oy
+Se
+baz
+
+ses
+a
+s S
+(©
+> =
+=),
+'@)
+|
+4D)
+Q)
+zx g27 Y
+—3 Q gap 3 O
+g — “eo ol
+. 3 = a ~ — «
+o & & =)
+ly a
+- ©
+rs S,
+: | RSS
+J | ¥t------=--3 e
+a
+eS th
+Or N jee
+7 . 3h 12 o BT
+- c|| $ =2 g
+> =e 2 mu a
+“ LF & a= wv
+$° 3 ie fo «6S
+er agi] = 8 2
+gq is *lis “ bi
+Bio als .
+= eke ‘113 2
+Be oo
+o IPB 2
+3 2 = 9
+- a o
+*
+
+SST? , J
+a nn Eset pm
+A “4 \s .
+a . ¢ ¥ o2
+Pa p % 5 ae £8 Prd
+eee : 7) ”
+= ee KN . a “ago By = To) i)
+ze be da , . a ro) =
+@)) lf \ See TO ae
+=| Pi” fe ah oY
+ed i ‘ = rc r ‘ = iS =)
+. et = : . > Qa
+ou ia oe Wy, - teed | ae
+ee wre oe ee
+ae): / a
+ae s fe)
+4D) Ma og 7 7 nea)
+Cc : , A A
+, +s | 5 a ag re) 3
+c=
+4 Es ee ae ee
+4 / =e. AD
+pe nth” uN t
+©) all 3, ~R / f fe)
+rt roy
+= 4 ng ~ < a . ana a rt)
+dl wD r . ——- . ) BY rr a)
+~ 5 eo ¢ S = 2
+O Ze fj Zse
+© ait Lk ah ee
+Ag tae bos res {/ i. wo Ee ”
+O wa a Y 5; 5 oe re
+; om v § x Yo Oo
+~ . ’ ®
+| AN Z. =e x
+MZ ioe \ eae
+Rs N O ss
+a —. _* | A ao
+_ % ; * : . J ‘ a ro) ®
+© ie Pes) oS LAS
+= af \ = 2
+: “ ‘a8 ye rb) 1
+a Pe
+, . s fs Lom Rae
+O \ a be cal oO
+ew . s 4p) NY =
+ad) | Ne . \% . at ” ao) a)
+— oe a analy: 2 a
+4) ‘ ; A“ Si a 4 FS oF
+ao y . | ® ~
+O. 8 ‘= fe es. c BY ce]
+® ; ) an ae fo pale. <6
+re ¥ ae - ‘ , Hen ‘ rs | aa)
+O_ fe mw a2) ra a
+\ / iH Cc Aa
+eet oe - v =
+“a \, S ! Q
+=a y BEE >
+; Cpe
+ha
+a)
+ra
+
+vr xe
+cs i re
+\y |
+e 2 ld |
+jet) QO | \ f f om}
+< aa i
+val = j .
+(7 > ioe
+m ee) os
+aa ® r — =
+p>) as Oo r —— 7 a)
+ie | i, =
+Oo id 4
+35 | O
+PS) O ») - iS
+O W .
+O
+te =
+oa Ge ~
+=. oO WS
+os = FF,
+z§ AG iw ©
+a i
+os =a OD
+ewe NON oe
+To 9 ' *\ UU ARes ee) is
+Ps fs . ‘ Y a ~)
+xe) a’ Ae A, A \\ |
+ao an sat 7 \ ©
+a | i A) ;
+ok o i a Ri j —
+ae (ee SY
+Oo ;
+xo)  <
+—h
+oe O
+2 oO ree f nt
+= 2 * f Yo oe
+awe >
+So ‘ -_ qd)
+Te s\n ink
+omens , marly
+zo) w bs |
+as y
+© Oo a
+Tas “
+2 . 4 iJ
+= 3 ‘
+fe) " .
+xo) P
+
+. , | =_ ,
+! iy a |
+% r\ F - ; ey a.
+t 9 P 2 ary. e 5 AN a -
+" BE ae ao ' ae) : ry ae a
+ae peel ‘ ‘ ‘ ‘op . Ke fe bs
+Fa " J / faa} D if, : yas S
+re AA ’ Vr\s . a)
+rhe Ke OP “\ A =
+Poe ® va i » Me
+e. a a. S Oo
+eS ie :
+z ee ig r | om 3
+> ee ON =
+- £€ ne
+o) 3 Re
+) : \ a .
+— | i 2 \ ,
+an; a = Fa
+Fai te |) 2 AY
+© y ug? tus wi, oat Ys
+ij alt pont ‘ cease > :
+oR = V7 _ oi A Ky ee vi
+omnis, C \s = ii | A
+Sc \ a ~~ ou LIT ‘
+® : at yi = tad ip ‘
+: Vs re ; s \ }
+a i ae ao) on ss — a , , o
+Ye me 2
+es a :
+& | pan $ &
+a ~ - a aS
+> a > ca
+O . | a= i
+= | A ul \ Py
+fy i 4 =
+a eo.
+MH \g aw 4 , 2 \ et
+~~ ae ‘ ) ey wEe y
+os ay As ve bs 3 ® a LA a. le
+a Cw: Vhs y|
+i f x ) faa if ‘ nT. pl
+ey Ae m C \ E ” pp \ i
+= * ee et a
+-— (h<' a oH ee \y cg <_f
+i cg Tol ah © J ° oe
+; o ra ae 5 S
+: o = a
+ee ar
+| NOs =
+ie
+7
+
+teu
+Ce > o>. eB! hia “‘ a
+a a Se oa
+: oan = ms 2
+7 \ - \ 4
+4 a 7 — ; a CD
+<<a \ ei ee Z\ \ Cony <a
+2) ’ ni “ps yak @o , SN » i i]
+Wee Vy Xe ae \4\>
+Cae o/s ee a (. =|
+ee 4, 9
+© ae 7 i : 4
+- | es
+: ‘ \ <
+a =.
+°
+a , RS SN ae co
+7 ~*~. 1 2 nN | SS ‘ cn a
+a mes iad ~ fs =
+F deere (oe. ©
+. OPA > ey \ ’ =
+2. , " % Y ; =) oy ‘ 7 =)
+9 Aes WZ a. , - | ; ! are j J L
+” 4 Le f y
+a a + 2 \ rN
+AGS si ee Len
+alae. ) daw iF =
+714 \ Le ne irs 4 re
+fo Se ae = Ee
+3 eS > | ed » x |
+199) a NAN i) © Sw ay
+ro} Ww | es \ a a :\y i
+Cy ee Pa
+J \ dias a “a
+=. oe Pei = ve! @
+2) eer A pe ae 7}
+an // Se a . VU ea
+= ‘ y roe 5 a \ if N
+WY 7 ’ ' = 4 7 = Ny
+sy) Os % ; =} shes \
+2. We : Ss ny r ihe
+oa \, | ee a) \ fame
+a Pa ’ i p> 5p yj
+e Ke - \
+
+<f,
+aE
+Pi e a
+122° i
+Fi a
+vo
+ro)
+aa =
+= ge >
+ase yf >
+/ Vea aes
+en he
+. is E
+. NO
+ie
+A | A
+iy Z =
+: Et fp FI
+i. wor
+~ 7 ae Ay 77 (S
+; 2 ce one
+be , =| i
+l bi sc
+—Y) 1 eo 2 =
+i= ' )\ ae
+a ae a- WEE:
+i PN 2 ®
+D Tek EE
+: | O's
+fe Y a
+Sol F
+O 6
+pl as 3
+S. pe. ae
+ray y “a =. | =
+Ss ¥. 'e)
+a fw ae
+Oo Wl oe <4
+= Sil Pies ae nT)
+O 2 : rae =
+TS, Sf | oS oy ©
+< | L Ad =)
+| i Raa ony
+' faut oe \ rae ee)
+
+be
+a]
+a
+> Ss
+Hit sanity) —s O
+Bo ail Hg SS a
+BO UHH PM = =r
+y < sii}, bs yt ane —— me
+4 Hy Hl i if | ES Hi al (©
+U gs 5 mig felt aby i 4 fd —
+ie Ball Liter Utne | of
+3 PT ald is THE by alg ||
+1 of tc ‘ out c > 5 a
+Lblty es kg, Hee | Tt Aw)
+\ J ; ‘ if a i | —
+i Pt Na | a oe teh ,
+| aoe ii ry j > | f
+rf “#4 VAit d j ae | 3 i
+fi (iit ig Ju f a § |) mz)
+HTT UPR Caio] a ie
+ay hy fs are | Hu I
+Lae ee TH \ Lt hay =
+} | } a . ; ~f | ==
+| 1H 7 es | :
+- | ——— Wo ge i =)
+i —-— ; eS
+: <5)! Bee ir H ve
+oS 4 Ne Cot |__ i
+5} \ | } reali et f 1 , nm
+tL. “~4 Ns df a bec im
+AT ACSC ; Sees ili  ¢ |
+vos SN uh} i y 3 iL st © : {
+lie . | oa aEE SSS ef
+| Why ip, t pate tinea | Q)
+{| | Ah C oi bed ry gs a if ‘hy 4 1
+| ye] Nest fhe Bs BTL e a iH a
+| | Nos } a af
+i NST! sot a if
+i ! L : is aN } \ f | ‘ a Al =D)
+i if E i hw sor f LJ
+L pet Hl ios TT] = (©
+iif ff pf = |
+f ik ———— 4 f | hd +1 (4p)
+vi fila - ++ ry “H l
+ali wit wa ease wat] |
+Hil: ay Hie ob} Ue SSG - | le
+il nat Bit fs re EX AEEE ‘ | <
+Aah aus :* t tit PRUETT ed
+a ; Ko fel fe ial su fity yl O
+ct fe ee a
+tin eset Hi fe Daye | a
+lta * ! - | a rf) | aoe |
+pei Ae est a rae oe oge i tye 3 1}
+he hy | =| | | fp a H o
+ui — k - Et Js
+Heh AGE 1 ml &
+ai = | FA, | t fh what “4 | Z@)
+Ha rE eS | | Lae BT
+ie pPegh Lue a =
+Ua hase a my ¢ | i qd)
+— —_- + Ny | Hi _)
+——— = i HS { j 7
+ee Pees | ! ‘@)
+See ath a |
+
+J meer Ey ————— o
+| a t i Nae ho ge "i é
+V 1a 4 er poco qt MB
+| a laeeess i { 3
+A i | = By : - nl ; - i omy ) LP i
+tl ie ' 4 [gonyten - , 7 , Py Hay
+Lil, # pr {Ps 4
+a= ff ba Nay
+1 bowtie A | 3 Tg
+ep) i oe : hy df \ “Tt i
+—_— a wl i a 4 i
+i= sy oe my \ |) MN
+9 (4 de\ i it iy \ ji 4 Al 1
+— SOM eo ab ATi
+| ! \ &
+O iy R \ Mi
+._— + E eit; t ali
+ae lt it
+ey ads wtf
+a i i Hi! _ Ph
+f : ° a "|
+Oo afi o # |
+qv i # Fy
+— 4 |_|
+}
+| , vy,
+| | 1
+io i a : 1 Eda |
+| 3 $43 lei
+S eate VU i
+es wy Fee 2 ie
+S , i Ug yy asi iit |
+ei beglas Whey ‘
+wu § 1 eal i Snes i
+5 § 4 Peds jj aaa =a ye ij.) |
+om itt tase gai dd Alig Ue Dye :
+Oo \# 1 i pureed ise wal |
+_— WW praia x
+40) a i Ry f | Pt
+gh du’ ;
+= ft ce a a ae
+OD S
+te
+Ray
+Pa
+
+S
+- e
+< =)
+rr 1 = Ko.
+mT [SS ——— SS Sal] —
+weune “\ | ~~ Rl,
+| i a 4 “a
+rig pre \ |
+| eo PS) | z=
+| tad eg 1s Es
+eo 2 |
+foe RB | eg
+wp Deg 1 |
+. on . od H
+E the goof * - og =
+| foi ma
+i ; task wm 6D
+ot . eo Lith dl Bl,
+i i | . J / n
+WL) | | & ry g we
+| lt ! | ‘ ‘ia OO
+ms | : ii
+Phyl] “| 2 # |
+| 1 i R | i We
+Ht | | bd ip i] hi Ff of
+Ys RP |
+iil, an \\ —- p H
+ea bp \! |‘
+Weal 4 \\ : |
+fay 8) |
+iy f I | ~ é M | |
+Dot Fi - - & be 88 |”
+ik / LL: i} & I 1 \
+re AT } I
+
+Spaeth sacrenncaesdlllcamsgrnaneniirtt mets ne RF
+iH a - Tg
+a; fyi : ie
+- i i333 ; ‘|
+| cy i] Pf 4 ie
+4 | LP ; 3 3 RE
+Hoole 4 TM
+IS ar |
+mgt / NA Te / 4
+i (fx yy, ie
+ijt | i) A zi HR ° 4
+gis oo Jy LAVA ; | Aare a ny
+VU D1 geEeRSAX GF \ ia
+Be ‘ VWI / \7 y \ ys ae
+me "
+Jf J» i 1 $34
+ee 4 NS Lv og _ ay
+i. 5 f a By)4).
+= yo " aye
+S oo :
+— 8 iter v ‘ a 3 5 i ty .
+I : x4 ‘. fl Ly 7 if hay
+Ol ee oe i i]
+aan (| ee oS ] i"
+= 7 | Lan OSS mea hy fe
+_ i . "= tt J i i WW ‘
+= ae pap par
+— i} st Ar | } |.
+§3 + |! 4 i I
+, a
+Y ff Kr- PS. Li a
+(eo) SY ARS eae Ut
+= | E ae el \
+Se Ae
+Cm a J. Nf
+’ a4 : s - iow 4 3 3
+om Ge eee
+| hy yn
+© | pita
+ae: 4
+©) f — — el rt — ed : ae
+- S
+ay
+Eo
+
+Cc | at a,
+S Bh =
+a 2
+> .. ©
+’ ag =
+fy y S
+er
+, | | <
+ee |
+ee
+rH
+: |
+|
+

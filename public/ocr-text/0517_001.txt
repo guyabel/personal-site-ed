@@ -1,0 +1,1545 @@
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Overview of activities since the final shutdown of the DIDO and PLUTO MTRs \/
+Dr Ed Abel
+Harwell Reactors Decommissioning Manager
+UKAEA, 404 Rutherford Avenue
+Harwell Science and Innovation Campus
+DIDCOT, Oxfordshire, OX11 ODF
+United Kingdom
++44 1235 434168
+ed.abel@ukaea.org.uk
+a
+lee Prey 3 a a 3 -
+ee hes CF Peg
+ee ea — eS SS =
+5 ee SN =
+See — . eee — oe eee” ne -
+- =e = > od
+$0 ee Nee es
+Harwell Projects Department, MTRs, Stage 2:
+UKAEA Research Reactors Division, 1967 Phase 1 decommissioning complete, 1998
+Introduction
+Decommissioning Harwell’s two 26MW(th) Materials Test Reactors (MTRs) was started as soon as
+operations ceased and both were shut down on 31st March 1990. Stages 1 and 2: phase 1,
+decommissioning included defuelling, removal of all fissile and rigs’ sample materials, draining of
+the heavy water and its transfer to Winfrith, removal of the balance of plant and demolition of most
+of the surrounding buildings and facilities. That programme of work was completed by 1998. At
+this point, the reactors were expected to stay in continuous Care and Surveillance until
+approximately 2037 — 2040, by which time radioactive decay would have reached a point that
+further delay would not show significant benefits in waste management cost saving nor in ease of
+decommissioning. By then a National ILW Repository was expected to be available.
+Several different dismantling plans for Stage 3 (decommissioning to green field) were proposed in
+the period between 1990 — 2002; some examined options for early decommissioning but the best
+option was always to defer. However, in 2003 — 2004, an accelerated programme was proposed
+for decommissioning UKAEA facilities. For Harwell, the MTRs would be decommissioned by 2025
+and the whole Harwell Site would be delicensed. Subsequent years’ programmes were improved
+such that both of the MTRs could be decommissioned by December 2016, provided the Front End
+Decommissioning Engineering and Regulatory engagement could be started in 2007.
+The challenge for accelerated decommissioning was to produce safe and cost-effective strategies
+using predominantly commercial off the shelf (COTS) equipment. However, the decommissioning
+techniques proposed in the pre-2004 plans were not suited to such a rapid programme and the
+original techniques were unduly complicated and expensive. Year-on-year improvements to the
+plans have produced more efficient and cheaper methodologies that would make early
+decommissioning possible, provided the funding and technical skills resource were available.
+By 2008, national funding priorities for the Nuclear Decommissioning Authority have meant that the
+UKAEA accelerated programmes have been re-assessed; the Harwell MTRs will remain in Care
+and Surveillance until at least 2021, assuming funding levels are not further reduced.
+Nevertheless, the improved approach to decommissioning will continue to be the baseline.
+1
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Previous DIDO Operators’ Meetings, in particular the 1997 Julich Meeting, have had presentations
+from Harwell about the status of decommissioning work. This paper will give a description of the
+organisational changes that have happened, a brief pictorial overview of the DIDO and PLUTO
+early decommissioning milestone events since shutdown, provide a few more details of the DIDO
+HAHC decommissioning and describe the philosophy behind accelerated decommissioning plans.
+Management Changes that have affected MTR decommissioning
+UKAEA had begun to reorganise in the late 1980s into commercially-focused groups under the
+banner AEA Technology (AEAT) and the MTRs decommissioning was managed within the
+Decommissioning Group of Engineering Services. In October 1990, all UKAEA Sites were brought
+under the Nuclear Installations Inspectorate’s licensing regime, which represented a step change
+in safety management. A UKAEA Programme Management Group (the Corporate DRAWMOPS
+Directorate, or CDD) authorised the budgets and the internal contracts with the decommissioning
+projects. This structure stayed much the same until 1994 when AEA Technology was established
+as the Commercial Division of UKAEA and CDD became part of UKAEA’s Government Division
+(GD); Decommissioning Project Managers were part of AEAT but seconded into GD, and were
+required to operate behind a “Chinese Wall” in commercial operations with AEAT. In 1996, AEAT
+was established as a separate company but the secondees remained in UKAEA to ensure that
+safety responsibilities and Regulatory compliance was maintained. At Harwell, the
+Decommissioning Project Managers and Programme Managers were formed into one UKAEA unit,
+the Harwell Projects Department (HPD). AEAT retained pre-existing UKAEA Intellectual Property
+and key functional units such as nuclear engineering, decommissioning and radiological protection
+stayed in AEAT.
+Progress with MTRs decommissioning was initially rapid, with visible changes to the reactor
+infrastructure. By 1995, the workforce had been reduced as most of the radiation work had been
+completed. The remaining reactor-focused staff took responsibilities for the other Harwell
+Reactors, GLEEP and BEPO and the three remaining Hangers.
+The next significant management change was the establishment of the Nuclear Decommissioning
+Authority (NDA) as defined in the 2004 Energy Act. NDA are now the owners of the old UKAEA
+sites and UKAEA are Contractors to NDA, carrying out agreed programmes of work. Harwell and
+Winfrith operate under an integrated management team and will soon become Research Sites
+Restoration Ltd (RSRL), a UKAEA Group. NDA will compete the management of RSRL in the near
+future.
+Early decommissioning - the successful reduction of hazard
+The shutdown of DIDO and PLUTO after approximately 34 years of operation was sudden.
+Decommissioning planning had not been prominent in the minds of the reactor staff and managers.
+Just six years before the closure announcements, the top shield plug had been replaced on
+PLUTO. This improvement was in anticipation of much more than a decade of commercial and
+experimental programmes, supporting industry and the new commercial reactor programmes that
+were expected to replace the MAGNOX and some coal-fired stations that would come to the end of
+their economic life in the next 20 years. Irradiation of materials such as silicon, production of
+isotopes and neutron radiography were thriving, but essentially subsidised activities. Plans had
+even been laid to build DIDO-2, a 50MW research reactor that would eventually take over from the
+original MTRs, providing a more versatile and higher neutron flux resource.
+However, the operational teams turned to decommissioning efficiently, despite the clear knowledge
+that they were working themselves out of a job. The management structure stayed virtually the
+same, initially, and early work such as defuelling, removal of samples from rigs and minor
+decommissioning required the same skills set and operations that were needed in reactor
+operation. Specific tasks such as the decommissioning of the DIDO High Active Handling Cell
+were different and required new equipment, which fortuitously had been developed in Harwell's
+Remote Handling & Robotics Department. The significance of this work is that it introduced a
+radically new technology to solve difficult decommissioning problems.
+
+2
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+The decommissioning plans followed the IAEA model of three stages, but Stage 1 was split into
+three phases and Stage 2 was split into two phases.
+The definitions for the MTR decommissioning phases were:
+Stage 1 Phase 1 e Defuel & remove D,O
+e Remove samples, except cobalt, from rigs
+e Obtain approval for Safety Justification for Phase 2
+Phase 2 e Remove less hazardous secondary systems external to block
+e Obtain approval for Safety Justification for Phase 3
+Phase 3 e Remove remaining Secondary System
+e Unload cobalt from rigs
+e Obtain approval for Safety Justification for Stage 2, Phase 1
+Stage 2 Phase 1 e Complete Interim decommissioning & decontamination
+e Decommissioning old ventilation systems and install new ones
+e Obtain approval for Safety Justification for Stage 2, Phase 2
+e Modify Safety Case, reduce category to Safety Category 3
+Phase 2 e Extended Surveillance & Maintenance
+The key events up to and including Stage 2, Phase1 were:
+P| PLUTO
+[D20 drainedintodrums—C“‘“‘;CS™SC*dMay 19002—
+Stage|Phase3complete ss * C—C~CS~Csdinry 1903 |
+Category3statusachieved ™* |
+Achievement of significant industrial and nuclear hazard-reduction milestones are shown in the
+following images:
+3
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+rm = Le
+ft. - 7 wo DIX
+fo) a> iD.
+oo hat > e 1 b .
+3 ; = eae | sg Yi
+gy Z cae b r
+A " Te ‘ st — =
+FF — 2] etm, : |
+he SES ; ET We ee ae ee ieee
+ni —inititiieeee OL | cr Sie : {
+. : | ee es ——— ep .
+ss yt = ; ’ " “_ et a Pres
+— oe a C=, Smee eh 3 9 ES SEE PES
+cen ee oo ea
+i ES poe a
+Removing the Cooling Towers
+: , Li
+t 5 ca " 5 a un ) 7 3 =
+td a Z 1 | "
+" a > le a I pe i x
+, 4 : = =e
+Es Te te be oo
+la’ alt) aa |
+cd ~— ett x —
+= s wee
+: +2 a ; a oe
+hata a .
+Flight tube and Block House demolished
+weet. 5, Lamareio eke fA /
+EA ae | ee AN Sd ts 7
+Aa i ay a TT: |
+A, tee E ES > ABS m1 ese pt yy ‘
+ & _ ] y ra " tay §
+’ 2a = »_ ~ , }
+i ee ele |. i eal  -
+a Ligh + + a me
+Brad = om ne og) } ‘
+> a Ys SF =] c
+a €X re “=. ; — iN “a ¥ Ss, ;
+ie an SNS ZY
+( 7 "| i f : - | 4 pe: ANY a if
+Clearing away internal structures, services and equipment
+m "s = ET c i ) ; : 5 1 ee os ae id
+ae ee germ “ Oe ae c;
+| ae Me Se Hh r acd f |
+Wiceerir ere a edi ih
+| ’ ~ Se 4 es - i t . 2 1 Fn
+Vet Le een is a oe.
+Br a (| re — oo. a at bake — =
+o —— - = mand oe : eres A
+- ii a pe tm ttc Sole - : => = ae “ 7 = ka
+gat < l ‘t em 523 a> ta waar, lH © A Jt
+ie Ps. Z . ae — ee. > — »
+J Me ee ig Re te 8 ee aN ie,
+Ci 23 ‘apical wae Ot ee! ae —s)) |
+> a: ce oy ai he 4 By Gee be 7 ss he ff a. r
+_. ie Kael ’ wale —
+DIDO security mesh added
+4
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+| ;
+“ ; 7 ; Ng | ac a 4 f
+a i ? . r =) ta ; ‘ - 4 P
+e | i (y : =) . zB \ A * y 4 ‘N
+LS > f s of ri \ae
+Ree eI, ot bu N Va ead)
+| | , = " - x oa ~_ ' ' r ee hh : ie
+oP =. oo e SR ee \ cao
+tae Se weet li | ’ NK NS
+~ ie ’ | B \ j j vat Ls : y
+) t a ee f r ta VL Oy ee eu
+Ld / ae a } N | u re . No 7 LAS Nees \ *
+is oe aie vie # Ss » . ey Ses ons . a ane a ey = "
+= 4th Are, =e. | a ; on wy | " * BW | a
+ee NOS ks
+a ee i = \. (\\\ Sana aS
+PS ee as » eS
+Removing an air heaters from PLUTO — Scaffolding for clearance & monitoring shell
+a sik Wy
+at hy Mae \ SF
+$ , . /
+— e ee” k ~ ~~ wee : , | a : "i
+oe ro See 7 a ss i = =
+‘oe re Cs eer my - ; ' ean
+. x | Sas ) : p ’ _
+nei, 1 Y he i
+: . | ie Vestal
+(eC > - r ~~
+» t AS had \ e —— ;
+“s : 7 . o
+J Ker
+PLUTO security mesh added and being closed for Surveillance & Maintenance Phase
+ee | ee,
+= — s Se! > ae ws ie
+! a oe 4 i - _
+—s > x
+SZ Bel ll — a i - |
+/ “Si tall sey ; > fj ‘
+} = A aii a ;
+a .
+vt Ce. a i
+—r ‘ : s “ jan
+ae
+: a) eee
+a nt » men ‘ay it Soe -
+» a a i . ee 2 A i ies. "
+: i 7 hy a a . een A ;
+> A : a) ae” “ees
+The External Storage Block
+5
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Hs ry J fe am “ a :
+ia In J | | Rebenbae
+"ne, ee ese
+“ s her vm A +,
+e =r :
+! a au eee? a =
+i Mi EA ip keg n Sh 4S" bo
+- ert nee
+Tae x Sinai Seg? ot aS OF pe
+; Py SMe eS. We
+oS a aN 2 - 3G " SY a.
+Cutting out the VAL DIDO Office Block epotished
+é ih =| , Ts ~e > \
+r ul ee < / e 7 e i Y»
+we Ree | %," 3 W
+Sel ht Le ae.
+a pe 1) py : v
+tl ic 4 4 4 “im at —~ aaa [ay (a.
+ee te ‘| +: ab ~ Ss. N
+Uke See ) ——— = \
+ap . eo a ‘ i " —— a .
+eee eae roe
+Clearing the DIDO AHB Removing the DIDO AHB crane gant
+= - _-—«- \
+h 5 ei
+: a
+1 = Rees. Th ~ = , Py “ a) PS
+. hee ig) = 1 Poe yoy for
+Ch re a! | Fa
+) f’ ‘i is a li, st y ay
+re ia ij W Jp a >. Sar AFL A
+SN Ty P hie e Xr i al fz iE k Eo mie if Vie
+Spe ee ei ae
+gg ee aha ea er SNe RE
+= ae, OES =
+Breaking out the DIDO AHB structural steel _—_ Last sections of the DIDO AHB :
+’ Jas . a“ i ; f ,
+7 i a
+Ris ‘ 5 : ! =F ! .
+7 q Loy some B- :
+lac to ib
+Sia Wi S285. Se a VS
+Demolishing the VAL Cladding the new DIDO lobby
+g
+6
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+The DIDO High Activity Handling Cell
+Initial decommissioning had already begun on the DIDO High Activity Handling Cell (HAHC) before
+the closure of the MTRs. The HAHC had been used to support DIDO operations and latterly,
+process °°Co. It had been closed since 1984 and placed in care and maintenance. Concerns over
+its safety resulted in the start of refurbishment work in January 1989 as a precursor to full
+decommissioning. During the initial attempt to remove the overhead power manipulator, in June
+1991, one of its hydraulic hoses split, releasing an unknown quantity of oil into the cell. All
+operations were stopped. Although attempts were made to clean up the cell, uncertainty about the
+amount and distribution of oil and flammable debris within the cell prevented the use of plasma-arc
+cutting techniques, the preferred method of gross size reduction of cell furniture and components.
+' = Fj ‘ = o. SS 4
+4 in : tae me <a
+e p ~ i ¥ a —
+a LS =
+ee , ms i |
+7 > — at \ ; !
+1 ! — rey te - ,
+7 ete 7 we *! :
+= Week ‘ |
+i, or | | a
+ge am 3 an J : uu.
++ -- ¥¥ a
+a Cy ‘ \ z a
+- | | Saat |
+ete) / YY re =e ; Pim
+The DIDO High Activity Handling Cell
+The Harwell Remote Handling and Robotics Department (RHRD) had already developed a
+radiation-tolerant industrial robot, NEATER, that could be controlled remotely. As part of a
+systems engineering approach to modern remote handling, RHRD had also developed radiation
+tolerant 3-D television systems, TV’. Both ranges of equipment had a designed and tested
+radiation tolerance of beyond 1 MGy, but used commercial-off-the-shelf (COTS) components; they
+were commercially available through AEA Technology. The first application of NEATERs was at
+Sellafield for swabbing the outside of vitrified high level waste containers, and was delivered within
+six months from receipt of BNFL’s order. The alternative from the Vitrification Plant’s original
+designers was more expensive, was a unique and unproven design and was less flexible in
+programmability and ease of control.
+Another application for NEATER, at much lower activity levels, was at Harwell’s Chemistry Division
+for size reduction of over 180 alpha-contaminated gloveboxes. A saving of £35k in reduced waste
+disposal cost for each glovebox was seen and reduced the continuous need for costly and
+hazardous pressurised suit operations.
+Both applications demonstrated the versatility of the systems in nuclear applications and the very
+significant savings that could be made, compared to the normal nuclear industry practice of the
+time. As the development of NEATER and the supporting systems such as TV? were funded
+through the same Department of Energy Programmes as the DIDO HAHC decommissioning, it
+made sense to apply NEATER to solve the problem at the Reactor site. Because of the novel
+application, and the experience gained through the TELEMAN programme, the Commission of the
+European Communities (CEC) were asked if they would agree that the project was suitable for
+matched CEC funding as a decommissioning task. In 1992, they agreed to support the use of
+NEATER in decommissioning the DIDO HAHC, and the telerobot and ancillary equipment were
+7
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+installed in July — August 1993. This was the first decommissioning application of a radiation
+tolerant telerobotic device, made from standard industrial robot components.
+Reactor Decommissioning staff were trained by RHRD in the use of the new remote handling
+equipment. The size-reduction of the in-cell facilities and furniture was completed quickly.
+NEATER’s last job was to foam-clean all surfaces to bring background levels down to < 500uSv ""
+(from >1 Sv’, contact, in some hotspots). In early March 1994 the telerobot was extracted and
+the contamination control designs (labyrinth seals, strippable coatings and customised gaitering)
+were found to have worked effectively so it could be cleared for transport and re-use.
+Conservative estimates put the application of the robot as saving >80 mSv, £1.1M and reduced the
+programme time by 2 years. However, it would have been a very difficult task to make an ALARP
+justification for man-entry in such a dangerous and cluttered radioactive environment.
+
+SS i oa — - * Z ¢ J :
+
+= a a he 2 i
+ty " — 7 ]
+! : \ 6d f y k yy ‘oe x }
+4 ‘ a ‘ er" CA = , :
+mee —-_ a Any onal a
+7. Y Al — = { a - F \ Bi
+oe EZ eel
+» ~ Pe ‘ le “a
+. : : ee |
+<A oe ! = oa x a : ~ oe
+
+—— - a } - 5 Pa ; , ; N \ . .
+
+es ae y > i “WY >
+
+R e — i a *
+
+NEATER: size-reducing cell furniture NEATER: foam decontamination, post strip out
+Once the cell was clean, conventional demolition techniques were used to reduce down the hulk of
+the cell. One unusual characteristic of the HAHC was that it was a steel plated framework
+structure with shielding volumes formed that were filled with sand. The HAHC had zinc bromide
+windows and the Maintenance Bay area had shield doors fabricated in steel plate and filled with
+lead shot. About 30 tonnes out of the 180 tonnes of sand was contaminated and had to be
+disposed of as LLW, as did the cell roof plates and outer walls.
+
+The process of dismantling and clearing the HAHC was completed by August 1994.
+6c | Ll ete ces
+me J aS a! a
+. \ eed 1h F + :
+3 Fi \ ; ad Sa R
+4 banal } — 7 ; le
+Ve. = — — x ; \ es oo _ 4 , a
+ro Se O - ba i gh | eae F ae
+ay me AM,
+ia =>. ; rs 4
+Se Fae a Se a ee -
+a. oy ae oo “ om
+=, ot a
+Drilling the drain hole to removing the sand The HAHC part-dismantled
+8
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+Accelerated Decommissioning
+In 2004, UKAEA’s accelerated plans for decommissioning the Harwell Site by 2025 posed severe
+challenges for decommissioning managers. For the MTRs, the assumption was always that
+radioactive decay was worth the wait: by about 2040, the bulk of the activity in components would
+have started to level off and the decommissioning would be relatively straightforward, with only a
+few components requiring special arrangements. The bulk of the reactors would also have
+decayed down below the 12G Bq t', which is the threshold between Intermediate and Low Level
+Waste.
+DECAY OF MAJOR COMPONENTS - DIDO DECAY OF MAJOR COMPONENTS - PLUTO
+a | i
+a ee |
+\ is ~
+1,00EH1 ae - | 1.00E+14 Ve - Si |
+z \ ™ z YY ca
+: \S cee z \ *s ser.
+ foes0 zai as gupssqunacesevsecuceussateameneeh  to0Ee0 cteeeenaee as ener
+a
+= =
+If the MTRs were to be decommissioned early, then the dismantling techniques would have to deal
+with high activity components and would need to be performed remotely. Previous
+decommissioning plans had not been refined in any detail and because the outcome of
+optimization was to delay until 2030+, there had never been any serious technical review of the
+techniques suggested.
+Virtually all the schemes relied on un-defined, thin mast-mounted manipulators passing through
+existing reactor top penetrations, deploying tools within the RAT. This followed the practice at
+power reactor sites such as Niederaichbach, Fort St Vrain and WAGR. However all these reactors
+had much larger internal diameters than the MTRs’ RATs. In the 1980’s, RHRD assisted the
+Research Reactors Division with RAT NDT inspection, using an extended reach Walischmiller
+master-slave-manipulator, borrowed from Lucas Heights. The deployment of cameras, the NDT
+tooling and lighting was complicated by the restricted degrees of freedom available in such a
+confined volume. If a decommission approach was to use a similar manipulative strategy, then it
+would be likely to fail as there was virtually no means to provide adequate space for aggressive,
+force-generating tools.
+9
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+- Lei
+2 was i a Ai
+: . Li a — | - "
+Td A
+; E
+—)>" a a
++> aa —
+~ es Sens eee
+Se Ka ee
+RAT NDT Inspection, using extended reach equipment
+A review of techniques that might achieve early decommissioning considered what could be done
+to improve on the plan. Experience of non-reactor decommissioning projects at Harwell such as
+the Variable Energy Cyclotron, the Chemical Engineering Building facilities, the plan for sudden
+JET decommissioning, all confirmed that the optimum decommissioning technique was to consider
+how the decommissioning and waste management could be made most efficient, rather than
+starting from operational or physical constraints fixed by the facilities topography. For the MTRs at
+Harwell, the existence of the rigs and the lack of craneage and flasking that met Modern Standards
+was a setback. The obvious access route to the reactor internals is by removing the top shield
+plug but because of the high activity levels, additional structures would be needed to deal with the
+most radioactive components, first.
+Examination of research reactor decommissioning projects worldwide showed that tank reactors
+and TRIGA reactors were being decommissioned using the same sorts of tools and remote
+vehicles that had been developed and used by RHRD over several decades. BNFL had
+decommissioned two small reactors in the UK, the Scottish Universities’ Argonaut reactor at East
+Kilbride, and ICI’s TRIGA reactor at Billingham. Brokks were used at these locations.
+In America, a US DOE Large Scale Demonstrator Project had occurred at ANL’s CP-5 reactor,
+using advanced equipment from other US DOE labs and specialist suppliers. CP-5 was the
+inspiration for DIDO but only ran at 5 MW, over 25 years. The activity levels did not warrant the
+use of advanced remote handling but the research work that was published is a useful source for
+decommissioning projects. Most of the techniques had already been examined and tried in Europe
+in National Labs or through the CEC’s decommissioning or TELEMAN programmes.
+CP-5 used Brokk mobile manipulators to demolish the reactor’s concrete pedestal, clear away the
+biological shielding and remove underground embedded steelwork. Brokks have been used in
+Europe in the nuclear industry since 1970, when the Swedish Royal Institute of Technology used
+one to decommission their underground R1 reactor in Stockholm. There are now over 3000
+Brokks in use in conventional demolition as well as hazardous environment work. There is a
+nuclear hardened version.
+The new approach for Harwell’s MTRs is to take advantage of the natural physical weakness of the
+structure and use a Brokk to excavate the reactor internals from a horizontal pathway. The cut
+away sections of the reactors show that there are easy access points associated with the
+horizontal tubes and, for DIDO, the horizontal thermal column. An initial structural assessment
+indicates that openings can be made through to the Reactor Steel Tank up to 2 m x 2 m without
+compromising the strength of the remaining biological shielding. The vertical rigs would be
+10
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+withdrawn first, but as some of the horizontal rigs are known to be stuck, they would be removed
+when exposed, by the Brokk. The base of the plug would be ripped away by the Brokk from below.
+
+7m! —~ _—
+, : . + 0 — J
+i “ anime ny SS ae . ——
+a Peer Sy ie! a. — oe oe —f a
+SS Hert | ‘ I eg eT
+=} i qe f se , e ae <P
+au a". |  @ Soto) Me:
+. r= . he! TS a
+G a % 1) 2 Bin, 4 4 i in J ’ — 7
+ot 4d Beer, C -_ \ aa ic oy ae |
+: 2 Z Bg a = 3 + . a may F
+“ ve iS r) ion - |
+a rh | la >. B| ~ ey ha
+| “aes gia
+Neri Sa i. Pe = ~ a wT eB
+. a. | | “oa | p i b " r i i ,
+ie rd) my hte ee ,
+1 a as L > Ar me;
+heme FS
+| ' . i . _
+oben , <a
+DIDO thermal column and H tubes as access routes PLUTO easily broken-out shielding by H tubes
+A set of Decommissioning Principles was generated for the new approach:
+e retain the PLUTO AHB for training, mock-up tests and storage;
+e build an auxiliary building with craneage, joined to the reactor shell;
+e recondition the polar crane;
+e recondition the one remaining vertical flask;
+e build a shielded separation, segregation and packing station that interfaces with the
+flask — a new, enhanced View Cell;
+e use the flask to remove all vertical rigs;
+e coarse-segregate rig components, attempting to separate out long-lived ILW,
+e install additional, reusable shielding and containment to extend the reactor
+biological shielding boundary;
+e use Mobile Filtration Units to provide local exhaust ventilation;
+e use Modular Containment Systems to supplement containment envelopes;
+e use COTS remotely-controlled mobile machines as the major manipulative
+equipment for decommissioning;
+e use COTS cutting equipment for size-reduction and segregation;
+e minimise the need for tooling development programmes;
+e always trial an operation and train staff before active working, in a proof of principle
+test area;
+e penetrate the bulk biological shielding from the side and directly access the reactor
+components, possibly using the horizontal beam holes as breakthrough points;
+e extract horizontal rigs as they become accessible during reactor dismantling;
+e size reduce in situ and remove the structural materials in the reactor and the
+reactor aluminium tank, possibly including the above-RAT plugs and plates;
+e remove inner annular layers of Barytes biological shielding that are ILW and LLW,;
+e use 2m shielded boxes and perhaps shielded third height ISO containers for dense
+and heavy ILW, rather than 4 m boxes;
+e ship ILW and LLW containers ungrouted.
+11
+
+DIDO Operators Meeting, 16-17 April 2008, Roskilde, Denmark
+The plan submitted to the NDA has been refined, year-on-year. An additional push to quicken the
+programme in 2006 required MTR decommissioning to be complete by December 2016. This was
+possible provided Front End Decommissioning Engineering, optioneering and Regulatory engage-
+ment started in April 2007. Revised Site funding limits have resulted in delays to this programme.
+The current programme now shows MTR decommissioning starting some 14 years later.
+ns ; 9 | r |
+*: eS
+\ <i ° ms goa re
+° | A on “a NS
+Yoh’ 7 "
+/ a x é;
+- F 1M SD ° es
+\ ieee a = ——
+e vo
+x . »
+. N Gate uchpted Brobk 220 wih sont eqepmaal
+Brokk applications at CP-5 Nuclear version of the Brokk Mobile Machine
+Long Term Care and Surveillance
+The Harwell MTRs are in the phase of Surveillance and Maintenance (S&M). They are in a safe
+and secure state where the radioactive material is managed and the containment envelopes are
+maintained to ensure that there is no degradation. This does not mean that there is no change,
+from year to year. The ventilation system that was installed in 1995 keeps humidity and
+temperature conditions inside the Containment Shells at levels where corrosion within the reactor
+and rigs will not occur. This system also continually purges the reactors of any evolved tritium
+which is measured and discharged through a registered point, meeting our Environmental
+Discharge Authorisation conditions.
+The ventilation controllers are several years beyond support from the supplier and will be replaced
+this year with functionally similar PLCs. Other S&M activities include replacing old refrigerants,
+carrying out structural surveys within the biological shielding and to the fabric of the Shells.
+Progressive reduction of loose contamination, removal of asbestos and replacement of VIR-
+insulated wiring continue. Documentation, plant and decommissioning records are being reviewed
+so that an integrated, consistent approach to nuclear knowledge management for the Harwell
+Reactors is achieved, that will last the decades before future decommissioning teams re-form.
+APS od - -— ee
+ae. te
+ie” la ; PSR ON
+’ oo beh | ‘ SSeS
+. t " ’ S A
+mo ‘= ~ : J 4
+= “a lf
+Replacement of ozone Structural inspection in the Structural inspection and
+depleting refrigerant D,0 Plant Room maintenance of the Shell
+12
+
+a rf
+a:
+° ©
+= QO
+5 B
+ae _
+a O
+Toma
+=
+—— .
+OT®) rot
+Se .
+(oe |
+em,
+7.
+< —
+~ DO ®
+aoe
+re ”~
+7 ie
+se oO
+ic e
+i &
+oO Z
+a Q
+® —
+> Q
+O
+
+vy |
+Ce | =
+= v9 =
+s rh a
+> ° k i 1 a. a
+' 7 eee { ye
+ey bea _°
+; 2 i) | : sy
+we) lie
+Tae mi ue ms
+my YL os
+, 4 ’ | =f
+ff i ri , Ay
+| ‘ re : ive!
+Pp i yi | | aS
+Xs _ ae 1 €
+CO
+a oS
+
+pot, ' hi
+
+es |r ae ca
+bans ee r
+’ | i . }
+un le | o/
+= o a
+, | nik | ) } 2 .
+: aL mT ee al :
+ee i cae i
+—_". i | i
+: ig oy | a
+| kes i
+. ee Chae
+Bie! oT Z ~
+ie —
+| |
+ete —— x a. ’
+a 8
+\ eee —
+Ih Y ips Ns a ae) pe =e. ,
+{ i ) ke at } A Pepe ay, oo .
+Hi { A - <a “ A aS (ine) eh
+ey Oe Ree cel Ce Ney .
+\y a | > iY 5 7 a ne ‘
+O Bk ae a
+=) \ 1 ate
+—_) Ve ny
+Oo a —)
+ory
+a
+
+zs T
+= re Rimini Ts
+pyppegiiii! ered ue uli
+rs ee TT
+= fi ja ie
+> [A 7 aa sl => he "
+es... K E's eg. A i \
+f ——7 \ — ve Nm |
+ae Se)
+/ ae FAY ATUL ue) 44
+f& icine —_/\) é ts as /
+, a ne
+‘: i Qos e} ZI _-
+x , i; } ‘ » ot , af \
+aa ye he « se |g
+| Fr Haas =
+aN fa hee ge 0: er
+| ae ue
+
+~—~
+Y)
+A E
+IS
+5 g 2 Be of
+: eee a
+O N
+.aa ae ae :
+oe gs 8 BS :
+>) © sw at E
+= S fo OE je BO e
+£58 25 oe c
+TD O ro DEEOS
+eons (anette s xo)
+; SEES See:
+>
+SOR nae :
+om aie eae S oe
+mS ee @ ro oS g
+— ae Bae oe fee
+Cc pay ta) to ee Ue Bea
+ee S| 5 225
+@) aSgse es) oe
+Y) Re eee Soe SSeS
+a ee = cer)
+Y) oo RE CERO RES! er
+O of bes een
+$5 35085 (<b ne) [@))
+NO Bee
+an ey oe
+= eae eae ES
+fe) eee eee
+Oo ae ee es) os
+Serer fe
+ad) arom mre or
+oe SESE SSERS eZ
+ae Sara! =P tt vo
+7°) eee ts FE
+—
+ar
+‘e a pemeE Geen = E
+= Tere) es see E
+eeSeScSR ESSER
+ap ato aESOns) ele
+Seeks
+; ak: AO=und¢
+a iad
+e¢*.h6c8—COD
+e* ee @®
+: Ci () im )
+—_ ©
+Ow
+: eo)
+. @ ro) ‘o,
+we YY i?) a PB
+Y © ©
+© %
+al o
+ad) ° ;
+al a e
+rae ; : <&
+vo a Lu
+—_~ iS
+® :
+& 3 E
+—_—
+E ' °
+2 S
+hay
+Fe)
+rik
+
+Yrs
+
+es
+
+eee eas
+aa oa i)
+
+- SC reno) Oe le aE Ey on
+P9O<FAR57°7 XO eatqarc &®Y@ O
+n io NONE Utes ttl, ba = Boe)
+
+oR ean) ra 52490 55-7 5
+2G23SF0F a2gsSagar <
+
+On oe a i
+ae a @ = © ee 4)
+P2562 0°? Se) = <a
+dl ono mena e, a © lt ot ao os
+o®@LGQX2- SF OoOraler Za rq)
+leet mcm mec) ne
+yl mal TT =
+iad) | oN oO = = =) lo
+oe we omer 5 0 o>)
+on, 20, iso Oo op)
+
+a fe) = ran
+Se nn ry =
+= 7) oe! <
+OE ed ay 3 a) m
+Comal
+Sano a =e Oo om | =
+oO = © Pa Co ]
+S oS 2 6 —
+c4}
+3 - 7) Q)
+7@) om eee De)
+OF = Fa
+a = ok
+3 oO
+S @)
+Ed O
+= =
+E
+O
+~ Ss
+Qq
+ae a 7
+62 S = ee
+aa S aS O
+oe m =e S
+—_— co te
+rae Ss Vee eee =
+TG Sy S at ete La Kd m ((@)
+on en fe oa >
+= co oO Ooo co
+SC Sato Nr Rod OE ORO mi
+SS EP ib om ond Meni seo oom cms.
+Pe as a} oo —<
+a i rad Ow O ra) ru
+7 o 2 ns
+3 2 = a en)
+oF < < na iS
+g aa Colon
+zn Re) co oO
+Te) nn ©
+c (o)) &
+er
+
+Bd |
+\ |
+HY |
+7 on!
+! y, \ alk
+a ps
+ay om eh
+N | ih
+S ee ah = Wk)
+O Ln e
+I |
+&
+s ae
+O H
+o It a
+—— ai
+~ " |
+(@)) \ \ i,
+[= \ &
+> \ §
+fe \, ; | me
+S \ ) S
+iy | i
+a ie =)
+E
+
+Ce
+mh
+s 2
+< .
+> —
+Becca 2)
+— = =
+\ Vay ; S
+yl lr
+a er ; \isce a
+re . Ih "i si : |
+on 5 s & fe 4 vs all
+> ie ee
+t 7 % : oa
+<
+s y ; 4 i 2)
+Ee “de | ' 2 i Qo
+e r." * 2S
+Ba oh | eo
+Wey a. | cin
+b | ejamee 4 O
+om
+| i 7
+(D
+
+ee
+
+© i )
+
+= |
+
+oa ©
+
+See |
+
+o i I a ! a
+
+“ Ll l file
+
+Y A ae
+
+L Net 7 bys a Si al
+
+i i
+
+a i,
+
+nf . ay
+
+= b SS . i
+
+Is LE
+
+= oe fl ri
+
+ge a : > . -
+
+rs > ‘ is }
+
+——— | sey we.
+
+s ab | ia Yi ti rJ y/ SN
+
+2 a id i 5 (es
+
+a a ee MK .
+
+oe oe \ a.
+
+ee 2s \
+
+Be ae ~
+
+an ; =
+Po
+
+e
+
+= Ba
+an. :
+Au ! 4 ty | D
+| Nb “a aN)
+a , A)
+| yi 1 | \ a
+sa \) Sasesy ant
+a — 3
+Lg eal oO
+7 h| . ys ; Pe =
+4 tC “ \i a
+ot \ | | o
+
+lid | are —— | mm
+a en \ iN =
+: ' ; ' ~ 4 of
+Oh
+' —— =
+Be |
+< =
+= as | 5
+o y A =
+i 3 2 = OD
+; ee ve r =
+: , = — Y A =) =
+a is AS Sf PL Le < | =
+ee e
+hy yg =
+A a
+
+a aoa | mn y
+: 5 ‘ |p Bs iy : i
+{ ae i if . E ail }
+Mt tee o ne ar
+an | ag a
+c r es | ‘ . =
+cy \ | | aie
+P i.
+0 pI ee al =a her f .
+(SE 7
+je a ae
+ee See :
+ie on ' & b Ce .
+Seer nl ee tos
+¥ \ Bo j f a % j
+oe y'') 4: ,
+ome (my) | Stee
+wim /] } Ri % ;
+i I i 2 “ " rs A
+om a A.
+ay or ; SS eg . “
+©) L rT = : . io \
+— .
+Tp <6
+; 5
+aS
+
+ae |
+(Ss .} eA m
+a |e a
+as \ ese a | mw } OD
+me. ih xy
+‘ae | i 4 “W a =
+pa eee
+— a | 0)
+ed nae
+na gm 0
+_ tg mn as
+! | OY, ne
+a rE
+ee 3
+ot
+op)
+\ o
+Ay —— O
+Ae an a
+\\ } / a : ee
+a
+=.
+=
+Cp)
+1 3
+ee a
+pe |
+— Nn FA —~
+
+mt ' Le ¢ is 5
+a —_ J 73
+we i an
+Ses we 1.
+ean nN < i ; : = 7
+wa A a : "
+mat fe ; x q
+yf 3 i are
+= bs
+nto n ON
+a af . x
+poe) Aa AX, , - a
+Psd i ama Mes — ) f | i aT ae
+wr! =< aaah ee Ve oe
+emer Ne Mi ee
+aa’ a i" a a \ es
+Bay fp alt | eee
+LL Py: te : , ? uae
+me : TL 3
+2 haa Vee a
+@ af ; a ] ; I} - me }
+ee stm aM
+an ee, |. Be) iF
+> oe ws a) ¥ j WM k
+(ad ae | » | 2 en.
+@ il bl 3 aad
+= eae
+— | ——= ASS < yp]
+Nh Lae
+oor ; | KS i N is
+Cc 5 - ie
+roma, | PS
+: i
+ais oo... ee ,
+a as ) 1723 i
+OY ee ae -
+= , or —_ 3
+Os a= =|
+OF | >
+aaa Pa
+ee
+
+Yt
+ee ——
+a 4) Br
+ae
+hi ae
+(= aa wy,
+Yan oh EN
+< INS oy as, @
+eA IN i —
+rm Be LE a
+po PRE ry et —
+i Eb a
+a hl 5
+ew ‘1. - —"
+gh x)! = =
+4 : pe hie Rees ht . aa
+‘| | if a (aaa
+| oe ee ry: ¥ - |
+Pa fi
+e Be eae, hia O
+Soe ae
+| e
+i are
+i earn Ma ° =
+am . i's)
+a iy J i. n ; 2
+; ; i EA i; a 3:
+) ——- ») oa —_!
+y: a
+r 4 a —_
+j 4 oat
+S hy et
+i f vy os — j
+fo Fee |
+| ie |
+N we he — hee a i
+ty) \ eo —_— a 7
+pet (i iy i - j ,
+} ee | iI i} =}
+es po a
+me) Lie
+
+aera
+mae
+rab) bt
+‘@ oc
+= i aaa
+= i
+O 4 |
+-
+a |
+aC
+: ra
+hes | e [.
+O oa Se ae
+=f - \ ; # fs
+te \ L 2 all
+oO) 5 —_— = \ q rf
+ale F x wt oid Lr , .
+5 a t
+ae ; \
+la <8 ad me
+w o
+a |
+-— 9% —_
+ae
+
+Ce Peo i z
+a , le hs
+. . oe de —|
+ra “psx
+ike
+
+“be : —
+AY. —= N-
+; y % a CD
+—T ys 1 eS O
+wi a
+age ee a
+, i. ; CD
+_ a, ) ep)
+cee “ p 4 cl
+os ‘ 7
+, ¢ 2
+. £% 2
+f at fo. J =
+Ke | Ve s mm,
+oe Sy Fy rl
+e Wo 4 -
+<Q \ae a
+
+. << e — :
+
+r Ey ane
+\
+
+ai . \ 2
+\ \aene-
+7 en i= LW,
+r ae
+QO. ; oe \
+a Se: eaten ———— Lat =I TY - oe 4
+- * aka) j 3 ,
+© I
+a ~ _ e Ber
+= ee & 7 ; a
+Re 2 st S
+ae ae ( ~ he
+Ed
+
+e
+Riles)
+i)
+
+= PRs if 2
+
+> ea Soff (@)
+
+4 | : eS
+
+ON eh =
+
+<i | “we e}
+
+| Lt WS =
+
+= | Wi = ) ae
+
+met > oad , f p= o)
+
+La
+
++ rr ee
+
+1 | | \ | ad)
+
+) | | i =)
+
+i iL “| io (OE
+
+a Qa)
+
+, 3 ts p =
+
+“ow i ‘or
+
+| & a
+
+Tee ] = 0
+
+| : O
+
+cy r nites - c
+
+Te oe ae He
+
+E 15 > din} (20g =|
+
+, a. ; 4
+4 ih = . ' FP > yey (O
+ya Ve AMD.
+
+‘en
+i 5 | |
+Z | : }/ ne
+va ) ;
+av 2 | ia a
+: /
+5 | 4 /
+S 5 VAL f
+j h i/ } 3 :
+2 | Ah I) tye ay att
+‘@)) = f hf) [Y ; be Se ; E 2 fl
+= s 4, pag iiaiay
+— z 4 fafa a adls
+S i SS — Wy
+O i =
+a foun0} 20d bg) Auanizy sypedg - 5 8
+ach 9
+A a
+S é STEERER ane
+wn | : | / £
+= ll :
+ii i ,
+O S } : d f
+oH ° /
+S 3 | lA
+o A]
+od) i 104 | a
+a) 2 ] VA laa Ela’
+= / AW gee: 2% ah
+us / LA i iggnbaae g
+o % LILA, EEL
+—— We AA | t hiya) .
+O eG UU |
+i 8 i i z: 1
+QM {enue} wd ba) Annoy 2useds ~ 5 i
+O me
+< =
+hay
+et 4
+re)
+ae
+
+Ce
+om Za
+< oe
+me =
+~ 12}
+P| a)
+©
+‘qD)
+a
+O
+) . | =
+‘@)
+"oe \ <
+‘eal ss ait a
+'¥ } ace - = = =
+Bae ‘’ —
+fi \ =
+4 \ rs 1 z .
+¥ . ~ e ' A
+ot \ye | a
+mr , ae
+e |
+! ! * Me 4 y
+a
+\ Sn
+
+2 AW
+Sm
+= al \N
+OS - | }
+Nn . Ti
+‘= ie a
+, an \
+= seit Ne]
+Teg 5
+a a" P i
+i Say”
+we 1) |
+o
+s :
+14)
+aD)
+cS
+FE
+op oN
+io ~
+LO we
+ry
+Iv ‘
+~ 4
+eo A
+| Se
+aa) an
+5) ky ™
+WY) ; >
+5 ao <6
+—_ , < ae
+: :
+Za )
+al a)
+ao
+bse):
+Lh
+
+ant
+
+— pr
+< Pal
+i
+
+> n
+C)
+=}
+
+o
+
+al)
+
+— (Co)
+
+| S
+tame a
+~ - Bil tee D
+
+ee, a m
+can << a | ne
+oT: te 1 a >
+
+‘ ; ) 1 age | (D
+i a , fon
+
+| at | O
+
+: 7 oe el
+AVA it) \ >
+| =
+or
+|S
+O
+O
+
+ol eee
+i. ete 7
+as o | fl 5
+Cc i ! i
+2 SO :
+7 (8 we =e i
+— | RR Cet 3
+co) om oF “we ir i
+>  —CO NSE BS!
+a - arm i | ’
+Cc ‘a “2 ki
+wu | / i rau a a
+rab) a oe 5 ay g :
+[eo me ares
+c @ ~~ > 4
+S |
+© as:
+O .
+ve . hm
+a r ¢ 3
+rove) ; t a1 Yt bie
+rg ee bat ane
+= Uae “ror \
+Te. i. A Ci
+al pe Jad oh b
+a) . =
+Zz “7 ‘Bei!
+4 a a ‘)
+oy : m ey
+os = nal 6
+hv. eee a Li
+x at,
+a
+rane ra
+faa —_
+ee)
+bse)
+bas
+
+a
+C : "
+s i
+> Lops O
+po | Ws > 7 ) CQ.
+rl Eo wo
+"i * CG
+= ‘ a
+| _ ee
+
+=
+ao ers 7
+= ) am a
+Ph =
+)) a
+<b :
+es }
+
+7 ie >
+
+| premgintrerss ooeoces
+AN\\ Bigess. | :
+
+‘o> ' y ss ve ae 2%
+
+< (estar es moe
+
+o EE aaah” cod Vea
+
+O \ aa es
+
+a \ 7
+
+£
+
+S A Ad ila ao | . — ———
+
+fo aa
+
+O 2! = oe
+
+ec a es s . A jp ; 3]
+
+} a, wie: ca ¥
+
+& tH y = = J
+
+7p) oid le |
+
+ee // Pai? & —
+
+3 le hi wm es te, ‘ — 4.
+
+© |" CBRE aera “= 9
+
+aD t- \s eo gE |) S ap
+
+O VR - / :
+
+c 7) [ha 2 22+) Slee
+
+O GB) 6g
+
+N == ar
+
+_
+
+; =
+
+a =)
+re
+ae
+
+= ad = | Y)
+cae etm _[ =
+Ne we <
+ma i. be NESS (D
+> | | Naas LN " eI a
+¢ = ae a0)
+a a ; =.
+:
+; I es
+us cae L | y =
+Op, ll iy 4 ot
+* Ss
+, 7 \ Q)
+am
+feo ao
+- oe = (D
+————— aw
+
+Re) y Ne i
+} 4 2 ‘ y park
+| he oi \ A 9
+‘ S ‘Se | PA al s
+ice eS ime
+Ny we)
+§ u ; = iy & 4 -
+; or Pe ie Wy
+a : Pj
+| el he » 4
+| Ms } na ..
+. r »
+“he Yoke
+oe eS m1
+ee a ) * ’
+N a aA ]
+, | |
+oa s | \
+; z 7 a py } ri
+el EX
+a ‘ ’ 5 }
+! 3 i. q —
+' a’ i a. ey |
+im) |
+| i | By os} fi
+se ff | Ural | | y
+i: | =_| eee
+ae ee AL
+= : car s Biss ta
+Tm ae
+ee a
+> tt nA . = Fi
+se) ee |
+I ay? So Wy I
+sommes) ig |
+O ae: leet meal =
+=e 2 ‘ . eee =
+oe ' BN 5 ae
+ORS 08 rar
+ean =
+0 Sa ae ~
+| is
+boii)
+rs
+
+Ca a
+- ) -—_
+S an =
+i =
+> . eo
+2 oe
+Ps Rae a iD
+, i —
+ad
+o 4 ,
+|
+i.
+

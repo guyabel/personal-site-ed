@@ -1,0 +1,269 @@
+Pare de
+oWe
+a | ry
+aaa
+Telerobotics at Harwell
+Dr Ed Abel
+Engineering Manager, Harwell
+Presentation to RHWG, 21 May 2001
+OWI miei m@ er taicel
+m@ Background - Harwell’s Remote Handling Group
+ests
+es - ct Bi
+ot oe — Pa
+5Gi UKAEA
+1
+
+Telerobotics at Harwell
+m™ Remote Handling (& Telerobotics) is all about
+controlling manipulation safely, at a distance
+gy i
+Mam || i :
+os, URAEA
+Telerobotics at Harwell
+™ The Open Cell Concept - c.1979
+‘| : = = :
+. r Mg _— et ¢
+pe a exe LS te
+Segre
+SCS am
+RG, UKAEA
+2
+
+SW Caaioawiiasrlaicel
+m™ The basic bilateral, force-reflecting servomanipulator
+“— iq Tess 3 bi aq
+a lies.
+oy fags / ae ee
+Clan |, ieee
+oy he rae
+~ / cs 9 iii %, _ f
+} : oP at 1 [
+— os } ‘ I
+= a '
+;
+. : eo By fa.
+jo) UKAEA on
+Telerobotics at Harwell
+= The basic bilateral, force-reflecting servomanipulator
+A a raat Sa
+ee Se ae
+7 ie se |
+EE ye
+cake
+oa
+ped UKAEA CEA MA23M
+3
+
+Telerobotics at Harwell
+@ With the cover off.......
+xX i hes awe
+s) ei Cm
+Way
+Se
+% h/ { .
+{ Wie ) ED
+wi UKAEA a CEA MA23M
+Restering our Environment
+Telerobotics at Harwell
+@ With the cover off.......
+ica er ae
+4 $4 A fs
+m ae | ;
+ee 3
+my
+wi UKAEA Unimation Puma 760
+4
+
+Telerobotics at Harwell
+™ The Definition:
+" Telerobotics combines al! that is
+best in industrial robotics with all
+the skills of a human operator
+to respond to ul-defined and
+unpredictable tasks. ”
+}O UKAEA
+OWI K emis elec!
+= Robotics & Teleoperation Study Project
+— joint funded with BNFL (1984-5)
+= Development of Rad-tol Telerobot (NEATER)
+— and systems infrastructure (HTC/CARMA/BSP)
+= Development of Advanced Viewing (TV*)
+— joint funded with CEGB/NE
+m CEC Projects
+— Decommissioning, TELEMAN I & II
+= Commercial Sales to Nuclear Organisations
+— BNEFL, NE, Germany, Belgium, Canada, USA; Spain, Japan
+Ref UKAEA
+Rettoring our Environment
+5
+
+Telerobotics at Harwell
+m NEATER - Nuclear-Engineered Advanced TEleRobot
+< oe else = —
+7) vay /- hh 2S ht wm a
+? t Te,
+: P-4 | i j ;
+i = 4 » Br ft) oe m7
+, m Wt a |
+ane f —— ae, \
+#Gj, UKAEA
+Telerobotics at Harwell
+m@ NEATER - modularity - forearm removal
+—— a ae N
+a arn
+if - y fi s
+. '¢ ; i ‘ha oe ¢ py at)
+ee. ‘tae | Oey
+. a pene S § 4 . “a a
+Rot UKAEA
+Restoring our Environment
+6
+
+Telerobotics at Harwell
+m Human Factors Evaluations
+hah pete tee el
+fa a ni << es a a s \3 U
+ea bd ae '
+VA i ee , \e Nee a s a vat
+iS rs i C 7 7
+| | 1 is 4
+Use of High Resolution TV vs Stereoscopic TV with a
+force-reflecting servomanipulator
+wi UKAEA
+Restoring our Environment
+Telerobotics at Harwell
+® Stereo TV Application Trial
+¢ oe
+3 aan js ie Sia i ee.
+ped UKAEA
+Restoring our Environment
+7
+
+Telerobotics at Harwell
+= Applications of Telerobotics (i)
+NEATER - Flask swabbing at
+Windscale Vitrification Plant
+NEATER - Decommissioning J Za}.
+~130 Pu & U gloveboxes 6 me
+‘a
+7 UKAEA he
+Restoring our Environment
+Telerobotics at Harwell
+= Applications of Telerobotics (ii)
+NEATER - Clearance & a \ +¥i ,
+Decontamination of DIDO i ; \ ,
+High Activity Handling Bay | Fae oes
+rE 3. TRY Oat
+rye Me sae reff |: 4
+or i ye
+ARTISAN - Clearance of
+VEC Hot Cells
+pe, UKAEA
+Restoring our Environment
+8
+
+OW om onie cela erent
+= Applications of Telerobotics (ili)
+Tv? - Demonstration of Be as
+Reactor Inspection at O07 tt fl
+7 ag
+Pa] a
+i i: a
+ff Ai
+te
+i te | rant
+TV3 - LLNL/IBM i a
+New Pu Glovebox . ig bi
+50, UKAEA
+Telerobotics at Harwell
+@ AEAT’s Products
+Bilateral Stewart Platform (BSP) 4 =
+- a force-reflecting master =
+input device 2s
+a
+NEATER 660 ge
+- slim-line rad-tol force-reflecting “4 3
+telerobot % nN
+io, UKAEA
+9
+
+Telerobotics at Harwell
+m Recent, Current & Future RH Projects
+~— Reactors
+* GLEEP Fuel Unload, GLEEP Dismantling
+* BEPO Dismantling, MTRs Dismantling
+— ILW
+¢ ILW Retrieval
+* ILW Cementation; Sludge & Liquor Immobilisation
+— Tenants
+* B220.29 Box Handling
+— JET Decommissioning & Waste Management...
+foi, UKAEA
+Telerobotics at Harwell
+= BEPO and GLEEP
+[ BEPO _ | GLEEP
+Core size (cube side, feet) = 26 23
+No of fuel channels 1 888 676
+[Core shape (diam’xiength’), | 20x20 AXIO
+Possible remnant Wigner eneray (J) | 1.6 10°" in ~1000m° -
+ee
+[Graphite  —-—s—s|«““C, (@yH(@) | 863 | 40,000 | 523 | 30 i
+Castiron —8e3 —| 388 4000 - :
+NB Caution - these figures are unchecked
+3% UKAEA
+Restoring our Environment
+10
+
+Telerobotics at Harwell
+MGLEEP =A ge: Laas
+Ph eee i aa GD
+“ay eae eae * Agee A, ae i
+egg | > |
+a EA) Ng tb
+4 > ie
+i Sete
+Ag a
+Be Pls
+ae os ea sa :
+US ASE TEN SU 1
+i Sas x
+M277 2
+SS GLEEP Fuel Unfoad Equipment |
+Bey UKAEA
+Restoring our Environment
+Telerobotics at Harwell
+m BEPO
+Fagertoreat Saree! Cele
+mr oases =
+exe i ES ee Yonar ( o ees
+=e ry Sy x we ,
+. i Ea. ,
+| i 1 ay ee ee ;
+tre ea
+| = WQS, ieee
+mn Cbs Nef NEP
+| a Sy ee ee
+‘ A - ‘ q
+i SiS Bice ae rs Sian" eta shire
+| 2
+Be UKAEA
+Restoring our Environment
+11
+
+Telerobotiecs at Harwell
+m@ ILW Retrieval Machine
+gf UKAEA
+Restoring our Environment
+Telerobotics at Harwell
+m B220.29 - Removable Containment Box
+es
+Sh Nv ate) 0 1
+BI “a |
+Aes ee I
+| | (Cae : an
+t::. ™ A
+UKAEA ————
+Restoring our Environment
+12
+

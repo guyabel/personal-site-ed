@@ -1,0 +1,1629 @@
+AERE-G 4604
+PCOMWP (88) P3
+FLICKER IN TELEVISION DISPLAYS
+A Review
+P.M. Scheiwiller*, A.A. Dumbreck,
+V.M. Reading* and E. Abel
+
+*Department of Visual Science
+
+Institute of Ophthalmology
+
+University of London
+
+. Judd St.
+
+London WC1H 99S
+
+Engineering Sciences Division
+
+Harwell Laboratory
+
+Oxfordshire OX11 ORA
+
+March 1988
+
+- * - ” 2: ' << Ye .
+“6
+‘
+e
+.
+‘
+-
+
+AERE-G 4604
+PCOMWP(88)P3
+. FLICKER IN TELEVISION DISPLAYS
+A Review
+P.M. Scheiwiller*, A.A. Dumbreck, V.M. Reading* and E. Abel
+SUMMARY
+
+Minimisino flicker is not always a rrirery
+consideration when specifying television displays, or the concitions
+unger which they will be viewed. Consequently excessive flicker may he
+experiencec,
+
+Bb consiceration of the factors which éfirect the
+percepticn of flicker suaqcests the following measures can usefuliv he
+appiieG wher. flicker is found to be a problem:-
+
+-recuce the contrast of the Cisplay.
+
+-Pecice the overall briahtness of the display.
+
+-Ensvre that ambient lighting is not too bricht.
+
+-~Fnsure that the display does not subtend too iarce &
+visual angle by allowing é reasonable viewinc
+Gistance; a Gistance of four to six times the picture
+heicht is recommended. Do not use a monitor larcer
+than necessary.
+
+-Ensure that the black-level of the display is
+correctly set so that black areas of the picture are
+rerroduced as black rather than mid-grey.
+
+-Where @ number of monitors are used Simultaneously
+their scans should, ideally, be synchronisec.
+
+-7f Gt all possible, displays positioned such that
+they are in peripheral vision for much of the time
+shoulé be avoided or switched off when not in use.
+
+-Flicker is more likely to be a problem for younger
+persons,
+
+/Display ...
+
+*Department of Visual Science
+
+Institute of Ophthalmology
+
+University of London
+
+Judd St.
+
+London WCIH 9QS
+
+Engineering Sciences Division
+
+Harwell Laboratory
+
+March 1988
+
+HL88/1228 (C8)
+
+1
+
+Display brightness and contrast, ambient lighting an¢é
+viewina distance are constrained by practical considerations. A
+@isplay must be bright enough and have enough contrast to he
+intellicible; ambient lighting must be bright enough to allow °*
+concurrent tasks, such as paperwork or working the controls of e
+machine. Viewing distance should not be increased beyonce that fror
+which an observer cannot resolve the detail in the displey.
+
+The flicker generated can be minimised by the desicn of
+the display:-
+
+-A lone persistence phosphor will reduce flicker, but
+will also cause blurring of moving pictures. Fcr
+many applications this may be unacceptable.
+
+-Interlace is best avoided for field rates around 50F2z,
+particularly where short viewing distances are
+unevoiaabile.
+
+-TIt is possible to build displays to operate at fieic
+rates creeter than 50Hz. These are a good solution fe.
+computer displavs, but present a problem for
+television systens; the entire system must operate at
+the higher field@ rate an@ will thus be incompatih ce
+with existing equipment. Ancillaries workina et
+increased field rates are likely to be costly.
+
+-In the near future it will be possible to display
+viegeo signals from conventional television equipment
+on hich scan rete monitors by employing digital sicnai
+processing. However, to be really effective scar.
+conversions must be motion adaptive ana at the
+nonent this is not a trivial problem.
+
+There ig some evidence to succest that the humen visual
+syster responds to intermittent illumination at frequencies above
+flicker fusion. However an experiment by the authors found no major
+Gifferences in an observers performance of a visual search task at
+three Gifferent field rates; 50, 80 and l100Hz.
+
+No conclusive evidence has demonstrated that flicker
+causes eyestrain or has any long term, adverse effects on health,
+although most people would agree flickerino displays are unpleasant
+to work with.
+
+2
+
+Table of Contents Page
+: 1.0 Introduction. 4
+1.1 Factors Affecting the Perception of Flicker. 5
+1.2 The Effects of Line Interlacing on Flicker. 8
+1.3 The Prediction of Flicker Thresholds for a CRT
+from a Modulated Homogeneous Field. 9
+1.4 Optimum Viewing Conditions. 10
+2.0 Reducing Flicker at Source. i il
+2.1 Phosphor Persistence lil
+2ie2 Increasing the Scan Rate. ll
+2.3 Other Scan Structures. 16
+3.0 Adverse Effects of Flicker. 16
+3 aid CRTs, Fatigue and Visual Impairment. 16
+32 Flicker and Visual Performance. 18
+4.0 Conclusions. 20
+5.0 References. 22
+List of Figures
+Figure l. Modulation Amplitude of Fundamental
+Sinusoidal Component vs. CFF.
+Figure 2. The Effect of Field Size and Luminance
+on CFF.
+Figure 3. Modulation Sensitivity as a Function of
+Spatial and Temporal Frequency.
+Figure 4, Flicker Assessment for an Older Technology
+Monochrome Monitor.
+Figure 5. Mean Response Time vs. Number of Targets
+at 50 and 80Hz.
+Figure 6. Mean Response Time vs. Number of Targets
+at 50 and 100Hz.
+3
+
+1.0 Introduction.
+
+It is well known that the image displayed on a cathode
+ray tube (CRT) is generated by bombarding a phosphor coatec screen
+with an electron beam. In response, the phosphor emits light and, so
+that the whole screen can be addressed, the electron beam is made to
+scan. The light emitted by the phosphor decays rapidly and
+exponentially once the beam has passed, but if the rate of scanning is
+high enough the whole screen will appear to be equally illuminated.
+This is a property of the human visual system, not of the display
+{unless the phosphor is of exceptionally long persistence) and is
+commonly called the persistence of vision. The process is largely
+equivalent to a low-pass filtering in the temporal domain, but like
+all things human, the filter characteristics are somewhat variable,
+and dependent on many factors.
+
+A linear scanning system can be defined in terms of
+L/f£/i:1 where L=the number of lines scanned, f=the the fielc rate and
+1= the interlace factor. European television systems (PAL end SECAM)
+scan a frame of 625 lines, and each line is refreshed 25 times per
+second. In the USA (NTSC) 525 lines are scanned 30 times per second.
+To improve the effective refresh rate a 2:1 interlace is used whereby
+each frame is divided into two fields. One field contains ell the odd
+numbered lines, the other all the even numbered lines. These are then
+scanned alternately so that one of an adjacent pair of lines is
+refreshed every 50th, or in the USA 60th of a second. If the screen is
+viewed from a distance at which it is not possible to see the
+individual lines, then the whole screen appears to be refreshed f
+times a second whilst the actual refresh rate is f/i. Thus PAL and
+SECAM use a 625/50/2:1 scanning system while NTSC uses 525/60/2:1.
+
+It is quite clear both from experience and the vast
+range of psychophysical data available that television displays using
+these standards will appear to flicker under a variety of viewing
+conditions. The flicker is usually made up from three components;
+Large, bright areas will flicker at the field rate; if the line
+structure is visible, a patterned flicker at the frame rate, known as
+interline flicker, will be evident, and picture detail which excites
+only a single scan line will flicker at the frame rate. (Although
+Strictly speaking, the second of these is best described as jitter
+rather than flicker.) Many people find this annoying, and sometimes
+extremely disturbing. If television is used intensively for remote
+viewing the annoyance could be considerable and excessive flicker may,
+in addition, have more serious effects.
+
+The first section of this report reviews the factors
+which affect the perception of flicker, and how these may be used to
+optimise viewing conditions. The second section looks at other ways of
+reducing flicker and the third discusses whether flicker has any
+adverse effects on health or visual performance.
+
+4
+
+1.1 Factors Affecting The Perception of Flicker.
+From the enormous number of psychophysical experiments
+on flicker, it is evident that there are a large number of variables
+and that the details of the experimental design are fairly critical to
+; the outcome. Therefore a detailed summary is difficult.
+
+Many results cannot be applied to television displays
+in a quantitative way; traditional flicker studies have used uniform
+fields and sinusoidal or squarewave modulation, sometimes at very low
+levels, whereas the flicker in television pictures is spatially and
+temporally complex, usually at high levels of modulation. However it
+is likely that the results can be applied in a qualitative way.
+
+If the human visual system is considered as a temporal,
+low-pass filter, then flicker sensitivity could be characterized by
+plotting the filter’s modulation transfer function. For an electronic
+or mechanical filter this would normally be done by measuring the
+output for a given input, but in the case of the human filter it is
+not possible to measure the filter output directly. Hence, the input
+required for a constant output is measured; if the filter has a linear
+amplitude response this is entirely equivalent. The level of constant
+output is the threshold for which a flickering source first appears to
+be steady. The frequency for a particular depth of modulation at which
+this point is reached is called the Critical Fusion Frequency (CFF).
+
+Figure 1 shows three typical response curves at
+Gifferent retinal illuminances, determined by de Lange (1958), after
+whom such curves are commonly known. However, since the linearity of
+the human filter is questionable, such curves can only loosely be
+Gescribed as the response curves of the filter.
+
+The unit of retinal illumination, the Troland, is the
+product of field luminance in cd/sq m and pupil area in sq mm. The
+curves in figure 1 are, in fact, for a complex waveform, so
+modulations of up to 200% are possible. Generally, CFF ranges from a
+few HZ up to around 90 Hz.
+
+The main factors found to affect CFF are (mostly from
+Brown 1965):-
+
+a) Field size.
+
+There is a linear relationship between CFF and the log
+of field size for a wide range of luminance levels; CFF increases
+with the visual angle subtended, This is often known as the Granit-
+Harper law and has been verified for fields of up to 50 degrees of
+visual angle and centred at retinal locations up to 10 deg away from
+the fovea.
+
+The visual angle subtended by a display monitor depends
+on the viewing distance and the size of the monitor. A monitor of
+diagonal d, viewed from a distance of v will subtend an angle of:-
+
+2 Arctan (d/2v) degrees
+5
+
+e.g an industry standard, 46cm (19 inch) monitor viewed
+from 1.2m will subtend an angle of 22 degrees.
+
+b) Field luminance.
+
+Over the range for which the Granit-Harper law .
+operates, CFF increases linearly with the log of retinal
+illumination. Figure 2 shows this for fields of 6 and 19 degrees,
+fixated centrally. 10 Hz for each tenfold increase luminance is fairly
+typical. This is sometimes known as the Ferry-Porter law.
+
+At high retinal illuminance the curve flattens out.
+In figure 2 this happens at about 3200 Trolands. If the pupil diameter
+of the eye is taken to vary between 2mm and 8mm, this would correspond
+to a screen luminance of between 16 and 256 cd/sq m. Pupil diameter is
+determined by a number of factors other than the amount of incident
+light. It is therefore not clear whether the upper limit, above which
+field luminance will have little effect on CFF, lies within the range
+of screen jluminances commonly found in TV displays, where maximum
+white level is typically in the range 60-150cd/sq m.
+
+At low luminances a second branch to the curve
+Gevelops. This is assumed to be where only rod photo-receptor cells
+are stimulated and is outside the luminance range likely to be
+encountered in television displays.
+
+At flicker frequencies above fusion the perceived
+brightness is proportional to the time averaged luminance of the
+flickering field. This is the Talbot-Plateau law and the implication
+for television is that CRTs with short persistence phosphors have to
+produce much higher peak luminances than long persistence tubes to
+achieve the same apparent brightness.
+
+c) Retinal location.
+
+For small sized fields CFF decreases with increasing
+aistance from the fovea, but for larger fields (Granit and Harper
+suggest >2 degrees ) the reverse is true and CFF tends to be higher in
+peripheral vision. The latter case is applicable to CRT displays.
+
+For this reason, flicker is likely to be more of a
+problem for a bank of display monitors, where there will inevitably be
+one or more monitors in the field of peripheral vision. In such cases
+it is preferable to have the monitor scans synchronised to eliminate
+the possibility of beat frequencies becoming noticeable,
+
+Similarly, for a monitor which subtends a large visual
+angle (say >30 degrees), the corners will be well into peripheral
+vision and may flicker even though the centre of the screen appears
+steady. Likewise, the centre of the picture may flicker when the
+extremes are viewed; the flicker will move around in the opposite
+Girection to area of interest.
+
+6
+
+ad) Adapted state of the eye
+
+As the eye becomes more light adapted (i.e. adapted to
+brighter light) then CFF increases. Therefore ambient lighting and the
+nature of the immediate surrounding field become important. However
+when the display subtends a large visual angle then the luminance of
+the display is probably the most important factor in determining the
+adapted state.
+
+e) Age
+
+Like most aspects of human performance, CFF declines
+with age; older persons are less sensitive to flicker.
+
+f) The mark:space ratio of the flicker
+
+A decrease in mark:space ratio will lead to a decrease
+in the perceived brightness. If the average luminance is held
+constant then CFF increases very nearly in proportion to the loa of
+the relative duration of the dark interval. This is entirely
+consistent with the considerations in the next paragraph.
+
+g) The flicker waveform.
+
+CFF depends on the amplitude of the fundamental Fourier
+component of a complex waveform if the first and higher harmonics are
+outside the pass-band of the human visual system filter or at least
+
+. highly attenuated (de Lange 1958 ). This is likely to be the case for
+television where the fundamental is not lower than 25Hz.
+
+However the amplitude of the fundamental can be very
+Gifferent from the waveform’s peak to peak amplitude. For a€ square
+wave the fundamental is 1.27 times the peak to peak amplitude, and
+for the waveform of a CRT with a short persistence phosphor, the
+fundamental can be as high as twice the peak to peak amplitude of the
+complex waveform, and thus should have a higher CFF than a sinusoidal
+waveform of the same frequency and peak to peak amplitude.
+
+h) Spatial frequency
+
+The human visual system does not process spatial ance
+temporal information entirely separately; an image stabilised on the
+retina with respect to eye movement will rapidly appear to fade, but
+under intermittent illumination the visual sensation remains.
+(Ditchburn et al 1959)
+
+Robson (1966) has measured the variation of temporal
+modulation sensitivity with spatial frequency and its complement, the
+variation of spatial modulation sensitivity (i.e the ability to
+distinguish a grating from a uniform field) with temporal frequency.
+Figures 3 illustrates this, replotting from Robson’s data, modulation
+sensitivity as a function of both spatial and temporal frequency.
+
+7
+
+Similarly, Graham and Landis (1959) have demonstrated a
+relationship between CFF and spatial frequency, for Sinewave gratings
+with squarewave temporal modulation. CFF exhibits a minimum when
+plotted against spatial frequency and is depressed by about 10HZ for a
+spatial frequency of 7.1 cycles per degree, relative to a field
+without striations. Thereafter CFF rises to slightly above its initial
+value as spatial frequency is increased to 20 cpd.
+
+Quantitatively, Robson’s results, using a field of only
+2.5 by 2.5 degrees and modulation considerably less than 100%, are of
+dubious applicability to television displays. Similarly, but to a
+lesser extent those of Graham and Landis, but the existance of such a
+spatio-temporal interaction may explain the common observation that an
+interlaced picture has subjectively less vertical resolution than a
+non-interlaced one with the same number of lines. It has been
+suggested that at a field rate of 50HzZ resolution is reduced by a
+factor of 0.8, at 60 Hz the factor is 0.87, and is 0.95 for 75Hz.
+
+1.2 The Effects of Line Interlacing on Flicker
+
+The idea behind line interlacing is to enabie the
+transmission of a larger number of lines for a given bandwidth and
+flicker than would be possible with a sequential scan. For instance,
+625 lines scanned as 625/25/1:1 would flicker considerably more than
+625/50/2:1 but use no less bandwidth. However, interlace has’ the
+conseguences that picture detail which excites only sincle TV line
+will flicker at half the field rate, that bright areas of the picture
+will exhibit a patterned flicker and horizontal edges will hop up and
+down, again at half the field rate.
+
+White (1978) showed that subjectively there is @ rapid
+diminution of picture quality once the interlaced line structure
+becomes visible. He has also pointed out, that from the often
+recommended viewing distance of 6 times the picture height, a person
+with 6/6 or better visual acuity should be able to resolve the line
+Structure of a@ 625 line display.
+
+In addition, it is our opinion that an interlaced
+display viewed peripherally flickers more than the equivalent
+sequentially scanned display; here the line structure cannot’ be
+resolved, but perhaps there is a greater spatio-temporal interaction
+than for foveal vision. This, together with the observation in the
+previous section, that the improvement in resolution afforded by
+interlacing is not as large as expected, suggests that all in all the
+benefits of line interlacing at 50 or 60HZ are minimal.
+
+8
+
+1.3 The Prediction of Flicker Thresholds for a CRT from a
+Modulated Homogeneous Field
+
+a)Van der Zee, Roufs and van der Meulen
+
+An experiment by van der Zee, Roufs and van der Meulen
+(1983) explicitly compared flicker thresholds for a modulated
+homogeneous field with those for a CRT display. The aim was to resolve
+the question of the reliability in predicting CRT flicker from
+experiments which used homogeneous fields.
+
+The homogeneous stimulus was generated by a fluorescent
+lamp behind an almost perfect light diffusing glass. The CRT displayed
+a plain raster of 2287 active lines on a screen 2lcm by 30cm, and was
+viewed from a distance of 50cm. The screen therefore subtended
+approximately 12 by 16 degrees of visual angle. Several levels of
+screen luminance were used, and frequencies from 120HzZ down to 15 Hz.
+Frame rates between 60Hz and 120 Hz used a 2:1 interlace while the
+lower frame rates, generated by skipping fields, were non-interlaced
+ane contained only half as many lines. The modulation depth of the
+homogeneous field was varied by varying the mark:space ratio of the
+drive to the fluorescent tubes, and for the CRT by optically
+superimposing the homogeneous field whilst varying the DC drive to
+the tubes.
+
+The results are published only for 2 luminance levels,
+
+50 and 100cd/sq m. In both cases the maximum frequency at which
+flicker was visible was a little over 50 HZ, and so useq a non-
+interlaced format. The plots of modulation depth required to. see
+flicker on 50% of the presentations vs frequency are very similar for
+homogeneous and non-homogeneous fields at frame rate above 15 Hz, but
+CFF for the homogeneous field is always higher. However the difference
+between the CRT display and the homogeneous field is of the same
+magnitude as the difference between subjects, and although van der Zee
+et al. concluded that it is safe to estimate flicker thresholds for
+CRTs from modulated homogeneous fields, the comparison is not
+complete. No results are given for CRT scans which used interlace
+(which may well have behaved differently), and the maximum modulation
+depth used was 1. At this depth of modulation the output from _ the
+lightbox would have been equal to the mean light output from the CRT,
+and therefore untypical of television viewing conditions.
+
+b) Chaplin and Freemantle
+
+Chaplin and Freemantle (1987) of IBM UK Labs have used
+an optical sensor, not unlike a spot photometer with a field of view
+of about 2 degrees, connected to a computer to extract the temporal
+Fourier components from different VDU displays. The results could be
+displayed graphically, overlaid with scaled and normalised subjective
+
+. flicker fusion curves for various target sizes. Depending on whether
+the fundamental component cuts the flicker fusion curves, the
+perception of flicker can be predicted. The reference point which
+links the fusion curves with the Fourier analysis is a modulation of
+200cd/sq m peak to peak. The ordinate is plotted in dB and so this
+
+9
+
+point is 0dB. Figure 4 shows an example.
+
+The problem, of course, is in finding appropriate
+subjective fusion curves. Chaplin and Freemantle chose to collect
+their own data from 100 subjects using an array of flashing LEDs. The
+average intensity was 150cd/ sq m and three field sizes were used, 5,
+15, and 20 degrees. The data are included in their computer programme
+and intended to represent the upper sensitivity of 85% of the
+population.
+
+However, in collecting the subjective data no account
+has been taken of the effects of ambient lighting level or any
+additional effects due to patterned flicker. The conclusions of van
+der Zee et al are assumed to be universally true and in addition, it
+is not clear how these flicker fusion data should be applied to vDUs
+which cannot achieve a mean luminance 150 cd/sq m. Therefore, for all
+the sophistication of the objective measurement, it would seem that
+the final predictions are only a gross approximation.
+
+1.4 Optimum Viewing Conditions.
+
+A consideration of the factors in section 1.1 suggests
+that the optimum viewing conditions to minimise flicker would involve
+viewing small dim monitors, from long distances in dimly lit rooms. In
+practice, these factors have to be balanced against the need to be
+able to resolve enough detail in the picture and the need to carry out
+concurrent tasks, such as paperwork. In addition, were it not for the
+flicker, large bright screens would be much preferred.
+
+Some guidelines suggested by Cakir, Hart ané Stewart
+(1979) for the use of computer VDUs are as follows:-
+
+Contrast ratio characters:background, 10:1]
+Contrast ratio background:surrounding, 1:3
+
+2
+Character luminance of 80-150cd/m
+
+2
+
+Screen background luminance of 15-20 cd/m
+Ambient light level of 300-500 lux
+Display subtends 20 degrees
+
+Although there are differences between VDUs and
+television displays, namely that computer VDUs often use long
+persistence phosphors and non-interlaced scanning, and are frequently
+required to display only two brightness levels, character and
+background, these viewing conditions could be applied to television
+displays. However a maximum contrast ratio of 10:1 when displaying a
+continuum of luminances by television, represents a severe compression
+of the contrast ratios which may occur in the scene (for instance, on
+a bright sunny day a maximum of 10,000:1 might be found) and any
+
+10
+
+restrictions imposed on the already limited range of contrast that can
+be carried by television could be unacceptable.
+
+To minimise flicker it is also important that the
+display monitor black-level is set correctly. If parts of the picture
+which should be black are reproduced as some intermediate shade of
+grey, it is possible that they will appear to flicker. Such flicker
+can be avoided by adjusting the monitor correctly.
+
+Welde and Cream (1972) suggest that, although it is
+possible to minimise flicker in these ways, optimising the viewing
+conditions does not significantly reduce the flicker when a display is
+in the field of peripheral vision. This, together with the limiting
+nature of such “optimal” viewing conditions clearly indicates a need
+for reducing flicker at its source.
+
+2.0 Reducing Flicker at Source
+
+There are two obvious, physical ways of reducing the
+amount of flicker generated by a display; prolonging the phosphor
+persistence and increasing the field rate.
+
+2.1 Phosphor Persistence.
+
+An increase in phosphor persistence would reduce the
+amplitude of the fundamental component of the flicker by both reducing
+the overall amplitude and changing the waveform. Unfortunately, as
+phosphorescence decays exponentially it is very difficult to achieve
+any reduction of flicker by this means without blurring moving
+pictures. This may be acceptable for computer VDUs where blurring is
+only apparent on scrolling the screen, but for television used for
+remote viewing this could be a distinct disadvantage.
+
+2.2 Increasing the Scan Rate.
+
+The most attractive means of reducing flicker would be
+to increase the fundamental frequency.
+
+a) High scan rate cameras and monitors.
+
+Technically, it is possible to build display monitors
+which operate at field rates greater than 50 or 60HzZ and increasingly
+such options are offered for computer displays.
+
+Equally, it is possible to build high scan rate cameras
+with increased resolution, but these will be incompatible with
+existing video equipment such as video recorders and vision mixers.
+This is usually a serious disadvantage for closed-circuit television
+but seldom a problem for computer displays. The provision of Suitable
+
+ll
+
+recording equipment is likely to be costly. In addition, the increased
+signal bandwidth will be a difficulty in the distribution (and if the
+signals are in anyway broadcast, the transmission) of the pictures
+from such cameras.
+
+b) Digital Signal processing
+
+The problems of incompatibility and increased signal
+bandwidth can be circumvented by converting conventional television
+pictures to a format with increased field and/or line rates
+immediately prior to display ona high scan rate monitor; thus
+providing a flicker-free and probably non-interlaced display of
+standard video signals.
+
+Apart from simply upgrading conventional television, it
+is expected within the television industry, that by using similar
+techniques, it will be possible to minimise the transmission bandwidth
+used by a high definition television service and be compatible with
+existing picture sources and displays. Therefore, this is an active
+area of research and with the advent of cheap and readily evailable
+digital field storage will become a realistic proposition even for the
+domestic market.
+
+The fundamental problem is how to construct the
+additional lines to enable a higher field rate. For parts of the
+picture which do not change from frame to frame the solution is easy
+Since the same information is transmitted over and over; repeat the
+previous field; but where there is movement in the picture there is no
+Such redundancy.
+
+Many of the experimental approaches aim for a _ field
+rate of 100H2 or 120 Hz; double that of 625/50/2:1 and 525/60/2:1
+respectively. If interlacing is retained then the line scan rate is
+doubled, while converting to a progressive scan mode quadruples the
+dine scan rate. Unfortunately, conversion algorithms which work well
+for still pictures are not optimal for parts of the picture which are
+moving, and vice versa. It is therefore necessary to switch algorithms
+between or within frames when movement has been detected. Conversions
+which do this are said to be motion adaptive.
+
+Essentially, algorithms which are good for still
+pictures combine, in some way, the information from temporally
+different fields, whilst algorithms good for moving pictures only use
+information from a Single field. For example, to produce a progressive
+scan ( i.e to scan lines 1,2,3 etc in numerical order rather than to
+scan them in1,3,5.....2,4,6 order) from an interlaced scan at the
+same field rate it is necessary to insert additional lines into the
+Original fields. This could be achieved either by repeating lines
+from the appropriate part of a previous field, or by repeating lines
+from the same field. The first solution would be good for still
+pictures and would have a better vertical resolution than the second.
+However the second would allow jitter-free reproduction of moving
+pictures.
+
+12
+
+The following are some examples of proposed
+conversions; the list is by no means exhaustive.
+
+i) The Sony approach.
+
+For 625/50/2:1 Sony have investigated conversion to
+625/100/2:1 (Okada, Hongu, Tanaka 1985 ). Interlace is retained and
+the field rate is 100Hz, each field containing the normal number of
+lines (312.5). The additional fields are obtained simply by
+repetition.
+
+If:-
+
+Al A2 Bl B2 Cl C2 D1 D2 & arexenaieie @ & 0%
+
+represents the 625/50/2:1 field sequence where
+A,B,C...are the frames and 1,2 are the odd and even fields
+respectively, then after conversion the sequence is:-
+
+Al Al AZ A2 Bl Bl B2 B2 Cl Cl C2 C2 D1 D1 D2........
+
+The advantages of this system are that large area
+flicker is eliminated, only a single field store is needed and that
+moving parts of the picture are only marginally disturbed, as there is
+no change in the temporal ordering of the fields; There is no need for
+motion adaption and fuzziness of moving edges is reported to be
+negligible. The disadvantage of the conversion is that interline
+flicker is unchanged at 25Hz.
+
+Also, Sony have marketed a converter, the DSC 10, to
+convert 525/60/2:1 to a non-interlaced scan, with a field rate of
+60Hz, using a one-line memory. Line scan rate is doubled and there are
+525 lines per field. The additional lines in each field (an
+unconverted field has 262.5 lines) can be generated in two ways and it
+is possible to switch between the two. The first simply repeats the
+previous line and the second inserts the mean value of the two
+adjacent lines. However, vertical resolution is reduced, but as noted
+elsewhere not by as much as might be expected (i.e. halved)
+
+ii) The Jackson and Annagarn approach
+
+This is essentially the same as the Sony 625/100/2:1
+approach except that it is motion adaptive. The resulting field
+sequence where a picture contains movement is exactly the same, but
+when no movement is detected then the field sequence becomes:-
+
+Al A2 Al A2 Bl B2 Bl B2 Cl C2 Cl C2 D1 D2 Dil D2......
+
+The advantage is that, for still parts of the picture
+interline flicker frequency has been doubled and the picture is
+largely flicker free. However it can be seen that the original
+temporal order of some of the fields is reversed (e.g. Al A2
+becomes AZ Al) so even small amounts of movement will be very jittery;
+the motion adaption must be reliable. In addition it is no longer
+possible to use a single field store.(Schroder, Silverberg, Wendland,
+
+13
+
+Huerkamp 1985.)
+
+iii) The Tanaka, Nishizawa method.
+
+This carries out the conversion of 625/50/2:1 to a
+progressive scan mode with 100 fields/second. The result is line and
+large area flicker-free for still pictures and resolution is
+subjectively improved. However motion adaption is necessary and moving
+parts of the picture show line and large area flicker. (Schroder et al
+1985 )
+
+Information is taken from three pre-conversion fields
+to make up each new frame, which is then displayed twice. For a
+625/50/2:1 field sequence:-
+
+Al A2 Bl B2 Cl C2 D1 D2wis & FF KK
+
+when no movement is detected in the picture, the
+following frame sequence is constructed:-
+
+Aa Aa Ab Ab Ba Ba Bb Bb Ca Ca Cb Cb Da Da Db Db......
+
+Where the frame Ba is made up from the lines of field
+Bl with the line-by-line average of the fields A2 and B2 inserted to
+complete the progressive scan. Similarly the frame Cb is made up from
+the lines of field CZ plus the average of fields Cl and Dl. ‘Thus a
+complete frame is made up from three fields.
+
+When motion is detected in the picture the sequence
+becomes: -
+
+Al°A1°A2°A2°B1°B1°B2°B2°C1°C1°C2°C2°D1°D1°D2°D2”.....
+
+Here Al” is generated entirely from the field Al; the
+additional lines are interpolated from their neighbours within the
+field by averaging.
+
+When motion detection fails the effect is of picture
+blur rather than jitter but the system is complex and at least 4 field
+stores are needed.
+
+iv) The Wendland Way
+
+This is Similar to the above in that it produces a
+progressive scan at 100 frames/sec, with the advantage of being
+completely flicker free in the still mode, but here the frames are
+generated simply by combining odd and even fields. (Schroder et al
+1985)
+
+14
+
+The sequence:-
+
+Al A2 Bl B2 cl C2 D1 D2k & i awers,%
+becomes: -
+Z 2 Y¥ Y X X W W V V UD U T TT S Saeeeee
+
+where Y is all the lines of fields Al and A2, X all the
+lines of fields A2 and Bl, W of Bl and B2 etc.
+
+When movement is detected the sequence is exactly the
+same as iii). The advantage is simplicity, but against this is a
+reduced tolerance to failure of movement detection. Switching of the
+conversion mode has to take place for smaller amounts of picture
+movement.
+
+v) BBC Research Department Experiments.
+
+Using two basic algorithms, one for still pictures and
+one for motion, a number of standards conversions have been tried,
+ranging from 625/50/l1:1 to 1250/100/4:1 and 1250/100/2:1 (Roberts
+1962).
+
+The still algorithm was basically the same as the
+Jackson method when interlace was retained and the same as the
+Wendlanad method for non-interlaced scans. For moving pictures the
+algorithm was the same as the moving picture part of the Tanaka et
+al. algorithm. The conversion to 1250/100/2:1 was simply a version of
+625/50/l:1 with a 50Hz, one line vertical perturbation and twice the
+line scan frequency. 1250/100/4:1 was similarly related to 625/50/2:1.
+
+As expected, the conversions which involve a
+quadrupling of the line rate (ie 1250/100/2:1 and 625/100/1:1) give
+the best results in terms of reduction of large area flicker, inter-
+line flicker and line crawl. The 4:1 interlace structures do not
+perform very well as it is difficult to achieve a stable 4:1
+interlace.
+
+All the conversions resulting in a 100HzZ fielc rate
+lead to considerable reduction in large area flicker, but vary in
+their reduction of interline flicker. Only an algorithm equivalent to
+the Sony method did not need to be motion adaptive.
+
+vi) Motion detection.
+
+Although motion adaptive conversion techniques
+potentially offer the most improvement in picture quality, one of the
+problems is signal noise. Being random in nature, the noise changes
+from field to field and so may look like motion to a_ sensitive
+detector. However, since random noise is likely to change much more
+frequently, from pixel to pixel, from line to line, and from field to
+field, than real movement, averaging horizontally, vertically and over
+several fields will give a degree of immunity to noise. The penalty is
+complexity and the amount of processing to be done in a finite amount
+
+15
+
+of time.
+
+So far, the results of using motion adaptive conversion
+are not entirely successful for real television pictures. (Roberts
+1985)
+
+2.3 Other Scan Structures
+
+For a linear scanning system it is possible to broaden
+each line without reducing horizontal resolution in the way that
+simply enlarging the spot size would by adding a small, high frequency
+(for example 200 times line frequency) vertical oscillation to the
+scan raster. Such “Spot Wobble” techniques are not new, but given that
+picture quality iS subjectively diminished by the visibility of
+interline flicker (White 1978), hiding the line structure in this wey
+may improve the appearance of interlaced pictures.
+
+Scannina schemes other than linear scanning have been
+suggested to reduce flicker for a given frame rate. One such’ scheme
+would display an image made up from a mosaic of a large number of
+dots, like a newspaper photograph, which would be illuminated in a
+pseudo-random sequence (Deutsch 1971). The display would not so much
+flicker as scintillate. Whilst such displays have been built, their
+main application has been in television systems for low bandwidth
+operation where bandwidth is conserved by sacrificine picture
+repetition rate rather than the number of elements in eéch picture;
+temporal rather than spatial resolution has been compromised. Problems
+lie in the complexity of synchroniSing the picture source with the
+display, and with maintaining a scan stable enough to achieve
+reasonable spatial resolution.
+
+3.0 Adverse Effects of Flicker.
+
+Although there is much reported study of the use of
+vbUs, the incidence of visual impairment and the occurrence of
+fatigue, the case for a causal link is not proven. Even less concrete
+is the putative isolation of flicker as the prime suspect. However
+there is some evidence to suggest that flicker has a detrimental
+effect on eye movements, and given that moderate levels of flicker are
+unpleasant to work with, it is not unreasonable to speculate on such a
+connection. It is assumed that the following also applies to the use
+of television for a visually demanding task, but probably not to
+domestic television watching.
+
+3.1 CRTs, Fatigue and Visual Impairment.
+
+Visual fatigue can mean a lot of things:-Subjective
+variables such as "eyestrain", blurred vision, headaches, eye pains
+etc; or objective variables such as deterioration of performance with
+time on a task; or changes in psychophysically measurable aspects such
+
+16
+
+as spatial contrast sensitivity, or flicker sensitivity. Study methods
+can be experimental, etiological, or can correlate questionnaire
+results with the use of VDUS; but to generalise, the incriminating
+evidence is equivocal.
+
+a) Experimental evidence
+
+An experiment by Gould and Grischkowsky (1984)
+measured the performance, feelings (16 point questionnaire) and vision
+of 24 subjects, at 1 hourly intervals during a 6 hour day of
+proofreading from either a VDU or hard copy. The visual measures were
+far and near acuity, phoria, flicker sensitivity and contrast
+sensitivity. The results show that subjects experience some fatigue
+during the day, but there is no significant difference between reading
+from a VDU or a piece of paper. The experiment was designed so that
+the two display conditions were as similar as possible and subjects
+acted as their own controls by doing the experiment under both
+conditions. Gould and Grischkowsky contend, that any additional
+fatigue caused by the use of VDUS is in fact due to the type of work
+done, rather than VDU use per se; this appears to be supported; when
+the task is eguivalent the fatigue is the same.
+
+Exactly the opposite conclusion was reached by the
+authors of a Similar study, Mourant, Lakshmanan and Chantadisai
+(1981). Here the task was a visual search task. Fatigue was measured
+by the times taken for subjects to move their eyes from a near point,
+the task sheet, to a far point, a TV monitor 6m away, read a five
+Gigit number and re-focus on the task. The experiment was run in three
+hour sessions and there was evidence of significant fatigue when the
+task was VDU based, but not when the task was on hard copy. This
+result is not exactly comparable with the above experiment, as fewer
+and different measures of visual fatigue have been used.
+
+b) An etiological approach
+
+Subjects in the Dutch telephone inquiries service were
+Studied before, just after and two years after the introduction of
+vVbDUs. (de Groot and Kamphuis 1983 ). On the whole no change in the
+number or severity of eyestrain complaints was evident, and no
+changes in acuity or accommodation were found which could not be
+accounted for by aging or by a change of glasses to Suit the new
+working conditions. However CFF measured just after, was higher than
+immediately prior to the introduction of VDUs. Two years later CFF had
+declined, the authors suppose due to the process of aging, to a value
+close to that before vDUsS. It was not found that the increase in CFF
+was correlated with any increase in complaints of eyestrain.
+
+c) Correlation and Causality
+
+Laubli, Hunting and Grandjean (1980), surveyed the
+visual complaints of 4 groups of office workers in relation to their
+working conditions. Amongst other things, they measured the Uniformity
+Factor (UF) of the VDUs which their respondants were using. UF was
+defined simply as the lowest divided by the highest screen luminance
+measured during one field and integrated over an area of about 1sq mm
+
+17
+
+of displayed text. Note that this is a fairly poor objective measure
+as it takes no account of waveform or frequency.
+
+Laubli et al. found a significant correlation between
+workers who operated VDUS with low Uniformity Factors and the
+incidence of reduced visual acuity. These unfortunates were also found
+to be more likely to complain of red eyes, of shooting and burning
+pains and to use eye-drops more frequently than operators of high
+uniformity factor VDUs.
+
+However a correlation does not indicate causality. In
+this case the users themselves set the controls on their VDUs, and,
+for a given display, it appears that one of the main determinates of
+uniformity factor is display contrast. It is therefore plausible that
+some of the workers, already suffering from poor acuity, had increased
+the contrast (and hence decreased UF) in an attempt to make their
+display more legible. The direction of causality is not necessarily
+from low UF to low acuity; From a single survey it is impossible to
+tell.
+
+3.2 Flicker and Visual Performance.
+
+It is frequently found that the reading of text is 103%
+to 30% slower from aVDU than from a piece of paper (Gould = and
+Grischkowsky ) and that blink rate is often higher (Mourant,
+Lakshmanan and Chantadisai) than when reading from hard-copy.
+
+Mousaoui and Frievalds (1986) have compared eye
+movement patterns of subjects reading from a CRT or from paper. They
+found that there are significant differences, principally in the
+frequency and duration of fixation. Fixation pauses where the eye is
+held steady, and information is captured, occur more frequently, and
+fixations with a duration greater than 360msec are more common using
+CRTS. Mousaoui and Frievalds suggest that the difference, which is
+found even for short texts, and therefore has little to do with
+fatigue, is largely due to the difficulty the eye has in accommodating
+when there is a relative lack of high spatial frequencies in the CRT
+display.
+
+However, even when care is taken to ensure that the
+paper and VDU displays are very similar, a difference in reading speed
+is still sometimes found. Further possible explanation is provided
+by Wilkins (1986) in an experiment which meaSured the size of saccadic
+eye movements across text, firstly when the text was displayed on a
+CRT and secondly when illuminated by fluorescent light. The subjects
+were not asked to read the text but simply to transfer their point of
+fixation from one specified letter to another. In both cases there was
+a significant interaction between frequency of illumination and _ the
+size of high velocity saccadic eye movements. For the CRT, at two
+field rates, 50 and 100 Hz ( with no interlace) the eyes overshot
+their target, allowing for the normal transient saccadic overshoot,
+but by a significantly larger amount for the 50Hz field rate. The
+overshoot for the 50HzZ rate corresponds to about the size of one of
+the letters which made up the text. Under fluorescent lightino the
+
+18
+
+same sort of overshoot was apparent when the driving frequency was
+100Hz, but when the flicker frequency was 20kHz an undershoot of about
+the same size was found.
+
+Whilst it is quite normal for the eye to undershoot a
+target, the overshoots are unusual and need to be explained, It is
+also of interest that the effect is concrete even when no flicker is
+perceived and that subjects, when asked, preferred the 100Hz to the
+50HzZ CRT display, but mostly were unable to say why.
+
+It is possible to record electrical signals from
+electrodes attached to the scalp which are phase locked to the
+flickering of an intermittent stimulus. In a Situation similar to
+television viewing, Tyler (1981) recorded such evoked potentials at
+frequencies of up to 80HzZ even though the test field appeared
+completely steady at about 50HzZ. Further, Brindley (1962) has shown
+that the beat between electrical and visual stimulation of the retina
+can be perceived at stimulating frequencies up to 120 Hz, where
+either form of stimulation alone would not produce the sensation of
+flicker.
+
+Tt therefore would appear that the visual system can
+responc to intermittent illumination even when flicker is not
+perceived. The implication is that critical flicker fusion may no
+longer be an adequate criterion for optimising field rate and that the
+intermittancy of illumination does have an adverse effect on visual
+performance.
+
+However an experiment by the authors (Scheiwiller,
+Reading, Dumbreck and Abel 1988) failed to find any large differences
+in the times taken by subjects to perform a visual search task at
+various field rates. The task was to count the number of small
+circular ‘targets” hidden in a background pattern of random noise.
+Field rates of 50,80 and 100HzZ were used, non-interlaced, and _ the
+viewing conditions were such that flicker was not noticeable in the
+pictures even at 50HZ. Two display monitors were used; one for 50Hz
+and 80Hz, the other for 50 and 100HzZ, thus there were two 50Hz
+conditions. Figures 5 and 6 show the mean time taken to count’ the
+targets vs. the number of targets presented.
+
+The error rate was constant across the field rates anc
+there was no statistically significant difference in time taken
+between 50 and 80 Hz. At 100HZ subjects performed slightly slower than
+at 50HzZ and the difference was statistically significant. However this
+difference is smaller than the difference between the two 50Hz
+conditions and probably explained by a practice effect not anticipated
+in the experimental design, and therefore of little practical
+importance.
+
+The search task in the above was not suited to a square
+search strategy and eye movements are likely to have been less
+orderly than those found in reading; perhaps the interaction between
+display intermittency and visual performance is strong only when the
+pattern of eye movement is highly ordered.
+
+19
+
+4.0 Conclusions
+
+For a typical CRT display, with a field rate in the
+region of 50 to 75Hz, flicker will be visible under some viewing
+conditions; the likelihood that flicker will be perceived can be
+minimised by optimising the viewing conditions.
+
+This can be done by making the ambient lighting
+subdued, but it must be bright enough to be able to carry out any
+concurrent work, for example paperwork; and by keeping the display
+brightness and contrast as low aS possible, consistent with the
+display being able to fulfill its intended purpose efficiently. The
+display black-level should be correctly set and the viewing distance
+should be such that the screen subtends about 20 degrees of visual
+angle.
+
+However such conditions are very restrictive, large
+bright screens are to be preferred. If it is unavoidable that a
+display will always be in peripheral vision, for example where
+several displays are usec at once, or the display iS part of a bank of
+TV monitors then it is unlikely that even such viewing conditions will
+eliminate flicker.
+
+Interlace will be most disturbing at close viewing
+Gdistances. If a fixed viewing distance, from which the picture line
+structure is inviSible, cannot be guaranteed then interlace is
+probably best avoided.
+
+Flicker can be reduced by increasing the persistence of
+the phosphor, but this will only be effective when the increase is
+relatively large and blurring of moving pictures will occur.
+
+Digital scan conversion of conventional TV signals to
+a format with a higher field rate and without interlace, immediately
+prior to display would appear to be the best way of reducing flicker
+for TV applications. It has the advantage over systems which use a
+high scan rate throughout that conventional and compatible equipment
+can be used for the rest of the system. It is probable that such
+processing will become widely available, even for domestic TV
+receivers within the next few years. However to be really effective
+the conversion has to be motion adaptive, and at present reliable
+motion detection is fairly difficult. Possibly, the advantages of up-
+conversion will be slightly marred by artifacts created when motion
+detection fails. When the equipment becomes commercially available
+(for the moment it is still experimental) this potential, and the
+possible advantages of simply de-interlacing the picture should be
+evaluated more fully.
+
+There iS evidence to suggest that the human visual
+system responds to intermittent illumination at frequencies above
+flicker fusion, and that flicker might have an adverse effect on
+visuai performance even at high frequencies. This implies that flicker
+fusion may not always be a good enough criterion for deciding the
+field rate and viewing conditions. Whether or not flicker has any
+
+20
+
+effect on visual fatigue or, in the long term, on health is not
+conclusively decided.
+
+However, an experiment by the authors failed to find
+any major interaction between display field rate and an observers
+performance of an unstructured visual search task. This is not
+consistent with other findings, in particular those of Wilkins where
+there was a relationship between saccade size and display field rate.
+Perhaps the interaction is strong only where regular, predictable eye
+movements are involved, as in reading and that any detrimental effects
+of flicker are task dependent.
+
+21
+
+5.0 References
+
+l Brindley GS. Beats Produced by Simultaneous Stimulation of the
+Human Eye with Intermittent Light and Intermittent or Alternating
+Electric Current. J Physiology (London) 1962;164:157-167.
+
+2 Brown JL. Flicker and Intermittent Stimulation. In: Graham CH. ec,
+Vision and Visual Perception. New York: Wiley and Sons, 1965
+Ch10:251-321.
+
+3 Cakir A, Hart DJ, Stewart TF. The VDT Manual. Darmstadt, West
+Germany: Inca-Fiej Research Association 1979.
+
+4 Chaplin R, Freemantle RA. Measurement of Perceived Flicker in VDT
+Products. Displaysl987; January: 22-28, |
+
+5 de Groot JP, Kamphuis A. Eyestrain in VDU Users. Human Factors
+1983;25(4):409-413.
+
+6 de Lange H. Research into the Dynamic Nature of the Human Fovea-
+Cortex Systems with Intermittent and Modulated Light. l.
+Attenuation Characteristics with White and Coloured Light.
+
+J. Opt. Soc. Amer. 1958;48:777-784.
+
+7 Deutch S. Visual Displays Using Pseudo-Random Dot Scan. Proceedings
+of the S.I.D 1971;12(3):131-146.
+
+& Ditchburn RW, Fender DH, Mayne S. Vision with Controlled Movements
+of the Retinal Image. J.Physiol. 1959;145:98-107.
+
+9 Gould JD, Grischkowsky N. Doing the Same Work with Hard Copy and
+With Computer Terminals. Human Factors 1984;26(3):323-337.
+
+10 Graham EH, Landis C. Effect of Striated Fields on CFF.
+J. Opt. Soc. Amer. 1959;49(6):580-585.
+
+Jl Laubli TT, Hunting W, Grandjean E. Visual Impairments in VDU
+Operators Related to Environmental Conditions. In: Grandjean bk,
+Vigliani E, eds. Ergonomic Aspects of VDTs. London: Taylor and
+Francis 1980:84-94.
+
+12 Mourant RR, Lakshmanan R, Chantadisai R. Visual Fatigue and Cathode
+Ray Tube Display Terminals. Human Factors 1981;23(5):529-540.
+
+13 Okada T, Hongu M, Tanaka Y. Flicker-Free Non-Interlaced Receiving
+System for Standard Colour Signals. IEEE Transaction on Consumer
+Electronics 1985;31(3):240-253.
+
+14 Roberts A. The Improved Display of 625-Line Television Pictures.
+London: BBC Engineering Division, Research Department 1983; Report
+Wo.RD1983/8.
+
+15 Roberts A. The Improved Display of 625-Line Television Pictures:
+Adaptive Interpolation. London: BBC Engineering Division, Research
+Department 1985; Report No.RD1985/5.
+
+22
+
+16 Robson JG. Spatial and Temporal Contrast-Sensitivity Functions of
+the Visual System. J. Opt. Soc. Amer 1966;56(8):1141-1142.
+
+17 Scheiwiller PM, Reading VM, Dumbreck AA, Abel E. The Effect of
+Display Flicker Rate on Task Performance. Harwell Technical
+Progress Report AERE G 4605 PCOMWP (88) P4.
+
+18 Schroder H, Silverberg M, Wendland B, Huerkamp G. Scanning Modes
+for Flicker-Free Colour Television. IEEE Transaction on Consumer
+Electronics 1985;31(4):627-641.
+
+19 Tyler CW. Human Brain Responses to Flicker in Visual Displays. In:
+Reading VM. ed. Vision and Visual Displays. London: Institute of
+Ophthalmology 1981 Course Documentation :l-1l, 1-6.
+
+20 Welde WL, Cream BW. Variables Influencing the Perception of Flicker
+in Wide-Angle CRTs. Texas: Wright-Patterson Air Force Base, Human
+Resources Lab. 1972.
+
+21 West DC, Boyce PR. The effect of Flicker on Eye Movements. Vision
+Research 1968:8:171-192.
+
+22 White TA. Subjective Assessment of Interline Flicker in Television
+Displays; A First Approach. Ergonomics 1978;21(Sept):709-720.
+
+23 Wilkins AJ. Intermittent Illumination from Visual Display Units
+and Fluorescent Lighting Affect Movements of the Eyes Across Text.
+Human Factors 1986;28(1),75-81
+
+24 van der Zee E, van der Meulen AW. The Influence of Field Repetition
+Frequency on the Visibility of Flicker on Displays. IPO Annual
+Progress Report 1982;17:76-83.
+
+25 van der Zee E, Roufs JA, van der Meulen. Predicting Flicker
+Thresholds on CRT Screens from a Modulated Homogeneous Field. IPO
+Annual Progress Report 1983;18:54-60.
+
+23
+
+Lu
+LL
+)
+®
+>
+€
+g oO
+Cc oO
+Oo -_
+E
+§
+Oo a
+6 ee InN
+S oe @ Ss ©
+3 ag eee” . in
+Qo oo” - NN mM
+@ fe -_- Oo =I
+5 a7? aie OQ c
+c ee 2 N @ qd
+To eet _" e ® ey
+- ° =
+- ae aan ep as
+3 7" a ay o o Le t
+: - : ze ¢ 2 Bf
+=
+Gi ee 5G o © 5 Ee =
+E 7 if p e 7 @ ~ P
+: ; / - i E : re re
+7 ‘ ‘ oO Mm a 9
+t / mM ~ ® Go py
+; + = wt Oo o
++ \ 4 na ©
+: :
+ef ' 2 “
+7 te ! | c
+1 ' O
+3 if 1 \ N
+«4
+a. |
+E
+< '
+we
+6 in aa N wn o as) oO Oo Oo
+4 . = A in o
+Oo
+SG
+=
+a Zu —>
+oO
+=
+
+wo
+t
+!
+t
+; wn
+t
+'
+'
+‘
+\ st
+7 o°
+‘ 4)
+
+s os
+qd "Bis ** v .
+Oo NN, ‘ 5 wo
+Cc \ mM 4 mM
+5 ig YS 3 eo)
+Cc > s c =
+om x
+E ao yO tb £
+a “Se ~s “ . E
+a ~s a Hj
+
+aS Q
+— a 9 U0
+
+: ~, c
+= oe = : Q
+yp ‘ 5 v
+u v ‘. =a Pe
+o~ om cam . = 5 0
+
+qQ a 4 _ in 2
+
+Do -“ - ' oO aa
+
+5 Le Lo. ‘ 3 WE
+\ Oo
+. oO 0 t £& c
+2 a (© ‘ =a oP 7
+= ‘ | ie So
+rl 5
+‘ mn
+oO t \ Qo Oo
+' \ A -
+1 ' t
+'
+'
+1
+! ~m
+' 1
+T
+se
+Q Oo OQ OQ QO oO oO
+wo in Lg m W _
+csd9) 449
+
+~
+Cc wv
+0 -
+“" >
+as) ‘a
+GS wv
+= =
+af
+. Oo @
+~ = Wo “~N
+OQ U
+c a.
+@
+5 o oO 2 0 m &
+a oO © Mm _
+Cc
+LL. Loe = e
+———— o
+~ a F © 5
+5B oo? OM o
+c es, w
+Oo one CL
+ao. SS ae
+Ee A rn Li
+aw Qo — CO
+ni cottidomnaipepensteniethinpeiattntcaeeamgunaemasn: ea
+tK ie SS er ee 5
+aa COR RRR ONT
+A canara Toma paaamaaaaoeeses grat 4 oN
+Sin rn aes
+z Se 2 ie)
+5 a 0 ©
+AU Ne a m
+AO OR m ie) —
+4 DAUR NCR DR sss re ea” VY
+Oo rig OXKORRRR- Sa een
+MODXX XXXII ee
+- PRE RROORY  e c
+~ FIR ROX KORO) a Oo
+5 BROCE es
+f 5 a O
+CO PROS ROO ROAND = _
+PRKKKKK OCR OY ns ne 2
+w FRY SYN KSC RRO IG a O
+BIXXYYKKK OOK KKK KYO eS,
+NOOO <> OOOO ORO OO a a
+XK XX ORR CIO Sa a
+a DOK RXR <>< KKK KOKO OC ICICI a
+Oo FER III SCO SSO SOR ian °
+h oe CO es + ee ee eer Ce E
+4 PY SII 9S OOS OS OSSCS POG 50 enn wm Mm
+. I CS SDADNNEOIOICICOSCOOK n — Oo
+URNS OS SAA AAA CICS OO an
+ARR WR KK KAA AAAI ICSC SSI ee GF CL
+3G RI SSSI SAIS SSS SSN ney O Poe
+4 BRN MSS So SSS a ee 5
++» DRE KY REEL AAA KK CSCO OC RY Pome ea mM 7 6
+oO SRK KIN OK CSCS OS OS OR mo) ae)
+—— :
+Cc ) WANAKA A ANNI IS PSO DPV noes nant renner -
+WMA SOAK KS, SOS FCO Le 8
+2 YAS TIS SAAN SOS OSES eo oO
+BEOOUOOOOOX KOCK OOK OO SPSL ae rerennnies aso easenreer een
+a BSS SSIS SSS SOO
+IOI Speier eae eniaEne naan eer Ea EE Cc
+0 Si Ie es +
+DOOKK AKA KK XXX AAD Se pee en er reereewenncenrag
+O BYR XK —_ >
+AN Wh) ee = cee natn oasieinpaciansvaeanbsianesacseioets =
+5 BRK OOOO) ee ea ne eee. f
+BOK KAKI rm nan ~
+Oe eer eee eteneane N U
+~ BOXXX SS eee a 7
+» WARY Ry 2 ee Vv -
+Sa ater secnere ae ear ewer Mm Pp
+> Nay ~ O
+: ———————— G zt
+4 ——————————— c
+09) ee = CO v
+Cc Ss a, —_ Pe
+a = oR oe TORRENS
+SS ee eens a
+wo ee L
+— Ry aia ora SrenenTe
+c SS ee uw
+KH) —_ ———~ QO
+Oo Ky
+al cs §«3=—« (TY) na
+5 me G
+o Sy oe —— t
+re Q
+5 QO.
+3 Oo 2 a2 0 MM E
+5 Qo 3 Oo @
+= oOo = -
+
+ma
+o
+a 2
+Y M (4) N o
+a @ a =
+. w @ a -
+fs th hh 0) o o
+3 a g a = =
+im U vu UV :
+Cc o 5
+SN 8 5
+= g 5
+5 uC
+6 |
+L ; 3 ‘
+& ' | e
+o
+6 | c
+Oo 2 E
+= 9 :
+o S
+i 6
+QO ; ,
+9 NM
+Oo ~ f E
+c ~ : 5
+6 os = ~ €
+~ QO
+ic ye ™ 2 8 0 :
+me E c
+c en me OON a 32
+v a sa aw Q og Lo,
+. Cc
+oO ~~
+oO ~ ‘. nN ic c
+Cc A NN :
+5 SN 9 5
+‘N _~ a
+Cc ' :
+e ; :
+a Oo <
+re 9 <
+Cc = L
+E . 5
+t)) o 5
+@ 9 ,
+a Le
+< to |
+< o :
+“ 0
+G 3
+a.
+8 ~
+= E
+-_ -
+. QO
+_Ctti‘CSO—~—O © = in
+= A m1 {
+7 l I
+t
+€P
+
+Q
+’ wl
+‘ oO)
+—_=
+N \
+\ co
+_ \H-e@t— _
+oO \
+@ \ ™
+=
+U ‘
+Cc ‘ 1o
+5 ‘ “
+N ‘ in
+x . “
+QO \ <t
+Wy) —
+\
+p ‘ ™
+5 ‘ =
+O \
+re) 0
+Q ‘ p
+P ~. = 3
+= ‘ a i. nn
+A
+a e
+uy . 5
+oO Ge [n
+oO Oo) Pan
+z \ ; LL
+\ O
+0 NOUN o 2
+> oO oO ‘
+g a o \ ™
+= \
+b * o
+g 6 z ‘
+c HH un
+7 O Oo ‘
+6 ~ p ey
+a oO cal HHH st
+Y ' a c ‘
+a ' ~~) 0
+a ' 2 = “< m
+c : on Oo \
+G ’ oO \ Aw
+a 1 _ mY ‘
+= ' co <= \
+' <x mM Heyy _
+rs a Ss i oO
+Oo oo (Oo st \ Oo oO ‘oO st N Qa
+CA — — - - _
+(spucces) eawT, asucdsay uDey
+
+Oo
+MW
+vi
+rey \ a
+7 A
+N \
+5 \ %
+a \
+= \ |
+v eo
+7 ‘
+ite)
+G —_
+N ; a
+o "
+in ; ~~
+2 ) o
+\ mM
+1H
+\ =
+o ‘
+w ; x
+a ‘ “2
+5 | =p
+e A _ (Oo
+a ‘ Q a
+Oo . a iF &
+\ Ge
+6 , DD
+2 > n 9 pe
+N LL
+«0 N = ; o
+> BB | “
+0 In <
+o i
+E \
+4
+iL el
+k oO ; i
+a on 7 in
+Cc Oo Cc \
+6 Pp Q \
+a. ; a = st
+g | 9 B
+oY 5 Cc ] ~”
+c : Oo & ‘
+G 1 — = “J
+Q t + 2 ;
+= ' <= = '
+Soe |
+Oo @®@ o
+oOo wT
+(spucses) awt, ssuodsay upay
+
+i on /
+
+7 = :
+
+= a oo a
+
+z: Fr :
+
+a oF)
+
+7 a . : 7
+/ re | ;
+- *% “a r -
++ = “- i :
+/ oo = r .
+
+7 = ' = 8 7
+
+= io t
+
+- @ dz =:-. |
+
+7 Es: = L
+
+Sere up epat.,
+
+gee eel ee ee sei
+

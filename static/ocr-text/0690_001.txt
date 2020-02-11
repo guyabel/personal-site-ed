@@ -1,0 +1,299 @@
+CONTACTLESS POWER TRANSFER - AN EXERCISE IN TOPOLOGY
+E. Abel and S.M. Third
+Reprinted from IEEE Transactions on Magnetics, Vol. MAG.- 20, No. 5, September 1984
+
+| p> IEEE TRANSACTIONS ON
+7 TEA FIGS
+A CENTURY OF ELECTRICAL PROGRESS
+SEPTEMBER 1984 VOLUME MAG-20 NUMBER 5 (ISSN 0018-9464) :
+A PUBLICATION OF THE IEEE MAGNETICS SOCIETY
+PART Il OF TWO PARTS
+Seige ee a
+P * 3 Pat ak oe 2 / rape ; j
+r Ne eee rite iat
+a i ae ae ee eo Kone ' ~ p
+eee. a ail
+aX Rae eee gs ee: ri"
+os ee ee ate Is | ea Ress
+s EES ene oe a eee Per 5 :
+Regen gy eS =
+eee eee sit
+or TeX. a } | | Sane
+ee. OB
+Po Ss Bs SS a 2 ieee ae
+Spee ee Re te
+i Ea Eee an ae tied os
+i) aif pres ecer CSE S he Sa oo ai Bi
+Ei te bos se eee Ame SS at
+(eae Etre Oh ea 3
+an 5 St ROS, NS meee Fs Tie a3 en
+Soe ese ART! PE NAVE
+fe ae SS eee es i pia { At
+Mar Se z oe nk
+me So Se Sa :
+oe Sao | 3 SXGN Sap Fee as
+Ja a :
+et Sorts “6 [i er
+oe Wht OEE
+Eee Ae ae a
+St. Michaelis Kirche, Hamburg
+Hamburg, Federal Republic of Germany
+
+IEEE TRANSACTIONS ON MAGNETICS, VOL. MAG-20, NO. 5, SEPTEMBER 1984 1813
+CONTACTLESS POWER TRANSFER — AN EXERCISE IN TOPOLOGY
+E. Abel and S.M. Third
+ABSTRACT system (EDS) uses separate secondary coil arrays on the
+
+Previous attempts at different forms of contactless vehicles to absorb power by interaction with the
+power transfer systems associated mainly with high speed harmonic components of flux produced by the track coils,
+ground transportation and magnetic levitation are which in turn have been excited by the passage of the
+reviewed. Two different types of contactless power vehicle superconducting levitation and guidance
+transfer systems are proposed as replacements for the magnets®. The full sized realization of the Japanese
+brush-and-conductor, trailing cable, or reeling drum, system would consist of a 12 car train travelling at
+where these options were inappropriate or would suffer 140m/s, with propulsive power obtained from a linear
+excessive wear or other degradation in the stringent synchronous motor with superconducting field magnets.
+applications encountered. in the nuclear or mining The motor would transfer some 66MW, without contact, and
+industries. The first system uses busbars as longi- the addition of the harmonic flux induction power source
+tudinal members along which an output transformer can producing 100kW per car would require an increase in
+move. The second system uses magnetic material as the propulsive power of only 2MW. As both of these systems
+longitudinal members, can be formed into a _ robust for EMS and EDS contactless power transfer require
+composite structure, and can be arranged to provide a motion before significant power levels are achieved, an
+surface wiping geometry for the moving output core: auxiliary on-board power supply for low speed operation
+this system is essentially the magnetic dual of a is obligatory.
+conductor rail and contacting brushgear. Examination of As new equipment and installations are contemplated
+the systems’ topologies allows longitudinal, curved or in the nuclear industry, the designer is charged with
+circular systems to be developed, and non-nuclear the duty to ensure that human exposure to radiation from
+applications which include, for example, contactless installation, operation and maintenance activities is as
+power transfer for robotic joints are envisaged. low as reasonably achievable (the ALARA principle).
+
+Maintenance of equipment from contaminated controlled
+INTRODUCTION areas is non trivial and any unwarranted or extended
+
+The transfer of electrical power between moving downtime for parts of a facility is expensive. Because
+components usually presents few problems. Where routes of degradation of cable insulations and other materials
+are well defined and limited in length, trailing cables characteristics it is not usually practicable to use
+and cable reeling drums may well be adequate, and for unmodified industrial standard equipment in radioactive
+installations where any distance has to be covered, the environments. For these reasons research was undertaken
+choice would be between brushgear running on rigid or at AERE Harwell into contactless forme of power transfer
+suspended conductors. Particular difficulties in to avoid either brushgear which needed frequent
+specialized areas such as ground transportation and the replacement or trailing cables and reeling drums where
+mining and nuclear industries have, however, provoked insulation may become suspect under constant
+the need to seek alternatives to a permanent connection {frradiation, and whose delivery systems might require
+or a brush-and-conductor combination. expensive maintenance (in exposure terms).
+
+It has been shown that the viability of high speed Two generically different types of contactless
+ground transportation (HSGT) systems depends strongly on power transfer systems (CPTS) which also have possible
+the overall choice of electromagnetic energy non-nuclear applications will be described. The first
+conversion. Inefficient power transfer and distri- configuration employs longitudinal conductors along
+bution severely degrade the high lift to drag ratios of which moves an iron cored transformer carrying an output
+lift and guidance systems so that the energy benefits of winding. In the second configuration, magnetic material
+magnetically levitated (Maglev) vehicles can be lost. replaces the conductor in the longitudinal members, and
+The early HSGT research assessed different forms of a moving output winding may be placed on additional
+contactless power transfer, including controlled magnetic material. Both systems have many topological
+electric arcs, inductive, capacitive and waveguide variants which enhance performance or better suit
+systems“, but none reached full sized application. particular applications.
+
+White and Thornton at MIT proposed an inductive system?
+
+which used a moving E shaped ferrite core running at a LONG BUSBAR CPTS
+
+10mm clearance above a ferrite strip laid along the A typical arrangement for a long busbar CPTS is
+track. The primary winding consisted of rigid shown in Figure 1. In this case, industrial frequency
+conductors carrying up to 400A at I18kHz, and it was three phase power is fed at one end into the busbars,
+claimed that 2.5MW could be transferred to vehicles whose remote ends are connected in star. The busbars
+travelling at 135m/s. At General Electric, iron and air are simply supported at each end and the moving
+cored moving transformers were’ also investigated’, but transformer travels on an auxiliary suspension. Guide
+were not considered feasible because of the weight of Remote star
+
+on-board equipment and the expected low efficiencies. —
+
+Because of the uncertainties associated with contactless — SEO
+
+power transfer systems, and the absence of full sized <I
+
+demonstrations, the large scale tests carried out at the ISS
+
+US Pueblo Test Centre relied upon either on-board power, Ss
+
+or rigid trackside power conductors.
+
+More recently, techniques have been developed to : Core motion
+supply on-board power at high speeds to prototype Maglev
+vehicles. The German electromagnetic system (EMS) uses b
+pole face windings in the lift magnets to collect flux ‘ LS CB
+harmonics from the iron cored linear synchronous machine I
+airgap>. The Japanese National Railways' electrodynamic AS LM
+
+Primary feed—— UR
+
+The authors are with the United Kingdom Atomic
+Energy Authority, AERE Harwell, Oxon, OX11 ORA Figure 1 Long Busbar Three Phase CPTS
+
+0018-9464/84/0900-1813$01.00©1984 IEEE
+
+4 ,
+1814
+rollers feed the busbars into the window areas of the LONG CORE CPTS
+transformer. The load may, for example, consist of a The difficulty in trying to design a CPTS using
+hoist and a traversing motor which propels the hoist longitudinal busbars for distances above 20 metres
+(and transformer) to the required position within a prompted a reassessment of the system topology, which
+radioactive environment. The motors would naturally be began with interchanging the roles of conductor and
+brushless, and their direction and speed would be core. The longitudinal element now became magnetic
+determined by contactors controlled by demultiplexing a material with a fixed primary winding and moving
+signal picked up by a capacitive probe running near one secondary windings. Laithwaite’ has shown that the open
+of the busbars. The control signal is superimposed onto core transformer so formed (Figure 3a) does not
+the busbar voltage at the primary feed. Other loads, necessarily suffer severe degradation in performance.
+such as remotely controlled power manipulators with The return path is large, but the air cored return
+several degrees of freedom have been considered. section is very large, so the effective airgap does not
+There are, however, several aspects of a _ long unduly dominate the magnetic circuit design. The
+busbar CPTS which inhibit its efficiency. Because the calculation performed assumes that an open core
+core essentlally links only a small part of the busbar transformer can be modelled by an ellipsoid with a
+external field, the overall efficiency of electro- demagnetization factor along the major axis; this is
+magnetic energy conversion for long length CPTS is low. then equated to that of a gapped anchor ring, to give an
+As the core encircles the busbars, supporting arrange- equivalent airgap value, g.
+ments are limited to simple fixing at either end -
+additional supports would have to latch and unlatch as
+the core progressed, and would introduce complexity
+greater than existed in the original systems. Finally,
+because the conductors are not symmetric, there is
+considerable difference in interphase mutual inductance = -_—
+and hence voltage and current in both primary and ~
+secondary sides may have high unbalance factors. (a) open core (b) open core (c) closed circuit
+The sag of the busbars is proportional to the transformer CPTS cPTS
+fourth power of the span, and only inversely propor- Figure 3 Elementary Long Core CPTS
+tional to the modulus of elasticity. Some reduction in
+sag to manageable limits is possible by constructing a Extending the analysis to include a rectangular
+composite bar and artificially increasing the modulus. section bar, the axial demagnetization factor, N, is
+A 7 metre long two phase CPTS was constructed with
+pultruded carbon fibre bonded to upper and lower edges N = eS [in (t4) - 1] (1)
+to reduce sag. The system was coupled to the industrial Bol
+supply na ee loads through Scott connected where h, w, 1 are the bar height, width and length. The
+ree — (oe ho Be! equivalent anchor ring demagnetization factor is
+additional guidance of the transformer core to track the g
+busbar catenary. The original bar modulus was raised N= Por (2)
+from 67 GPa to 91 GPa for the composite by the addition
+of the carbon fibre. so the equivalent airgap for an open core transformer
+The working width of the system should be minimized is
+to give a compact transformer core and to reduce the hw 41
+unbalance caused by the interphase mutual inductances. gr tT [an (Few) ~ 1] (3)
+The busbars' pitch is limited by the space needed for
+the core limbs, winding volumes and running clearances. This airgap value is given for a range of core-bar
+For practical designs the ratio of maximum to minimum Cross sections in Figure 4, and it can be seen that for
+mutual inductance for three line abreast conductors can 4 metre long bar of 25 x 25mm section, the equivalent
+be substantial. Figure 2 shows this ratio for filaments airgap is only 2mm. Figure 3b shows an initial attempt
+[at these spacings the bar cross-sections do not at a long core CPTS, where the input windings are
+dominate the calculation and so filamentary approxi- located at the bar ends and the output winding too
+mation is sufficient]. A three phase system, 9.8 metres encircles the bar and moves between primaries. This
+long with busbar pitch of 0.15 metres has a mutuals arrangement does not rigorously satisfy the ellipsoid-
+ratio of 1.22, and similar voltage and current anchor ring analogy, but power transfer between coils is
+unbalance. To reduce the unbalance auxiliary windings aturally enhanced by the presence of the core.
+are required on the input transformer. An alternative Completing the magnetic circuit (Figure 3c) brings the
+solution is to support the busbars at equal distances, flux linkage at extremes of travel between two coils on
+but this requires a more complex suspension and non 4 1 metre long system up from 20% to 90%, which confirms
+standard laminations and lay up procedures applied to that elongated magnetic structures have practical
+the core stack. application for CPTS.
+1.4 | 4
+> 50x50 wxh, mm
+13 E
+=
+a
+~ S SL
+. wo
+. ie Mi2M23 < 2 a
+nN nto 25x25
+7 eI 3
+Mi3 >
+a
+o
+LO St WW Oo
+0-005 O-Ol 0:02 O05 O —— FS 4 é
+Ber pred ' = Bar Length,m |I—~
+bar length | ’
+Figure 2 Ratio of Maximum to Minimum Mutual Inductance Figure 4 Equivalent Airgap for Open Core Transformer
+
+, 1815
+The examples shown in Figure 3 can only be be allowed to rotate and variations will depend on the
+supported at thelr ends as the output winding surrounds application. This type of CPTS is expected to find
+the longitudinal member. The change in material to iron application in robotic or manipulative devices where arm
+does not alter the sag, as the density to modulus ratio joint maintenance requires a complete disassembly of
+is similar to that of aluminium. If an additional iron component parts to replace brushgear or sliprings.
+cored slug is used to carry the output windings of Rotating Secondary with |
+Figure 3c, flux can be shunted between the upper and Concentric Windings 4 om bh
+lower longitudinal members, Figure 5a. When the i ws WA i :
+distance travelled is excessive, auxiliary primary coils Wo Sle Sa este hei Fixed
+on modified close fitting C cores provide intermediate MelXIebdoM TW DT BT Primaries
+compensation for the long iron magnetic paths and the Concentric Toroids | H tol tl
+two airgaps introduced at the slug, Figure 5b. The role
+of slug and auxiliary core can be reversed and then the
+majority of the core structure becomes a composite Figure 7 Low Profile Rotary Secondary CPTS
+block. These arrangements allow wall mounting of the
+main core structure without interference to the motion For more complex shapes, and indeed for increases
+of the output winding, and three phase versions, in power to weight ratios, high frequency systems are
+although complex in construction, are possible. anticipated. The use of ferrite material also avoids
+m the need to make three dimensional flux paths by butt
+yy jointing lamination stacks. Finally, Figure 8 shows a
+pee — three phase high frequency rotary CPTS which presents a
+Ty i plane face between input and output structures.
+[ ee Bee Moulded Ferrite
+Rotation between Core Concentric
+J ee Core Halves Windings
+MW WG, /
+(a) (b) (c) NY uN AY WV
+Fi NAN DORR KNORR
+gure 5 Face Mounted Long Core CPTS SRR NR RS
+LER ERR
+
+The topology of Figure 5a may be altered to enhance RA ANS NN W
+the mechanical structure. If the laminations are .
+realigned so that the stack height is in the same Enclosed End Windings Exposed End Windings
+direction as the structure hetght, then the end cores Figure 8 Low Profile High Frequency CPTS
+and output core may be constructed from C cores directly
+(Figure 5c). The input and output portions of the CPTS CONCLUSIONS
+now represent a truly co-planar interface, and the Different forms of contactless power’ transfer
+structure can be supported along the entire back face by systems have been described which may provide solutions
+fixing to vertical or horizontal surfaces. to those applications of power transfer where the use of
+
+A three phase CPTS based on Figure 5c is simple to conventional brush-and-conductor combinations, trailing
+construct, consisting of long laminated bars made from cables or cable drums incur penalties. By examining the
+bonded strip, and conventional E cores to carry input topology of various systems, a simple robust con-
+windings at each end and also to carry the output struction has been proposed which can also be recon-
+winding (Figure 6). Because of the action of the output figured to make available extended longitudinal, curved
+E core in shunting flux at different positions, it is or circular motions. Because the system is novel,
+known as the trombone transformer®, and is effectively further evaluation of the device characteristics is
+the magnetic dual of a three phase conductor rail and required, but the performance will not necessarily be
+contacting brushgear system. The structure can be made degraded by the inclusion of airgaps and multi-
+extremely rigid by casting into a composite block, which dimensional flux paths in the magnetic circuit.
+ensures face alignment and reduces core vibration. For
+long lengths; where flux leakage predominates the REFERENCES
+linkage with the output coils, additional primary coils [1] E. Abel, J.L. Mahtani and R.G. Rhodes, “Linear
+can be placed on E cores along the back face of the Machine Power Requirements and System Comparisons”,
+block at suitable intervals, and because they form part IEEE Trans., Vol.MAG-14, No.5, pp.918-920,
+of the stationary structure, they can be energized and September 1978.
+de-energized in sequence as the moving output E core [2] J.-J. Stickler, “Evaluation of Non Contact Power
+progresses. Collection Techniques", FRA-RT-73-7, PB 222 408,
+
+July 1972.
+[3] D.C. White, R.D. Thornton, C. Kingsley and D.H.
+ee Navon, “Some Problems Related to Electric
+Moving Secondary 4. >) BZ Propulsion”, Report prepared for U.S. Dept. of
+iP f Primary Commerce, Contract No. C-85-65, November 1966.
+> Windings {4] A.P. Ferro, “Nonfrictional Power Collection for
+Primary Guided High Speed Ground Vehicles", Final Report
+Windings Part II, PB 178 228, 12 April 1968.
+[5] “Spurgefilhrter Fernverkehr Magnetbahnentwicklung",
+<q a Proc. 6th Statusseminar des Bundesministeriums ftir
+Forschung und Technologie, Konstanz, 1977.
+Se [6] T. Iwahana, T. Fujimoto, N. Maki and H. Takahasi,
+“A Harmonic Flux Induction Type On-Board Auxiliary
+Figure 6 Three Phase Trombone Transformer Power Source for Levitated Trains", IEEE Trans.,
+Vol.PAS-100, No.6, pp.2898- 2906, June 1981.
+
+The manipulation of CPTSs in other directions allow [7] E.R. Laithwaite, “Some Aspects of Electrical
+curved and circular motions to be accommodated. For Machines with Open Magnetic Circuits", Proc. IEE,
+example, bending the CPTS in Figure 6 in the same plane Vol.115, No.9, pp.1275-83, September 1968.
+gives an arrangement of three concentric toroids linked {8] S.M. Third and E. Abel, “An Electric Power Transfer
+by an E core. Figure 7 shows the system, with an extra System”, UK Patent Application GB 2115230A,
+E core on the back face of the toroids. Either part can 1 September 1983.
+
+|
+

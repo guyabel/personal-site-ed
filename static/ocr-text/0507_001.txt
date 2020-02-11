@@ -1,0 +1,363 @@
+/
+3-D TV SYSTEMS FOR REMOTE OPERATIONS:
+DEVELOPMENT AND APPLICATIONS
+A.A.Dumbreck, P.M.Scheiwiller, E.Abel and
+S.P.Murphy.
+Remote Handling and Robotics Department
+AEA Technology, Harwell Laboratory
+Oxon, OX11 ORA, United Kingdom.
+C.A.Kittmer and M.A.Bentz.
+Chalk River Nuclear Laboratories
+Chalk River, Ontario
+Canada, KOJ 1JO.
+ABSTRACT
+This paper describes a development of 3-D television systems
+at Harwell and a comparison of a 3-D system with conventional
+TV. 3-D TV has been proven to be a useful remote handling tool
+which gives operators improved perception of the remote scene
+and so enables them to perform tasks more accurately and
+quickly. | The paper describes trials at Chalk River Nuclear
+Laboratories with a Harwell 3-D TV system. This trial involved
+the performance of a navigation task via a remote manipulator
+which showed a significant benefit for three-dimensional
+television. This adds to the existing knowledge of TV systems
+performance for remote tasks which enables cost-benefit
+assessments to be made for new applications. A recently
+developed radiation tolerant 3-D camera is also described.
+INTRODUCTION
+The Remote Handling and Robotics Department of AEA Technology based at
+Harwell Laboratory carries out research, development, and applications engineering
+on remote television systems for remote handling and inspection, primarily for
+nuclear environments. The work includes the development and application of
+stereoscopic or three dimensional (3-D) TV. Chalk River Nuclear Laboratories
+(CRNL) of AECL undertakes applications engineering for remote systems in
+CANDU reactors and other nuclear facilities (Charles Kittmer to change if
+required). The purpose of 3-D TV in remote handling is to improve the operators
+perception of the remote scene and thus to improve his performance of a wide range
+of tasks. Early development work on 3-D TV at Harwell concentrated on producing
+basic design rules to ensure that stereoscopic pictures presented to the operator are
+both comfortable to view and give useful depth information. This development and
+evaluation work has been reported elsewhere 1:2, The guidelines produced relate to
+the electronic and optical matching of the two picture channels, as determined by
+the optical design of the stereoscopic camera and display, and to the accuracy of
+depth reproduction.
+Piddos tT Ga Syste -
+Mm . Fen Fa BSA es Tee 4
+ANS Ot 9 e 343) -59+
+
+The purpose of this paper is to describe recent developments in technology and
+experiences in applications trials of 3-D TV systems designed and built at Harwell
+Laboratory. The main developments reported are associated with the design and
+manufacture of an advanced radiation tolerant 3-D camera, improved display
+systems, and video tape recording techniques. The trials reported here were carried
+out at Chalk River Nuclear Laboratories in connection with the application of 3-D
+TV in CANDU stations.
+
+EVALUATIONS AT CRNL
+
+Summary Remarks
+
+A wide range of evaluations of the Harwell Stereoscopic Television System, and
+conventional two dimensional television systems have been carried out recently at
+Chalk River Nuclear Laboratories. The purpose of the evaluations has been to
+provide information for designers and users of remote-handling systems in order
+that the specification of cost effective television viewing equipment can be readily
+made.
+
+The main results of the evaluations are in line with those reported earlier by
+AEA Technology, Harwell. The results showed that the high quality stereoscopic
+television system gave performance benefits in terms of accuracy and speeds of
+operation for most remote handling and inspection operations. The benefits were
+more marked for the following types of operation:
+
+- Tasks involving scene indentification or object recognition.
+- Tasks involving complex manipulation.
+
+- Tasks where there is a lighting or visibility difficulty.
+
+- Tasks where multi degree-of-freedom alignment is required.
+
+In addition it was found that the positioning requirements of the Harwell 3-D
+TV camera were less exacting than the requirements for the other systems.
+
+One of the Chalk River trials is particularly worthy of reporting here because it
+gives new results for a previously unreported task type; ie navigation through a
+cluttered environment. This task was included in the evaluations at CRNL because
+of potential applications in navigating within the calandria of CANDU reactors.
+Experimental Set-Up
+Four camera set-ups were used for each experiment:
+
+o Set-up A (2-D, level): A Harwell stereoscopic CCTV System operating in 2-D
+mode with its camera faced 46 centimetres above the floor and approximately 3
+metres from the task site.
+
+o Set-up B (3-D level): A Harwell stereoscopic CCTV System operating in stereo
+mode with its camera in a position identical to that of Set-up A.
+
+o Set-up C (orthogonal 2-D): Two separate 2-D cameras placed 46 cm above the
+floor and position such that their optical axis intersected at the task site
+orthogonally. The position of the reference camera was similar to the camera
+position used in Set-ups A and B above.
+
+o Set-up D (2-D, elevated): A Harwell stereoscopic CCTV System operating in 2-
+D mode placed 1.7 metres off the floor and aimed down at the task site,
+approximately 3 metres away.
+
+Ten AECL employees participated as subjects in the assessment programme.
+Each was tested for depth perception prior to the experiment using a Bausch and
+Lomb vision tester. All subjects have previous remote handling experience. In
+order to remove the effect of learning from the results, the camera set-ups were
+presented to each subject in pseudo-random order.
+
+The test, termed the Maze Test, was designed to simulate a visually complex
+task site and involved manoeuvring a vertical rod through an arrangement of 13
+tubes in a pre-determined order and placing it in a specified tube. The camera and
+task arrangements are shown in Figure 1. The tubes ranged in height from 25 to 91
+cm and in diameter from 3 to 7.6 cm. Before testing began, subjects were run
+through the course viewing it directly in order to establish a control time for each
+operator. For each camera set-up a subject's time, number of hits (inadvertent
+contact with tubes) and number of attempts to complete the task (manoeuvering as
+well as insertion) were recorded.
+
+Results and Conclusions, Maze Test
+
+When performing this complex task the 3-D level camera set-up was found to be
+superior to other set-ups in both speed and accuracy. The other set-ups, 2-D
+orthogonal, and 2-D elevated were similar to one another in terms of accuracy and
+speed but fell far short of the performance of the 3-D level, requiring over 2.5
+times the task duration and incurring 3 times the number of hits. It was observed
+that subjects operating with the 2-D orthogonal were very confused when
+performing complex tasks, one subject was unable to complete the task using this
+set-up. The other set-up, 2-D level, yielded the poorest results both in terms of
+speed an accuracy. The speed and accuracy results for the four camera set-ups are
+shown in Table 1 below:
+
+Table 1 - Results for Maze Test at CRNL
+Hits Incurred Taken to Perform Task
+|B: 3-D,Jevel | GOO
+Subjects Comments
+
+Subjects were asked to make general comments on the tasks and television set-
+ups. Subjects found set-up B, 3-D level, to be superior to all other set-ups tested in
+that it provided strong and unambiguous depth information. Subjects reported that
+this enabled them to perform the tasks with more confidence and speed. Subjects
+also reported that the 2-D orthogonal set-up was the most difficult system to use,
+even though it did not produce the worst results. The most prevalent complaint was
+the confusion that the subjects had in co-ordinating the two images in order to
+interpret the scene. This confusion was a strong factor in highly complex tasks.
+Trial Conclusions
+
+The results for the Maze Test given above provide useful additional information
+to data already accumulated from previous experiments using 3-D and 2-D
+television systems 3. The information now held on trials of television systems
+provides valuable information which may be used to assess the cost-benefit of
+applying a given television system for new applications. The factors which should
+
+be taken into account when making a cost-benefit analysis for television systems
+
+include the following:
+
+- Fewer cameras might be required for 3-D systems.
+
+- Fewer camera deployment systems required for 3-D systems.
+
+- Impact of chosen television system on project completion time.
+
+- Impact of television system on errors, collisions, and consequent damage to
+remote handling equipment and plant.
+
+In addition to the tangible and measurable benefits of 3-D TV, it is likely that
+there are additional benefits. These arise both from the reduced work-load place on
+the operator when using 3-D TV systems and from the improved ability to recover
+from unexpected event. This improved ability to recover from an unexpected event
+is due to the improved scene interpretation capability provided by high quality
+three-dimensional TV systems.
+
+CAMERA DEVELOPMENTS
+
+The ultimate aim of the development work on 3-D TV systems is to provide
+systems which can be used for a variety of nuclear applications including:
+inspection of power reactors; post-irradiation examination; fuel processing
+applications; and decommissioning of a wide range of facilities. The specification
+for a camera to work in these environments was produced by consultation with
+experts on remote viewing systems within the UK nuclear industry and by analysis
+of requirements for decommissioning of the Windscale Advanced Gas Cooled
+Reactor (WAGR). The specification included the temperature requirement to
+150°C with chilled air cooling, on board lighting requirements, materials and
+mechanical constraints. Some aspects of the camera specification and design are
+discussed below.
+
+Choice of Lens
+
+The survey of requirements indicated that the camera should have more than one
+angle of view. This presented problems in the design. A zoom lens is a desirable
+feature in advanced stereoscopic cameras. Operators are used to using zoom lenses
+and may feel restricted by a single or multiple fixed angles-of-view. However, on
+the timescale required for the development of this camera it was not possible to
+overcome the difficulties of incorporating commercially available radiation tolerant
+zoom lenses. The precise requirements of image matching apply equally well to the
+imaging lenses as they do to the processing electronics and display systems. The
+available radiation tolerant zoom lenses were surveyed and it was found that none
+had suitable characteristics for incorporation to a versatile stereoscopic camera. The
+principal problems with existing zoom lenses were either the size of the lens which
+restricts the necessary small camera inter-axis distance, or the repeatability of
+positioning of the lens elements. Lack of repeatability causes off-sets either in
+image size or position. If these exceed the limits previously discussed 2, then the
+lens will be unsuitable for use in the stereoscopic camera. In order to provide two
+angles of view without the use of zoom lenses, it was decided to incorporate two
+sets of lenses for wide and narrow angles of view on a high accuracy turret
+mechanism. The high accuracy mechanism ensures that the stringent requirements
+for matching in stereoscopic pictures are met.
+
+Although no commercially available zoom lens could be found to suit this
+camera. There is no fundamental difficulty in using zoom lenses in stereoscopic
+pictures and excellent results have been achieved on laboratory prototype cameras at
+Harwell. It is preferable to design the lens specifically for stereoscopic use and a
+project to produce such a lens is currently underway at Harwell Laboratory 9.
+
+It should be emphasized in the selection of stereoscopic cameras that zoom or
+multiple focal length cameras should not be specified without considerable thought.
+Either option of multiple angle of view or zoom lens adds considerably to the
+complexity of the stereo camera and therefore to the cost of the installation. In
+many circumstances it is necessary to specify multiple angles of view but in some
+cases it will be possible to avoid this, possibly by use of a more versatile
+deployment system, which would allow operators to make full use of a single,
+fixed, angle of view.
+
+Camera Electronics
+
+The requirements for camera electronics in a radiation tolerant stereoscopic
+camera include requirements for accurate matching of the two pictures. This is
+achieved by increasing the amount of control over the scan wave-forms and video
+processing circuits. Because the camera is radiation tolerant, it is necessary to use
+camera pick-up tubes rather than more modern solid-state camera sensors. Choice
+of a high quality camera tube enables excellent radiation-tolerance performance
+combined with very high picture quality. These tubes require electronic signals to
+achieve the scanning of the electron beam within the pick-up tube. The scan
+circuits must allow sufficient adjustment to cope with any non-linearities in the tube
+focusing and deflection arrangement. The adjustments to scan wave-forms are
+achieved by addition of supplementary wave-forms to the main scanning saw-tooth.
+Such circuits are not normally encountered in radiation tolerant television cameras
+and were designed specially for the Harwell stereoscopic camera.
+
+Computer Control System
+
+Accurate picture matching also calls for computer control of sensor and lens
+adjustments during normal operations. These adjustments are necessary to change
+the focus and convergence distance of the camera. Additionally the incorporation
+the camera design of two angles of view means that the sensor and lens adjustments
+need to be altered when the angle of view is changed by movement of the lens
+turret. When the lens change command is selected at the console, the computer
+demands the unlocking, rotation, and re-locking of the lens turret, at the same time
+the new positions for lens and sensors are calculated and the motors are driven to
+their new positions. During this time the video output of the camera is blanked (for
+approximately 0.5 seconds) so the operator does not see a confused picture while
+the lens is being changed and the picture re-focused. The re-calculation of lens and
+sensor position ensures that the camera is focused and converged on the same
+position in the object scene before and after the lens change operation. As in earlier
+cameras developed by Harwell, the link between focus and convergence is retained.
+This reduces the number of controls which the operator needs to use, thus
+simplifying his task. In this camera the link is made by calculation in software; as a
+focus change is demanded, so the position of the focus lens is monitored and the
+position requirements for correct convergence are maintained during the focus
+operation. It is envisaged that as operators become more skilled in the use of
+stereoscopic cameras they will occasionally want to overrule the software link
+between focus and convergence. This might arise when, for example, an operator
+wants to maintain his view of an overall manipulation scene but to improve focus
+towards the rear of the scene. In this case he would be allowed to leave the camera
+converged at the front of the scene but to change focus to the rear of the scene.
+However, for most operators best results will be achieved by having a fixed link
+between focus and convergence distance.
+
+The presence of computer control in the camera system allows other advanced
+features to be incorporated in the camera. An important one of these for remote
+handling operations is a read-out of convergence distance at the control panel. It is
+a feature of accurately engineered stereoscopic cameras that the camera and display
+
+can be used for a range-finding. The camera operator views the display and adjusts
+the convergence control until the two images (left and right) of the object of interest
+merge together on the screen. At this point the camera is converged at that distance
+and feedback from the convergence position motors can be translated into a distance
+from the front of the camera. This information is valuable for planning remote
+handling operations and enables accurate sizing of items within the field of view.
+Computer control also allows the read-out of camera temperature, coolant flow and
+lens setting of wide or narrow angle-of-view.
+
+The camera controller computer is located on the cold side of the active facility
+with the rest of the camera control unit and display electronics. Cabling is
+minimised by the use of final drive circuits and buffers for the sense in
+potentiometers in radiation tolerant designs located in the camera head.
+
+Camera Features
+
+The main features of the newly developed camera are summarised in Table 2.
+The camera can work with cable lengths in excess of 100 metres. The target design
+figure for radiation tolerance is a total dose 10° Gy (= 108 rad) with dose rates up
+to 104 Gy/Hr (= 106 rad/Hr). The camera has automatic iris function and also
+allows manual iris control.
+
+DISPLAY DEVELOPMENTS
+
+The basic design of displays has not been altered since the original design was
+produced in 1986. This design has been found to work extremely well and the
+displays produced have worked reliably in a number of applications since 1986.
+Each display comprises two monitors and an optical arrangement which combines
+the two pictures by a semi-reflective mirror and allows separation of them at the
+eyes using lightweight polarising spectacles. It is important that the pictures are
+well matched both electronically and optically. In recent designs of the monitor
+electronic matching is achieved by additional custom-built circuitry within each
+monitor. This is preferable to the earlier method of alignment of the pictures using
+magnets placed within the monitor around the display tube. Electronic adjustment
+is easier to achieve than magnetic adjustment and has proved extremely reliable
+during operation.
+
+The original monitor sizes were 15" diagonal for black and white and 16"
+diagonal for colour. In order to achieve a more compact and more portable display
+a smaller version which incorporates many of the advanced features of the larger
+displays has been produced. The first prototype of a 12" black-and-white display is
+now complete and a similarly sized 14" colour display is being considered.
+
+VIDEO TAPE RECORDING OF 3-D TV PICTURES
+
+3-D pictures can be recorded in a number of ways. The usual way used with the
+systems developed at Harwell is to record the left and right fields alternately to the
+odd and even fields of the video tape. The tape is then played back via two frame
+stores which repeat fields to ensure that the picture as played back does not flicker.
+For example, the left field is repeated once while the right field is being read from
+the tape to the right monitor and to its respective frame store. This method has a
+slight disadvantage in that the left and right pictures as recorded on the tape are not
+taken at the same instant in time. If it is necessary to have simultaneous
+information from both cameras, for example if measurements of a moving object
+are to be taken from the video tape, it is necessary to use an alternative technique.
+One such technique is the use of two high quality tape recorders synchronised
+together. This method gives very good results but it is expensive and requires some
+skill on the part of the operator in recording and playback. An alternative technique
+
+for recording simultaneous left and right pictures uses the multiplexing of the two
+pictures onto a single line of video information so that the time difference between
+pictures is limited to 30uS. This technique together with the other techniques
+mentioned is described more fully elsewhere 4.
+CONCLUDING REMARKS
+
+The trials and equipment developments described here show that 3-D TV can
+provide a useful tool in remote handling and inspection operations. Development is
+already at a stage where 3-D TV systems can be usefully employed to enable
+operators to carry out remote operations more quickly and accurately than with
+conventional television.
+REFERENCES
+1. A A Dumbreck, E Abel, S P Murphy, J Holt, P M Scheiwiller and V M
+Reading, "3-D TV: Evaluations and Lessons Learned," Proc. ANS 3rd_ Topical
+meeting in Robotics and Remote Systems, Paper 4.2, Charleston, SC, March 1989.
+2. A A Dumbreck, C W Smith, S P Murphy, "The Development and Evaluation of
+a Stereoscopic Television System for Remote Handling," Image Technology,
+Journal of BKSTS, January 1990, P8ff.
+3. A A Dumbreck, E Abel, J Holt, P M Scheiwiller, and V M Reading, "3-
+Dimensional Television Systems for Remote Handling," BNES Conference on
+Remote Techniques for Inspection and Refurbishment of Nuclear Plant, Stratford-
+Upon-Avon, UK, December 1988.
+4. PM Scheiwiller, A A Dumbreck, A D Chapman, "Video Tape Recording of 3-
+D Television Pictures," this volume.
+5. P M Scheiwiller, S P Murphy, A A Dumbreck, "Compact Zoom Lens for
+Stereoscopic Television," to be published, SPIE Conference on Electronic Imaging,
+San Jose, CA, February 1991.
+

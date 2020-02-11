@@ -1,0 +1,546 @@
+ff (CESS ata
+a s <i ii msg
+Oe atent «GB
+ae | UK P 2097360 B
+WS (12) en (19) (11)
+; Sa ee ed 3
+LonDpo a
+(54) Title of invention
+A manipulator
+:-
+(51) INT CL*; B25J 13/00 .
+<
+(21) Application No (73) Proprietor
+8211500 United Kingdom Atomic Energy
+Authority,
+(22) Date of filing 11 Charles I! Street
+21 Apr 1982 London SW1Y 4QP
+(30) Priority data
+(31) 84113115
+(32) 28 Apr 1981 (72) Inventors
+Sinclair Matthew Third
+33) United Kingdom (GB Edward Abel
+. i52)] Eheited Kingdom (Ge Geoffrey Clitford Wall
+(43) Application published °
+3 Nov 1982
+(45) Patent published
+6 Mar 1985
+(74) Agent and/or
+Address for Service
+Marcus John Lofting,
+Patents Branch
+United Kingdom Atomic Energy
+(52) Domestic classification Authority
+B8H DV 11 Charles tl Street
+London SW1Y 4QP
+(56) Documents cited
+* GB 1324400
+GB 1136585
+ms GB 0934775
+\ GB 0816807 ( ; )
+US 4275986
+US 3587872 Ww
+(58) Field of search | NO
+B8H
+| F2U ©
+LONDON THE PATENT OFFICE Ug
+
+, Os : 2097360
+Je,
+TL ;
++ 168 io
+186173 OP
+OXY |__. 160.
+175 214 48 A |
+164 78K OO SIN8 (a (Ox /161 | 8
+DS GOI DYES
+183, OX PIPL OD p90 123
+20 Ges 4 Kes oS 127 L
+Spork YS y$e NS h Se -
+204 (Rom & RDO J
+“\ 8 Sour ovr | 34 K€ He’ / e
+ae & iy wo 36D a Se
+209 «| Swi Hp "Si0~ DQr /e
+206 SH Y 212 f SeaSx
+242 232 LOU 18 M14 \N0 449129
+245 ASLO ag
+WSS 332 " |
+232251 39ono S742 Fig7
+7 (LF \.244°236
+258b\"| 251
+240 252
+208 204
+209 CX :
+A]
+250 (px.
+ER Pee Vi 206
+A 249
+256°
+257
+Fig.tc.
+
+7 : 2097360
+Ode b
+160 0
+ses 91 fi] 85 1-171 '
+a) \
+[ NAR \ il
+cL Bod
+i lS 76
+23 9f =~"* "*S 7
+| aN
+S a
+10
+wi 7
+, 121 a | 64
+58 ay A [ss
+liste «
+| Lal Fig. 1b. :
+67 t Il | if 68
+N72
+a
+Fee 7h |
+Lo~ If @Q\ -
+3h . LZ
+geal | []
+CEA |
+er Ot.
+29
+.
+28 0 |
+
+2097360
+3), .
+85a. 64
+83 le l
+of ; |
+83 fl [
+aT ier
+177
+132 Phe AS |
+wi~KH vs
+| tL lJ
+Fig. 2. 58 salt. 1a6 58
+a IT — —
+ane
+Pt ps
+oF be
+72
+oe ee
+72 Lt ,
+42 SS 42 14
+46 NEN 65
+Pe SN
+66 NESZN a
+34 WIN 49
+INANE 39
+VLLLIY LLL
+38
+
+; - | ; 2037360
+us
+gs ob xc 2k &
+= Nit ©
+1 GE:
+| sa ENY He
+| “24 -NMZ )
+oA Gevaghl As
+“ENV ©
+2 VN Miles
+2. li) IS ln
+oom EAN) | a
+|| l-«
+S } N
+S "WF 78
+| Li , |
+» th
+mM ee,
+Pt} =
+Lo B =
+| | = ad x 3
+ee |"
+=~
+S_ (Seat 2
+ES
+c
+Sl LY)
+g =F
+THs
+| Oo
+=: N
+i
+
+, 2097360 o 4
+| sls,
+v
+. i | 314
+316 L 286 Fig.4. 123
+TT ? ; 312 =
+| 20s LE I)
+cle ri Zoe @D QW 127
+a a er Alt 7 @ 91 .
+V/SNO292 119 / >
+"se 296 i £ D
+YASS 289
+BW i
+Te ON
+HAN, AU 102 D
+185 LY dl 187 ns \
+189 \
+ee 3b
+Lil
+"
+Fig.5. ,. pam Ve |
+. 308 et. 290 |
+LAE
+i yal SQ Val
+298+ eS SS } a
+307 ‘al: 2 J
+305 |
+: 284
+
+2O AN BO
+- l-
+A manipulator
+This invention relates to a manipulator for the remote
+handling of an object, for example an object in a radioactive
+environment. Although numerous manipulator designs have been
+5 developed over the years, many of them are relatively complex
+and expensive, and there is still a need for a relatively
+simple design of manipulator which is comparatively
+inexpensive for performing relatively light remote handling
+operations.
+
+10 The invention therefore provides a manipulator for
+remote handling of an object, the manipulator being capable
+of pivotal movements, and having at least one of the pivotal
+movements thereof controlled by a flexible shaft means
+rotatably extending in a flexible conduit.
+
+15 Preferably, the flexible shaft means is controlled by
+electric motor means, for example servo or stepping motor
+means.
+
+Desirably, at least one of the flexible shaft means is
+connected to a worm gear meshed with a worm gear wheel, the
+
+20 worm gear wheel being arranged to turn on the pivotal axis of
+the respective pivotal movement so as to effect the pivotal
+movement.
+
+The manipulator of the invention may incorporate a jaw
+assembly comprising, opposing jaw members each locating, at
+
+25 one end thereof, one end of a respective bell crank lever,
+each lever having the other end thereof located in a grooved
+member arranged to be displaced by screw thread means so as
+
+to pivot the levers. Preferably, the jaw members locate in a
+common groove extending transverse to the displacement of the
+
+30 grooved member so that pivotal movement of the levers
+displaces the jaw members along the groove.
+
+The invention will now be further described by way of
+
+-2-=
+example only with reference to the accompanying drawings in ;
+which:- ,
+Figures la and lb show complementary partly broken away
+side views of a manipulator;
+5 Figure le shows a fragmentary view in the direction of
+arrow 'A" of Figure la; ;
+Figure 2 shows a view on the line II-II of Figure 1b;
+; Figure 3 shows a view on the line III-III of
+Figures la and lb;
+- 10 Figure 4 shows a fragmentary partly broken away view of
+a modified form of the manipulator of .
+Figures la and lb; and
+Figure 5 shows a view on the line V-V of Figure 4.
+Referring now to Figures la to 3, a manipulator 10 for
+15 relatively light operations is shown and comprises, a base
+unit 12, an upper arm 14, a forearm 16, and a wrist assembly
+18 on which is mounted a head assembly 20.
+The base unit 12 comprises a proprietary rotary table *
+unit 26 actuated by an electric motor 27 and which comprises
+20 a stationary base 28 and a rotary table 29 on which is :
+secured a motor in the form of a combined electric stepping .
+motor/gearbox assembly 30. Two side plates 34, 36
+respectively mounted on the rotary table 29 are spaced apart
+by a block 38 secured to the rotary table 29 and joined
+25 together by screws 39, and provide respective housings 40 for
+bearings 42 which locate a respective end of a shaft 44 to
+which a truncated worm gear wheel 46 is secured. A worm gear
+49 in engagement with the worm gear wheel 46 is located in
+
+-3- ‘
+bearings 53, 55 in the block 38, and at one end is joined to
+a coupling 58 mounted on a shaft 59 of the stepping
+motor/gearbox assembly 30.
+A flat upper arm member 64 of the upper arm 14 has a .
+5 rounded end 65 secured to the worm gear wheel 46 by screws
+66, and supports four motors in the form of electric stepping
+; motor/gearbox assemblies 67, 68, 69, 70 respectively each
+secured to the upper arm member 64 by a respective clamp
+fitting 72 with the exception of the stepping motor 67 which
+10 is secured to a spacer 71 itself secured to the upper arm
+member 64, the stepping motor/gearbox assemblies 67, 68 being
+| mounted on one side of the upper arm member 64 and the
+stepping motor/gearbox assemblies 69, 70 being mounted on the
+other side thereof. The stepping motor gearbox assembly 68
+15 is arranged to drive a shaft 74 through a coupling 58, the
+shaft 74 extending to a worm gear 76 mqunted in bearings 77,
+78 in a block 79 in a similar manner to that described in
+relation to the worm gear 49. The block 79 is sandwiched
+between the upper arm member 64 and a side plate 82 and
+20 secured thereto by screws 83. A worm gear wheel 85 meshed
+with the worm gear 76 is secured to a shaft 86 mounted at
+each end in a flanged bearing 87 located in a housing 88 in
+the side plate 82 and in the upper arm member 64
+respectively, and a flat forearm member 91 stiffened by a web
+25 93 has an enlarged and rounded end 92 secured to the worm
+gear wheel 85 by screws (not shown), an annular spacer 94
+being mounted on the shaft 86 between the upper arm member 64
+and the flat forearm member 91.
+At the other end of the forearm member 91, a worm gear
+30 wheel 102 is secured to a shaft 104 mounted in respective
+bearings 106 (only one is shown) located in a housing 107 in
+a side plate 108 and (not shown) in the forearm member 91, an
+annular spacer 109 being between the worm gear wheel 102 and
+the side plate 108. A block 110 is sandwiched between the
+35 side plate 108 and the forearm'member 91 and secured thereto
+
+- 4-
+by screws 112. A worm gear 114 meshed with the worm gear
+‘wheel 102 locates in respective bearings 116, 117 in the
+block 110, and extends to a coupling 119 connecting the worm
+gear 114 to one end of a flexible shaft 121 in a flexible
+5 conduit 123, the conduit 123 being held by a clamp unit 125
+against a support arm 127 secured to the forearm member 91 by .
+screws 129. -The other end of the flexible shaft 121 is
+connected by a coupling 58 to the stepping motor 67, the :
+other end of the conduit 123 being held by a clamp unit 132
+10 against the spacer 71.
+A shaped mounting 134 secured to the worm gear wheel 102
+is shown partially cut away and has a cylindrical hole 136 to
+locate as a clearance fit a shouldered screw 138 which
+extends through a bevel gear wheel 140 to locate in a
+15 threaded hole 142 in a mounting block 144 of the head
+assembly 20 to which the bevel gear wheel 140 is secured. A
+support 148 is secured to one side of the shaped mounting
+134, and a shaft 150 has one end located as a clearance fit
+in a cylindrical hole 152 in the shaped mounting 134 and has
+20 the other end thereof extending through a bearing 154 in the
+support 148 to a coupling 155. A bevel gear 156 meshed with
+the bevel gear wheel 140 is secured to the shaft 150, and the
+coupling 155 is connected to one end of a flexible shaft 158
+located in a flexible conduit 160 held by a clamp unit 161 to
+25 the support 148. The other end of the flexible shaft 158 is :
+connected by a coupling 58 to the’ stepping motor/gearbox
+assembly 70, the other end of the conduit 160 being held by a
+clamp unit 162 attached to the upper arm member 64.
+A bracket 166 extending from the mounting block 144
+30 incorporates a clamp unit 168 for holding one end of a .
+flexible conduit 171 through which a flexible shaft 173
+extends to a coupling 175, the other end of the flexible
++ shaft 173 being connected to the stepping motor/ gearbox
+assembly 69 and the other end of the conduit 171
+
+-§.
+being held by a clamp unit 177. A rod 179 extends through a
+bearing 182 in a housing 183 in the mounting block 144, and
+has one end connected to the coupling 175. A spur gear
+pinion 185 is mounted on the other end of the rod 179 and
+5S meshes with a spur gear wheel 187 integral with a rotatable
+, beak assembly 189 of the head assembly 20, the beak assembly
+189 having a hollow shaft portion 192 which extends through a
+/ bearing 194 in a housing 196 in the mounting block 144 and is
+retained therein by a washer 197 and a nut 198 which is
+10 engaged with a threaded spigot 199 at the end of the hollow
+shaft portion 192. An upper housing portion 204 and a lower
+_ housing portion 206 of the beak assembly 189 are secured
+together at respective flanges 208, 209. Inside the upper
+housing portion 204 a direct current electric motor 212 is
+15 located and is arranged to be energised through an electric
+cable 214 extending through an axial aperture 216 which
+extends through the upper housing portion 204, the hollow
+shaft portion 192, and the threaded spigot 199. A coupling
+218 is mounted on a drive shaft 230 of the electric motor
+20 212, and is internally threaded at one end 232 to engage a
+threaded rod 234 extending from a jaw assembly 236, a flat
+head 238 of the rod 234 having a transverse slot 240 at one
+side thereof in which locate rounded ends 242 of left hand
+and right hand bell crank levers 244, 245 respectively.
+25 Rounded ends 251 at the other ends of the bell crank levers
+‘ 244, 245 locate in a groove 252 in a respective jaw member
+254, the jaw member 254 having as shown in Figure le a
+° rectangular section slider portion 256 at one end of a finger
+portion 257 thereof and locating in opposing transverse
+30 grooves 258a, 258b in flat body members 249, 250 respectively
+in which the bell crank levers 244, 245 pivotally locate.
+| In operation, on the stepping motor/gearbox assembly 30
+being energised, the action of the worm gear 49 turns the
+worm gear wheel 46 and causes pivotal movement of the upper
+35 arm member 64. Energisation of the stepping motor/gearbox
+assembly 68 rotates the shaft 74 and thus rotates the worm
+
+- 6 -
+gear 76 which turns the worm gear wheel 85 causing pivotal
+movement of the forearm member 91. When the stepping
+motor/gearbox assembly 67 is energised, it rotates the
+flexible shaft 121 and thus rotates the worm gear 114 which
+5 turns the worm gear wheel 102 causing pivotal movement of the
+shaped mounting 134. Energisation of the stepping
+motor/gearbox assembly 70 rotates the flexible shaft 158 and °
+thus the bevel gear 156 which turns the bevel gear wheel 140
+and with it the mounting block 144. On the stepping |
+10 motor/gearbox assembly 69 being energised, it rotates the
+, flexible shaft 173 and thus the pinion 185 which turns the
+gear wheel 187 and causes corresponding rotation of the beak
+assembly 189. Energisation of the electric motor 212 rotates
+the coupling 218 about the threaded rod 234 causing linear
+15 displacement of the threaded rod 234 and thus pivotal
+movement of the bell crank levers 244, 245 with corresponding
+transverse linear displacement of the jaw members 254.
+The stepping motor/gearbox assemblies 67, 68, 69 and 70,
+and the electric motor 212 may be controlled in a
+20 conventional manner, or may be incorporated in a master
+switching arrangement operated by movements corresponding to
+the required movements of the manipulator 10, an example of
+such a switching arrangement being shown in co-pending patent
+application No 8029136.
+25 If desired, a pivotal movement of the manipulator 10 may
+be effected by an alternative arrangement, for example as ‘
+shown in Figures 4 and 5, and referring to Figure 4, a wrist
+assembly 18a is shown of a manipulator 10a similar in most
+respects to the manipulator 10 of Figures la to 3 but having
+30 an alternative arrangement for pivoting a mounting block 144a
+which is identical to the mounting block 144 of Figure la
+except for the manner in which it is pivotally attached to
+the wrist assembly 18a. At the wrist assembly 18a, an
+inclined T-shaped mounting 284 replaces the shaped
+
+- 7 =
+mounting 134 of Figure la, and has a mounting face 286
+defining an aperture 287 in which a flanged bearing 289
+locates. A shouldered screw 288 extends through the bearing
+289 and a worm gear wheel 290 with a central hole 292 is
+5 mounted on the screw 288 and secured by several screws 294
+. (only two are shown) to the mounting block 144a, the mounting
+block 144a having a threaded hole 296 in engagement with the
+; screw 288. As shown more clearly in Figure 5, a worm gear
+298 engages the worm gear wheel 290 and has a shaft 302
+10 located in respective bearings 304, 305 in a mounting block
+307 secured to the mounting face 286. One end of the shaft
+302 is connected to a coupling 309 joined to one end of a
+flexible shaft 312 extending from a flexible conduit 314
+which is secured by a clamp unit 316 to the mounting face
+15 286. The other end of the flexible shaft 312 is secured to
+the stepping motor/gearbox assembly 70 (not shown in Figures
+4 and 5) in the same manner as that described in relation to .
+the flexible shaft 160 of Figures la to 3.
+In use of the manipulator 10a, rotation of the flexible
+20 shaft 312 rotates the worm gear 298 and thereby the worm. gear
+wheel 290 causing corresponding rotation of the mounting
+block 144a, and rotation of the worm gear wheel 102 at the
+wrist assembly 18a caused by rotation of the flexible shaft
+121 results in pivotal movement of the mounting 284.
+7 25 One advantage of the use of a worm gear and worm gear
+. wheel to provide a pivotal movement of the manipulator, -
+results from the self locking capability of such a gear
+combination.
+The structural components of the manipulators 10 and 10a
+‘30 are conveniently fabricated from materials suited to the
+application for which the manipulator is to be used. These
+materials include stainless steel, aluminium, or plastics .
+materials for light: duties and subsequent ease of disposal,
+such plastics materials including glass fibre reinforced
+35 plastics materials, or synthetic resin bonded fabric, for
+example that sold under the Registered Trade Mark "TUFNOL".
+
+z - 8-
+It will be understood that other pivotal movements may ;
+"be incorporated in the manipulators of Figures la to 5 in the
+manner of the invention. The invention has been described in
+relation to the use of electric stepping motors to give a
+5 brushless drive that can easily be controlled using a small
+computer, since the drive electronics are essentially .
+digital, but as such the. manipulators of Figures la to 5
+operate on open loop control, there being no feedback of .
+position information. In more complex schemes, however,
+10 position, velocity or acceleration transducers may be used to
+monitor the position and the dynamics of the arms and their
+pivotal joints of the manipulator of the invention, and the
+derived information used to enhance the control of the
+manipulator. The use of alternative motors or drive
+15 mechanisms, which may be electric, hydraulic, or pneumatic,
+may be more appropriate in some of these applications than
+the aforesaid electric stepping motors. For example, direct
+current torque motors to provide relatively high power to
+weight ratios, disc motors to provide relatively high torque
+20 to inertia ratios with low armature inductance, or induction
+motors although an inverter would be required for adequate
+control. For relatively heavy duty applications, an inverter
+fed permanent magnet synchronous machine has advantages,
+since it has a relatively high power to weight ratio and is
+25 able to be accurately and repeatedly repositioned.
+(
+
+foo -9-
+Claims
+1. A manipulator for remote handling of an object, the
+manipulator being capable of pivotal, movements, and having at
+least one of the pivotal movements thereof controlled by
+a flexible shaft means rotatably extending in a flexible
+conduit.
+2. A manipulator as claimed in Claim 1, wherein the
+flexible shaft means is controlled by an electric motor
+. means.
+3. A manipulator as claimed in Claim 2, wherein the
+electric motor means comprises a servo motor means.
+4. A manipulator as claimed in Claim 2, wherein the
+electric motor means comprises a stepping motor means.
+5. A manipulator as claimed in any one of the preceding
+Claims, wherein at least one of the flexible shaft means is
+connected to a worm gear meshed with a-worm gear wheel, the
+worm gear wheel being arranged to turn on the pivotal axis of
+the respective pivotal movement so as to effect the pivotal
+movement.
+6. A manipulator as claimed in any one of the preceding
+Claims, incorporating a jaw assembly comprising, opposing jaw
+: members each locating, at one end thereof, one end of a
+respective bell crank lever, each lever having the other end
+thereof located in a grooved member arranged to be displaced
+by screw thread means so as to pivot the levers.
+
+7. A manipulator as claimed in Claim 6, wherein the jaw
+members locate in a common groove extending transverse to the
+displacement of the grooved member so that pivotal movement
+of the levers displaces the jaw members along the groove.
+
+- 10 =
+8. A manipulator as claimed in Claim 6 or Claim 7 wherein
+the jaw assembly includes an electric motor means arranged to
+rotate the screw thread means.
+9. A manipulator as claimed in any one of the preceding
+Claims, further comprising an upper arm, a forearm pivotally
+mounted on the upper arm, a first mounting member pivotally
+mounted on the forearm, a second mounting member extending
+from the first mounting member and rotatable with respect I
+thereto, and a jaw assembly extending from the second
+mounting member and rotatable with respect thereto.
+10. A manipulator as claimed in any one of the preceding
+Claims, including a turntable for turning the manipulator
+about the rotary axis of the turntable.
+. ill. A manipulator as claimed in any one of the preceding
+Claims, wherein structural portions of the manipulator
+comprise a plastics material.
+12. A manipulator substantially as hereinbefore described
+and with reference to Figures la to 3 of the accompanying
+drawings.
+13. A manipulator as claimed in Claim 12, modified
+substantially as hereinbefore described and with reference to ;
+Figures 4 and 5 of the accompanying drawings.
+4
+ee
+

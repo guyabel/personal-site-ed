@@ -1,0 +1,427 @@
+ANS ok Tei ty ™ 5A
+Roars * at
+Ai ky mys
+pGu-~ 6se
+
+THE DEVELOPMENT OF A BILATERAL INPUT
+
+DEVICE FOR USE IN TELEOPERATION
+K.V.Siva, P.J.Fischer, M.H.Brown and E.Abel.
+Remote Handling and Robotics Department
+AEA Technology, Harwell Laboratory
+Oxon, OX11 ORA, United Kingdom. .
+
+ABSTRACT
+
+This paper describes the development of a new 6-axis general
+purpose Hand Controller called the Cartesian mini Master Arm
+(CmMA). It provides end-point bilateral control in remote
+manipulative operations. Though the device is primarily intended
+for use with the NEATER Robot, thus making it a true Telerobot,
+it can also be used with many other remote handling systems
+including Hydraulic Servo Manipulators and other industrial
+robots. Emphasis is placed on the optimisation of the end point
+
+‘ bilateral control since the majority of the critical tasks that have to
+be performed remotely involve the control of manipulator end
+effector interaction with the object and/or environment. The
+paper also deals with the rationale used to determine the master
+arm kinematics, dynamics and control. The principles of
+operation and control have been tested in simulation and through
+construction of a mechanism breadboard. A prototype unit will be
+operational by the end of 1990.
+
+INTRODUCTION
+
+The increased need for remote control operations in the Nuclear Industry has
+long been recognised, particularly with the beginning of large scale
+decommissioning and waste management operations of old active facilities and
+power stations. AEA Technology's philosophy is to adapt proven industrial
+standards and products wherever possible to meet the general remote handling
+requirements. As a result, the PUMA 760 Robot has been mechanically
+upgraded to provide decontaminability, ease of maintenance and tolerance to
+radioactive environments. The result is NEATER, the Nuclear Engineered
+Advanced Telerobot.
+
+Even though some routine tasks in a nuclear environment can be carried out
+robotically by the upgraded robot, the majority of the tasks in operations such as
+decommissioning are complex and impossible to plan in advance. These tasks
+therefore demand the incorporation of human judgement, skill and sensory
+
+interaction to perform them successfully and safely. The sensory information
+required by the operator during remote manipulation includes vision, hearing and
+feel. Advanced telerobotic control therefore requires the development of a
+suitable input device to command the position and orientation of the remote end
+effector required by the operator and to feed back the resulting forces exerted on
+the robot by its environment. The term master arm has traditionally been used to
+describe a device which gives an operator this direct control over manipulative
+tasks, and this terminology will be retained. Though the geometry envisaged
+here is significantly different from that of the traditional manipulator master arm.
+
+The kinematics and dynamics of a master arm basically determine the
+manoeuvrability of the remote manipulator system [1]. The range of motions in
+the joints and links and their mechanical properties greatly influence its ease of
+use and dexterity. The mechanical input impedance characterised by inertia,
+viscous drag, friction and compliance of the device must be made as low as
+possible for the operator so that the task forces become transparent. Several
+different kinematic schemes were studied from a variety of viewpoints but the
+overall objective was to maximize the dexterity in the wrist. Several master arm
+designs seeking high dexterity for operators have been proposed and developed
+by many researchers, for example, polar co-ordinate type by Bejczy & Salisbury
+
+, [2], vertically articulated (anthropomorphic) type by Kuban et al [3], horizontally
+articulated type (SCARA) by Hirai & Sato [4] and cartesian co-ordinate type by
+Matsuhira et al [5], Jacobus et al [6] and many others. It was necessary to find
+some basis for choosing between these various types.
+
+It must be noted that the relative position of the master arm to the operator is
+also an important factor as well as the design of the master arm itself. A good
+master arm must be easily displaceable over a reasonable range of travel and
+must not restrict the operator's bodily freedom at his chosen workplace
+(depending on the application, this may be seated at a desk or standing at a
+viewing window). Since several kinematic arrangements can meet this objective,
+other requirements for its use were also closely examined to choose the
+kinematics for the master arm. One such additional need within Harwell was a
+bilateral command input device which could control either NEATER or the
+Harwell Hydraulic servo manipulator [7]. It was therefore decided to use a
+general purpose master arm configuration so that it could be employed with
+many different types of slave robot or manipulator. The most obvious open
+kinematic scheme to use is a cartesian co-ordinate frame, which can either be
+fixed to the end point or in the base of a robot or manipulator. Another
+advantage of the cartesian kinematic arrangement is that almost all robot
+controllers can accept external cartesian commands from other peripherals (such
+as teach pendants, joysticks, etc) over a serial digital communication link for the
+trajectory control. This will therefore facilitate the use of the already developed
+inverse kinematic software with singularity control of various robots with little or
+no modification. Communications can still be a bottleneck and may require
+improvements in speed for better manual control with force feedback.
+
+KINEMATICS OF THE CARTESIAN MINI MASTER ARM
+
+On the basis of these considerations, the CARTESIAN mini MASTER ARM
+(CmMA) now under development at Harwell is a desk-top command input device
+with bilateral characteristics for use in teleoperation. The motions of the CnMA
+generated by the human operator are read by the Tele-Robotic Controller (TRC)
+and are scaled, transformed and conditioned as desired to control the robot in
+either world or tool coordinate frames. Different modes of control such as
+resolved rate, resolved position and resolved force/torque can be selected at will
+to perform a remote task conveniently and safely. The wrist, which issues
+orientation commands, has been designed to provide a one-to-one kinematic
+correspondence with minimum of inertia, friction and backlash using
+conventional cable-driven transmissions used in servomanipulators. The parallel
+linkage scheme was utilized to form a base capable of providing motions in the X
+and Y directions for a column providing the Z or up/down motion. It was also
+felt that the X-Y-Z motions of the mechanism must exhibit homogeneous
+mechanical properties - inertia, friction and stiffness, as far as possible. This has
+therefore demanded symmetry in the mechanism. The overall mechanism is
+gravitationally balanced and provision has been made to measure the forces in the
+X,Y and Z directions so that the excessive inertial resistances in these motions
+
+: can be compensated for by using feedforward control of the motors. This paper
+describes the features of this Master arm and its control.
+
+A cartesian kinematic structure can be realised by a variety of linkage
+arrangements. Fundamentally, there are two possibilities: one using a serial
+linkage scheme and the other using a parallel linkage scheme. Figure 1 shows
+the use of a serial linkage scheme for the X-Y motions while figure 2 shows a
+parallel linkage scheme for the X-Y motions. It can be seen that the parallel
+linkage scheme is capable of exhibiting homogeneous mechanical properties and
+provide a uniform structure through which the forces will be transmitted to the
+origin of the cartesian co-ordinate frame of the master arm. The structure is
+basically an inverted pendulum in 2-dimensions that requires some form of
+balancing to prevent it from collapsing. Several schemes based on both active
+and passive balancing methods were investigated.
+
+The wrist mechanism has been synthesized from the orthogonally pivoted
+rings or gimbal structure (Fig 3) widely used in gyroscope instruments instead of
+using the conventional differential wrist gear mechanism. The handle itself,
+which can be twisted, provides the yaw motion and can be configured for either a
+seated operator or a standing operator, (Fig 4). The inner gimbal, which has
+been simplified as a straight bridge for ease of manufacture, enables the
+generation of pitch command motions while the outer gimbal provides the wrist
+roll command motions. The motors used for force feedback actuation in these
+wrist motions have been located remotely to reduce the cumulative inertia as the
+wrist mechanism is a serially linked structure. Cables are used for the
+transmission of the mechanical power between the motors and the final wrist
+
+motions. Newly available cable chains which exhibit low friction and no
+backlash were considered but were not chosen because of the constraints on
+available space and their relatively low stiffness when compared with cables.
+
+The remote location of the motors facilitates the construction of a wrist
+mechanism with mutually orthogonal motions which are free from any cross-
+coupling. For example, had the motors been placed directly on the joints, then
+the wrist yaw motion would have become cross-coupled with the roll motion in
+the sense that the torque in the roll joint is not only a function of the load in that
+joint but also a function of the load in the yaw joint. Cross-coupling would
+cause reduced controllability and inaccurate force reflection unless properly
+decoupled or filtered in the software and control system. This additional
+complexity is, therefore, removed by the appropriate mechanical design
+described above. It can also be noted that while mutually orthogonal linear
+motions are free from cross-coupling, the mutually orthogonal rotary motions are
+cross-coupled and also have a kinematic singularity problem.
+
+BILATERAL GRIP HANDLE
+The development of the bilateral grip handle has been left as a separate
+. exercise which will be undertaken soon. However, a brief description of its
+present form is given here since it is an integral part of the master arm presented
+in this paper.
+
+As stated earlier, the design of the handle for the chosen kinematic
+arrangement of: the master arm depends primarily on the relative position of the
+master arm to the operator. A seated operator using a desk-top master arm
+configuration was chosen as the starting point to focus on the design issues.
+However the selected design is equally applicable to a standing operator
+configuration. The simple pistol-grip type of handle looked more favourable
+than the side-by-side thumb and index finger squeeze configuration which is
+believed to be very fatiguing, Fig 5. The handle must be comfortable to use and
+non-fatiguing.
+
+A symmetrical handle is preferred in single-handed control systems, so that it
+can be used by both left-handed and right-handed operators. The operator must
+be able to move the handle up and down. Hence the grasping must be split and a
+reaction post provided to prevent the hand grip from slipping during this motion.
+It is not clear what would be the best combination for functionally splitting the
+grasping fingers which are normally grouped together. Previous researchers and
+developers have used both single index finger gripping and two fingers (index
+and middle finger) gripping. Tichauer's work suggests that when the index
+finger is used excessively, a defect known as tenosynovitis develops [8]. It
+affects the ability of the person from flexing his or her index finger easily. It is
+also needed to push and pull the master arm while maintaining a sensitive
+bilateral grip of a remotely grasped delicate object. The lateral or left/right
+
+motion of the master arm must be relatively easy with the handle free from any
+control switches on the side of it. The bilateral gripping control must therefore
+be free from any undesirable coupling between the handle and the master arm
+kinematics.
+
+Although several examples of handle/grip design have been presented so far,
+the criteria for designing them is not well documented. However, once it is
+designed using intuition and common sense, the efficacy of the man-machine
+interface can be evaluated and design criteria proposed. Fig 6 shows the handle
+design that has been chosen for the Cartesian mini Master Arm in schematic
+form.
+
+THE CONTROL SYSTEM
+
+Fig 7 shows a block diagram of the control system under construction. The
+NEATER robot is fitted with a 6-axis force/torque sensor to measure the end-
+point forces and torques in the tool co-ordinate frame. The Robot Controller
+(RC) is the standard VAL-II Control System and the Tele-Robot Controller
+(TRC) is a PC based system being developed at Harwell. The trajectory control
+performed by the VAL-II Control System can be modified by the alter port
+
+, which requires displacement updates to the arm in the form of cartesian
+displacements of the end-point. The commanded joint motions from the
+cartesian mini master arm are therefore more or less directly compatible with the
+alter port communication interface to the VAL-II trajectory control. Some form
+of command modification is, however, required to avoid kinematic singularities
+and joint travel limitations.
+
+The force feedback control system, currently under development, is made to
+bypass the VAL-II Robot Controller so that communication speed limits which
+greatly affect the control system performance can be avoided. The slave robot's
+end-point forces and torques measured by a force/torque sensor are conditioned
+before they are used as force/torque commands for the master arm control
+system. Local force feedback on the master arm is derived from the force
+reflecting servo motor currents. Therefore, no direct force or torque
+measurements are made in the master arm. It is planned to provide both resolved
+position and resolved rate control modes so that the operator can easily select the
+suitable mode he desires to accomplish a task efficiently. In future, it is planned
+to improve the communication speed to the VAL-II trajectory control system by
+using an upgraded slave port. The slave port provides a joint command interface
+to the VAL-II trajectory control software and also provides joint position
+feedback information for external use. This enables the evaluation of different
+types of bilateral servo systems based on position-to-position control and
+force/torque-to- position control schemes in cartesian workspace before a final
+selection is made. The joint displacements read from the slave port must be
+converted to cartesian displacements of the robot wrist. The conversion from
+joint displacements to cartesian displacements is accomplished by using the
+
+Jacobian of the robot kinematics. The Jacobian J(e); which relates velocity in
+joint space to velocity in cartesian space is position dependent and therefore must
+be computed each time the robot's position is updated. The Intel's 80386
+processor based Tele-robot Controller has proved that this computation can be
+carried out rapidly so that overall system response is not impaired.
+THE STATUS OF DEVELOPMENT AND CONCLUSIONS
+A mechanism breadboard has been built to prove the feasibility of
+implementing the kinematic structure described earlier, Fig 8 (a). The
+breadboard also assists in the design optimisation process and the subsequent
+design and manufacture of the prototype. It also enabled us to understand better
+the complex problems associated with the design of a multi-axis hand controller.
+Several design changes were made to ensure that the prototype unit will be able
+to exhibit homogeneous mechanical properties in all directions, Fig 8 (b). The
+prototype unit will be operational by the end of 1990, and its dexterity will be
+assessed against simpler devices such as two 3-axis joysticks and the 6-axis
+Force/Torque ball. The assessment will employ each input device as a Master
+command unit for NEATER during remote cutting operations.
+, Force feedback technology and force reflecting command input devices have
+taken a very long time to evolve to a state where cost-effective and satisfactory
+systems are viable for wider use. The goal is to demonstrate that such an
+economically viable command input device can be developed and be made
+available for use on a variety of applications in the near future.
+ACKNOWLEDGEMENT
+The authors’ wish to acknowledge the contributions made both directly and
+indirectly by all other members in the department and in particular Peter Shilton
+and Mark Johnson who helped in the detailed mechanical design and Neil Hardy
+who continues to co-ordinate the software development activities. This work was
+funded by Department of Energy as part of the Active Handling Programme.
+REFERENCES
+1. K.V.Siva et. al.,"A General Purpose Hand Controller for Advanced
+Teleoperations," Proc. of the Int. Symposium on Teleoperation and Control,
+Bristol, July 1988, pp 277-290.
+
+2. A.K.Bejczy and J.K.Salisbury, "Kinesthetic Coupling between Operator and
+Remote Manipulator," Proc. ASME Computer Technology Conf., San
+Francisco, August 1980, pp 197-211.
+
+3. D.P.Kuban and G.S.Perkins, "Dual Arm Master Controller Concept,"
+Proc. Ist ANS Topical meeting on Robotics and Remote Handling,
+Gatlinburg, Tennessee, April 1984, pp 433-437.
+
+4, §.Hirai and T.Sato, "Advanced Master-Slave Manipulator Augmented with
+World Model," Proc. 15th ISIR, Tokyo, 1985, pp 137-144.
+
+5. Nobuto Matsuhira et. al., "Development of a Multipurpose Hand Controller
+for JEMRMS," Proc. 24th Aerospace Mechanisms Symposium, Florida,
+April 1990, pp 105-120.
+
+6. Heidi Jacobus et. al., "Implementation Issues for a Compact 6 Degrees of
+Freedom Force Reflecting Handcontroller with Cueing of
+Modes,"Engineering Foundation Seminar on Human-Machine Interfaces for
+Teleoperators and Virtual Environments, Santa Barbara CA, March 1990.
+
+7, K.V.Siva et. al., "The Development of a Force Reflecting Master Arm to
+Control the Harwell Hydraulic Manipulator,” Proc. of the 3rd ANS Topical
+meeting on Robotics and Remote Systems, Charleston, $.C., March 1989,
+paper 8-10.
+
+8. E. Tichauer, "The Biomechanical Basis of Ergonomics," Wiley & Sons,
+New York 1978.
+
+APPENDIX
+
+ELEMENTS OF CmMA'S TARGET SPECIFICATIONS
+
+The choice of the Master Arm's working volume has been based on the
+
+information and experience on other manual controllers.
+
+Motion Range:
+
+o Translations - X,Y,Z + 115mm
+
+o Orientations - Roll, Pitch, Yaw + 90°
+Force/Torque Range:
+
+© Forces - Fx, Fy, Fy 25N
+
+o Torques - T;, Ty, Tz 2.5Nm
+Small Signal Bandwidth:
+
+o Position servo loop (2 mm/2 deg): . 10Hz
+
+o Force/Torque Servo loop (0.1 N/0.1Nm) 30Hz
+Force/Torque Friction Threshold:
+
+o Force (X, Y,Z) 0O.1N
+
+o Torque (wrist) 0.02Nm
+
+Mechanical Input Impedance:
+o Translations (force to velocity) 1.0N/m.sec™'
+o Rotations (torque to speed) 0.05Nm/rad.sec™'
+NOTE: The inertial resistances and viscous drags along each degree of freedom
+will be evaluated once the prototype unit is built and tested.
+UKAEA Copyright 1990 ;
+
+Be
+» ZW
+@e
+| FAS
+ZA | ‘é SAK
+PTS
+A y
+x
+NO
+ot \,
+Fig 1 REALISATION OF X-Y MOTIONS
+USING SERIAL LINKAGE STRUCTURE
+A ec!
+LSS YA *
+®) ALTE
+NIG
+Fig 2 REALISATION OF X-Y MOTIONS
+USING PARALLEL LINKAGE STRUCTURE
+
+“a " a”
+GC ia
+(i Ap
+SYS)
+Si
+AS ee
+8 IN
+| I
+Ml KS
+SH 1
+19 5 RUNTUESTESOA, S'SFEMRE, Sagas YeTST sTRLCTRE
+? N ©
+AN
+Fig 4. eetres Fle Sonne eo FOR
+A G OPERATORS
+
+{ ; 1
+-.!
+} og =
+Gah O | —_
+OS ° Se
+\\"4 Yes (PO
+SDE, SE (
+He LE } @
+\ WI : ‘
+WT . i tn
+se) i
+~) “oN /
+nif
+i?
+~y
+Fig 5. PARALLEL GRIP Fig 6. PISTOL GRIP
+USING THUMB & USING MIDDLE &
+. INDEX FINGERS INDEX FINGERS
+. TELE-VIEWING/ HEARING
+eT
+|
+| |
+TELE-ROBOT VAL-II_ROBOT :
+| CARTESIAN CONTROLLER CONTROLLER NEATER END-POINT
+MINI MASTER ARM (TRC) (RC) ROBOT INTERACTIONS
+cena pat ee ‘
+K =
+ve pI
+CARTESIAN
+COMMANDS
+os
+| | MEASURED END-POINT
+F/T SIGNAL FORCES/TORGUES END-POINT
+(ANALOGUE OR RS-232) HEA Se (x)
+Other
+Disturbances
+BN
+Fig 7. SCHEMATIC BLOCK DIAGRAM OF THE TELE-ROBOT CONTROL SYSTEM
+
+a :
+ae
+Nes,
+
+i a omen
+rt er
+Fig 8Ca). CmMA - BREADBOARD MECHANISM
+' G ZRD »
+Ho Yom IS 40
+AR SSA rN
+LAGS
+Ok4 3 NZ
+NY
+Fig 8€b). CmMA — PROTOTYPE DESIGN
+(Patent Applied for)
+

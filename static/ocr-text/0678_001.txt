@@ -1,0 +1,1424 @@
+| Wolfson Magnetic Levitation Group
+Department of Engineering
+University of Warwick
+The Electrodynamic System of Levitation
+and LSM Propulsion
+February 24, 1978.
+
+«
+‘
+3
+- . I
+“|
+’
+“A
+
+THE LLECTRODYNAMIC SYSTEM OF LEVITATION AND
+ISM PROPULSION
+
+Page
+1. Basic principles 1
+2. Magnetic force characteristics 3
+2.1 Lift and guidance 4
+2ec Damping , 4
+3. Vehicle dynamics 5
+3.1 Impedance modelling 5
+
+4, Ride quality 7
+5. Track roughness 8g
+6. Aerodynamic characteristics 9
+7. Rotating wheel test facility 10
+7.1 Design details 10
+8. Linear synchronous motor propulsion 13
+9. ISM research 15
+10. A.C. losses in the superconducting coils 16
+11. Wolfson test facility 17
+11.1 Guideway 17
+
+®
+
+11.2 Test vehicle 19
+11.3 Superconducting coils and cryostat assembly 19
+11.4 Problems of magnet design 17
+
+The Blectrodynamic System of Levitation and LSM Propulsion |
+| - Maglev Project Group, University of Warwick
+41. Basic principles
+There are essentially two basic systems for the magnetic levitation
+and guidance of high speed tracked vehicies which are at present receiving
+serious investigation world-wide, namely a
+i) the electromagnetic system (EMS),
+ii) the electrodynamic system (EDS).
+The EMS is based essentially on the attractive forces between conven-
+tional copper magnets with iron yokes on the vehicle and iron rails along
+the track. Because this is basically an unstable system, active control
+of the magnet currents is essential to maintain the clearance between the
+magnets and the rail, a distance of approximately 10 - 15 mm.
+The EDS, on the other hand,relies for levitation and guidance on the
+repulsive forces which are generated between moving iron-free, supercon-
+ducting magnets on the vehicle and conducting (aluminium) sheets (or coils)
+at ambient temperature on the track. In its application to high speed
+transport, some of the essential features of the EDS can be enumerated as
+follows:
+1) The vehicle is magnetically levitated and laterally guided in a
+statically stable manner solely by magnetic forces generated in the
+aluminium guideway by the vehicle magnets.
+2) The clearance between the vehicle and the guideway can be in the range
+of 100- 400mm.
+3) The levitation and guidance forces are analogous to those produced by
+‘ a resilient undamped spring with a resonant frequency of the order
+of 1-2 Hz.
+4) The circulating currents induced in the aluminium guideway give rise
+to magnetic drag forces which have to be overcome by the propulsion system.
+5) The superconducting magnets on the vehicle operate at liquid helium
+temperature (4.2K) in the persistent (short-circuited) mode and hence
+require no power on-board. e
+6) At standstill and lew speeds up to approximately 40 - 50 km/h, wheels
+are necessary to support the vehicle.
+7) From the point of view of the efficiency of a linear motor operating
+with air gaps of the order of 100mm, a linear synchronous motor would
+be used, the powered armature windings being installed along the track.
+-1-
+
+8) Power conditioning units spaced at intervals (5 - 15 km) would
+provide the three-phase current to the track windings which
+interacts with the vehicle superconducting magnets.
+
+9) Various schemes for combining linear motor propulsion and guidance
+or, in the case of the Warwick design, combined propulsion, lift
+
+« and guidance, are being examined.
+Ld
+-2-
+
+2. Magnetic force characteristics
+
+For a magnet moving at constant height above the conducting strip
+guideway, the lift force, Fhe first increases az ve, where V =
+velocity and, as the induced currents in the track become saturated,
+it then levels off and approaches the image force, Bye at speeds
+greater than about 120 km/h, i.e. the lift force becomes independent .
+of speed Fig (1 ).
+
+Because the aluminium track is resistive, energy is dissipated by
+the induced currents. This appears as a drag force which increases
+linearly with speed initially reaching a maximum at 10 - 20 km/h ,
+depending on tne vehicle coil geometry and thickness of the aluminium
+track, At higher speeds it decreases hyperbolically as (velocity) -3
+(v7?), It is this decrease in magnetic drag at the higher speeds which
+allows the EDS suspension to function efficiently.
+
+& number of fundamental studies of current-carrying coils moving
+above conducting sheets of varying geometries and arrangements have
+been carried out and there is considerable information on the variation
+of wagnetic lift, Fis and drag, Fy: forces with vehicle speed, levitation
+height and Coil geometry. It can be shown in general that
+
+i _ oY
+Ky ~  oW
+over the whole speed range, where W is a characteristic velocity associated
+with the guideway size, thickness, material and configuration. With a
+simple magnet-track arrangement , Fi/y, mm 35 can be technically achieved
+at 500 km/h. It is evident, therefore, that the propulsion force required
+to overcome magnetic drag decreases with increasing speed while, at high
+speeds, the force needed to overcome the aerodynamic drag increases as Vv“,
+and accounts for most of the energy expenditure.
+-~3-
+
+2e1 Lift and guidance
+A variety of arrangements of the vehicle magnets and guideway
+conducting sheet or loops have been examined and these essentially
+fall into two groups,
+i) single magnets above plane sheets or strips of aluminium in the
+° normal flux arrangements (the Japanese use conducting coiis in
+the track in place of continuous strips).
+ii)  muli-flux systems whereby double magnets on the vehicle, excited
+in opposition, induce currents in a stripor loop track positioned
+between them.
+The main advantage of the null-flux system, i.e. a reduced drag
+force, tends to be compensated by the larger magnetic fields
+required for the vehicle magnets. Some of the different coil/
+guideway configurations being studied are sketched in Fig. ( 2)
+and a comparison of their design details is given in Table ( 1?.
+2e2 Damping
+Although the EDS systems are statically self-stabilizing, their
+self-damping is insufficient to compensate for dynamic instabilities
+caused by wind forces, track irregularities and other external perturba-
+tions. To meet the criteria for ride comfort, therefore, some additional
+active control must be provided in the critical frequency range 0.5 - 20 Hz.
+These damping requirements can be achieved either by additional actively~
+controlled coils mounted between the superconducting coils and the track
+or by means of a passive or active secondary suspension system. It is
+planned tc examine both of these possibilities at Warwick and some prelimin-
+ary studies have been started.
+ws vats
+
+3. Vehicle dynamics
+The split-track system being developed at Warwick combines the
+functions of lift, guidance and propulsion from a single array of
+superconducting magnets on the vehicle moving over a pais of aluminium
+strip ‘rails' on the track with a powered armature winding in the gap
+between them (Fig. (3). From an analysis of a mathematical model of
+the system, together with impedance model measurements, it has been .
+shown that the predicted behaviour and performance characteristics
+are equivalent to alternative electrodynamic suspension schemes and,
+in many respects, can be superior.
+301 Impedance Modelling
+The impedance modelling technique has been extensively used to
+study the magnetic force characteristics produced by the two-coii
+assembly of the Wolfson test vehicle being constructed for operation
+on the 550 m-long, test track on the university campus. Two copper-
+wound coils, O.4m square, positioned in tandem (Fig. (4) and of opposite
+polarity are mounted above two aluminium ‘track’ strips and the apparent
+inductance and resistance of the coils are measured at different positions
+relative to the guideway strips. The lift and guidance forces are
+related to the gradient of inductance, the drag to the resistance and the
+speed to the frequency. The impedance method readily lends itself to
+full-scale modelling and, although the simulation of a moving d.c. excited
+coil by a stationary a.c. coil in a model can never be exact, it has been
+found in practice, that the results are in good agreement with theoretical
+predictions.
+: A number of experiments have been performed to determine the character-
+istics of the split-track geometry and also to confirm the predictions of
+the mathematical model of the systems. These include measurements of
+i) the lift-to-drag ratiosas a function of the conductor spacing,
+cynductor width and thickness, levitation height, and frequency (speed).
+ii) the guidance forces and the variation of lateral stiffness.
+iii) heave frequencies :
+iv) the effect of guideway joints
+The variation of the influential coil dynamic characteristics with
+conductor spacing is shown in Fig. (5), Roll stiffness and lift are
+essentially independent of conductor spacing while the lift-to-drag ratio
+and lateral stiffness are highly dependent. To generate desirable roll
+characteristics therefore only requires manipulation of the coil width,
+while the lateral stiffness is determined from the spacing between the
+o Oe
+
+conductors. To produce the required lift-to-drag ratio it is then
+necessary to thicken the track or increase the conductor width. In
+this manner any combination of coil dynamic characteristics can be
+obtained. It has also been found that cross-coupling between roll and
+Sideslip is extremely small for the conductor spacings cf interest while
+lift variation with lateral displacement is small. The Warwick
+
+. geometry is the only electrodynamic system yet devised in which these
+latter terms are small enough to be ignored. Since, for many practical
+
+reasons of design and fabrication, a circular geometry for the super-
+conducting coils and their cryostat assemblies is preferred to rec-
+tangular shapes, the force characteristics of these were examined.
+Design criteria have been established for finite radius, rectangular
+coils, as designed for magiev trains, by both an analytical approach
+and by impedance modelling. Measurements have been made of the effect
+on the lift-toedrag ratio and guidance stiffness using circular coil
+and rounded corner geometries.
+
+©
+
+~6-
+
+4, Ride Quality
+
+Track roughness and cross-wind gusts have a major influence on
+the attainment of satisfactory comfort levels for passengers travelling
+in high speed trains. To assess the impact of such external disturb-
+ances on vehicle behaviour a simple mathematical model of the suspencion
+has been subjected to a random input and the power spectral density (p.s.d.) .
+output response then compared with the UTACV ride standard for passenger
+comfort. For this analysis the vehicle and suspension are simulated by :
+a two-dimensional heave model as shown in Fig. (6). The purely passive
+suspension is considered although the air springs envisaged for the
+secondary suspension readily allow for active control of the damping.
+
+To represent the lateral motion of the vehicle, the heave model is
+merely turned through a right angle, as it is assumed in the calculations
+that no coupling exists between the vertical and lateral motions. This
+assumption has been shown to be valid for small oscillations from the
+impedance modelling results for the coil characteristics. It is also
+assumed that an unsteady cross-wind acts entirely on the secondary mass.
+For this study the mass ratio, M&M (= M2/y4) was set at 4 where
+represents the primary mass, consisting of the magnet/cryostat assemblies,
+and Ms the vehicle mass. (In the Canadian design, the total weight was
+20 tonnes, including 5.1t for the magnet array and 1.5t for the secondary
+mechanical suspension).
+
+In all cases the output p.s.d. response is given by :
+
+dout= Mw) J 6 in
+where H(w) is the transfer function relatingthe output to the input.
+» P=
+
+5. Track roughness
+
+The input spectrum from a rough track is usually given in the form
+
+where U = velocity of the vehicle
+a and A = a constant = 1.5 x 10 “6
+
+However, it has been found that a better fit to the available data is
+, given by an input spectrum of the form
+
+g ( w) = AU
+2 2
+Wo + W
+
+where Wo corresponds to a low frequency cut-off.
+
+The output peSed. has been obtained for four primary stiffness
+values between 0.75 x 40° and 3.0 x 40° Nm “1 while maintaining the
+secondary stiffness at 0.75 x 40° Na “1 The latter primary stiffness,
+corresponds to a natural frequency of 1.6 Hz for a 30t vehicle, with a
+secondary suspension frequency of 0.8 Hz (air springs could be used to
+obtain this frequency).
+
+A number of velocity spectra have been proposed for longitucinal
+wind velocities in the lower part of the atmosphere and it was found that
+the most suitable for this study was the one most commonly used for
+‘building' aerodynamics. The acceleration p.s.d.‘s for a 13.5 me | cross-
+wind input were calculated for the suspensions previously considered.
+Likewise, the combined (track plus cross-wind input) lateral and vertical
+peSed. curves were obtained for different values of the lateral and
+vertical primary stiffness ratios. From a comparison with the UTACV
+standards, it would appear that a reasonably good ride would be
+obtained.
+
+If active control is thought to be desirable to produce a satisfactory
+ride then the amount of active power required is small, because the p.s.d.
+curve exceeds the standard only slightly over a very narrow frequency range.
+
+° This is in contrast to the electromagnetic system where the primary
+stiffness is sufficiently high so that active control of the secondary
+_o suspension is essential.
+~8
+
+6. Aerodynamic characteristics
+
+Aerodynamic forces and moments have an important effect on the
+behaviour and performance of a high speed vehicle and a study of vehicle
+shapes has been undertaken using small scale models. For example, a
+vehicie travelling at 135 me” | with frontal area 9 m* would experience a
+10 tonne force for a force coefficient, Cy = 1.0. All the tests were .
+carried out in the 0.9m square, low-speed wind-tunnel at the Lanchester
+Polytechnic. The forces and moments were measured on the models using
+a 6=-component balance mounted within the ground plane. An overhead |
+balance was also used for some of the measurements and a range of model
+lengths and tail shapes as shown in Fig. (7) were studied.
+
+It was also found from these experiments that the vehicle experiences a
+large increase in lift when subjected to a cross-wind. This leads toa
+reduction in the restoring forces of the magnetic suspension and hence to
+less vehicle stability. Experiments were therefore set up to examine the
+influence of the vehicle body, cross section on the lift at four angles. .
+The influence of different nose shapes on the aerodynamic behaviour were
+
+| also investigated.
+
+A problem yet to be resolved concerns the validity of conventional
+wind-tunnel testing with regard to the simulation of the ground effect
+and an experimental programme has been started to assess the errors likely
+to occur in conventional static ground testing of elongated bodies. Two
+approaches to this problem are being followed, a) the pressure distribution
+and forces will be measured on a 1/10th scale model running on the Wolfson
+test track. These results will be compared with measurements made on the
+same model in the low-speed industrial wind-tunnel at City University,
+
+b) measurements are being taken on a smaller scale model (1m long) running
+on a track constructed in the laboratory (18m long).
+~ 9.
+
+?e Rotating-wheel test facility
+
+During the early stages of the Warwick maglev project analytical and
+computer studies were undertaken to assess the feasibility of the levita-
+tion and propulsion system. Modelling and small scale experiments were
+carried out to gain a better understanding of the theoretical predictions.
+
+o However, in order to improve the accuracy of the measurements and to
+provide more realistic test data a large rotating wheel was designed and
+
+” constructed. The essential magnetic force characteristics of the split-
+track levitation and guidance system being proposed at Warwick and predicted
+by mathematical analysis could now be confirmed.
+
+In this 'splitetrack' design the vehicle guideway configuration
+(Fig. (3))utilizes a single set of superconducting magnets on the
+vehicle, interacting with two, separated, conducting aluminium 'track'
+strips for the generation of the levitation and guidance forces. Active
+power meander windings laid between the strips interact with the vehicle
+magnets to produce the necessary propulsion in thrust force. Although the
+lift and drag forces generated in a simple (infinite sheet) configuration
+have been extensively analyzed in theory and experiment, a complex guideway
+arrangement, like the Warwick split-track configuration in which the
+influence of the edge effects on the induced eddy currents is dominant,
+has not been fully studied in detail. This is partly due to the excessive
+computer times that would be involved and the research has therefore been
+concentrated on the impedance modelling technique. Using this method a
+larger number of results of the system characteristics, extending over a
+wide range of vehicle speeds, have now been accummulated.
+
+The rotating wheel facility has recently been completed and commissioned
+and a test programme has recently been started to obtain the experimental
+data to validate the results of the impedance modelling technique.
+
+71 Design details
+The rotating wheel facility consists of the following major components,
+a) the wheel
+» b) support structure
+c) drive motor
+° d) superconducting magnet and force balance harness
+e) two aluminium levitation strips.
+a) The wheel
+
+A view of the rig and magnet assembly are shown in Fig. (8) and the design
+specifications are listed in Tables (II) and (III) respectively.
+
+=-10—
+
+To satisfy the requirement of non-magnetic materials used in the
+construction the design consisted of a laminated wooden rim with an overall
+diameter of 3m, reinforced with glass-fibre/epoxy resin and supported by
+eight aluminium angle spokes,
+b) Support structure
+Plummer blocks, housing the bearings, are mounted on steel plates e
+which have been anchored to two reinforced concrete plinths. The support-
+ing plinths for the motor and shaft system are shown in Fig. (8). ‘
+c) Motor drives
+The wheel is driven by a doc. motor directly coupled to the shaft;
+speedcontrol, loading/braking, etc. are achieved by means of the variable
+voltage control provided by the Ward-Leonard method, e.g. by varying the
+field current the motor can be made to act as either motor or generator,
+thereby either driving or loading the wheel.
+d) Superconducting magnet and harness
+A single superconducting coil, 150mm square, and contained in a
+commercial cryostat is mounted on the force balance, located above the test
+wheel on a fixed portal frame (Fig. (8). The magnet was successfully
+tested to liquid helium temperature and the field measurements of the
+energized coil showed good agreement with the design specification. The
+characteristics of the coil are listed in Table (IIT), The magnet harness
+and force measuring balance enable measurements of the magnetic forces
+to be made in the 6 degrees of freedom, i.e. lift, drag, lateral forces,
+pitch, roll and yaw mements.
+e) Split-track aluminium cenductors.
+Two aluminium hoops (approximately 3m diameter) were formed from
+‘ 6 welded strips. These were thermally shrunk to the rim of the wheel with
+a gap of 110mm separating the inner edges. The hoops have been designed to
+withstand the combined stresses due to the centrifugal forces of the rotating
+wheel up to 45 ms” and the thermal expansion produced by induced eddy
+currents. The results obtained from the impedance modelling technique have
+indicated that the influence of the welded joints of the aluminium strips on
+the lift/drag force measurements should be negligible. “
+A digital electronic control unit has been designed, and is at present
+being built, to replace the existing manual control of the wheel. This
+unit will be capable of accepting programmed jerk, acceleration and velacity
+profiles.
+Analytical investigations on a design of a linear synchronous motor for
+experimental testing on the wheel facility have been completed. For these
+o11-
+
+measurements an array of five superconducting coils will be mounted
+on a force harness above the wheel and these will interact with a ~
+3-phase winding fixed to the periphery of the wheel and powered by a
+variable frequency supply. The results of this design study have been
+presented in an internal memo.
+.
+@12-
+
+8. Linear synchronous motor propulsion
+For environmental and other reasons only the linear electric motor
+
+is being considered for the propulsion of high-speed maglev vehicles and,
+
+in principle, there is a choice between the short stator induction
+
+machine, or the long stator synchronous machine. However, for the electro- °
+
+dynamic system of levitation, utilizing superconducting magnets, the iron-
+
+free, long stator, synchronous motor would seem to offer the most promising
+solution.
+The principal advantages of the LSM are as follows:
+
+i) No power collection is required for the energy supply on the vehicle,
+i.e. the super conducting field magnets operating in the persistent
+mode, consume no energy except for minor thermal losses.
+
+ii) The air-gap between the armature track windings and the vehicle magnets
+can be of the same order as the levitation height to attain reasonable
+efficiencies, i.e. 100 - 250 mm.
+
+iii) Since only lightweight,iron-'free' magnets are carried on the vehicles,
+the overall weight is considerably less than with the conventional
+electromagnetic propulsion systems.
+
+The basic mode of operation of the LSM is shown diagramatically in Fig. (9).
+
+Conventional flexible power cables are laid between the aluminium strips
+
+slong the track in a meander pattern, to form a three-phase winding which
+
+thus generates a travelling electromagnetic wave. The vehicle magnets
+interact with this travelling electromagnetic wave so that the vehicle
+
+speed is synchronized with that of the wave, this latter being determined
+
+by the exciting frequency and the pole~pitch of the winding. The energy to
+
+the winding is fed in at intervals of 5 to 15 km from subestation frequency
+converters, providing the current and variable frequency.
+Since both horizontal thrust and a vertical force are generated by
+
+the motor, these two components can be adjusted independently of each other
+
+by the current in the armature winding and by the position of the vehicle
+
+magnets relative to the travelling waves, as measured by the slip angle. .
+
+Hence, the thrust and velocity of the vehicle can be controlled from the
+
+trackside. Likewise, because of the vertical force produced, some control
+
+of the dynamic behaviour of the vehicle in heave motion is also possible,
+€og- by controlling the slip angle. It has been shown that high machine
+efficiencies and power factors are possible with this design of LSM,
+
+- 13~
+
+Coe n = 0.88 and cos? = 0.93 at an optimum
+working point of ) = 123° have been calculated and confirmed in
+scaled model tests. '
+t
+
+By the use of superconducting pole windings on the vehicle, high
+magnetic fields can be generated over a large volume (large airgap) and
+hence the power requirements for the primary windings in the track are
+reduced to a reasonable level. Typical LSM/magnet coils operate with
+approximately SOOkKAT at air gaps of 100 ~- 250 mm, producing 0.25 - 0.8T
+at the track conductor level.
+
+: oe
+- te
+
+9. LSM research
+In the early stages of the Warwick project an alternative propulsion
+system was investigated, namely the linear counterpart of the thyristor-=
+commutator d.c. machine. Its main advantage is that, since the length
+of track winding excited at any time is relatively short (of the order
+of the vehicle length), the power factor and efficiency are both high or, “
+alternatively, fewer superconducting coils would be required on the vehicles
+An analytical study of thislinear commutator machine (LCM) was under~
+taken which was concentrated on an adaptation of the standard d.c. machine
+analysis. In parallel with these theoretical studies a demonstration
+machine was constructed with windings around the periphery of a 0.5m
+diameter drum. A superconducting magnet, mounted over the wheel, provided
+the field excitation. This was the first demonstration ever reported of
+this type of linear machine and it should be noted that the Japanese are
+now using a similar LSM design for their maglev test vehicle.
+The main features of the LCM which differ from those of the long
+stator LSM are,
+i) the short, excited armature length and ii) the fact that the power
+conversion of switching equipment is distributed in small blocks at short
+intervals along the track whereas, for the LSM, much larger inverter units
+are located at longer intervals of a few kilometres, typically 5 - 15 km.
+In an attempt to resolve these differences a cost analysis was
+carried out and a comparative study was made with other LSM machine designs,
+iee. the Canadian and the MIT LSM designs.
+
+However, in view of recent developments in pulsed current inverters,
+the decision was taken by the Warwick Group, to transfer the research
+effort from the LCM to the LSM. The latter appeared to offer the better
+prospects as a propulsion system for the Warwick split track design and
+therefore analytical studies of the performance capabilities and topolog-
+ical variation of a LSM propulsion were undertaken. These studies will be
+fully published in a forthcoming report.
+
+e
+- 15-
+
+10. A.C. losses in the superconducting coils
+
+In the application of superconducting magnets for the levitation,
+guidance and propulsion of high-speed vehicles, the coils will be
+subjected to time-varying fluctuations superimposed on their d.c. bias
+fields because of field variations resulting from various external sources,
+
+. acting on the vehicle,such as track irregularities, wind gusts, etc.
+Furthermore, the vehicle magnets will see the periodically-modulated,
+inductance coupling with the powered track winding of the ISM armature.
+All these variations in the magnetic environment of the magnets, super-
+imposed on their constant flux (persistent current) mode, would result in
+the generation of power losses.
+
+A research programme is being undertaken jointly with the Rutherford
+Laboratory to investigate and develop experimental techniques suitable
+for the measurement of ac. losses in multifilamentary superconducting
+wires. The main objective of this research is to improve the under-
+standing of the different loss mechanisms as a function of the physical
+geometry and metallurgical treatment of the superconducting materials.
+
+The helium boil-off technique is being used to measure the losses in
+short samples and non-inductively wound samples are also being used for
+determining the self-field losses over the frequency range up to 100 Ha.
+A number of interesting results have been obtained to date and the
+apparatus is at present being modified to improve the sensitivity in the
+very low frequency rangee
+
+®
+
+- 16~
+
+Vie Woifson test facility
+
+11.1 Guideway
+A guideway structure for the testing of model vehicles has been
+: constructed on the university campus over a distance of 550m (Fig. 10 de
+
+The construction consists of concrete piers at 5m intervals, spanned by
+timber joists and finished with a timber deck (1.3m wide). The dynamic .
+deflection at centre span is less than Smm for a 500 kg vehicle.
+
+Aluminium strips (200 x 10mm), spaced 380mm apart, serve as the running
+rails for the maglev test vehicle. Propulsion for the vehicle is
+provided by a towed trolley being attached to a continuous cable driven
+through a capstan by a stationary petrol engine (Fig. (10)).
+
+The test vehicle is mounted on the trolley by means of flexible
+bearings so that its dynamic behaviour can be measured, using miniature
+tape recorders for recording the readings of force-measuring transducers.
+11.2 Test vehicle
+
+A model vehicle (3m long, weighing 150 kg), consisting essentially
+of a stream-lined glass-fibre body shell, with provision for the super
+conducting magnets, has been constructed and tested on the track up to
+a speed of 35 veil
+11.3 Superconducting coils and cryostat assembly
+
+Two superconducting coils (0.4 x O.4m) and their helium cryostat
+assembly have been constructed and are presently being tested. The coils
+themselves are contained in a welded, stainless-steel vessel with helium
+cooling for several hours operation. Up to 18 litres of liquid helium is
+stored in three cylindrical vessels extending the length of the cryostat,
+Fig. (11). By sealing the cryostat and allowing the helium gas pressure
+to rise to 2 atmospheres an operation time of from 3 - 4 hrs. without
+helium replenishment has been calculated. A stainless steel radiation
+shield and liquid nitrogen reservoir surround the coils in the vacuum
+space. The coils will be operated under short circuit conditions by means
+of a heavy copper, shorting connection across the terminals (Table 4).
+11.4 Problems of magnet design
+
+By virtue of the application of superconducting magnets for the
+suspension and propulsion of a high speed vehicle, they would be subjected
+to severe dynamic conditions and hence the design of the coils and their
+cryostat assembly differ radically in several important respects from the
+
+a We
+
+conventiona] designs for stationary operation. For the split-track Jevitation/
+guidance system in particular, square or rectangular coils are necessary.
+This, in itself, presents new problems in providing mechanical reinforcement
+apainst the very high magnetic forces generated in the straight-sided
+_limbs of the coils. By contrast, these problems are very much easier in
+
+2 the case of circular coils where the forces are uniformly distributed.
+The design problem is further compounded by the constructional and operational
+difficulties associated with the sharp corners of the coils, the migration
+of the winding and stress concentration. A study was undertaken to
+establish design criteria for finite radius rectangular coils, using both
+the stress analysis technique and impedance modelling measurements and the
+general conclusion from this study was that a reduction in lift-to-drag
+ratio of the vehicle must be accepted with increasing corner radius in order
+to maintain the same guidance stiffness. Another consideration is that the
+coil shape, to a large extent, determines the geometry of the cryostat
+assembly which, in the Warwick design, consists of the two square coils,
+housed in a tandem arrangement inside a rectangular vacuum box, together
+with the nitrogen thermal shield and helium storage vessels. Very severe
+mechanical problems associated with the large flat areas of the vacuum
+vessels had to be overcome and, in particular, because of the limited
+distance between the coils and the aluminium track the vacuum and thermal
+insulation for the helium vessel had to be severely restricted in the design.
+A further difficulty which is not normally encountered in the design of
+conventional superconducting magnets is that of the transmission of the
+mechanical support forces from the coils at liquid helium temperature
+(4.2K) through the vacuum thermal insulation to the outside of the cryostat
+at ambient temperature. No previous experience in solving these design
+problems could be found in the U.K. However, with the advice and considerable
+help that has been received from the Rutherford Laboratory, most of these
+difficulties have now been resolved and it is confidently expected that the
+cool-down and operation of the magnets should now proceed without further
+trouble.
+
+°
+
+-18—
+
+. Ls
+z
+z
+oO
+- ‘
+© .
+> :
+ce
+Cc
+ld oO a :
+pO ts
+wu
+9 a
+| \
+Oo
+i
+} Zz.
+© 3 9
+uJ _ =
+< q uy O
+=< WwW .
+QO >
+> z
+N iw wu
+(I Oo.
+a\ toa
+iW” wn a
+a. x
+: Ee
+fe)
+&y OW
+I
+z Ww
+\—. -
+©
+ct ¢
+) am
+ee oO Q
+be > .
+. a ij Q oO’ «
+Ww) a zwQ \.
+z < Oo <
+z = < F &
+P M =O .
+| 4d uu
+Ww
+= us ‘
+uw = ‘
+u zo \.
+_! ~~ G
+st SS uc \
+cm © Q oO . +
+
+A B
+WARWICK CANADIAN
+@--———---—© O-® ¥———_—_O O-®
+ear Gowan) CER Gee ~~
+UU
+PULLIN
+Cc D
+MAGNEPL ANE
+x MALT A FORD
+Ba Sy f (U.S.A,)
+‘ . Sn SF @a—O 4 A O--® ;
+FIG. 2. ALTERNATIVE GUIDEWAYS
+
+lines of magnetic flux
+( ma \\ 11 fl.)
+a f lite force
+Je khnk de el up MAT MM,
+chuminium strip
+guideway nateral? 7 "esncrete
+guidance
+forces
+FLUX LINE PATTERN OF THE LIFT & GUIDANCE FORCES
+FIG 3
+
+| a
+9
+f 2 3
+. 2 5
+| 8 8 Oly
+| h = BiX>|S/o|
+: Ew One ><|><]
+— wl w
+| : \/ 52 8 8
+b a
+Eis x s
+o
+| iN’ \ 1318 6
+o. ‘ ) oO o 7 us
+Ww \ “| 2] 8 a
+> o ‘ gy 0 | & y)
+“Vv \ \  feleigi  . 8
+— ' \ P| Sli O
+wy, /\ v
+” é oO
+~ [pr x
+‘aw oO
+: Af As F
+= (| yo ay “i
+~ \ ) O
+/ WW te O
+: =~ ‘ Vi 5
+>~7 \ i 2
+C | | <
+J FE : f
+5 s
+3 as >
+“ 2 ;
+“ c ff <
+~ J <
+=
+CG xt
+qi 2x :
+ae
+ES
+a
+
+ios
+95 Zz
+10 _--e-- E> 4095
+a Lift
+Yy 5 Drag
+Mg
+8 T20
+6
+‘ “rr My
+4+10
+2
+Yy
+b
+seaplane tallies WM Yaa
+0-85 O9 O95 lo B
+‘ Fite. 5 Cott Force Charcleristies . e
+
+Ma
+mM,
+Zit) 4
+Ko od
+K;
+aE,
+Ke Bo
+M,
+—_————_—_—__-——_—_7
+Ky
+mo rrrrre7 “0
+; FIG. 6 SCHEMATIC OF SECONDARY SUSPENSION.
+
+—_ = -» al
+ue a
+-~ C£
+BE &
+| ce 9 £ 2
+! [\ EEG
+ra | ~- fF @
+©) Ss ¢ &
+4 ovo SC 4
+ee i a mI
+Yoas WY S yl
+“wy Mw OE
+; aga Oo
+©
+5 | |
+2 | @ ee .
++ +
+OOO
+<a
+Cc
+CO
+e ‘-
+2 vu
+| : : )
+; ) n
+Smt ui o
+0006 OS a O Bh
+w |
+w
+8 nv
+O
+is |
+6 nu
+| —<——$$
+: O
+t
+
+; . i He appa Licata TE > RARE SLIP Pee ies
+ty Ee oni. ae —— 5 ener ay cn, ae sissies ta
+A eh REET i Om oR ee gi AST NI Pa + aK: er gy ny OR Gian eae ‘dale Be
+
+RR eas WE : RM SN ing Re a oat CMG Vong | RGRAY koa ieee: cal
+hid «17 ee aa pa vue iO, Th: ws Blears ne Py tga a 3 Rg a2 > Faetan Rubiepr cae, Shes i
+Sa W's dc oe Pag a aig | MRS ae ie LP ik athe ‘ i | a
+
+ais.') RA Bo ee ane! a2 r Ee 3 a wats - e,a. oN er : v Hi
+
+Be) ah a OME al seepeaeay fq ame tan eas my GCS a, Oe Re eae te .
+eieht a; na yee si oe as eee {i wr Petia = es Pe ce fe ia) OPiok carmen? aH Sn ey ea
+
+PRET Ra Tore 2) Gi)” % 5 eed) he iictete TREO oare gS HIPs: TAM eR
+
+Pa ahaa e ad Fe peer se EMM teint Sears 4% ay” we
+
+BER AAR AE EB . gn : ites. arg f aa pathy) ot a ie ra eagles PU eds Rho
+easy ee i a i ae ‘ Mage ie ae The, ual By ae os ate aig % ei Rouges rane
+psy yams 0 Da oh. \ Hi a i) y ie JZ }. ‘Saromets tee Re it Aree aaa aN i. ane ek te pea Be 6 y fe 1 esate me
+
+eben ; Pee Ay Ba ie RP % a ve VOR BE egeay : hy Bea aid ee Si 5 ut, ” rs re a
+
+8 pe Pe ws ee > Dy tb A ie oA ee If “ ' , - ry ~ Me Se v-d
+
+‘ pac ere of ‘ "ete vat a “ i 7 Y is a ts if pon ey eel bs ate Nis pkeit oat ieee ve Dee : eat seo 2 a ' at
+Hae Pst th rede SOT PR 9 NN bE I OT Re BEAM Re Oe oe gn ohne igh vk eae eae
+
+PANY ‘ fbi 7 4 RF dane. > oe Ras Sees eae i . ete a be ze af EL Roa ‘i 1
+
+aang sees lew if, Si? aa fies AE, oe ee 1 ahi ie Ae We Ooh Ages || Sie) a ha as oie iy. A ye Api i x nee :
+POM ar Pes iat iat Baa). yal ea Sad IRR aN BO ek eee Reet core > tia Pa Ee alae Se on x7) i
+
+Rasy Ch ROR i Ninh ake GF abe! Pe, CU ag, y 3 ide MS Alot ee ee ae Naas : A PND he ee
+2 i fel hid aS * vi JOU e Biss By De esas CS Wee — re Ps ys 1 ne pt ESR SH 4 BD aces ta phe
+Heal so " pe “ ‘ee, . . é os Aa, iy
+a ronan titel ON, ene ae Rr iadbiccs Soa ti a eliicamasce NEO : He
+= ee a é = . 7 “a ;
+rs oH, 4 ES SC ce > a aa
+
+OEE um eR ; es Se ‘ «fii ihe te aS entire 3 ks
+iy 7a ’ As a Ga le 4p? ° ' ec Mae , Ve t oe “anys. x 28 ' i pik ote oe Se Fn pat é
+By ea By hs a is iy - . _ HE ait Pn a :
+
+Data ay ath es 9) - 1 ins Pica, 6 ay pind a asta. oy ‘
+pt ‘ a Oa bigest ly hitb he a4 ; . a ih 9 4 Bay eh
+
+ca Se it ey f . +h 5 ya ‘ A pi Sie Tas rep,
+es ana} , Breen sino Bed i 4 "
+yes PP i ; . ors cae Seaemmamen meneenaiie cemeaare
+ee ie ? f my ff .- — Ce ay ‘ ie wie My Ya, eee ren is . \N ea i
+wp et a oN md * , Ee f Pa P - Ae ® "a . ,; S un oe ay, oY . + 4 :
+
+i ONS ite ie sist a eS cit Sep a ie . * Pi
+ee} % * . } ay ae BiS S é sia eS vee 5 Wie a, a mae ‘ e af mh re 4 rat
+é tf 24 Ge | ballet eS aE eee — XY Fale WE. “TN,
+BPRS, fi Wg i Breet | f on Ds Bae ; Y a Bed acicpeee
+
+i rie ae rie ? of : ee y nies eS i —
+
+et ts oY 7 4 } f Be
+ist 4 ry s Ae ~ » ie Bs | “) se vr
+} Pa P iS es aga er mY es aes | fe de
+Hy ae % . Rehr tS a aie , “as yin] ~~
+CMe vcs | Mtn it! INES IE
+yer er vey Ap Pree ee rf ee 9: he
+deptind et = ON te { Be BR
+Pe bie sph he oe ey Yew yi b : i Se F .
+hged | ek ad yt) a»
+Du) i ie ig f f ' g 2 33 a
+NO» Deen iy J me i hart gt Ye yas
+ass & vate ol fh Tt 8 <i a
+
+BAM A ied i Phin , appt) Hy 7 . t
+es bi A ee 3 i = e i = BOT serie '
+fa fk mt k « 7 9 ABT tS A s “
+ee | gee ‘ ua Pn syns 7 .
+eh eft Ry ohh. 7 Be Tact capa a + om ss : J
+po Se: ss “y Oo) aa ames | a) A % :
+hidsaceeck dif ale \ aie { ; oe 4 a a h ; ' ¢
+aN jag xe: Pbii \ Wo BE een aatitag?) yi _ f
+
+Hs Y is . igs. Y % hs a Boy ih ieee : bs ak sree 1) eee
+5 fas’ " ME eA BN er, a 7 1 oF Seg ie fi | Be aes be ; . me
+GR RSs Book Be Sf 1 i , Or te ee
+Pa ak te fr i Sh \ Aha?” ne : ’ = Fear Ip
+re Meee os ce ol ora ees. th et 2 AER ry r : : has OS Prey
+e Dae 5) my “| a8 Rs 4 haa ? ie Bibb . wy uy r AES A able Wore ae he Ten
+yi aN 04 Lm ' ARPES By . 4 ommaenieniiion aa ep ua eet
+Bie a Mgt a ea ay ie ae Gee Pay Jee SS fe
+ear Wa ee 5 ig ea % en eo) 4 a vty A pr 4 Ms ) 7 gree eo Line en
+CRAM RN @ ae a ee. So riakg Ve ns AF a8 ue aN Age Ne eM oP
+ett iS ' eg Mer Ng . eu SY Mess he a a) ’ / Pov poy ya vet pa ry
+f i . eh ie Lae a Si a “th a 8; _ if tity oy
+leis Be - es NAG pad Se 4 AS, m.. bat fi ah ' + Re
+Seoky mtb rie 2 ” ef “Wwe ° es a ’
+° emer SRA" tae gnii-s7ion one on 7 gas genes OO RELas aROTA t
+ie oe a Tk ye omy oth ape mt rhe, Pah) te hae gy ONE eine ri ee egy Ea © Pa ane
+8 cise (ern re us ' amet y. rea” 5k aia nat a Ms pee Ee hate hdl 5 pan Pant es ay; 4 See vi oe
+Be evigee COR ga ar srs, ae, OS Rs ae a OE SRT St Othe RO > ea 5 Sa Pe ee te;
+Vs ie eae — res hae ia We RA a ee e me? uhh ' igs] Se cS ee PE BRM: 2 z 1 i aL iat
+okey Ys Ct af, |S See ISIE on sy Al Fay -! n sa aa OO ae, ma? Oe es | VE ba “i
+RB Wa a ane Yin rs fare : ma Y ae kore te 3 See i ah a ti Saher tne ay to Ge vi Greats Pei af ‘ x o
+iby et Nh ee ie RES el a Melati, be SS RI ah a es “eae SR ES Pasa) 0S eee a
+, (On NES yi - aes eer fF Sos * $ ets me eo bMS ys Be Ey aed ; St Magy sea wl sceie
+Ban fine: - G, > a if a 19 tape ine ne 2 a SS es pel a ae ee Com fo ie st vy : =) i ae :
+ee RET : P5503 Sho a Aa SP aly aE ot ay OT ene coo |.) el con it: EE ES eh ye)
+
+i OTR EMA RS tO = re he ud) 4 2 MRE: a oy Fe eo a aes RS SWS 0 a 5
+
+Ta AN ae iets ih aM He a ses eih eat | a ERE, ide ie a ee eae test: eae Teg “a 5
+ARN Ae” tat ahs ip Pip cB Bld ik Ns eR Dae ER mia PE ‘ Boe ee Mee
+“ aN i hf OS fie da Peta a. 0 Rabe tha. a8 i Me) SAE NSE ee tes duct ol “on 4 iy ODN ya
+' ma Pee a ON glee Lay ARS vl Oe Or. Bes Sy a Bate Rae SLA De eR Fy heal
+ca yt aire ee ods? TA ER neh iy
+Boas sists ST Ga I ES, ON ne 1, eras beta was? 215 A Ee ee ti: ee er bah a
+(on 5 cag bere agar ges tes eA bE aamey, aggre * BE ponent Ok: ame: mut
+(, RR Pt AR Sd iar aie ayo 2 EA Man 00) 4 Pra ee, * , oe \ RENEE Seto roataae, ae on”
+Mae SumaTUeRS Sue ea Nets J Eee gang em by Wee’. | iene aces. Sila
+awip Med 2s WERE RE RD ete BEN ON fn Saito) te Jn ow ee i tai eee a oh ahh | td el
+aS a eke 94 i Sar Ain niet i Be Oa SR vig bs eed abr
+Pn Sa, So Ae | sed! a ad TEES ag 5) ot Sata ve aa a SN a ai pete ;
+t be ot , © ; ; ) 3 ary i ee ‘ ery. Peas: Pit »
+
+: —_—_—
+
+eneeee
+FIG. 8. Test Wheel,
+
+a /)
+SN) 2
+=: OA\ Z
+S %) = :
+R fr =z
+2 -<Wh\\ =
+wd Os \ = : oa
+2 {VE 7” =
+Z , SA‘ A ar uD
+mz LN fs “ a
+ae ae e. OY\ . 3
+‘ LX e. YY =
+; \ rae @' | =
+\ Nae
+\ ‘ AN - a
+\ KKM) \ =
+. OG Te
+\ \Y a
+| Seoul, \ mc
+\ InN / ro
+| 2 \J Yr: Za
+RY S ‘
+p'\ <4
+itt cf
+BK TS |
+ef SL 4
+= YS \
+¢ eos .
+2 SS,
+E QYy
+
+e Le
+, , - ,
+’ Ta 4 fj
+3 aie ene sg Rn Pea
+VRE SDS Oa “nati FP es REO te en ake a
+; at RY ae , rs , Mee FAS ee as een ets Sie. ae atte Rete RE cc. mie
+n PY, i waa! A Be F ‘ 4 ie ha 3 he oe ie re Me see Met: hd Cy es | at a oi ,, oe
+RON, | LOM at ee, ‘aes Mp oa ee Aa ita dee ‘eid z cn wa eo) de 3 tachi cian oabe acal y
+1 a Oh i haan. Lye A get at ty wh te ae Bede i) ; alee "
+ohW al on mite iy i rs rity a he ait. ini 2 tha Pain , MEST ci oe we Be cs
+di Sire i) Ly Tar oe i Feat ae tite wa 7 aos oe COM conn Zi Abie % rag epee
+Mae en 1h Fas Be Ki, aS " 2 Otte ish wh 3 Ox] ‘ + Bien» wad rine Se
+3 ae a POW ACR, $C Pe) el OY 4 gy pend SE Ae : Fe Ka Po = fa TAI / i ier vo
+Poet ag 2 Sy ean aN si Fy SH: ers Ne Me nef othe Na” ee, oe “pasate ei AEA fs eee
+ae y i; 2 3 A aby i; pe. ; i Ly i. we 3 ae: +i ih ee Nias & be a
+a ee | aN bn, Rp Ee Gp nin tee ie ne PER re me,
+er ir ay a cat ae + tfemahe ee hes Wisc "ae ; “3 an - es soos kK :
+. SP ieee ae on, Nf 4° an ve : 1 2 ; ety a ii | ee Sah a ty ip Addy
+4 al ue! Sot 0 fs i ee ‘ he wi ear’ Faith aAgy if y * d Mf é ae, i Ke a ney
+Pat ee ee as , ae, ( Led aa : e bi eS Rs, papery Sy aed
+peers ine Tag late, gL Se WERT nc etn fhe ha ; cae ay
+Dg em Sie ou pee + SB I oat Fs ab ht RS wy i, RS AES ote. MAPPER sti
+pene." Lede cae eee eS re an? ’ / Wy a, ee oa : Son Sa. rhe
+OL A - He. ete Ki fi py A ae Sn a an, a , tn 5 - . Gtr, De ea - ayer : han a hath:
+- ny wi pes No: . 4 By ea ree FR : ye. Daal nN . iF % vy ghee. Bl, .
+Rae ea Sy aga a ees ‘oie eh pte Ae San oe astra PEE 4. » .
+isi neo aayee ve "iT. at on > ge iN a) 4 “at shana Re ee ee aw in, et,
+pate tei eS Mam iy ey, Sgt, Sea tee on
+ver ye erie i ae : oh) Sep. jG NON Soe ib b ae TEE FP hgita reba Tr Cg ‘a Y
+Py ie wa: PS: ae on stip, Vy i in, oe teak
+PE nie IRs “vin Lh, Aaa Mie SE BK Staph tie ae eh ose
+Mice Ae AMR on, “piegtitae satin cs, “SS AAD sO an ie
+SN igi ee" rast My castes ‘ Cree) nat Le ts 3; oo ee ys wae
+ee Ral ’ Pare a ros ‘ Py Sh ie Martie eka eee fey: HD. Dp i
+F BRS ta ee agerty A: . : “oh By i ua RS Y ‘ oo Se f tt ss ae : , » NG ti
+MH aL Pt = +», * 7 1) ae ” 4) * : rh te rs eh ay on heed i og
+if ae ee Re rae Fy aire p - a Ro tae Ua “i se ee. micad err Pe ) es
+Ati Wua Rah eat ee. Mee ES By tg oe ef » a ee a ivi
+ie Chute ies aint hs as de Be Re cer eo Lee
+PRAM Re Ne Tt a Ta a Pn Para} Tare a: J
+a " Ne . van Do ON eae, ne eh Ae wad 5 ‘on 7) ~ :
+Lh yg ve %] oie papi Sahay ahs ete ra Saget yt cet ea
+eae PANE cee aie cats ea OE RAE SF ere a hd) at by, Pee a
+: vi it iH dt a wy! ei ahs hegt he Cae ee tas ; ee . > re “ hie) My. ' a SiR ea fs a! ‘s
+aye te NG Soar ey, Aerts hy ee Pye » at Ys eter | ‘
+Peat ty Ke Tie 1 Cy BR wut ih “iy Wega i Acad PA ar Coe. . i rh 1 fs eR LS 7
+4 aa eT a gh , te eT) ea yo . eC “erat Fr. o ‘ ae ; H Hag re Au; mY, West my...”
+pS eae WN ees . Sar , 3 Pore Bi s a rie Crh to at Re
+. , n siti oe 1% ak ree o “it Che St 7 ¥ Mick ee 0X ae
+oR. i 5 ane mee me. apne eR Pe holies ao ke lobe
+7 Me Z ee Wwe Oey Nah «nyt aa ee 0 GaP ea . vie) a
+sia ttt cet aan ag gee a tee
+ry *S 3 aS Pk eee al “4 Shee Pi. See, a ak CLE TT Ps PL Sn
+iV } , was y v a Ms - t ; . VBE Se r
+a oe Te ot doses se aati rg ) Hse . , rd pe a ete ee es - deaetinee is '
+gy = NS Sani oe be i ei se ; bar!
+WD, a ' ae : ’ Lip Se nt
+See cam ian . . ya 2 4 .
+. fs} +. F a ee. 4 é
+‘ i a eee emetires (pe, Mads nn a
+rr a moe J | looe wen tah,
+iH PMN ra Puli vaca Dues ma
+SE ga pr RY tis St RR are yes, 598
+2 ry: Sadia ae i | og E : Sa ke ae A om ee ee) an r
+Laan A emai ttn ‘ at reap HY apeer : Set ay, 5! ett Pe PO hia i PS a ; i
+Fete oc el nn 1) on Kj a Sabra ease Saitek Yaar ACR py ee) he Sob at
+a 4 So “f tl \ 2a et oe t i . iad 1 Ma) Het VAN oe ni ee A Zhe St
+het, s GA . Ses y re aor rae > °
+Moma Nou Ee PTY) da ¥ sue r ae , eae i mi) WO fee, ope ore Nara ,
+A ie Py 1 a Het Sa
+SAGE ETE is nyameijas a4 (Vd Stet a3, wo yet Parag P) iv ;
+WRT ai vi a4 :! 4 . hs oh J ’ : " °
+~ ee MCS V7 Mi hinw on a PRS ne “2
+» ; iy on we eer s 4 is ) NaS OI ceotacin Cis » ee
+4 Gh, AR ban 6 Lael wabiel Ai ee narned 1, UR pee ae a afte
+‘aie *: ree Ki erie POR eke wy UN een ale Pe
+: ree Hs) N " sy ” in Pts: Pi Oia ’ ve eS fi Fer De oat "ahaa CA ft
+} eS Ty sy eerie a bt _ SBMS See Fy ota oy? - dy
+Poi, Bh ie: t " he 1 elit i a ‘,
+f Vile Re Wheaties ai Nea WA a » af en Maas ates eas SC . ee
+ae NA Lal IL ST Oe Sei a6 , Pe Sa a a:
+Ht ; ison ON ee : vs P Py Ss j Rf aya ‘
+sa? = ‘ e O14 Po ni Pa - a ‘ De ae | abel ay ‘ ‘ gett ‘ a ras uae. 4
+t / ; ate Hi ye ee EUS Pacbakae 27 a wet ee yet rf Bese ;
+1 ae ae S12 okra Ra iE yeh Cie kee : \ tat Yi . ; thosay } oy
+eas Wh te, Se Nee ISN ah a , a i ‘4 t ¥ A i ; af eet
+* Moo ty, WR Spee os ‘ , pi 4 nn we CT SA ty a DA
+&. Ae ee) ah ak uaa fy : Sie baie, ep 1 Felted von eat}
+wae bi: : i, LL ee ~ 4 ‘ ine _ z Pe ase : PO
+pein iex os , aL AP aaa 7 a. IR ie ha c
+. | a aay 1 ve: y oat a SdH ys Sy ae By ohn “ane eae rc
+ae ‘ Pe 2 Cuk eat: Taboal eee Ds berate a, an tS OE ay ky aay ae By AS i
+7 ° (lat "Bye BES AE) fie Se ee eee Peek LS The eae ts ae Tae Coe pad alta : ‘
+aie SO rae ha oy Ce Lop Wepaes here ee 4k Ne a Ney sl
+eR ane te ey ree ee apis sce acd
+ag Pn 8 Sue aS HRS heehee = Tegner j ef , NAS be a
+“ . ii a ee SBS a ie eran Bite boat ’ Se Ag} ad PWD ere t te a
+alee ek a ne aay Y
+ec ee i x ie
+; io :
+
+1 a oe Tae nee, he rN Se Erte en > -~ "5 6 .
+ad pes on abe Sap one Or gs Kes iene fa as, 2 = ' =p SoA ee
+We iby iO at) RAEN if Tenn e Paps 7 a ONY : a 7 aes ' 2 aaa: Y
+Acid 2¥, Gi 3) tea pa iten) ale he Ss sare Ute gs oe > eu utlate wa ae
+seg SSD LD ie Sea oe ae i) «wo Vera
+Pian wees 27712" iar shes aya So SRE eee We tie Wad ‘ 4 as , ae 7
+pee Bg SAF tae ee Sure ee ee, a 4. de “a oS 2 Verma 2
+ae Os Ub Be Tle Ne te SPs eno as 4 aig, «
+Gia oe LORS. one Santee, aa 3 Rei kh oe
+ree Sakae. ar Kinee car iy pete aires egereaemae ae ORS
+re OA. wort ate, vase = Pe gett ; es 7s y, ba . / oes sy
+RS eka a EN IAs) oA ten Seema ame. Game : | . CWE Bayh! Pac ot, Pai
+PRR RG Oe a els ae oi alata tall Se, am Meee
+ey es oF era Fe Re ie >; ms F, or Rote dole Ue esi oad. in ASE. 2 gti arA nS aa . = ‘
+‘ r . * Sat et 1.3 : = omy . "
+; Pee sth Pe Bae SO ha Sy Be ate Sea a P
+4a Soe ie a ifn 3s a , ‘ 7
+i, ‘geialfcia? “Ys a ey Shae ee eS ws rs Bs
+POA pit ee ae Ye ak 7a eeeeanmrwnmer-anynscsmmnmeencdiip eM en Pe Se
+Le the pas " NY ‘;
+Riel. See iit “) Bi ihe mr a. =, ae A
+4 EE. > Se ot r met TR sc: == =, qt 2 Oe te gee . ;
+‘ SPS NDR Ss Cae PEE oe Meas a i ok SRL
+Fe ies Sept sae eet i eu eeee ; aa ithe 29 bt ea
+“ per iD TP rm) Bek “ 5% Ua eare Ce \ a "
+Ramat ade oh ee he Bh Sy i Oi Rt ap) ARES Naim sare ac cng -ame Aas 4 i, Une his . Nar
+ear! eH 2 all, ia a hea EN Tce Sree: ot ep | 8 Breer Re ree ny aor Ny
+4 . a a : . ar it | . Se ok - -~ y ~ ‘ i : x & f, he : Ss . mney
+Ao eet Sip Shobsc i ab at SN ASS
+FAS eth dt emanate at VS oS SU Oeaamaies Sages teak
+¥ . ‘ C We att ae wey 4 WAS . y
+eens ates a aR ee ay ae ORS Be ER ea
+iA tetris en ee
+‘ atu. ie re eae Kt Ais on VERSES a2 PG ee eee
+Poor’ | ee ay SS ‘ m i f sk 8 aa 4
+P ie ree aes ] a re) ui ae rey ee we
+Lepore ‘ Ct eS) | eae ee fl ° a Sg ae CAR ae toe ieee We
+. . ares ih MOM 3 * 38 i ov) ys" fe " & ‘Te oA a ¥ ih iN A
+amore eT iP oe A si oa A Pe eae ee
+: aE Rote ay a oe. - TY — — v0 ruc tee aS} PAR Y _- uae)
+. . i 94 hed niet Pe 0, fe SERS | aod oa hregs® "ts ete ; UE TRUE Se ‘Ak
+ea Re rath gti Hehe b> Sse nly oe io ea gt ee os 3 mee, | ; ‘
+3 , ‘ iasent lay peer | ok) . SD “yeh a > ni
+. tae 3 1 eS wey | Atay “ ‘ {NAD 2 wae y La
+Fl G.11 . Cc ryostat Assembly 7
+e
+' ;
+‘
+
+|
+| Table 1 Preliminary Guideway Designs
+pecsiie SESE SS eraatecn Miltestineseeermerrssereeree
+,  Ganadian
+Infinite!) } *Null Plux' ‘Splig' ;
+2 _ Sheet [{Channel' Guidance ; Guideway ;
+be ee secenpmeecnrsesenenenanetineeiimeomnneneaats Ah enessienncentes mtnnreomeinen spaneiehisisnilssicnsisdiaticn B csascenssiss
+i ; i ! -
+Conductor Thickness 15 15 | 46 15 mm
+; ; } t !
+Levitation Height 300 | 300 | 220 | 300 rom
+} t
+loi Width: | 0.5 0.5 | a ~ m |
+|
+| ‘Len gth: | 3.0 3.0 | 4.0 1 oF i wm |
+k Conductor Width |
+cs of two) ~ 1100 4200 | 800 550 |; fam |
+pees depth oe 600 { - | a mn
+: | |
+lateral gap | - 300 | - - | mn
+lspase Track Gap i - - | - 4250 5 omm
+Litt/Drag at 300 mph —s!
+(allows for edge effects): 38 24 | ~ 22 ny 20 |
+es coe _ voslpecmrsncinae = |
+|Guidance/Lift at 30 mm :
+lateral displacement | 0 0.23 0.7 0.1=-0,2 | |
+anentee ae
+tonne/
+. Potal Conductor Mass 89 145 54 45 km |
+|
+(
+l
+(
+
+|
+Table -2 3m Test Wheel Parameters |
+.
+! ° ¢
+i Diameter 3m ,
+|
+| Rim Width 305 mm 5
+Max. Rotational Speed 287 rpm. |
+t
+| Max, Peripheral Speed 45 m/s )!
+|
+| Max. Peripheral Acceleration 0.4 ¢
+Max. Power 65 kW
+Wheel Mass 5 500 kg
+Moment of Inertia 1100 kg m@
+Max. Kinetic Energy 495 ki
+i
+i
+|
+|
+|
+i
+i
+
+Table 3 Characteristics of the Superconducting Coil _
+eign i
+| Conductor
+Type Multifilamentary core wire
+Material Nb~Ti-IML Niomax FMA61/33
+e Filament diameter 028 mm
+Wire diameter 0.33 mm
+. Copper/superconductor ratio 1.35:1
+Coil
+. Number 1
+Dimension (square) 130 mm
+Cross section 15 x 15 mm
+Excitation mode Persistent current
+Short sample current 90A
+Quench current SOA
+Operating current 35A
+. Excitation 3.7 x 10° A~turns
+Overall current density 160 A mm”
+nll Field
+li Centre | 10.43 mT/A
+79 mm below centre 3.37 mI/A
+Winding resistance at 20°C 157 nn.
+; Inductance 132 oh
+' Stored energy ° 80 J
+°
+
+fable 4 Characteristics of the Superconducting Coils
+Gonduotor: |
+‘ Type Simple core wire | ,
+Material Nb-Ti-JMI Niomax $20/40
+Core diameter ; 0.20 mm |
+Wire diameter 0.40 mm f |
+Copper/Superconductor ratio 331 |
+|
+Coils: i
+Number 26 |
+Separation (centre to centre) 790 mn
+| Dimensions (square) 395 mm
+Cross-section 25 x 55mm
+Excitation mode persistent current ( 5.2.3)
+Minimim propagating current 494A
+(estimated)
+Current 36.24
+Excitation per coil 2x 10° A=turns
+Overall current density 140 A oa
+ield:
+Centre 0,58 T
+80 mm below centre O47 T
+Change due to presence of second + 0,025 T |
+coil =
+Maximum at winding 201 T i
+inding resistance at 20°C 1420 2. |
+Inductance, per coil 23H s
+tored energy, per coil 15 kJ
+
+Publications and Reports by the Warwick Group
+1. R.G. Rhodes, A.R. Eastham.
+Magnetic Suspension for High Speed Trains
+Hovering Craft and Wydrofoil, Vol. 11, No. 3 December 1971, pp.1-15
+° 2. R.G. Rhodes, A.R. Easthan.
+Magnetic Suspensions of High Speed Trains
+Report to the Science Research Council (London), October 1972.
+3. R.G. Rhodes, B.E. Mulhall, E. Abel.
+Flying Land Vehicles Using Superconducting Magnets.
+Proceedings of the international Hovering Craft, Hydrofoil and
+Advanced Transit Systems Conference, Brighton, 13-16 May 1974
+pp. 157-66.
+4. R.G. Rhodes, B.E. Mulhall, E. Abel.
+Maglev vehicle oscillations and Damping Mechanisms.
+Conference on Control Aspects of New Forms of Guided Land Transport
+London, 28-30 August 1974, IEE Conference Publication No. 117,
+pp. 214-20
+5. R.G. Rhodes B.E. Mulhall, E. Abel, J.P. Howell,
+Wolfson Magley Project, Progress Report to September 1974.
+University of Warwick, Department of Engineering, September 1974.
+6. R.G. Rhodes, B.E. Mulhall, J.P. Howell E. Abel.
+The Wolfson magley Project.
+IEEE Trans. Vol. MAG-10, No. 3, September 1974, pp. 398-401.
+7. E. Abel, A.E Corbett, B.E. Mulhall, R.G. Rhodes.
+Levitation and Propulsion of Guided Vehicles Using Superconducting
+Magnets.
+Conference on Linear Electric Mathines, London, 21-23 October 1974,
+IEE Conference Publication No. 120, pp. 223-29
+8. B.E. Mulhall, D.H. Prothero.
+The Quenching of Large Superconducting Coils.
+Cryogenics, Vol. 15, No. 1, January 1975, pp. 31-4.
+a
+9. J.P. Howell
+Aerodynamic lift Characteristics of a maglev vehicle
+° N.P.L. Industrial Aerodynamic Meeting, 23 February 1975. (unpublished).
+
+10. RG: Rhodes, ,B.E. Mulhall, . ;
+uperconducting Magnets for levitated High Speed Vechicles.
+
+Proceeding of the 5th International Conference on Magnet Technology
+(MT-5), Rome April 1975.
+
+il. PH. Melville, M.N. Wilson, B.E. Mulhall.
+
+Propulsion of magnetically levitated vehicles, (Letter).
+Cryogenics, Vol. 15, No. 5, May 1975, p. 295.
+12, R.G. Rhodes, 8.E. Mulhall, E. Abel, J.P. Howell, I.L. Mahtani,
+J.Y. Wong. ’
+Wolfson Magnetic levitation Project, Progress Report to July 1975.
+University of Warwick, Department of Engineering, July 1975.
+13. R.G. Rhodes, B.E. Mulhall.
+The Wolfson Magnetic levitation Project.
+Cryogenics, Vol. 15, No, 7,July 1975, pp. 403-5.
+14. J.P. Howell, J.Y. Wong, R.G.Rhodes, B.E. Mulhall.
+Stability of Magnetically levitated vehicles over a split guideway
+IEEE Trans. Vol. MAG-11, No. 5, September 1975, pp. 1487-9.
+35. J.Y¥. Wong, B.E. Mulhall, R.G. Rhodes..
+The impedance Modelling Technique for investigating the Characteristics
+of Electrpdynamic levitation systems.
+Journal of Physics, D: Applied Physics, Vol. 8, No. 16, 11
+November 1975, pp. 1948-55.
+16. B.E. Mulhall.
+Quenching of Superconducting Coils.
+Cryogenics, Vol. 16, No. 2 February 1976, pp. 113-5.
+
+a7. R.G. Rhodes, B.E. Mulhall.
+
+A Superconducting magley Test Facility for High Speed Transport
+Proceedings of the 6th International Cryogenic Engineering Conference,
+(ICEC6é} Grenoble, 11-14 May 1976. IPC Science and Technology
+
+‘ Press, pp. 407-10.
+
+18. R.E. Rhodes, B.E. Mulhall, E. Abel, J.P. Howell, M.E. Hunt, J.L. Mahtani
+Wolfson Magnetic Levitation Project, Progress Report to September, 1976.
+University of Warwick, Department of Engineering, September 1976.
+
+i9. J.Y. Wong, J.P. Howell, R.G. Rhodes, B.E. Mulhall.
+
+Performance and Stability Characteristics of an Electrod ynamically .
+levitated vehicle over a split guideway.
+Trans. ASME, Vol, 98. Series G, No. 3, September 1976, pp. 277-85
+20. J.P. Howell, B.E. Mulhail R.G. Rhodes,
+Electrodynamic levitation of High Speed Vehicles.
+Second Conference on advances in Magnetic Materials and their
+Applications, London, 1-3 September 1976, IEE Conference
+Publication No. 142, pp. 117-20.
+
+21. E. Abel, J.L. Mahtani, B.E. Mulhall, R.G. Rhodes.
+An Assessment of Linear Superconducting Motors for Maglev
+Second Conference on Advances in Magnetic Materials and their
+Applications, London, 1-3 September 1976, IEE Conference
+Publication No. 142, pp. 125-7
+
+22, B.E. Mulhall, R.G Rhodes.
+Sealed Liquid Helium Cryostats for Mobile Superconducting Magnets.
+
+. Cryogenics, Vol. 16, No. 11, November 1976, pp. 6€2~-3.
+
+23. B.E. Mulhall, D.H. Prothero.
+Protection of Superconducting Coil by means of a Secondary Winding.
+Cryogenics, Vol, 16, No. 12 December 1976 pp. 705-8.
+
+24. E.Abel, J.P. Howell, J.L. Mahtani, R.G. Rhodes.
+Design Criterla for Rectangular Superconducting Coil for
+Transport Applications,
+Proceedings of the 6th International conference on Magnet Technology
+(MT-6). Bratis lava, 29 August - 2 September 1977.
+
+25. M.E. Hunt, R.G. Rhodes.
+Power losses in Superconducting Multifilamentary Composites.
+Proceedings of the 6th International Conference on Magnet Technology,
+(MT-6), Bratis. lava, 29 August - 2 September 1977.
+
+26. J.P. Howell, R.G. Rhodes.
+The Application of Superconducting Magnets to High Speed Trains.
+Indianand Eastern: Engineer, 119th Anniversary Number, 1977.
+
+27. J.Y¥. Wong.
+System Energy in High Speed Ground Transportation.
+High Speed Ground Transportation Journal, Vol. 9, No, 1 Spring 1975,
+Ppe 307-20
+
+28, P.R. Bramkin, R.G. Rhodeg.
+Power Frequency Losses in Superconductors.
+Proceedings of the 4th International Cryogenic Engineering Conference
+(ICEC4) , Eindhoven, 24-6 May 1972. IPC Science & Technology Press,
+pp. 136-139
+
+. 29. A.R. Eastham, R.G. Rhodes.
+‘ Alternating Transport Current Losses in Superconducting Wires
+
+Proceedings of the 3rd International Cryogenic Engineering Conference
+(ICEC3) Berlin, 25-7 May 1976 , Illiffe Science & Technology
+Publications Ltd, pp. 167-70
+
+30. P.R. Brankin, R.M.F, Linford, R.G. Rhodes, R.J.A. Seebold.
+Superconducting Materials for A.C. Power Cables.
+Proceedings of the 3rd International Cryogenic Engineering Conference
+(ICEC3) Barlin. 25-7 May 1970 , Illiffe Science & Techology
+Publications Ltd, 171-5.
+
+31. J.E. Goodfellow, R.G. Rhodes.
+Normal Precipitates in Type YI Superconducting Eutectic Alloys
+Journal of Physica D, Series 2, Vol. 3, December 1970, pp. 1830-6
+32. R.J.A4. Seebold, R.G.Rhodes.
+A.C. Losses in Type I Superconductors in the Meissner State.
+Journal of Physics D, Series 2, Vol. 2. December 1969, pp. 1463-6
+9
+33, P.R. Brankin, R.G. Rhodes.
+A.C. Losses in Niobium Single Crystals in the Meissner State
+Journal of Physics D, Series 2, Vol. 2, December 1969, pp. 1775-8.
+34. R.G. Rhodes, E.C. Rogers , R.J.A. Seebold,
+Measurement of 50 c/s Losses in Superconductors.
+Cryogenics. Vol, No. 4. August 1964, pp. 206-8
+35. R.G. Rhodes, E. Abel, J.P. Howell, A.J. Kaye
+J.L. Mahtani, J.H. Rakels.
+Wolfson Magnetic Levitation Project, Final Report.
+University of Warwick, Department of Engineering.
+36. E. Abel, J.L. Mahtani, R.G. Rhodes.
+Linear Machine Power Requirements and Systems Comparisons.
+Intermag Conference, Florence, 9-12 May 1978.
+

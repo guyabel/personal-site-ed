@@ -1,0 +1,215 @@
+w
+
+The Wolfson magnetic levitation project is concerned with the construction of a 500 m long
+
+test track and vehicle, levitated electrodynamically by means of superconducting magnets.
+
+The general design features and present status of the project are described. The particular
+
+aspects which are discussed include the guideway design, the cryogenic system and super-
+
+conducting coils, and both the linear synchronous and commutator motor propulsion
+
+systems having powered track windings.
+
+———
+The Wolfson magnetic levitation project
+
+R. G. Rhodes and B. E. Mulhall
+
+The Wolfson magnetic levitation project at the University of exceed 5 mm, even with a 500 kg vehicle, while warping
+Warwick is directed towards building a short length of test and such distortion is expected to be small compared with
+track with an experimental vehicle to be levitated and guided the designed track-vehicle clearance of 50 mm.
+electrodynamically using superconducting genes and Design of the electrical and magnetic components is ultimately
+propelled with a linear synchronous motor. It will both de- constrained by the need to provide levitation, guidance, and
+nonstate the feasibility of this method of suspension and propulsion all without degradation due to mutual interference.
+propulsion for high speed ground vehicles and focus research In addition, a guideway configuration which would lead to
+effort into the problems of this, and in many cases also of minimum cost and operational problems (for example,
+other high speed transport developments. As the literature route switching) in a full scale system would be desirable,
+a electrodynamic Se ae already extensive, this though these factors are difficult to quantify. It is clear that
+article will be concerned only with the status and current much more research is needed before a truly satisfactory
+emphasis of the work at Warwick. compromise is evolved, especially in the case where a linear
+The levitation and guidance being examined is a modification _ electric drive, involving a powered track winding, is to be
+of the well-known conducting sheet method, and incorporates _ used.
+
+many similarities to alternative designs being studied in The problems of combining the levitation and propulsion
+America,’ Canada,” and elsewhere. Basically, as shown in magnets arise purely from the fact that, for good machine
+Fig. 1, the vertical lift and lateral guidance forces are gener- performance, a much greater magnetic flux linkage is needed
+ated by the movement of the vehicle superconducting coils than that required to produce the suspension and guidance
+which bridge the gap between the two parallel aluminium forces, and partly from the need to avoid excessive losses
+strips along the guideway. As described later, a powered through coupling between the excited track winding of the
+track winding located between the levitating strips and machine and the levitation strips. Since, as a general rule,
+interacting with the vehicle magnets will provide the pro- interference problems tend to increase with levitation height,
+pulsive force for the vehicle. they become exaggerated on a smaller scale model such as
+Consideration of the track falls naturally into two aspects, the Wolfson project. The design solution being adopted,
+namely the civil engineering on the one hand, and the elec-
+
+trically conducting aluminium sheet on the other. The case
+
+for separating these is particularly strong on an experimental ———
+
+track, where future changes in the guideway design cannot |
+be excluded.
+
+Other factors influencing the structural design include the a
+
+limited life planned for the Wolfson project, the necessity TRE
+
+from the point of view of magnetic interactions to avoid the at ZL,
+
+use of ferromagnetic materials in any quantity, and the n®t LS le |
+: : a = Re ig |
+inevitable need to minimize cost. Thus the most natural U7 3 pik i
+solution, steel reinforced concrete, had to be rejected, and af Z cm if
+
+glass fibre reinforcement proved too costly at the present yo / tas Kf
+
+stage of development. The structure (designed by J.E.C. | he \ mm Soo te
+
+Farebrother and Partners) consists of concrete piers 1 As > ae es
+(1100 x 450 m) at 5 m intervals, spanned by timber joists | a i ae i
+
+(two per span, each 300 x 100 mm), and finished with a Kc - oe |
+1.3 m wide timber deck to which the electrical elements ye faa Levitation strips (A!)
+
+will be nailed. The track has a length of 550 m, is elevated : S
+
+on average by 1 m, and slopes uniformly at 1 in 1000. It
+
+has been designed such that dynamic deflections do not ;
+The authors are with the Department of Engineering, University of ————————$—$——<—<—— 000g
+Warwick, Coventry CV4 7AL, UK. This research is being supported
+
+by a grant from the Wolfson Foundation. Received 9 May 1975. Fig.1 Coil and quideway configuration
+CRYOGENICS . JULY 1975 403
+
+} OO re Vehicle
+The present vehicle will be approximately 2.5 m long by
+| ———_—_ 4 -——_— it 0.5 m wide and weigh 150 kg. At 1 g acceleration and
+| — a LOTT braking, velocities of up to 80 ms! could be achieved on
+[Se thevesd tees
+In view of the high acceleration needed, inertia outweighs
+ae a= both magnetic and aerodynamic drag. Ilowever, other
+= aerodynamic forces, such as those generated in pitch and
+SS a —— yaw, cannot be neglected, and thus preliminary wind tunnel
+wo I i fy studies are being made. The main conclusions © are that
+— most forces on the vehicle, with the exception of the drag,
+I the side force due to cross winds, and the yawing moment,
+are strongly dependent on ground clearance and on the
+J cross-sectional shape of the vehicle body. In particular,
+there is a significant lift force which varies noticeably with
+Fig.2 Possible expansion joints yaw angles greater than 0.1 radian (equivalent toa 10 ms!
+cross wind at a vehicle speed of 10 ms‘!), and with pitch
+angle, and also a pitch moment which varies with pitch angle.
+The chassis of the vehicle now being constructed is the
+cryostat, containing two square superconducting coils
+(0.4 x 0.4 m). It has been designed as one large (1.5 x 0.5 m)
+; : vacuum-shielded enclosure which will allow flexibility in
+Fig.1, uses a single magnet system (2 vehicle coils) with most both coil size and arrangement. Other factors considered
+of the flux available for propulsion and only the fringeing include the future requirement of incorporating damping
+field used for levitation and guidance. In fact, the lift repre- coils between the main coils and the guideway, maximizing
+sents only about 3% of that which is theoretically possible the clearance between the ground and the cryostat outer
+over an infinite sheet. wall, minimizing the weight, and the desirability of operating
+The induced eddy currents flowing along the inner edge of for several hours without replenishment of cryogenic fluids,
+the levitation strips give rise to guidance forces; in fact the but with helium gas recovery. The design finally chosen con-
+guidance force can be designed to be far stronger than is re- sists of thin sheet aluminium alloy for the top and sides,
+guided in practice but, as it is inevitably accompanied by an suitably ribbed transversely, and with a flat base plate
+increase in magnetic drag, it must be carefully optimized. (10 mm thick). Although this arrangement is simple and
+Part of our present programme is, as reported elsewhere,? allows flat coils to be used, the base accounts for more than
+devoted to studying the guideway force characteristics and half the weight of the cryostat shell, and 10% of the total
+the resulting pseudo-static, that is, moving with uniform coil-track clearance; clearly there is considerable scope for
+velocity, and dynamic behaviour of the vehicle. The modell- improvement in the design for a full-scale vehicle.
+ing technique used *° also allows the drag and the speed The coils themselves will be contained in welded, stainless-
+dependence of the forces to be estimated. steel vessels, although a longer term development lo save
+This sume technique is also being used to explore such design weight and space would be to have ‘potted’ coils, either on
+features as the construction of satisfactory expansion joints a helium-cooled backing plate or of hollow conductor.
+in the levitation conductors (two solutions which can cause Cooling for several hours operation is provided by up to
+little perturbation of the vehicle motion are sketched in Fig. 15 1 of liquid helium, mostly stored in three cylindrical
+2), and track modifications to reduce magnetic drag. vessels running the length of the cryostat. These vessels
+Magnetic drag is of particular importance, since with the are sealed so that over the working period the pressure rises
+simple conducting sheet suspensions being studied it can con- to almost 2 atmospheres, and the temperature to about
+tribute significantly to the running costs of the vehicle, even 4.8 K; header space of about 10 1 ensures that over half of
+though the aerodynamic drag dominates at operational speeds.
+In general, drag can be reduced either by reducing the track
+resistance, or by weakening the track eddy currents (and
+increasing the strength of the superconducting magnets to
+maintain the lift). The latter is achieved by making the
+track conductor parallel to the local field produced by the
+magnets, that is, decreasing the normal component of the Table 1. Coil parameters
+field (the component of the field due to eddy currents is —————$$
+ignored). In the extreme, as in the ‘null-flux’ systems, the Inner width 330 mm
+normal flux colaponent is made zero by placing the guide- Outer width 440 mm
+way conductor at the plane of symmetry between two
+opposed vehicle magnets. In general, however, there exists Cross-section 55 x 37 mm?
+for any Jevitation system only a very small number of ‘null- Excitation 2x 10° At
+flux’ surfaces which are uniform in the Jongitudinal direc- . 4
+tion. Preliminary results suggest that, by this approach or Meri euirnent desi ty) noe na
+by thickening of the track along lines of greatest eddy Peak field 2.27
+current density, a doubling of the lift/drag ratio may be Current 235A
+possible. ee eT eT nT
+404 CRYOGENICS. JULY 1975
+
+CO Table 2. Linear commutator machine parameters
+Ss. Revenue Woifson
+nem fe ee wed a gee et pe Sey mee
+UK = Pe —_ ; vehicle test alli
+7 1) ee \ —_ - —= =
+CO as (csi; 3 Vehicle weight, tonne 30 0.15
+\ 4 \/ U4
+[ya en eg eee Speed, ms! 140 80
+= Se =
+jt | aed —¥ Power, MW 5.6 0.14
+—- -—_—_t+— —- Track current, A 180 95
+Terminal voltage, kV 12.2 0.6
+OO Pole pitch, m 0.52 0.8
+Efficiency, % ! at 88 85
+Fig.3 Schematic of linear commutator motor machine
+Power factor, %) terminals 97 97
+the helium evaporates during this process, so that use is
+made of the latent heat of the liquid. A stainless steel radia- : . . .
+tion shield and liquid nitrogen reservoir surrounds the coil the diagram, is that each track loop is activated oaly when it
+space; the bottom being closed with a sheet of high can provide useful thrust or braking. To date, a demonstra-
+conductivity aluminium. tion machine, with the armature laid around the periphery
+. . . . . of a 0.6 m drum has been operated, and an experimental
+Two square coils are being made, with the dimensions and machine based on a 3 m diameter drum is being built. Table
+ratings (of each coil) set out in Table 1. 2 gives preliminary design figures for both the Wolfson and a
+Current will be supplied from a battery, but not regulated, so possible revenue system, though neither is yet optimized.
+the coil behaviour will approximate that of the constant flux Despite the large number of solid state devices required along
+mode. The choice of conductor is determined partly by the the guideway, the overall costs appear to be comparable with
+cryostat losses — since the cryostat is pressurized it is most those of a linear synchronous machine. However, a better
+convenient to use simple, end-cooled current leads with comparison can only be made after further studies of some of
+relatively high losses, which would be only tolerable at (or the problems involved, for example, the method of remote
+below) the low current chosen — and partly by the poss- switching of the thyristors, control of the thyristors to avoid
+ibility of ac losses arising from vehicle motion or from the damaging current surges, optimization of the track winding
+armature (track winding) reaction of the linear machine. arrangement etc.
+Preliminary estimates suggest that the latter field variation
+will dominate, but will be less than 0.02 T; at this level either Conclusion
+a single-core or untwisted filamentary conductor will give ;
+minimum losses. Under the rated current, field, and temper- | Now under construction are the 550 m long track and an
+ature conditions the design current density is, of course, well  ©XPetimental 150 kg vehicle for the Wolfson magnetic
+below typical short sample ratings for niobium—titanium levitation project. In addition, laboratory and theoretical
+wire. studies are being made of particular aspects of magnetic
+levitation; at present particular emphasis is being laid on
+. designing guideway configurations for minimum drag, on the
+Propulsion stability of vehicles subject to magnetic and aerodynamic
+Linear synchronous machines have been proposed as being forces, and on linear commutator machines.
+most compatible with the relatively large levitation heights
+(20-30 cm) obtainable with superconducting magnets. Put It is a pleasure to acknowledge the invaluable assistance of
+in the simplest way, it is more favourable to provide a steady the other members of the team, E. Abel, J. P. Howell, J. L.
+air-gap magnetization with superconducting magnets, than to Mahtani, and Prof J. Y. Wong.
+provide alternating magnetization (as in a linear induction
+machine) from the main power supply, with the consequent References
+low power factor. However, for acceleration and controlled
+deceleration a variable frequency power supply is required, 1 ctiatasas aes O., Kolm, H. H. JEED Trans Magnetics
+whilst good efficiency and power factor appear to be attain- 2 Atherton, D. ie Eastham, A. R. JEEE Trans Magnetics MAG-10
+able only by using, on the vehicle, a large number of magnets, (1974) 413
+with the associated problems of screening and weight of the 3 Howell, J. F., Wong, J. Y., Rhodes, R. G., Mulhall, B. E.
+cryogenic equipment. ‘Stability of magnetically levitated vehicles over a split guideway’,
+Intermag Conf. London, 1975 .
+For these reasons it is valuable to investigate in depth alter- 4 Iwasa, Y. J Appl Phys 44 (1973) 858 .
+native machine concepts, such as the linear commutator 5 Wong, temp tural BE odes) C On ilar eae
+: . . . : . modelling technique for investigating the characteristics of
+machine being studied at Warwick. Fig.3 is a simplified electrodynamic levitation systems’ (forthcoming publication)
+diagram of the machine. The main feature, not obvious from 6 Howell, J. F. unpublished work at University of Warwick
+CRYOGENICS . JULY 1975 405
+

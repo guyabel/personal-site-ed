@@ -1,0 +1,250 @@
+THE WOLFSON MAGLEV PROJECT
+R.G. Rhodes, B.E. Mulhall, J.P. Howell and E. Abel*
+ABSTRACT MAGNETS AND CRYOSTAT
+* . f éy Project AS will become clear from the following sections,
+at W oO ee ene ea and aeeetae Go co or no final decision has been taken on the magnet arrange-
+elements of hardware are given. Levitation and prop- ment. Nevertheless > a number of preliminary studies
+Gislon teanriauss, ryostat and chassis designs That of metic optiniagtion have been made. op satan
+= a : * 2 ’ . > a
+wt ve SS aaiet the Sees) Peerencer caneyENs quantity of superconductor needed to lift the specified
+venl cles are usSseC. vehicle is a minimum for coils 0.8 x 0.8m, A more
+complete optimisation, which would include track costs,
+INTRODUCTION would result in smaller coils (in rough terms the track
+
+In the design of new systems for inter-city conductor width need not exceed the coil width plus
+travel speed and efficiency combined with safety and twice the levitation height. For the Wolfson test
+economy are paramount factors. How far the orthodox track as presently envisaged the track conductor is
+wheel-on-rail principle can be extended is still an about 25 times as expensive as the superconducting
+open question but beyond about 250 Km/h the technical coils, and the economic advantages of some reduction
+
+: cate in coil width are obvious ) . ; Te
+Ne ee metre hoe these ent other reseors are _ _ However, larger coils with correspondingly lower
+is now a world-wide interest in the development of field strength do have some advantages, such as:
+high-speed non-contact systems. In particular, in. (1) the mechanical stress in the windings is
+/Great Britain, magnetic suspension and propulsion is relatively low
+being examined by a number of Groups. (2) the ripple fields, and hence hysteretic losses
+in the superconductor are low
+U.K. RESEARCH ON MAGNETIC LEVITATION (3) it may be possible to dispense with a liquid
+. . helium bath, and mount the coils directly onto
+. At Sussex University the electromagnetic attrac- a surface cooled by contact with the helium
+tion system is being developed for low-speed urban reservoir.
+transport while at Warwick University, the electro- . + a
+dynamic repulsion or Maglev system, for high-speed __In view of the uncertainties and to allow for
+intercity applications, is being studied. Both of maximum flexibility the cryostat is designed as one
+these projects are supported by the Wolfson Foundation. pee eed box, (Fig. 1) fabricated in aluminium and
+At Imperial College in London an a.c. induction method containing a liquid-nitrogen cooled shield. This
+using the transverse flux linear induction motor for enables the entire inner space to be utilized as
+both propulsion and levitation is being developed required (the illustration shows the 2 x 0.8 m eonans
+. coils in tandem). ‘The main liquid helium reservoir
+WOLFS of 30 & is contained in two cylindrical vessels; by
+PUREROUECE allowing the pressure to rise these will accommodate
+
+The Wolfson project at Warwick which is the sub- the boil-off for several hours operation. Vertical
+ject of this paper has been set up with the primary pene be fibreglass / Boxy ube Wa page one. Cud-
+object of design and constructing a model test vehicle ee eee ee taken by pec ires «
+to demonstrate the feasibility of the Maglev principles To withstand the vacuum loadings without introducing
+and to highlight some of the engineering problems to support structures into the coil space the top and
+which a full-scale revenue vehicle may be subjected bottom surfaces are curved, and hence the aluminium
+The project has funding for five years from 1973. To Ce ee) re
+allow for test speeds up to 250 km/h a straight, level
+track, 600 m long and 1 m wide, is being designed for TEU ON
+construction on the University site. . . .
+
+The test vehicle, 3mby 1m, weighing 600 keg, is a gael ee ea ee
+being designed with accommodation for two passengers development of a linear electric drive to be combined
+and the major elements of hardware, such as the if possible with the levitation. Since the research
+vehicle body, cryostat and superconducting coil ene wide gap, high speed, Svea
+assembly, are in the early stages of design. An impor- induction machines are rejected for the usual reasons.
+tant consideration in the design aspects has been the Tne Linear synchronous motor (LSM), on the other
+maximum flexibility in the configuration of the levita- hand, is compatible with the larger track-vehicle
+tion, the guidance and the propulsion elements The clearance of the maglev vehicle and can be designed to
+laboratory model studies which have been undertaken at ee acceptable efficiency and, with suitable compen”
+Warwick(1) are being extended in order to assess the sation, power factor also. However, for starting and
+theoretical predictions of this system for operation at variable speed, frequency conversion
+
+For the preliminary vehicle tests. a towed equipment is required, which necessarily adds to the
+
+F :
+trolley is being designed and in the following sections eostéand \comg Tox ty Of Lneapys ten. ;
+some of the essential features will be discussed eee ee ee
+together with the design philosophy of the supercon- characteristics 1s a linear commutator machine, the
+ducting ets, the linear motor propulsion, and ideas rotary equivalent of which is well established in
+for aa lift, guidance and propulsion traction practice for precisely this reason. A
+? . powered track winding not unlike that of an LSM would
+Manuscript received April 6, 1974 be used; now however only those loops interacting with
+the vehicle magnets would be switched on by means of a
+Department of 5 5
+7 ‘The aeons ire ae Tee ae Coveieee a 7AL commutator operated from the vehicle. In this manner
+Weenie: England y ? 7 the travelling magnetic wave on the track is automatic-
+arwi B ;
+398
+
+well as thrust a practical linear machine must produce
+a lift force, and also lateral forces if the vehicle is
+} ; displaced sideways. This is particularly noticeable in
+A _—Vertical the Wolfson project where, because of the short track
+| Support length and consequent high accelerations, the design
+pt Tubes(4) . thrust equals the vehicle weight.
+
+A | < | b> | The results of preliminary inductance calculations
+—i i yr on a number of possible machine configurations indicate
+SE that, operated as a synchronous machine, stability in
+
+—Helium Reservoir (2) the longitudinal direction implies that at least one of
+‘y ' the lift and guidance forces is negative; operated as a
+=, . LCM, on the other hand, it appears to be possible to
+re 4 iD ee isie) obtain thrust lift and guidance simultaneously, though
+| if the stability then depends on the proper functioning
+; a /dorizontal of the power system
+* Support
+\ I Wires LEVITATION AND GUIDANCE
+| y The theory of levitation has been exhaustively
+} _ discussed in the literature. The Wolfson model is
+Outer somewhat atypical, in that levitation is desirable at
+| Case lower speeds than usual, and the high design accelera-
+(Aluminium) tion makes the low speed drag peak relatively less
+7 important. Coupled with the need to consider propul-
+Liquid sion as well, provisional designs assume coils with
+Nitrogen rather low length to width ratios of between 1 and 2.
+Shield and Methods of guidance in which additional, usually
+Reservoir vertical, conducting strips are used are technically
+feasible, but introduce difficulties in the design of
+switches and in the use of termini and associated
+tracks in common with existing transport modes. More-
+over, the guidance significantly increases the track
+conductor costs above those needed for levitation, and
+the trough-like contour provides a trap for debris.
+
+) Since guidance can also be achieved by omitting
+conducting strips, some of these cbjections can be
+overcome by a flat guideway design. A possible scheme
+for the Wolfson vehicle is shown in Fig. 2, together
+with curves (derived from inductance measurements on a
+
+I model) of lift and guidance forces. The maximum useful
+wi \ lateral displacement in this case is of the order of
+7 the levitation height. Other models have been made
+\ which show that, in a revenue vehicle with magnets
+a | along each side, the guideway could be of similar form
+i | | (the the strips being set rather wider apart than the
+hi id coils) or could consist of double strips for each row
+=e ee _ of coils. As in all these cases the lift is reduced
+—— compared with an infinite ground plane, the super-
+: conductor cost is increased (typically by a factor of
+Fig. 1. Cryostat two), but this is more than offset by savings in track
+costs. However, for a complete evaluation it will be
+ally kept in synchronism with the vehicle, irrespect- necessary to study the drag forces also. As far as
+ive of the latter's speed. Commutation would be stability is concerned the coupling between lift and
+controlled by thyristors on the trackside operated by guidance suggests difficulties may be encountered, as
+signals (e.g. magnetic) transmitted from the vehicle, is indeed the case, for example, in V guideways d, 3);
+and switched off again by supplying the track with on the other hand models levitated by a.c. excited
+power frequency a.c. - the thyristors thus have the coils, or by permanent magnets over an aluminium drum
+dual role of commutator and rectifier. Because of the slit to represent the guideway, have shown stability.
+low duty cycle the thyristors could be considerably It is hoped to present a more detailed report at a
+overrated, and hence their cost minimised to a level later date. ‘The scheme is in principle similar to
+comparable with the track conductor costs or less. that of the M.I.T. group (4,5) who have demonstrated
+Such 4 system would be of especial interest near stable guideway designs.
+stations, where the vehicle must be accelerated and
+decelerated. A scheme using a switched track, which TRACK
+may be similar to this, has been proposed by
+Atherton(2). The limitations imposed on the track design are
+A laboratory model, with twelve coil positions principally constructional simplicity and cost, this
+around the cylindrical surface of a 0.8 m diameter consequently influencing most other mechanical aspects
+drum, and a fixed permanent magnet to represent the of the design. The track will consist of aluminium
+vehicle, has been built. Switching is by means of a guideway conductors fixed to a continuous flat, fibre-
+commutator, though it is proposed to use thyristors at reinforced concrete bed, 75 mm thick and 1.3 m wide,
+a later stage. Although this model has demonstrated supported on aluminium structural sections resting on
+the principles of the scheme, there are as yet in- concrete piers as shown in Fig. 3. ‘The fibre-reinforc-
+sufficient quantitative results for publication. ing and aluminium supports are essential for eliminat-
+Parallel theoretical studies are pointing the way ing ferromagnetic interference. ‘The track will be
+to other developments, arising from the fact that as laid on the University campus and initially will
+399
+
+Cryostat
+outer shell
+Superconducting
+coil
+SO Aluminium
+2. rs I 4 5m
+te to ef 6 oe OG eZ Y
+ree Et concrete
+track
+pm PTOI IIIT ITT I IND ppp pee
+a) Configuration i 4 bad
+Typical Elevation
+Force
+1300
+' lift
+' Aluminium
+| --- Track
+i i“ | Conductor
+| Kom poets Fibre -reinforced
+gr Peta gy Cement
+1 ol Y -
+! uidance 5, L - Aluminium
+1-- aM. ma Alloy
+Os
+° 2,3 a
+! ! '
+oO M . Lateral \ !
+oti displacement :
+practical Isp eera ' ™ -- Concrete
+displacement. from equilibrium I--------~---4
+position
+. Typical Cross —Section
+b) Force characteristic
+Fig. 2. Flat Guideway Fig. 3. Proposed Test Track
+consist of a straight run 600m long. It is hoped to 3 and consists of a front and rear subframe supporting
+extend this later to 900 m length including a curved the wheels connected by a tube each side acting as a
+section of 0.5 Km radius. An emergency braking area drag link. The loads imposed on the trolley are the
+will be incorporated into the end of the track and the static weight of the vehicle, thrust and braking forces
+system will require trackside facilities for power from the external system, inertial and magnetic drag
+generation, helium storage and recovery, and repair forces, and aerodynamic forces which are principally
+work, side force and yawing moment.
+
+During the initial testing, while the electro- A system of linear bearings and a spherical
+magnetic propulsion is under development the vehicle bearing on the front subframe allow the vehicle to
+propulsion and braking will be derived mechanically pitch, heave, yaw, roll and sideslip with the applied
+from an external source acting directly on a trolley force acting longitudinally. Ideally the force needs
+moving with the vehicle. ‘This will ensure that only to be applied at the centre of thrust expected for
+longitudinal accelerations are imposed on the vehicle. the electromagnetic propulsion but the nearest loca-
+The wineh and cable system as used extensively to tion possible in this design is at the point where a
+launch gliders can be modified to meet the require- line through the magnet centres meets the front face
+ments of controlled acceleration and retardation of the of the cryostat. Control on extreme vehicle motions
+vehicles. Alternative propulsion forms were investi- is provided by limiting the movement of a spike from
+gated and rejected; the air pressure system on account the trailing edge of the cryostat where it passes
+of its high cost, and the trolley-mounted engine through the subframe.
+because of control problems. The trolley, apart from _ the external shape of the vehicle has beed
+applying the longitudinal acceleration to the vehicle, designed by M. Wilson, of the Lanchester Polytechnic,
+will also serve to restrain the vehicle from extensive Coventry, subject to constraints of cryostat size and
+pitch, roll, or yaw motions, and excessive deviations passenger space, and aerodynamic consideration. By
+in lateral or vertical position. It must also limit shaping certain areas, especially the underside of
+particular motions or combinations of motion as the base and the upper rear longitudinal edges, an
+desired while remaining firmly on the track and be attempt has been made to create controlled air flow
+capable of supporting the static weight of the vehicle. separation, and hence limit sensitivity to yaw and
+Aerodynamic interference between the trolley and the pitch,
+vehicle must if possible be avoided. The trolley is
+being designed for the L-shaped guideway shown in Fig.
+
+400
+
+REFERENCES
+1. R.G. Rhodes and A.R. Eastham, "Mapnetic
+Suspension of High Speed Trains", Final SRC
+Report, Oct. 1972.
+2. D. Atherton, "Proposed Propulsion System for
+Magnetically Levitated Ground Transport", Proc.
+1972 App. Superconductivity Conf., IEEE New York.
+3, J.R. Reitz, R.H. Borcherts, L.C. Davis, T.K. Hunt
+and D.F. Wilkie, Report FRA-RT-+73-27 (PB 223237).
+4. Y. Iwasa, "Electromagnetic Flight Stability by
+Model Impedance Simulation". J. Appl. Phys. 44 2
+Feb. 1973. ~
+5. H.H. Kolm and R.D. Thornton, "The Magneplane:
+Guided Electromagnetic Flight", Proc. 1972, App.
+Superconductivity Conf., IFEE New York.
+Reprinted by permission from IEEE TRANSACTIONS ON MAGNETICS
+Vol. MAG -10, No. 3, September 1974, pp. 398-401
+Copyright 1974 by The Institute of Electrical and Electronics Engineers, Inc.
+PRINTED IN THE U:S.A. :
+

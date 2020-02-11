@@ -1,0 +1,433 @@
+Duper” “18
+Linear Synchronous Machine Design for Minimum Terminal Rating
+
+Summary
+
+When operating linear synchronous machines, three main design
+options emerge. For a particular mechanical loading the machine
+can be run at either maximum efficiency, unity or maximum power
+factor, or minimum terminal rating. Each of the options are analysed,
+using the machine performance equations, and their effects on machine
+terminal requirements are compared, using the CIGGT motor as an
+example.
+1. Introduction
+
+Linear Synchronous Machine (LSM) analysis shows that machine
+efficiency is maximised when the track and vehicle current sheet
+magneto motive forces are displaced by nm radians. At this opera-
+
+i: tional positeiton the machine behaves (aien viewed from the terminals)
+as an inductive load. Because of the phase reactance, the machine
+draws lagging reactive current from the distribution system, and the
+terminal rating is that deduced from the real power obtained from
+the machine and its overall efficiency and power factor.
+
+Conventional control of synchronous machines usually involves
+local open loop operation with the current angle (or torque angle)
+
+i
+less that ™ radians. Increased loading on the machine whieh forces
+the current angle to exceed this value will result in slippage and
+loss of synchronism. The method of céntrol is to vary the field
+current on the rotor by means of an automatic voltage regulator
+(AVR) and if this is sufficiently controlled in closed loop the
+machine may be made to operate beyond its previous torque limit.
+If current forcing of the machine armature is used with a rotor
+1.
+
+position feedback loop, then four quadrant operation of the machine
+
+is possible. The latter method of control for ISM's is more
+
+promising, since the possibility of operating the on-board super-
+conducting magnets in other than the persistant current mode is remote at
+present, because of the excessive a.c. loss,and would incur payload
+
+and auxiliary power penalties. -
+
+Provided the machine phase reactance is small, the machine may
+be operated to correct or increase its own powerfactor, by balancing
+the induced voltage component against the reactive drop, so that from
+the terminals the load appears to be largely resistive, depending
+on the magnitude of back emf available. Usually this will give a
+lower terminal power requirement over the maximised efficiency opera-
+tion, and will also reduce the terminal phase voltage. Accompanying
+these improvements is a necessary increase in phase current require-
+ment.
+
+‘A third design option is to operate the machine so that the
+total complex power requirement (volt-amperes ) is minimised, which
+usually will occur with a current angle between the first two
+options. Since the distribution network and associated switchgear,
+transformers and convertors will always be rated in terms of complex
+power, this is perhaps the most reasonable of the three approaches.
+
+Each of the three alternative operating conditions will be
+analysed and then the CIGGT machine will be examined and the effect
+on terminal rating demonstrated.
+
+2. Nomenclature
+Ep machine induced back emf, volts
+En machine terminal phase voltage, volts
+Fs machine thrust, newtons
+2e
+
+I remM.S. phase current, amperes
+m number of machine phases
+PR real power output (developed mechanical power), watts
+Pp terminal active "input" power, watts
+Qn terminal reactive "input" power volt-ampéres reactive
+R phase resistance, ohms
+Sn machine terminal V-A rating (input complex power) volt-amperes
+v machine speed, meters/second
+V, active terminal phase voltage, volts
+Vv, reactive terminal phase voltage, volts
+x phase reactance, ohms
+oO current angle, field mmf lag on stator mmf, radians
+n efficiency
+6 power factor angle, current lag on terminal voltage, radians.
+3. Analysis
+3-1 Condition for maximum efficiency
+By definition the machine efficiency n is the ratio of devel~
+oped mechanical power to input power, so
+7 PB (1)
+Fp
+Also, the machine input power is made up of the developed power
+and the track losses,
+Pp = Pat mI°R (2)
+so 7 = P, __
+P + mR
+n = 4 (3)
+1+ aie
+B
+Be
+
+The developed power PR is the product of machine thrust and
+speed, and is linked to the back emf by
+Pp = VFR = mE I sin & (4)
+Using (4) to eliminate I in (3)
+n = J
+1+ Ph OR _ (5)
+. nE,” sin® o
+The maximum of (5) is at a value of a which satisfies
+cota (14 cota )=0, which has only one non-complex solution
+at a= 1.
+2
+The value of maximum efficiency is given by
+n | = 4
+ann 7. Pe (6)
+mis B
+3e2 Power factor effects
+Exact compensation of the LSM power factor will occur if the
+resolved back emf exactly matches the leakage inductance voltage
+drop in the armature phase winding, and unity power factor at the
+terminals will ensue. If the phase reactance is too large then
+the back emf phasor can only be manipulated to maximise the machine
+power factor.
+3.221. Condition for unity power factor
+The machine terminal voltage can be expressed in terms of the
+voltages V. and V5 that are in phase and quadrature respectively
+with the phase current.
+4,
+
+Vv, = Eysin & + IR (7)
+Vi = BB eos & + IX (8)
+E2 2 2
+Tes Vi + Vz; (9)
+-1
+V
+oe tr (10)
+wi
+Exact compensation and unity power factor occur if 6 = 0,
+or V, = 0. From (8)
+cos o = - Ix (41)
+BB
+From (4)
+sin a = Pa
+mE .t (12)
+Combining (11) and (12)
+sin 20 = “eke
+2 (13)
+m By
+a% must be in the second quadrant since sina is positive and
+cos a is negative. Evaluating the right hand side of (13) will
+provide a solution for the principal value only, i.e. —-™ ¢ 2@E€ TT,
+, 2 2
+so using sin 2a = sin (7 - 2a),. the particular solution for
+@ will be produced.
+sin (9 -204) = 7eP Rk (14)
+2
+me
+-1 ap x
+or o, = ™ + 4 Sin ~_B (15)
+2 2 2.
+mE
+3e2.2. Condition for maximum power factor
+Maximum power factor imples a minimum tan © . From (10),
+4 .
+o (tan ©) = ViV, - ViV = © for a minimum
+30 2 1 21
+or maximum. v,°
+: / ‘
+i.e. V5 Vi-ViV, = 0 (16)
+De
+
+Using (4), (7) and (8) in (16), a quadratic in cot a is produced,
+2 2
+cot a - eX cot a ~ nk, + 1 = O (17)
+R PLR
+B
+The appropriate solution to (17) is
+cot a = xX - (’ + R® (a3. + ‘\) *] (18)
+R 2 —
+Xx PLR
+Calculator solutions will give - m™< a < & , and using the
+2 2
+expression cot a = ~cot (r-a )
+-1 2 2 4
+a = - cot (x | ( + R- (" + ‘) “p (19)
+PIV la
+will generate = <a < a. If the negative sign in (18) was changed
+2
+to give the positive root solution for (17), the minimum power factor
+value of o would be obtained.
+363 Condition for minimum terminal rating
+Using ~-(7), (8), (9)
+Ey = (2,7 + 1°(R74x7) 4 2B I(R sin o + X cos °) 3 (20)
+The terminal ‘volt-ampere rating is given by
+Sp = mE I (21)
+8, = mie 1 4 1% [Re 4 x2
+Tt B —=
+Ee
+B
++21 (R sina + X'cos a )?
+Bp 2 Ae
+using (4) to substituté for mI, I [i > I/E, 7
+“an 1
+Sp ~ PB i + Pao(R@4x") + b4P, (R + X cot a) [
+sin @ sy ED
+mE, sin’ a Em
+(22)
+6.
+
+5S P
+so ¢°T = — cosa B [ | As
+do sin’ o
+Fa 1 y ‘ (23)
++ — =
+sina 2 da
+= 0 for minimum
+ieee 2 cos & [ ] = a_[ (24)
+sin 0a .
+or 2
+2 cosa [a+ _ Ps (Re +xX°) + éPp (R + X cot a J
+sin® L "mR sin@o, =
+B
+2 2 2
+-2P"cosa (R° +X")
+msp Sana E,m ‘sin’
+rearranging, and using the relationships 2 cosa + 1
+sin a sing cosa
+= 3cot a + tan o
+(25) becomes
+3. | 2P (R? + x”) E,@ | tan + 3tana
+tan va + R + z* | ts
+Prete . x X P.
+m 2x B
+B
+2p, (R” + x*)
++ 3 tana + a = O (26)
+m ER xX
+The real solution to this cubic gives the value of oa at which
+Sas the terminal input complex. power is a minimum. .
+If (26) is rewritten as
+a .
+t? 4 pt? eater = 0 (27)
+where
+t = tana (28)
+2 2
+= P_ (R
+P eP, (R 4X) 2R Eom (29)
+— + ar + B
+m E,x X PR
+q = 4 (30)
+ro = ap, (R°4x®) (31)
+2
+m E B x
+Ve
+
+with a further substitution
+t = ¥ ~” P (42)
+3
+(27) can be transformed to its reduced form
+yo+ay+b = 0 (33)
+2 \e
+where a=q-—-p (= 30 qg-[pyY) (34)
+3 3 3
+b = 2p” - Pq +r
+2? 3
+= 2[p\?-3 f\fa\+ r (35)
+3 3 \3
+The discriminant D is given by
+3
+D = _b + fa
+In the ranges concerning ISM's, D is positive, which gives one
+real and two complex conjugate roots for the reduced equation.
+The real root y, is given by 4
+4
+3
+¥, = - b+ de »[-y- 3
+2 2
+or .
+yt 3 4.,12
+Yq = moe ~ [ores (37)
+2 2
+Equations (32) and (28) can then be used to establish the
+required value of @% for minimum terminal rating.
+Ay Effect of choice of current angle on a particular design
+The numerical values used to evaluate the different operating
+conditions are based on the CIGGT design. This LSM develops 40 kN
+thrust at its cruise speed of 480 km/h, which corresponds to a
+developed mechanical output power of 5.34 MW. The phase inductance
+and resistance are 2.42 mH/km and 0.56 9 /km respectively, which
+for a 5km block length give values of terminal reactance and
+8.
+
+resistance of 8.89 2 and 2.8 2 - The back emf is 4 kV.
+The armature is meander wound into three phases.
+ut Maximum efficiency
+Using (6) the maximum efficiency, at a = . is
+_ 1 c 0.7625
+: i+ fph
+ni,“
+4.2 Power factor
+Since in (15) OP RX = 1.982 > 1, there is no balance point
+a
+for unity power factor operation, and equation (19) must be used to
+find maximum power factor value of a °
+Substituting into (19)
+af = t®  e cot 7 { 3.175 [ G.wrree)? - «| °
+which solves to give ao = 121° as the position of maximum power
+factor. Using (7) - (10) cos 9 = 0.8860 at its maximum.
+4.3 Minimum terminal rating
+A H.P. 9100A calculator program has been written to evaluate
+o for minimum terminal rating, for inputs Pas ERY m, R and X.
+The print out is of the form (for the CIGGT machine)
+PR = 534 06
+ER = 4 O00.
+m = 3. Input data
+R = 2.8
+X = 8.89
+Ge
+
+r/2 = 1.087123
+p/3 = 1.271759
+a/3 = ~ «617370 Output data
+b/2 = 1.236390
+p@ = 1.137256
+° = 108.050268 = ¢
+So the current angle for minimum terminal rating is 108°,
+5.0 Per-unit values
+By definition,
+a per-unit (pu) value = actual value (in any unit)
+base value (in the same unit)
+It is common synchronous machine practice to refer parameters
+to the expected operating condition base. If the CIGGT machine
+performance is plotted out (Figure 1), the values of o for the
+various conditions calculated in the previous sections are confirmed,
+| and the variation of terminal phase power, current and voltage can
+be normalized with respect to the base a@ values. The normalization
+of values is not only for graphical simplicity; similar machine types
+or design variations are much more easily compared, especially with
+respect to sensitivity to parameter variations. 3
+6.0 Comparison of design options
+The minimum complex power base value is 8.27 MVA, with terminal
+voltage of 5.89 kV and phase current of 468 amps. The three design
+options and relevant performance are shown in Table I.
+fewaice |] [= [x [+ [owe [yom
+Maximum efficiency 90 | 1.06] 1.12 0.951 | 0.763 | 0.798 | 0.609
+Min. complex power | 108 | 1.00] 1.00 1.00 0.744 | 0.868 | 0.646
+Max. power factor 121 | 1.04] 0.936 | 1.141 0.702 | 0.886 | 0.622
+Table I. Relative on of design options
+10.
+
+It is not immediately apparent, for this particular design, whether
+the choice to operate at minimum terminal rating offers any real
+advantage over @ = n /2° ~ there is only a 6% reduction in
+VA rating. This is because of the broadness of the variation of
+Sp about its minimum point, in this case. Table II shows the change
+in active and complex powers for per unit base of a) a = 90° and
+b) a = 108°,
+Sas complex Fr, active Op reactive
+a | »v a |» a | b
+So 1 1.06 1 0.975 1 1229
+108 0.943 1 1.03 1 0.777 | 1
+121 0.978 1.04 41.09 1.06 0.754 | 0.971
+Table II Per unit terminal powers for bases ofa = 90° and 408°
+In going from 0 = 90° to a = 108°, a reduction of 22% in
+| ‘terminal reactive power can be achieved, with only a 3% increase in
+active power; the total power also drops by 6%. From this base the
+effect of going to the maximum power factor @ = 121° point only
+reduces reactive power by 3% and requires a 6% and 4% increase in
+active and total power respectively. The associated increase in the
+armature track loss would amount to 23% because the machine efficiency ~
+is beginning to drop off more rapidly at @ > 110°, (Figure 1).
+Operation at minimum Sp will generally mean a terminal voltage
+that has reduced by more than the phase current has increased. The
+implication is that the phase current affects the track heating and
+conductor temperature rise and so determines the type of insulation
+and its ageing, and that terminal voltage affects the insulation
+and inverter semiconductor required blocking voltage. The CIGGT
+machine terminal voltage reduces by 10% and phase current increases
+by only 5%, in going from a = 90° to a@ = 108°.
+11.
+
+Generally, it is more important in designing a linear
+superconducting machine to be fully aware of the variations
+that will be present in the system performance, rather than to
+strictly specify precise operating regimes, since these will be
+dictated by the installed system economics. It is sufficient
+to note that the LSM is not as restricted in terms of available
+tractive power as for example a linear induction machine.
+Because the armature winding is in the guideway, specific
+loading of the machine can be changed by simply changing
+armature conductor dimensions to suit particular guideway grades,
+acceleration requirements etc., without penalizing vehicle pay
+load or cruise capability.
+
+E. Abel
+First Draft - March 1975
+Revised - August 1978
+
+: ASSL Ca CE Op een eee ERE EP ene PE ee POSTON ETE CE oN ng
+- \ \ \ 4 .
+Pn \e8 Hl \ \ a
+- ' \ \ a
+F \ \ \ ( :
+- “1k \ \ \ ja
+F \ \ ii “
+E \ \ \ / / =
+Fon Jo of \ \ j a
+= \\ j :
+= \ / a
+aie ’ t/f/ 3
+- 4 /§
+F \ s, a
+——~i-0 an SE i
+: i foo
+E- ye
+res Mest +] NG
+fe aes . ‘d
+0-6 9 vs — 4
+> ey a | NJ
+oe | \ y
+Fond | | . 3
+/ fo a | | 4
+as 0-2 / Lo al
+/ a ' a
+3
+7 se Ge = \d0 150
+cucreu’ ang la X * Miainun
+Mil
+Ry 41 Performance chamckeashes & LSM af cmise, |
+

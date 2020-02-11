@@ -1,0 +1,461 @@
+Presented to the SPIE Symposium on Electronic Imaging,
+Santa Clara, CA., February 1990.
+3-D TV System for Remote Handling:
+Development and Evaluation
+A A Dumbreck, E Abel and S Murphy
+Harwell] Laboratory,
+UKAEA, Oxfordshire, 0X11 ORA, UK
+ABSTRACT
+The paper describes the development and evaluation of 3-D Television Systems.
+3-D TV had been developed with a view to proving whether it can be a useful
+remote handling tool which is easy to use and comfortable to view. The paper
+Summarizes the principles of operation, the initial development, the evaluation
+trials at UK facilities and it reviews the developments which have been found to
+give improved performance in terms of speed and accuracy of operations and to
+reduce the number of camera views required.
+1. INTRODUCTION
+The Engineering Sciences Division of Harwell Laboratory carries out research and
+development of remote television systems for remote handling in nuclear
+environments. The work includes equipment development and human factors
+experimentation; its ultimate aim is to facilitate the widespread introduction of
+television (TV) viewing equipment into nuclear plant.
+The work includes the development of stereoscopic or three-dimensional (3-D) TV.
+This programme of work is nearing completion, it has been split up into the
+following stages:
+a - Determine criteria for design of 3-D TV to be comfortable to view and useful
+for remote operations :
+
+b - Build engineering prototype systems
+c - Evaluation of prorotypes in various cold mock-up facilities
+d - Build 2nd generation system, and evaluate
+e - Build 3rd generation, radiation-tolerant black-and-white system
+f - deploy camera in radioactive environments
+The programme is complete up to stage (e); the third generation, radiation-
+tolerant camera is built, and trials have begun. The purpose of this paper is to
+summarize this development and evaluation programme. The work has made available
+3-D TV systems which give useful improvements in depth perception for a wide
+range of viewing requirements and environmental conditions. The systems have
+proved comfortable to view, easy to use, and rohust in operation.
+
+2. 3-D TV
+The purpose of the 3-D systems developed at Harwell is to give operators improved
+depth information about a remote scene. The 3-D systems do this by providing the
+viewer with binocular information which allows him to perceive a solid image from
+two flat pictures. The two pictures come from two cameras which are offset a
+smal] distance horizontally and whose focussing targets are in the same plane.
+(The focussing target is equivalent to the film in a camera). The two pictures
+are identical except for small horizontal differences in image position. These
+disparities vary with the distance of the objects from the camera, so there are a
+range of disparities for different objects in a normal scene; they allow the
+viewer to see the picture in 3-D.
+Figure 1 shows a viewer looking at a 3-D screen which allows him to see only the
+right image with his right eye and the left image with the left eye. Because
+there is a horizontal disparity between the left and right images of the same
+object, the viewer is tricked into perceiving the object behind the screen. A
+3-D picture is built up of a large number of such points, with different
+horizontal disparities and therefore different distances behind or in front of
+the screen.
+Some object points may give no horizontal disparity and so their images appear in
+the screen plane. They have no disparity difference because the object is in the
+plane in front of the 3-D camera in which the two camera axes cross. The control
+of the camera axes can thus be used to control the position of the 3-D image
+relative to the screen. The objects of interest are normally placed close to the
+screen plane, ie the cameras are converged on the objects of interest. This is
+important because we have found that viewers can only cope with a limited range
+of horizontal disparities. The limitation is because the viewer's eyes stay
+focussed on the screen but they change convergence around the scene to converge
+at distances appropriate to the image point placement. In other words, we find
+that the viewer can accept small discrepancies between accommodation and
+convergence, but not large ones. We have therefore designed systems to enable
+the operator to keep the image acceptably ciose to the screen, in a truncated
+pyramid, as shown in Figure 2.
+Corresponding left and right mage points
+\ |
+oe - =
+, be | Li
+gap |eces game, eT
+: ee — here Y i )<
+Figure 1, 3-D image Formation Figure 2, The Truncated Pyramid Encompassing
+the 3-D Image
+
+3. 3-D TV PICTURES: CALCULATIONS OF SIZE AND SHAPE
+The shape and size of a stereo image can be calculated geometrically, some of the
+more basic formulae are derived below. The pioneering analysis of 3-D images was
+carried out in the 1950'sl!»2 for the motion pictures. The same principles
+are used in the equations below, though these are expressed in ways more
+applicable to TV systems. 3-D image shape and size can be defined by the
+magnifications from object points to image points There are three magnification
+factors to consider, width magnification (M,), depth magnification (My) and
+height magnification (M,). Height and width magnifications will normally be
+the same, apart from very small discrepancies when the image is viewed
+obliquely;My, will be used here to cover both. Depth magnification is subject
+to different constraints and is, in general, different to My. Both Mg and
+My may vary with distance from the camera; in other words, reproduction may not
+be linear throughout a scene.
+Figure 3 shows a representation of a stereo camera and object scene. 0
+represents an object point distance p in front of the 3-D camera, the cameras are
+converged by axial offset (distance h) of each lens. Expressions for 1 and r
+(see Figure 3) may be found by similar triangles, and the camera parallax z, by
+Subtracting 1-9
+z= 2h - ft (1)
+p
+Oo q | R |
+| Right image point o baa FS —
+image
+Screen Pe AZ point
+b Image point
+p perceived :
+- here Se |
+a h : \
+—| |e ass |
+‘ |
+—_ —_ P | Screen
+—_ Viewers ; centre
+’ \ eyes line
+Camera target | (~~ Ww, |
+—+| | }e— — r _ 4 __
+Left Right —
+Figure 3, Stereo Camera and Scene Figure 4, Viewing Arrangement
+
+This parallax is transferred to the viewing screen but it is increased by the
+magnification factor, M
+M = screen width
+target width
+Screen Parallax (Z) = Mz (2)
+The viewing arrangement is shown in Figure 4. In the case of Figure 4, Z is
+negative because the right image point appears to the left of the left image
+point. The viewer to image point distance (P) is:
+P=VE (3)
+EF-T7
+P= VEp (4)
+Mft - p(2Mh - E£)
+It can be seen that the equations apply equally well if Z is positive, but that
+in this case the image point appears behind the screen.
+The depth magnification can now be determined by differentiating equation 4 with
+respect to p:
+Mg = dP = VEMft
+dp  (Mft - p(oMh - £))2 (5)
+Similarly expressions may be derived for lateral position mapping (Q as a
+function of q, see Figures 3 and 4)
+Q= E(Sp + Maf) (6)
+Mft - p(2Mh - E)
+and differentiating with respect to q gives width magnification:
+My = dQ = MfE (7)
+dp Mft - p(2Mh - £)
+The image shape ratio gives the shape of the image at a given point:
+. Shape ratio (u) = Mg = Vt (8)
+My Mft - p(2Mh - E)
+Finally we need to know the relationship between the lens offset (h) and the
+convergence distance. It can be seen by reference to Figure 3. that:
+Convergence distance = ft
+On
+
+It must be noted that the brain's interpretation of the twin-channel visual
+information supplied by the eyes is not solely based on the above geometric
+principles, but is also influenced by other factors and in particular by prior
+knowledge of the shape of familiar objects. When we are dealing with abstract
+images, the mathematical basis is closely followed; when dealing with known
+subjects and particularly images of human figures, the brain tends to modify
+impressions in order to make the images fit in with prior concepts. In practice
+we have found that for shape ratios not exceeding 2, the viewer can normally
+accept that the image is a good representation of the original. We have
+Suggested guidelines for the matching of the left and right pictures, and for the
+control of depth and shape reproduction.324 We have found that, if these
+are adhered to, 3-D pictures can be comfortably used over long periods of time.
+4. FIRST PROTOTYPE SYSTEM AND EVALUATIONS
+4.1 Prototype Camera:
+The first engineered systems to be made to the suggested guidlines have been
+evaluated in non-radioactive conditions in facilities within the UKAEA and CEGB.
+The camera uses four solid-state cameras arranged in 2 pairs, to give wide and
+narrow angle stereo pictures. The focus and convergence of the cameras are
+linked so that both pairs are focussed and converged on the same plane, a single
+front panel switch movement operates focus and convergence for both cameras.
+This makes control of the camera relatively simple.
+4.2 Prototype Display:
+Consideration was given to all of the known methods of display for stereoscopic
+images. Many of these were set up experimentally in our laboratory in order to
+ensure that the best method achievable was used. The display eventually chosen
+uses two monitors set at right angles and viewed through a semi-reflective
+mirror. Polarizing filters at the monitor faces and in spectacles worn by the
+viewer separate the left and right images. The spectacles are lightweight and
+are similar in appearance to sunglasses or corrective spectacles. The display
+was designed to meet the rigorous picture matching requirements referred to
+above. This was achieved by careful and rugged mechanical design, and by
+selection of high quality monitors which allowed the necessary degree of picture
+adjustment.
+4.3 Evaluations:
+Preliminary evaluations at Windscale Laboratory showed a 23% improvement in the
+time taken to complete a typical decommissioning task - cropping a reinforcement
+bar - via a remotely-operated industrial robot in a mock-up facility. The
+facility is designed to test and develop equipment for nuclear decommissioning,
+particularly with respect to the decommissioning of the pressure vessel of
+Windscale's Advanced Gas-cooled Reactor (WAGR). These evaluations have been
+reported fully previously». In addition to the time reduction recorded, the
+Study showed a number of other results. Examination of video tapes made of the
+operations showed that the reduction in time for stereo was linked to fewer
+discrete movements of the robot. This suggests that operators had better control
+of the remote operation and might make fewer errors as a result. A number of
+operators who used the equipment during these trials and other operations
+expressed a preference to work with the 3-D system.
+
+In addition to formal evaluations, one of the two prototype systems has been used
+for an extended time in a remote operations facility at the CEGB's Marchwood
+Laboratory. This has provided an opportunity to check the Stability and
+performance of the camera and display in the hands of operators with no expert
+knowledge of television equipment. Regular inspection has shown no routine
+requirements to set up the camera mechanism. Minor drift in monitor geometric
+alignment noticed after one years use was small enough not to give operational
+problems and was easily corrected. The display contrast and brightness controls
+which need to be carefully matched on the two monitors had been locked off during
+installation so had not been adjusted by operators. The settings had not drifted
+significantly during the 18 months of use. Part of the design philosophy had
+been that the operator should not be able to change settings that are not
+essential for operations. This has been largely confirmed by trials, operators
+have not expressed a wish for more adjustments, and the equipment has stayed
+wel] set up.
+5. CAMERA DEVELOPMENT
+
+A requirement to develop a fully engineered colour camera, subsequent to the
+production of the first black-and-white cameras, has provided the opportunity to
+incorporate some of the refinements to the original designs suggested by the
+mock-up evaluations and operational experience. The cameras have been built and
+were used for the second series of trials at Windscale Laboratory. The camera
+has included: the choice of automatic or manual iris controls; a mechanism
+accurately linking focus and convergence, convergence is achieved by axial offset
+of the lens so no trapezium errors are suffered; mechanically linked iris
+control giving very accurate iris matching; the position feedback of the focus
+mechanism which has been used to provide a binocular range-finding facility. The
+camera uses two re-packaged single-sensor solid-state cameras and a range of
+photographic lenses which make angles-of-view from 30° to 8° available. As with
+the earlier cameras, video is transmitted via twisted pairs. The camera is
+designed to allow radiation-tolerant sensors to be fitted to give a radiation-
+tolerant and environmentally sealed version.
+
+6. DISPLAY DEVELOPMENT
+The polarized light displays use two modified picture monitors set at right
+angles and viewed via a beam-splitting mirror. Polarized light filters at the
+monitor face and in spectacles worn by viewers separate the two pictures.
+These have proved to give good quality pictures which are comfortable to view and
+with no operational difficulties. We anticipate that this display will be the
+preferred option for serious use of 3-D television over the next few years,
+because of its high standard of performance. Some applications may demand
+smaller displays for a given size of screen. In this case we now believe that a
+time-division display of acceptable quality could be made, but at considerable
+financial cost. The display would be required to show a video at twice the
+normal rate and suitable framestores would be needed to buffer the video, if
+conventional cameras where to be used. This would give anomalous picture
+components for moving objects, but we believe that picture quality could be
+acceptable for most subjects. The polarity switching should be carried out at
+the monitor face, with polarizing spectacles being worn by the viewer. Care must
+be taken in the choice of picture phosphor and polarizing materials to keep
+cross-talk between the left and right pictures to an acceptable level. Auto-
+Stereoscopic displays are feasible; an autostereoscopic TV display has been
+
+demonstrated at Harwell. An image-forming screen transmits the left and right
+pictures to the eyes without the need for a viewing aid to be worn (though the
+viewer's head position must be reasonably fixed to obtain the 3-D view).
+The colour polarized light display developed at Harwell, see Figure 5, is a
+development of the original black and white display, but using broadcast quality
+colour monitors which have preset controls for allowing control of the picture
+shape. By collaboration with the manufacturer, the important preset controls for
+each monitor have been brought out to a lockable control panel on the top of the
+displays; this can be seen in Figure 5. A test pattern generator has been
+included in the system so that the operator can follow a relatively simple
+procedure to check, and if necessary, adjust the geometry, colour and grey level
+of the monitors so they are well set up and matched. A cross-hatch pattern is
+displayed on both monitors to allow geometry comparison - the scan circuits of
+the two monitors are adjusted until the two patterns exactly overlay. A
+stereoscopic version of picture line-up generator (PLUGE) signal is used for grey
+scale alignment signals are asent to the top half of the right monitor and the
+bottom half of the left. The grey scales are thus displayed on one monitor each.
+The display is viewed without spectacles so the two scales can be compared.
+Further details have been given elsewhere. °
+We anticipate that some training for operators to carry out the set-up would be
+required, in addition to concise written instructions. Similar developments have
+been incorporated into new black and white displays. Broadcast monitors are used
+and circuitry has been specially developed to enable geometric matching of the
+two pictures with the aid of the cross-hatch pattern generator. The electronic
+controls remove the need to make adjustments to the picture tube and its
+deflection assembly which require more skill.
+
+7. EVALUATION OF 2ND GENERATION, COLOUR SYSTEM
+Evaluations of this second generation, colour 3-D system, were carried out
+at the Windscale facility.® A task was based on an operation planned as
+part of decommissioning WAGR; two heavy steel plates were to be moved between
+stands and a ‘toast rack' using an overhead gantry crane. The task involved
+rotation and accurate positioning of the plates, One was a curved piece of
+thermal shielding 5cm thick, and the other was flat and 8cm thick. Respectively,
+these were to be inserted into slots 8cm and 8.3cm wide. Two television views
+were provided - a main view looking along the slots from 1.6m above the toast
+rack and an oblique supplementary view - based on camera positions possible for
+the real operation. The supplementary view was always in 2-D but the main view
+could be either 2-D or 3-D.
+Six operators were timed using both 3-D and 2-D. Half used the 3-D first, the
+others 2-D. In turn, with each viewing system, the operators moved the curved
+plate from stand to toast rack, the flat plate to the toast rack and then
+returned both to their stands. The sequence was then repeated. For analysis,
+the task was split into sub-components. This showed that the part of the task
+which required the most positional accuracy benefitted most from 3-D TV. This
+was the part of the task where the plates were aligned with the toast rack; a 17%
+time improvement was found for 3-D.
+
+A questionnaire was completed by the six timed operators plus two more who had
+also used both the 2-D and 3-D arrangements. The 3-D was highly rated on picture
+quality and ease of use. All] except one had preferred using 3-D and would have
+been happy to do so for extended periods. Some operators commented that the 2-D
+views could have been better placed - plan and elevation views would have been
+preferred - but with 3-D, the camera positions were satisfactory. This is in
+accord with earlier findings that the positioning of a single 3-D view is far
+less critical than the optimal siting of a pair of 2-D views. A fuller report of
+this trial has been published recentiy.5
+8. CONCLUSIONS FROM EVALUATIONS AND OPERATING EXPERIENCE
+The experience of trials and operations shows that 3-D TV systems give a number
+of benefits for remote handling:
+- A reduction in the number of views (cameras) required
+- Faster operational times, with greater improvements for elements requiring
+alignment
+- Fewer manipulator movements for a given task, suggesting that fewer errors
+and collisions would be made
+- Positioning of cameras is less critical with 3-D
+- Operator preference for 3-D (no ill effects)
+Furthermore we can hypothesize that operators are better able to interpret
+unfamiliar scenes with 3-D TV. From observations made during evaluations, we
+have made a number of refinements to the designs of the systems which have been
+incorporated into the second and third generation systems.
+9. DEVELOPMENT OF A 3RD GENERATION, IN-REACTOR AND IN-CELL CAMERA
+The ultimate aim of the development work on 3-D TV systems is to provide
+systems which can be used for a variety of nuclear applications including,
+inspection of gas-cooled reactors; post-irradiation examination and _ fuel-
+reprocessing facilities; and decommissioning. The specification for a camera to
+work in these environments was produced by consulting with experts on remote
+viewing systems within the UK nuclear industry. The specification encompassed
+the temperature requirement to 150°C with chilled air cooling, lighting
+requirements, materials and mechanical constraints. The camera has angles-
+of-view of 40° and 10° and converges and focusses down to 300mm for the
+wide angle-of-view. Cable lengths of up to 100m are allowed for. The target
+radiation-tolerance is 106Gy with dose rates to 104Gy/hour. This figure
+requires future confirmation by experiment. We did consider and experiment with
+the use of zoom lenses for this camera. We believe that it is possible to use
+zoom lenses in fully engineered and remotely controlled 3-D cameras. However we
+found that we could not obtain a suitable radiation-tolerant zoom lens because of
+the limited range commercially available.
+The camera manufacture was completed during 1989 and jis currently undergoing
+trials prior to use in an active facility. The size requirement for the camera
+
+combined with the use of two sets of fixed focal length lenses for two angles-
+of-view has meant that the mechanical linking of convergence and focus used in
+the earlier cameras was not appropriate and that full computer control of the
+system was required. Computer control is needed because the axial offset
+required for convergence, and the displacement of the lens relative to the
+pick-up for focus are different for the two focal lengths. The combined focus
+and convergence control, designed for simple operation, has been retained.
+However with computer control it is possible to remove this link, which is made
+in software and is purely for the convenience of the operator. This would allow
+an experienced operator to move the focus distance away from the plane of
+convergence as the desirable focus plane may differ from the optimum convergence
+plane in certain scenes. Computer control allows a number of other advanced
+features to be incorporated in the camera design such as monitoring of camera
+temperature, coolant flow, lens status, and automatic readout of convergence
+distance at the control panel. The camera is shown in Figure 6.
+10. VIDEO TAPE RECORDING OF 3-D TV PICTURES
+3-D pictures can be recorded in a number of ways. Two tapes can be synchronized
+on two high quality machines with a suitable edit controller. This method can
+give very good results, but is expensive and requires that two tapes are kept
+together. Some degree of skill is needed to record or play back. We have
+demonstrated a satisfactory technique where left and right fields are recorded
+alternately to the odd and even fields of the tape. The tape is then played back
+via two frame stores which repeat fields, for example, the left field is repeated
+once while the right field is being read from the tape. Developments in
+video-tape recording of 3-D pictures have been reported elsewhere. /
+11. CONCLUDING REMARKS
+The trials and subsequent developments described here show that 3-D TV can
+provide a useful tool for the assistance of remote handling operations, provided
+that the rigorous design requirements are met. Development is already at a
+stage where 3-D systems can be usefully employed to enable operators to carry out
+remote operations more quickly and accurately than with conventional television.
+12. ACKNOWLEDGEMENTS
+
+The work has been jointly funded by the CEGB and UK Department of Energy. We
+thank them for their support and permission to publish this paper. We would like
+to thank Ed Perrott at Windscale Laboratory for arranging evaluations there.
+Charles Smith of Stereo Image Techniques has made an invaluable contribution to
+the developments described because of his thorough understanding and practical
+knowledge of 3-D imaging.
+
+13. REFERENCES
+
+1. R SPOTTISWOODE, N L SPOTTISWOODE, and C W SMITH, "Basic Principles of the
+Three-dimensional Film", Journal of the Society of Motion Picture and
+Television Engineers, Vol 59, October 1952.
+
+2. R SPOTTISWOODE and N L SPOTTISWOODE, "The Theory of Stereoscopic Transmission
+and its Application to the Motion Picture", University of California Press,
+1953. — os ss ss 7 ©
+
+3. A A DUMBRECK, C W SMITH, and S P MURPHY, "The Development and Evaluation of a
+Stereoscopic Television System for Use in Nuclear Environments," American
+Nuclear Society, International Topical Meeting on Remote Systems and Robotics
+in Hostile Environments, Pasco, WA, USA, March/April 1987, Pages 106-113.
+
+4. C W SMITH, and A A DUMBRECK, "3-D TV: The Practical Requirements," Television,
+Journal of the Royal Television Society, Vol 25, Pages 9-15, January/February
+1988.
+
+5. A A DUMBRECK, E ABEL, S P MURPHY, J HOLT, P M SCHEIWILLER, and V M READING,
+"3-D TV: Evaluations and Lessons Learned," Proc ANS 3rd Topical Meeting on
+Robotics and Remote Systems, 4.2, Charleston, SC, USA, March 1989.
+
+6. A A DUMBRECK, E ABEL, J HOLT, P M SCHEIWILLER, and V M READING, "A 3-D
+Television System for Remote Handling," Proc Int Symposium on Teleoperation
+and Control, Bristol, July 1988, Ergonomics Society, IFS, Pages 197-207.
+
+7. P M SCHEIWILLER, A A DUMBRECK, and A D CHAPMAN, "Video Recording of 3-D
+Pictures," to be presented to the SPIE/SPSE Symposium on Electronic Imaging,
+Santa Clara, CA, USA, February 1990.
+
+Copyright of United Kingdom Atomic Energy Authority, 1990
+
+i ~ Ube Tee oe
+: 4
+; He
+| mm:
+; 44 —_— f |
+_ «+ # i/ i | Bi
+{ ope OS aad moi l
+1 ' P ’ K j i is ; Za
+{ : a &
+; Ss
+ni
+cas ee a
+- ee —
+~ ete
+>
+Figure 5, Harwell Colour 3-D Display
+glad Nts
+4 ~ y 2. ‘ Og. t
+Paid. : ae . . saat”
+a E ke Wii we y/ cg x ° . +A
+7 - . 3 - a os ‘ r ¥ 4g a > .
+| a - =
+= bi , ; r <7 a } Zé
+pero y Aa if P p
+- ] aed ;
+| 3 y a es F a : LG i J ;
+af 4 Bye ta d ba
+. = f °
+| odmeg Cel. fai be oe
+“sd td ee « = P ’ if
+sd r ay = r ae Files
+> a : _ 7
+; - ede / e i / 2,
+ia , Pe ei tes a! 7 y SR
+4 Se 2 fe = = | y :
+: ee \ bs q o . is ae ww Pa’ oe
+rare i j : a I= :
+Figure 6, Harwell In-Reactor 3-D Camera
+with case removed for clarity
+
+iat |
+a ee Dol
+- a i ~ ie ee re .
+

@@ -1,0 +1,109 @@
+. COMMER@TA, ly ONFIDENCE oO 5.
+LIMDAT DISTPMSUTion = jos =
+EXTENSION TO PATENT APPLICATION 8204120
+— AN ELECTRIC POWER TRANSFER SYSTEM —
+MULTI-DEGREE-OF-FREEDOM POWER TRANSFER
+Introduction
+The original application suggested essentially one degree-of~freedom
+(1DOF) power transfer whereby the motion considered would be along the locus of
+a line which could be straight, curved or circular. The arrangement was most
+favourable when moving core portions provided wiping contact with stationary
+core portions, so that both could be simply supported without interference of
+structural or re-entrant elements, which restrict motion. There is no inherent
+reason why the moving surfaces need be constrained to IDOF motion, and so
+simple two and three DOF structures could also be built. Simple structures
+would tend to have limited ranges of motion, but it is possible to provide, for
+example, a spherical arrangement giving 2DOF where one is continuous. Many
+other combinations exist.
+Basic Concept
+Figure 1 illustrates the basic concept. A moveable core with secondary
+winding is part of a magnetic circuit which sige Comes a back core, primary
+winding and extended pole-face (magnetic cross sections are shown to be square,
+but they could equally be circular). The mating surfaces can be aligned to
+provide a uniform mechanical clearance, which for spherical motion demands
+convex and concave surfaces. Orthogonal motion of course requires only flat
+surfaces. A return path from the back core to the lower part of the moveable
+core is assumed.
+=l|«
+
+, ‘
+Implementation
+
+Figure 2 shows one form of a single phase 2DOF system. The system is
+electrically and mechanically bidirectional, that is, either side of the air
+gap can be made the primary or the secondary; it is likely that the more
+massive structure will be the primary, stationary member. Because of the
+multidimensional construction of the magnetic circuit, ferrite powder would be
+a suitable material choice. The primary yoke could have its perimeter either
+circular or made up of four chords, with the inner core being circular or
+square respectively. To restrict motion to favourable magnetic circuits, the
+yoke perimeter would probably incorporate a crash bar. A single circular ring
+joins top and bottom yokes to return flux. Alternatively the return path could
+be c-shaped to allow access to more of the inner core.
+
+If the yoke is formed inté a loop, then a single phase 3DOF structure
+with continuous roll and limited pitch and yaw is developed, Figure 3. A three
+phase structure with limited roll pitch and yaw is shown in Figure 4,
+
+Combinations can be ganged up to provide polyphase versions, with the
+return flux ring positioned as appropriate.
+
+eo Brood . |
+E. Abel :
+AETB
+Building 329 .
+ll January 1983 .
+aD ie
+
+a Tha POO A
+
+" a erence
+
+a > Tip sac
+mar on NN FA
+
+anm\n Be. | sis a
+
+an ee panes
+2. Wea
+y <<)
+3 Rad M wudsa4
+Wi 4 ele wert, re_prege cto o« EN mul ~degveg of. ;
+faon~ Power Domafer ae Hie” Sl
+
+5 ' , i . 3 ahi ;
+| ee pak Ot : . p Nmomyy sph S plese.
+oe oh
+Segre Rud
+| = ereNN <n te bet
+( . | - s \ fa cea wre ny
+\ x N
+I /—~ ple
+| inne r conve.
+ct = “|
+(MVer Cone | | ; 7 |
+| “oe ta ae cAnet CONE
+, DoF eT | | | Eo | Ree] qe wl, aherdal pernelet
+; Ah H(“c. | ee Set
+— ral |! ie 2) JAS
+J) ee
+It SS last.” sOWGIiE
+yf -~ KN a rrcakarl
+ff . often ‘ ‘ CNHE+ Cove.
+|  acicquenn nel Mie he ss Yoke wilh cirmlers Pedeler
+iors | eet \ Toa] ae ei
+\ Nat ( ri) :
+\ - a iy
+r4 VS org lo. d A Dot. IMnes on reves
+
+Be a
+pital
+re : we conbueny eM
+ral fh fw
+m4 e safle F & per 7
+7 )
+| aX | ie < GY
+| J Z VW ONS ALB iis
+sae ia eos
+St Gp SH Lbs A s dol
+

@@ -1,0 +1,117 @@
+ELECTRONICS & POWER SEPTEMBER 1978 673
+P umption f
+It tive maglev systems
+by E. Abel, 8.sc., C.Eng., M.LE.E., and Prof. R. G. Rhodes
+Two alternative systems for a high speed train are being In a recent publication’ the design details, per-
+developed in W. Germany, namely, the electrodynamic formance characteristics and power requirements of
+system of levitation utilising superconducting magnets these systems have been contrasted andcom pared, and
+and the long-stator synchronous motor for propulsion the general conclusion was that the development of
+(e.d.s.), and the electromagnetic attraction system of either system had not proceeded sufficiently far for a
+suspension using controlled electromagnets combined clear decision to be taken between them. However, it
+with either the short-stator linear induction motor or was felt that the figures quoted in the above references
+the long-stator synchronous motor for propulsion for the power consumption of the respective systems
+(e.m.s.). are somewhat misleading, in that only the active power
+SS ae supplied to the vehicle is considered. The complex
+Edward Abel and Prof. Rhodes are with the Depart- power requirements at the wayside substations, on the
+ment of Engineering, University of Warwick, Coventry, _ other hand, have been ignored. However, when these are
+War. CU4 7AL, England taken into account, particularly for the case of the
+0013-5127 /78/0576 — 0673 $1.50/0 linear induction machine(1.i.m.), it has a marked effect
+© IEE: 1978 when the total powers are compared.
+303
+>
+233
+1g ea
+20:9 208
+20 a7 97
+> g
+:
+& 41
+g e 15g} © q
+a | fis al" e 36
+g ——I159 52 e
+8 0 “ 5 d 1s along || —
+are 0-4(c) a1 | oa) Yer o2tc)
+67 0-5 (b) 0 5(b) 02(b)
+eemae le fa) ote
+000K 5GOKm/h 400km/h S00km/h 400km/h 500km/h 400km/h 500km/h
+e.d.s. (ong stator e.m.s. short stator e.m.s. short stator @.m.s. long stator
+1 Total active power of systems. D.C. distribution and pickup loss not included for both e.m.s. short stator
+(n = 0-78 and 7 = 046, respectively)
+a Ar ddrag
+b Magdrag (lift & guidance)
+c On-board systems drag
+d Remaining subsystem drag
+e Subsystem losses
+f Residual acceleration
+g Losses from residual acceleration
+
+674 ELECTRONICS & POWER SEPTEMBER 1978 Se HM
+|
+\|
+{
+|
+}
+d
+70)
+|
+60
+1c ayo
+: |
+»
+& 40 a |
+w
+q |
+é |
+3 30) |
+q
+5 i
+20
+10
+|
+|
+"9 5 10 15 20MWO 5 10 15 20 23MW 0 5 10 I5 20 25 30 35MWO 5 10 15 20MW |
+eds. long stator ems, short stator ems. short stator ems. long stator j
+7 cos 8-051 n cos 6:03
+2 Total Complex and active power of systems
+a 400 km/h, steady state
+6b 400 km/h, accelerating
+c 500 km/h, steady state
+d §00 km/h, accelerating
+The purpose of this study was to obtain a more with the long-stator motor (1.s.m.) propulsion requires
+realistic assessment of the respective overall power considerably less energy than the other variants of the
+Tequirements from published figures?-® for the e.ms. system under these assessed operating con-
+competitive systems, and the aggregated powers are ditions. It seems equally obvious that the short-stator
+presented in the form of the block diagrams shown in __1.i.m. would be quite unsuitable for operational speeds
+Figs. 1 and 2. In assembling this data, it was discovered of 500 km/h and even very doubtful for 400 km/h.
+that very little factual information on power factor and Although the e.m.s. long-stator system would appear
+efficiency could be found for the e.m.s. propulsion to have reasonable characteristics at 400 km/h, it
+systems. However, for the purpose of calculating the — becomes seriously degraded at 500 km/h. But it is felt
+complex power requirements for the short-stator that, because of the relatively meagre published infor-
+l.i.m., two designs were considered with efficiencies of mation on this system, not very much reliance can be
+0-78 and 0-60, respectively, and efficiency/power fac- placed on these results. It can be concluded, therefore,
+tor products of 0:51 and 0-30. that from the available published evidence on the rela-
+In the determination of the overall power con- tive power requirements of these proposed systems,
+sumption of the respective systems, the following the e.d.s. (cryogenic) design with l.s.m. propulsion
+energy requirements were considered: (long stator) would appear to have the most promise
+for the required operating speeds of 400 to 500 km/h.
+® aerodynamic drag
+© magnetic drag resulting from both lift and guidance References
+@ on-board systems drag, i.e. the power suppliedto the | 1. LEONHARD, W: "Technische Alternativen bei der
+vehicle for on-board systems Magnetschwebebahn’, VDI Nach. 15th April 1977, pp.
+@ remaining steady-state drag, i.e. cooling air inlet orm nested by RHODES, R.G., and ee tees
+drag echnical alternatives for a maglev system’, Electron. &
+@ steady-state losses (due to motor inefficiency) Pir? aoe tle aod : ,
+: : : 2 ‘Spurgefuhrter Fermverkehr Magnetbahnentwicklung’,
+@ residual acceleration, i.e. extra power to accelerate —_ Pro. 6th Status Seminar des Bunderministeriums fur Fors-
+against headwinds, gradients etc. chung und Technologie, Konstanz, 1977.
+@ losses from residual acceleration. 3 ALBRECHT, C: ‘Development of levitated vehicles with
+superconducting magnets’, IEE Conf. Publ. 142, 1976 pp.
+113-116
+In Fig. 1 the total composite active-power requirements 4 HEBST W: ‘Weight and performance characteristics of
+of the different systems have been plotted for the two ™gnetically suspended high speed trains as compared to
+; . aircraft’, Presented at the 34th Conference of Society of
+speeds 400 and 500 km/h, respectively, and, in Fig.2,  ‘anied Weight Engineers, Seattle, Sth - 8th May 1975
+both the total complex and active power requirements 5 WINKLE G: ‘Forschungs — und Entwicklungsstand der
+are presented. Elektromagnetischen Schwebetechnik in der Bundesrepublik
+It is clear from these results that the e.d.s. system Deutschland’, ETZ-A 1975, 96, pp. 367 - 373
+

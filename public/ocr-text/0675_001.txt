@@ -1,0 +1,258 @@
+125
+AN ASSESSMENT OF LINEAR SUPERCONDUCTING MOTORS FOR MAGLEV
+E. Abel, J.L. Mahtani, B.E. Mulhall, R.G. Rhodes
+Department of Engineering, University of Warwick, U.K.
+INTRODUCTION TABLE I - Specific Thrust of Linear Machines
+There is at present considerable interest in magnetic ale Wolfson Mode
+suspensions for high speed ground transport and in the Machine | MIT (1) |CIGGT (2) [cruise Jacceleration
+complementary development of linear motors for pro- “1
+pulsion. In particular, electrodynamic levitation, or Speed 99 140 70 70 ms
+maglev, in which d.c. excited magnets (superconducting) Bay 0.33 0.19 0.48 0.48 T
+on the vehicle interact with a conducting (aluminium) Jac 1.25 4.85 1.36 6.44 kA/m
+track naturally lends itself to linear variants of the Fe 0.46 1,02 0.72 3.43 kN/m2
+well-known synchronous or d.c. commutator machines.
+Although linear synchronous machines (LSM) have
+received most attention hitherto (Thornton (1), Slemon Machine Optimisation
+(2)), in the following some reasons for considering
+the commutator machine (LCM) are outlined and a pre- One approach to optimisation is to minimise the overall
+liminary comparison of the machine types is made. costs of the transport system. To do this requires
+assumptions about operating procedures and parameters
+The Wolfson Project but the variation between the different published
+studies is too great for meaningful comparison. There-
+The work at Warwick is centred around the project, fore, in this comparative study, the figures used by
+funded by the Wolfson Foundation, to build a test the Canadian group (Eastham (3)) have been taken as a
+vehicle (weighing 150 kg) to run on a 550m long track basis and the MIT design re-evaluated accordingly.
+on the University campus. To provide speeds of 30ms 7!
+or more for a useful experimental time requires The costs are divided into (i) fixed costs which, in a
+accelerations of 1g - an order of magnitude greater first analysis, are the capital costs of track
+than, is possible in revenue systems. The consequence conductor and of power conversion equipment and (ii)
+for the test model machine is high armature (track) running costs, i.e. energy costs. The variables are,
+current loading, which can lead to excessive power for simplicity, restricted to the cross sectional area
+losses and reactive power consumption. of the track conductor, A, the excited length of track,
+G, and the machine pole pitch, A/2 (or magnetic wave-
+Linear Commutator Motors length, 4). The last of these has been optimised
+separately from a technical standpoint in previous
+The low efficiency and power factor of an LSM with studies (1, 2). ,
+high armature current can be overcome to a large extent
+by reducing the excited length. In the limit only the Pole Pitch and Flux Density
+length actually interacting with the vehicle magnets
+need be excited though to achieve this, power switches Separate optimisation of pole pitch has been based on
+must be located at comparatively short intervals along maximising the machine thrust. If the vehicle magnets
+the track. A possible configuration is shown in Fig. are approximated by a one-dimensional sinusoidal
+1; this can be regarded as a linear stepping device, current sheet of strength ly amps/pole, the amplitude
+with the switching of each track pole being controlled of the flux density at the Y ack for a levitation
+by the vehicle position, speed, and required accelera- height, h, is given by (uolyn/2) exp(-2nh/,)- Hence
+tion. Alternatively, the machine may be regarded as a the total thrust, F, in the track conductors extending
+cycloconverter fed LSM, with the converter switching over a width, w, is proportional to
+elements spaced along the trackside, but with control (mN Iplyw/a) exp (-20h/2), where there are N active
+and power distribution equipment at much more widely poles md m phase windings each carrying I, amps.
+spaced points.
+Also of significance are the armature power loss, Pa,
+and mass of conductor, Ma, per metre of track, given
+MACHINE DESIGN by:
+Specific Thrust Pa = mle (A + 2W)/2AA sececesereeereeeeeeeeeeee(T)
+The specific thrust, Fs, defined as the ratio of thrust and M, = M(A + 2W)AO/A ccereceeveaeceeeenccecetenre (2)
+to plan area of the machine, is proportional to the a
+average flux density at the track, Bay, and the — respectively, where o is the density and p the
+armature track current per unit length, Jac» and is resistivity of the track conductor. By using equations
+independent of machine type. For a first order (1) and (2) to eliminate Im and A the thrust can be
+analysis the effects of harmonics in electric and expressed by:
+magnetic waves can be neglected - e.g. Bay includes an
+allowance for winding pitch, chording, etc. Fs is, 2PM
+however, essentially independent of the pole pitch. Fo« NI 28 WW exp (-20h/A) cee eeeee ee e(3)
+Table I lists some values for the machines designed at u po Ate
+MIT (1), The Canadian Institute for Guided Ground
+Transport (CIGGT) (2) for revenue service and the Assuming N, Pa, Ma fixed, and determining 4 to maximise
+Warwick experimental machine. F, the MIT group #1) have maximised the thrust per pole.
+; re Mate rats Since, however, for a given vehicle length, the number
+Dud Conf on Rovances sy Maaue . : “ of poles will be inversely proportional to wavelength,
+cmd the Ppepheshons 1d deeb (776
+{ze London ft ‘hea- (wT
+
+126
+it may be preferable to maximise the thrust per unit published values of typically 25. To further justify
+of active conductor times current, i.e. F/(Nm(A+2w) Tp. this thyristor costs for the configuration of Fig. 1
+This expression can be reduced (3) to a form similar have been estimated on the assumption that the excited
+to equation (3), but with a further factor 1/,. The length exceeds the vehicle length, so that the switch
+optimum wavelength is then found to be only 2 that of units contro] the full power, The savings over
+the MIT design, i.e. approximately Im. 3 conventional inverter equipment arise partly in the
+possibility of using relatively low grade thyristors
+Integrated System (turn off time should not be critical), partly because
+— of the short duty cycle (though the scope for over-
+The validity of the optimisation of wavelength may, rating thyristors is limited in view of 'on' times of
+however, be questioned in so far as the vehicle several seconds), and partly by the elimination of
+excitation has been regarded as fixed. In the scheme transformers, filters and the rectifiers of an
+being studied at Warwick (4), in which the same inverter (though some of this equipment would have to
+magnets are used both for levitation and propulsion, be provided at widely spaced distribution points).
+the levitation determines the flux density at the Nevertheless, a list price of thyristors of 0.2$/kVA
+track. Some variation is possible by altering the Suggests a value of Cy of 2 is justified for a
+fraction of the vehicle area covered by the magnets, preliminary design.
+though for lowest armature loading, the area should . . ; .
+be large and the flux density relatively modest. The The results of this analysis are summarised in Table
+lift is proportional to Bjg x active area and is fixed, IT, and illustrate the short excited length, G, of
+while the thrust per unit armature current, which is the LCM. For the MIT and the Canadian machines the
+to be maximised, is proportional to Bay X area. Some values of A are those proposed by the respective
+modification of the magnet geometry to vary the groups.
+relative proportions of flux available for lift and
+propulsion may also be possible. Nevertheless, it J
+seems preferable to assume a flux density, Bav, TABLE II - Machine Costs and Parameters
+independent of A. Analysis equivalent to that of
+the preceding section then shows that the thrust = = :
+varies as (Atw)"!, and hence there is no optimum. The Vehicle
+pole pitch must therefore be determined by a different rapacity
+procedure, Machine] A(m) ]@(km)| A(cn® C1} Cost(t /pass.km) (oF oad
+Gost Optimisation MIT 2.85] 5 1.0 | 25 1.0 Pa
+In an attempt to optimise A the cost estimate of the Cla@GT 71.14) 3 | 0.6 | 25 0.79
+system outlined above was examined. The installed Lem 3.0 | 0.3] 0.5 | 2 0.60 60
+cost of the track conductor was taken to be vg (9/9)
+and of the power conversion equipment Cy($/kV. ). The ~
+total power requirement is made up of ie mechanical o = 0.02 $/kW.hr; v= 475 km/hr; 360 passengers/hr.
+power transferred to the vehicle, Pg, plus the track
+losses GPa. The inverters may be arranged to supply
+either of two excited lengths, so the cost per metre CONCLUSION
+becomes C1 (PhsGPa) /26. The energy cost also depends . , .
+on the installed power, on the unit power cost, Cp This preliminary analysis suggests that overall costs
+($/kW-hr), average vehicle frequency f (per hour) and of linear machines are relatively insensitive to pole
+speed V (km/hr). At an annual amortisation rate of pitch, thus allowing this parameter to be chosen on
+k% the annual cost, C, per metre of track, can then be other grounds. The overall costs of an LCM appear to
+expressed by: be comparable with those of the LSM, provided that
+the simple machine being investigated at Warwick is
+kc_M PL+GP Ck 8.76 CAG technically acceptable.
+c= Recta, (Pata [Ss gel boceeeel)
+100 G 200 Vv
+REFERENCES
+and the cost per passenger-km is proportional to ; .
+(/n)x (vehicle capacity). Ma, Pa are given by equations 1, Thornton, R.D., Linear Electric Machines
+(1) and (2), with Im expressed in terms of F and Bays Conference Proceedings pp.230-5, London Oct.
+which are fixed. C can be differentiated with respect 1974, IEE Conf. Publ. 120.
+to A,G and » and the conditions for an optimum found, .
+As the resulting simultaneous equations cannot be 2.  Slemon, G.R., IEEE Trans. Magnetics MAG-11,
+solved algebraically, two were solved for A and G for 5, 1478-83 (1975).
+iven values of A. Loci of these optima with Cy, C
+‘ parameters are shown in Fig. 2, and the correspond: 3. Eastham, A.R. (ed.), CIGGT Report 75-5, Queen's
+ing total costs plotted against A are given in Fig. 3. University, Kingston, Ontario (1975),
+The most significant result is that cost increases .
+monotonically with 2, though so slowly as to be 4. Rhodes, R.G., Mulhall, B.E., Cryogenics 15 7
+relatively unimportant in determining a. 403-5 (1975).
+This conclusion is especially important for the
+integrated system of levitation and propulsion, since
+other factors strongly influence the choice of pole
+pitch. These include the variation of lift force
+with speed, the magnitude and speed range of the ‘drag
+peak', and the supply frequency of the linear machine
+- all of which tend to favour longer wavelengths.
+LINEAR COMMUTATOR MOTOR
+The graphs illustrating the cost optimisation include
+curves for Cj as low as 2$/kVA, compared with
+
+127
+Wayside = —=—=-Track ye Vehicle=
+\ po] 1-2 qOPTIMUM A
+thyistor unit aioe Nepean rs cm=
+at } g
+<2.
+cual 1:0 =
+. v,
+logic Leleensing / _ \\ oO
+control ( o:8 a
+eoy {a ,
+T
+Neutral 0-6 ,
+O-4
+X Wavelength b
+b Magnet length
+T Eo mmutatos (— 1 0-2
+pitc
+‘—] ea
+2 1 2 3 4
+OPTIMUM G. Kilometre
+Fig. 1 - Scheme of Possible LCM. Fig. 2 - Loci of Optimum G, A
+(only one of several similar windings shown) 7
+COST, C,
+$ per year-metre a
+b TABLE II-Unit Costs for Fig. 3.
+20
+c
+Cy, $/kVA | Cp, 6/kW-he.
+0.02
+_ 0.01
+10 0.02
+oO. O!
+Oo 1 2 3 4
+WAVELENGTH, A, metre
+Fig. 3 - Costs as function of wavelength
+
+128
+NORMAL FORCE VARIATION IN SINGLE-SIDED LINEAR INDUCTION MACHINES
+E.M. Freeman and D.A. Lowther
+Department of Electrical Engineering, Imperial College of Science and Technology, London, UK
+INTRODUCTION where Z2 is the surface impedance 'looking up' from
+——— the current sheet. It is defined as the electric-
+It is really only within the last decade that field-strength/magnetic-field-strength ratio et a
+attention has been given to the study of the normal, particular point.
+or 'levitation', force in single-sided linear
+induction machines. The initial studies were for 45 5 25 (2, + 25 tanh (y,6,))/(2, + Z, tanh(y,g.,))
+simplified models of infinite length and width. These /
+will be referred to as one~dimensional, or 1-D models 2, 7 2 (2, + 2, tanh(y,6,))/(2; +B tanh(y,8,))
+(Laithwaite (1), Freeman and Lowther (2)).  Subse-
+quently transverse edge effects were taken into Z\ = jon /y
+: n on 'n
+account. Two methods are commonly used. Either a 2 a4 4
+resistivity multiplier is employed or the current Yn = (ko + js,/d,) 2 = k( + js) ®
+waveform in the transverse direction is modulated. 4 4
+This is commonly referred to as the two-dimensional, d, = depth of penetratigh x (2)7* = (0,70 wwe
+or 2-D model, see ref. (2) and the work of °
+Oberretl (3). k = 2n/r 3 5, = slif of region n
+. . nN ; . amperes
+Longitudinal, or entry and exit effects are commonly K = line current génsity = HMN pp I/(\p) er metre
+allowed for by modulating the ciirrent waveform in the P
+longitudinal direction, with some allowance for trans- M = number of phases
+verse edge effects. This is often referred to as a Nere = effective furns in series per phase
+3-D model (3). A word of caution about the above I = phase curyfent, time maximum value
+mentioned 2-D and 3-D models. Strictly these models A = wavelen } P = number of poles
+are only 1-D models with current modulation™in one or
+two directions. There is no variation in matexial Equation (1) Axpresses the normal force in circuital
+properties except in the direction normal to the terms. It gAn be seen that when 22 | >|23 | the normal
+plane containing the air-gap. force is oye-of attraction. This would occur if
+regions 3/and 4 consisted of non-conducting magnetic
+The object of this paper is to draw attention to materia Alternatively if 3 and 4 were both non-
+certain basic factors, which can be established from wagnetié conducting regions, then |Z:|<|% |, the
+relatively simple formulae, rather than try to account charagteristic impedance of air, and repulsion would
+for the detailed performance of a particular design. occur.
+So often, one only needs to have an approximate idea :
+of how a device will behave. A detailed study can Efom a knowledge of the input wave impedance, the
+always be made at a later stage. For example, when complex power input from the current sheet can also be
+contemplating the possibility of using the normal calculated: aN
+force to levitate a vehicle, or simply a conducting 5 >
+mass, the complex power input per newton of normal S S = P+ jQ 0-5 K 45 VA/N \eesieeseesies-(2)
+force can be a key factor. Induction levitation, by
+its very nature, is energy consuming, although some N.B. This does not inclw stator winding loss, slot
+energy might be used for propulsion purposes. In this leakage or end leakage reac Ce. P and Q are the
+paper we present results which can give a designer an real and complex components of power/m@.
+initial guide to the feasibility of using single-
+sided linear induction motors for levitation. At this point it is convenient to consider two
+J separate models (i) iron-backed and (ii) air-backed.
+In the following is discussed a baasg 4-2 model Possibly the most commonly encountered example of the
+having a single harmonic current sheét supported on first occurs in traction applications, the second is
+infinitely permeable iron, an air-gap, a conducting of interest in materials handling.
+layer and a backing region of air’or iron. The model
+is shown in Fig. 1. By making certain simplifying Iron-Backed 1-D Model
+assumptions, two circle diagrams can be derived, one
+for the model with backing iron, the other without. In reference (2) it was shown that a simplified form
+The circle diagrams have been found to be extremely of presentation was possible by 'blending' regions 2
+useful when discussing the behaviour of SLIMs. To and 3 together. The new region 2-3 is then assumed
+our knowledge, only Poloujadoff (4) has discussed the to have a resistivity p23 = (go+g3)93/e3. The input
+use of a circle diagram in this context. We show wave impedance is then given by:
+how the idea might be extended to include normal
+force and machines having air-backed rotors. Simple a, = Zs coth (yg) occccccccccnnccess (3)
+formulae are then derived for certain factors such as
+complex power/newton of normal force. where Zaz = jol/y- This simplified form makes it
+possible to present the normal force as a function of
+THEORY 1-D MODEL two variables only, see Fig 3 in reference (2). Hence,
+limiting values of the normal force could be obtained
+The theory is given in earlier work (2), only final as well as the slip at which the normal force changed
+results will be quoted here. For the 1-D model the sign from positive, lifting, to negative, attracting.
+normal force is given by: 2
+eh os IZ ; Pal newtonestee a) The criterion for this was: kgs, G = 1:0 .........(4)
+L 2 ° |25|@ square metre where g = (g, + Bz) and s, = slip at cross-over.
+

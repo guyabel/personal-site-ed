@@ -1,0 +1,371 @@
+fo-8
+, 24-10
+t
+LEVITATION AND PROPULSION OF GULDED VEHICLES
+USING SUPERCONDUCTING MAGNETS _
+E. Abel, A.E. Corbett, B.E. Mulhall, R.G. Rhodes
+Paper presented at the Conference on
+LINEAR ELECTRIC MACHINES
+London, 21 - 23 October 1974,
+and published in I.E.E. Conference Publication No.120, pp 223-229.
+* OK OK OK OK OK OK
+Sune
+
+Levitation and guidance of high speed vehicles by means of
+magnetic forces between superconducting magnets on the vehicle and
+eddy currents set up in an aluminium track is described.
+
+Linear motor propulsion is discussed and induction machines are
+shown to be incompatible with the levitation. In contrast synchronous
+or commutator machines, using the existing mgnets as field excitation,
+and with a powered track winding show great promise. In particular the
+commutator machine, which has good starting characteristics, will be
+studied further.
+
+The test track and research vehicle being built at the University
+of Warwick is described briefly.
+
+223
+LEVITATION AND PROPULSION OF GUIDED VEHICLES USING SUPERCONDUCTING
+MAGNETS .
+E. Abel, A.E. Corbett, B.E. Mulhall, R.G. Rhodes.
+Introduction |
+Of the several differing strategies being developed to meet future high
+speed land transport requirements, the air cushion and magnetic force
+suspensions are the main non-contact systems. For both of these linear
+electric propulsion is strongly preferred to any form of jet or air
+propulsion, for environmental reasons,
+The type of levitation involving the repulsion force generated between
+superconducting magnets mounted on the moving vehicle and an electrically
+conducting (aluminium) guideway is being examined at the University of
+Warwick with funding from the Wolfson Foundation. The propulsion unit
+should be compatible with a large levitation height, without the need for
+a secondary suspension. The possibility of using a machine with a
+superconducting field winding on the vehicle and a linear track armature
+winding is apparent.
+In this paper the general types of machines that may be used for the
+propulsion of a magnetically levitated (or Maglev) vehicle are considered,
+and the vehicle levitation and guidance characteristics discussed.
+Levitation Characteristics
+In the proposed Maglev systems the interaction between the guideway eddy
+currents and the vehicle magnets results in both lift and drag. ‘These
+forces vary with vehicle speed, as sketched in Fig. 1, with the eddy
+current skin depth of the metal track determining the scale of the speed
+axis(1). Extensive theoretical investigations have resulted in solutions
+agreeing closely with experiment for many practical peometries, such as a
+rectangular coil moving over a wide track.
+No simple expression for the skin depth has been obtained, but for an
+aluminium guideway (resistivity about 3 x 10 § 2.m) typical values are
+10 - 20 mn. at speeds of 160 m/s. Hence for the situations envisaged, the
+very much simpler theory, valid at low speeds will usually be adequate.
+It is then found that there is a characteristic velocity, Vo? piven by
+_ 2
+
+us = Wad m/s.
+where u, = Un .10 7 H/m; o conductivity of track mho/m; d thickness of
+track, m.
+The lift and drag forces are related by(2)
+
+F
+
+Lov
+
+ling ol (1)
+
+By Vo
+The above authors are all members of the Department of Engineering,
+University of Warwick.
+
+224
+
+and the lift is given by
+FL = Yo (2)
+R 1 + of ee e
+
+Yo
+Fo» the maximum possible lift force, is approached at high vehicle speeds,
+and would be reached for a track with infinite conductivity i.e. a super-
+conducting track. The value of F, is determined by suspension height, and
+magnet strength and geometry; it is infact just the force between the
+vehicle magnets and their identical images reflected in the track.
+Guidance Forces
+Generally lateral guidance is provided by shaping the guideway, typically
+forming it as a channel section (Fig. 2(a)). It is important that the side
+flanges be electrically continuous with the track, for otherwise the
+vehicle will experience a destabilising lateral force(3). This behaviour
+can be simply explained as equivalent to shaded pole action, where the eddy
+currents induced in the aluminium are out of phase laterally, and so
+provide a lateral linear motor effect.
+The vertical guide members can lead to route switching problems in a
+transport system, as well as being mechanically restricting. The extra
+image magnets created by the lateral guidance forces also produce extra
+drag - in fact Davis has shown(2) that equation 1 remins valid if Fe is
+replaced by the sum of the lift and guidance forces.
+By using the shaded pole action of the edge of an aluminium sheet, flat
+track guidance arrangements are possible which provide a magnetic potential
+trough for the vehicle. One such scheme is shown in Fig. 2(e). The
+requirement of a stabilising force to reduce lateral displacements is ful-
+filled simply if the guideway is subjected to a nett flux linkage increase
+as the displacement from equilibrium increases. The guidance forces can
+be measured on scaled models, by means of inductance measurements, as has
+been discussed by Iwasa(4). Iwasa also points out that the full-scale drag
+power can also be estimated from loss measurement on the model, though in
+practice it may be difficult to make the loss ('Q' factor) measurements
+with sufficient accuracy. The tentative results shown in Fig. 3 were
+obtained by this method, using a rectangular copper coil placed over two
+parallel strips of aluminium.
+Track and Magnet Configuration
+The split track of Fig. 2(e) appears to have a number of advantages, among
+which the more obvious are that it overcomes the mechanical problems of the
+channel guideway. It also requires appreciably less track conductor,
+perhaps as little as one half, though this is achieved at the expense of
+additional superconductor. For the Wolfson test vehicle for example, about
+twice as mich superconductor will be needed, but since it will still cost
+less than 10% of the track conductor the trade-off is considered to be
+worthwhile. A more detailed optimisation will be carried out when the
+technical characteristics of the guideway are better understood.
+A further advantage is that, since the magnets do not cover the full
+width of conducting track, the possibility now exists of combining the
+
+225
+lift and propulsion without excessive interaction between track (armature)
+winding and the aluminium levitation strips.
+A transverse flux arrangement similar to that suggested by Laithwaite and
+Eastham for linear induction machines(5) is also being considered, and
+appears to have advantages. In the literature on levitation,magnets which
+are long in the direction of motion are preferred, as having lower magnetic
+drag; then.the lower reluctance of flux paths transverse rather than
+along the vehicle would allow some saving on superconductor cost; more
+significantly the stray field level in the passenger compartment is
+reduced, and screening becomes easier. Thus the arrangement of Fig. 2(f)
+is being evaluated.
+Propulsion Machine Types
+Essentially two main types of motor can be used for high speed transporta-
+tion. The linear induction machine (LIM) is well known, and can provide
+useful thrust at a slip velocity. The linear synchronous motor (LSM) has
+received less attention, and its main drawback is that it cannot provide
+thrust for starting unless a variable frequency supply is available. A
+third type of machine, the linear commutator motor (LCM) is perhaps an
+extension of a LSM with trackside frequency control. Vehicle position
+would actuate a switch to energise the appropriate part of the track
+winding and produce frequency independent operation. Each machine type
+will be considered in turn.
+Linear Induction Motor
+The LIM has so far appeared in two basic forms for high speed traction.
+The double-sided and single-sided motors basically offer performance
+similar to their rotating counterparts, but for high speed application the
+discontinuity at entry and exit edges, and finite size and isotopy of the
+reaction rail, give rise to extra losses and degradation of performance.
+An attempt to minimise end effect losses by adding compensating windings
+to the main stator block, has met some success(6,7) bringing thrust-slip,
+efficiency and power factor nearer to values suggested by an idealized
+LIM theory.
+In all LIM's, the main stator winding provides the flux which induces eddy
+currents in the reaction plate. The machine is typically suitable for
+small gap clearances if reasonable power factor and efficiency are to be
+obtained. As a propulsion for Maglev vehicles, independent servo-control
+of the gap length might be necessary(2), and so the min advantages of the
+large gap and tolerance to surface irregularities would be lost.
+If the stator unit of a LIM was mounted in the vehicle, this would present
+two further problems. The prospect of transferring several megawatts of
+power through a current pickup device is daunting although recent develop-
+ments appear promising. The weight of the stator itself would reduce the
+effective payload of the vehicle, especially if on-board power condition-
+ing equipment was included.
+The transverse flux motor(5), to some extent, lessens the inherent problem
+of high speed operation of a LIM, as the core of the stator now need only
+carry tooth flux rather than the whole pole flux of a conventional
+machine, and hence the amount of iron can be reduced. Also, core depths
+
+226
+are independent of pole pitch with this arrangement. The backing iron
+behind the reaction plate of a single-sided LIM can similarly be reduced.
+Linear Synchronous Motor
+The LSM has no inherent starting thrust, and so a means of providing
+propulsive power at essentially zero speed must be found. ‘The normal
+methods of using induction starting present grave difficulties as the a.c.
+losses in the superconducting winding on the vehicle would be excessive
+unless an eddy current screen could be incorporated on the vehicle.
+Low frequency starting(8) seems the most viable alternative, and trackside
+power conditioning units would be required at the stations to cover their
+‘accelerating’ sections of track. Once at a synchronous speed, the LSM
+would be operating with track windings at a normal power frequency(9) .
+Another method of controlling the synchronous machine is to power the
+track in response to a vehicle position signal. The synchronous machine is
+then essentially a commutator or d.c. machine, and has the same speed-
+torque characteristics with a useful starting torque.
+Linear Commutator Motor
+As mentioned in connection with the LSM, if track loops are current or
+voltage forced in response to vehicle position, a linear commutator machine
+(LCM) results. Transverse flux arrangements are still valid, and can
+improve overall track efficiency. A solid state device, such as a
+thyristor, is the obvious choice for the switching operation, and although
+this will inevitably increase the track cost, it is worth noting that over
+the last few years thyristor costs have fallen by a factor of six, and
+power handling capacity has increased by a factor of 40. For a 30-tonne
+revenue vehicle a phase winding made from five turn windings will have a
+terminal voltage of about 2kV., and phase current of 1000 amps. For the
+Wolfson motor a track thyristor would need to withstand 1kV and pass about
+4OO amps.
+Large “hockey-puck" thyristors with a high thermal inertia and a rating of
+2000 amps r.m.S. or more are now available; the duty cycle imposed by
+vehicle headway (on a revenue system) would further ease their rating. As
+a rough guide, the cost of thyristors will probably be of the same order
+as that of the track conductors.
+The system proposed for the Wolfson Maglev Project embodies a LOM, and the
+general arrangement might be as in Fig. 4. If the machine begins to fall
+out of step with a preprogrammed acceleration routine, position, velocity
+and acceleration feedback will enable the thyristor firing rate to be
+varied accordingly. Although the thyristor load would have an inductive
+component, forced commutation of the device may not be necessary if the
+current in the track is controlled, rather than the voltage. A motor
+speed control system which embodies this technique is known as the
+“controlled current and slip" inverter.
+The performance of a LOM is more difficult to assess than a LSM, if a
+thyristor commutator is used. A simplified analysis is based on computer
+calculations for the mitual inductance of track and vehicle loop arrays,
+as vehicle motion proceeds. The relevant forces and couples on the vehicle
+can be evaluated, and this gives insight into vehicle dynamic behaviour
+
+227
+for various track configurations and excitations. From preliminary
+calculations of this type it appears that two main problems will arise.
+One concerns the armature reaction on the field winding, since time
+varying fields or currents in the superconductor give rise to losses which
+may prove unacceptable. Fortunately design studies on rotating super-
+conducting machines have shown how eddy current screens can be incorporated
+in the machine to alleviate such difficulties. The second concerns the
+vertical and lateral forces which the machine produces, and which can be of
+the same order as the forces produced by the eddy current levitating inter—
+actions. If the forces can be lift and guidance, there exists the prospect
+of significant enhancement of the overall performance of the system. How-
+ever, the range of geometries for which this desirable state of affairs
+occurs is quite limited. Present efforts are directed to studying these
+and to ascertaining how stable the resulting dynamic behaviour of the
+vehicle would be.
+The Wolfson Magnetic Levitation Project
+The object of the Wolfson project is to demonstrate the feasibility of
+magnetic levitation by superconducting magnets, and to highlight some of
+the engineering problems that may be encountered in a revenue vehicle. To
+meet these objectives a test track and vehicle will be built and operated
+on the Warwick University Campus. A site permitting a straight run of 650m
+has been chosen, on which speeds up to 250kn/hr. may be possible. The
+track itself will be a flat concrete roadbed, about 1m wide, onto which
+the aluminium guideway and armature will be fixed.
+A vehicle, 4m long by 1m wide, weighing 600kg and having seating for two
+passengers intandem has been designed. Design of the cryostat and the
+superconducting coils is also in hand. Preliminary tests will be with the
+vehicle coupled to a towed trolley, but later a linear motor of the type
+discussed will be fitted as the propulsion unit.
+To provide a foundation for the detail design of the suspension and
+propulsion theoretical and experimental studies, based on the ideas
+discussed on this paper, are being carried out. Models include rotating
+drums, the cylindrical surface of which is shaped to simulate a guideway,
+and a linear machine which consists of 12 coils (the armature winding)
+around the periphery of a 600mm diameter drum. Switching of the linear
+machine is by a mechanical commutator, though thyristors will be used at a
+later stage. Magnetic excitation is by permanent magnets but since the
+fields are too low to give really representative behaviour it is planned
+to use a Superconducting magnet at a later stage.
+Cone lusion
+From the qualitative discussion above it appears that the combination of
+levitation and guidance using superconducting magnets above a flat
+aluminium track, and propulsion by means of a linear conmutator motor using
+the same superconducting magnets for field excitation is possible. Such a
+scheme is being considered for land transport at speeds above 300kn/hr.,
+and to this end a technical and economic evaluation is in progress.
+
+228
+
+References
+
+Le Richards, P.L., and Tinkham, M.: "Magnetic Suspension and
+Propulsion Systems for High Speed Transportation", J. Appl. Phys.,
+1972, 43, (6), pp 2680-91.
+
+2. Reitz, J.R., Borcherts, R.H., Davis, L.C., Hunt, T.K., and Wilkie,
+D.F.: "Preliminary Design Studies of Magnetic Suspensions for High
+Speed Ground Transportation", March 1973, Ford Report for U.S. Dept.
+of Transportation, FRA-RT-+73-27; PB223237 of U.S. N.T.I.S.
+
+Be Coffey, H.T., Cotton, J.D., and Mahrer, K.D.: "Study of a
+Magnetically Levitated Vehicle", February 1973, Stanford ~
+Research Institute. Report for U.S. Dept. of Transportation,
+FRA-RT-73-24; PB221696 of U.S. N.T.I.S.
+
+4, Iwasa, Y.: "Electromagnetic flight stability by model impedance
+simulation", J. Appl. Phys., 1973, 44, (2), pp 858-62.
+
+Oe Eastham, J.F., and Laithwaite, E.R.: "linear Motor Topology",
+Proc. I.E.E., 1973, 120, (3), pp 337-43.
+
+6. Naser, S.A.: "Certain approaches to the analysis of single-sided
+linear induction motors", ibid., 1973, 120, (4), pp 477-83.
+
+7. Yamamira, S.: "Theory of Linear Induction Motors", 1972, Wiley,
+New York.
+
+8, Canay, M.: "Methods of starting synchronous machines", Brown
+Boveri Review, 1967, 54, (9), pp 618-29.
+
+9. Thornton, R.D.: "Design Principles for Magnetic Levitation", Proc.
+I.E.E.E., 1973, 61, (5), pp 586-98.
+
+10
+FL
+” Fee
+U
+.
+°
+Le
+Uv
+N
+2 Fs
+oO —
+: Feo
+°
+z
+2 4 6 8 10
+Wo» Normalized Velocity.
+Fig.!. Lift and Drag Forces.
+
+229
+rh ae cb) SS
+= Tr)
+ee ©
+orlbsAL An sepatsy
+“ee ™  @) Fig.2. Guideways.
+\ g Force
+litt
+@®
+P=) act)
+C7702 «O22 (ZZ
+) guidance
+aC CI)
+@zza@zq ZAI 2ZZA
+( 1
+7 7 displacement from
+equilibrium.
+Fig.3. Typical Force Characteristic.
+7777S. €Ontinuous track
+a un y JY manding.
+4 i , u === ws
+| / Cf See an 1 supply. |
+7 ng p +
+7 ” a
+io ra LL < | / ~
+c 0 4 :
+/ VA 7 trackside
+/ 7 ss Sa
+J : thyri .
+i é Lama, TV An'/ hyristor switches
+wwe” 1 4
+t se?
+- 7 Currem flow,
+‘ va fc 1,485 conducting.
+ae +? aa / —+_
+“7 superconducting
+j YO 4 currem loops
+? ape
+Fig. 4 Linear Commutator Motor.
+

@@ -1,0 +1,48 @@
+>,
+Nov 32
+- ABSTRACT -
+TELEROBOTICS AND 3-D TV
+- WORK AT HARWELL LABORATORY IN REMOTE HANDLING -
+Workshop on Telerobotics - A visual definition of current capabilities = -— Nass
+Washington, DC 7-9 November 1989
+The Remote Handling and Robotics Group at AEA Technology’s Harwell Laboratory carries out
+contract research and development into robotics, advanced teleoperation and television
+systems. Research concentrates on
+* telerobotics * servo systems
+* systems integration * radiation tolerance
+¢ 3-D television ¢ simulation
+* man-machine interface * control systems
+e communications * imaging
+Our prime objective is to provide effective solutions that can be adopted by nuclear facility
+designers and operators, and our approach to remote handling is to
+* use off-the shelf solutions
+* adapt and modify existing equipment
+¢ develop special equipment
+Currently, our main development, focuses on telerobotics and 3-D TV. We define
+telerobotics as combining all that is best in industrial robotics with all the skills of a human
+operator to respond to ill-defined and unpredictable tasks. To produce low cost nuclear
+environment telerobotics we have designed and built the Harwell Input Controller, a
+386-based system which accepts input commands from joysticks or, for example, a six degree
+of freedom force ball, and allows an operator to drive an industrial robot in all six degrees of
+freedom under joint, world or tool co-ordinator” systems. Joint limits and singularities are
+managed. We are building a Nuclear Engineered Advanced TeleRobot [NEATER] which is a
+modified industrial robot re-engineered to be suitable for use in many nuclear environments,
+Finally, we have designed and built successful stereoscopic [3-D] TV Systems which are
+easy to use for long periods of time and do not produce the discomfort associated with early
+systems.
+Our visual definition will show some of the developments at Harwell in telerobotic
+decommissioning trials, human factors evaluations of 3-D TV, features of the robot input
+controller for adaptive control, and performance of the specially developed hydraulic
+manipulator.
+Although the majority of work is related to the nuclear fuel cycle, waste management and
+decommissioning, we have carried out contract R&D into advanced robotics and space
+teleoperation.
+Dr Ed Abel
+Remote Handling & Robotics Group
+Engineering Sciences Division
+Harwell Laboratory
+AEA Technology TEL: +44 235 24141 Ext 4987
+Building 351.28
+Oxfordshire OX11 ORA FAX: +44 235 436138
+UNITED KINGDOM
+

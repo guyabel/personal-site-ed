@@ -1,0 +1,571 @@
+|
+C539/027/98 |
+Seven storeys of decommissioning — the complete
+decommissioning of a chemical engineering
+building
+E ABEL BSc, PhD, CEng, FIEE and C HAMBLIN
+UKAEA, Didcot, UK
+International Conference on
+Nuclear Decommissioning ’98
+2-3 December 1998
+Kensington Town Hall, London, UK
+Organized jointly by the Nuclear Energy Committee of the Institution of Mechanical
+Engineering (IMechE) and the British Nuclear Energy Society
+Synopsis
+Early in 1997, one of the largest active buildings on UKAEA’s Harwell site was demolished.
+The seven storey Chemical Engineering Building housed experimental and production-scale
+equipment used to explore all aspects of the nuclear fuel cycle, from fuel fabrication and zero
+
+energy reactors to reprocessing, high level liquid waste vitrification and decommissioning. In
+1991, nearly 200 separate areas designated under the IRRs contained a variety of chemically
+and radiologically contaminated equipment and facilities. Since then all hazards have been
+removed from the building under a planned and carefully managed decommissioning and
+demolition programme. Seven examples from the programme are described.
+1. INTRODUCTION
+1.1 Background
+In 1946 the teams at Harwell and Chalk River decided that a large building was required to
+house plant and equipment for a new chemical engineering group working on the separation
+of nuclear materials. The initial design of Harwell’s Building 351 was for a heavily shielded
+facility that would routinely contain fissile material. The pressure to build production
+facilities lead to this design evolving into B204 (at Windscale). The redesigned B351 became
+a more versatile building with a tall, open, galleried hall allowing large pre-fabricated
+concrete cells to be built and interconnected through pipe-work laid in floor ducts. Columns
+rising from the cells could be accessed at different levels from the galleries for sampling,
+related experiments and processing. At one side of the building was a long covered Storage
+Pit containing high, medium and low active liquid effluent tanks (Figure 1). External delay
+tanks held up liquid waste before it was pumped to site active drains. A two-storey Analytical
+Laboratory supported the work programmes. The main curtain wall that ran down one side of
+the building was heavily glazed so that it might act as a large bursting disc - relieving pressure
+loadings from possible rig explosions that could damage the building structure. The building
+covered an area of 115 metres by 50 metres and was seven storeys tall.
+C539/027 169
+
+During construction, it was clear that large-scale active separation experiments would have to
+be carried out at Windscale, on the production facilities. Building 351’s mission evolved
+from that of a dedicated pre-production separation test bed to an experimental facility with a
+brief to explore all aspects of the nuclear fuel cycle from fuel fabrication and zero energy
+reactors to reprocessing, high level liquid waste vitrification and eventually decommissioning.
+1.2. Old experiments
+In the early 1950s solvent extraction of natural uranium and thorium was investigated.
+Thorium blanket rods from the Windscale Piles were de-canned and chopped in a plant
+submerged in two 12,000 gallon water-filled tanks located in the east end of the Storage Pit.
+The ?°U product extracted in Pilot Plant No 6 was used to produce light and heavy water
+solutions for criticality investigations in the homogencous aqueous zero energy thermal
+reactors ZETR and HAZEL, also housed in Building 351. The *°U was recovered from the
+heavy water and was transported to other sites for further research into these types of reactor.
+Elsewhere in the building, high temperature experiments took place with the melting of
+fission product material in a suite of lead cells known as Hotspur and with early attempts to
+form small uranium spheres in a rudimentary shot tower. In the 1960s work on blending and
+vacuum packing uranium dioxide and thorium oxide powders supported the fuel preparation
+programme for Advanced Gas Cooled Reactors. Thoria slurries were routinely handled in
+rigs on several of the extended gallery floors. In the late 1960s and early 1970s,
+uranium/thorium mixed oxide and 20% enriched 3517 oxide spheres were produced for
+conversion to nuclear fuel for PFR research. The success of the work lead to a production
+plant being built in the old cubicles that had contained ZETR and HAZEL.
+In 1991, all that remained of those experiments was contaminated cubicles, ventilation duct-
+work and pipework, stocks of materials, and fixed contamination on walls, floors, steelwork,
+old shielding concrete and lead blocks. Reliable records were not easy to find, Virtually all
+of the staff who worked in Building 351 before 1965 had retired. Those that could be traced
+had scant memory of the precise nature of the old operations since working and security
+conditions had prevented staff from knowing details about projects even in adjacent areas.
+1.3 Recent experiments
+As the nuclear power programme matured, work in Building 351 changed. Research into
+waste disposal focused on vitrification techniques beginning with the Fixation in Active Glass
+of Active Liquors (FINGAL) experiments in the 1960s which used realistic active liquors
+from Windscale. Later experiments investigated the problems posed by large scale batch and
+continuous production of simulated vitrified waste using melters and rotary calciners,
+Reprocessing was examined in large experimental dissolvers and key experiments on a high
+temperature high pressure corrosion loop validated the design parameters of components for
+the Prototype Fast Reactor. Sodium mass transfer rigs gave information to support UK and
+international programmes on fast reactor technology. ,
+The building structure has been modified many times since final commissioning in 1952. A
+two storey extension was added in the Jate 1950s at the west end of the main building and
+steel floor extensions to the galleries were added at every level. The Storage Pit area was
+enclosed and active ventilation systems were rearranged to suit changing patterns of work.
+Enclosures, temporary walls and partitions were used to compartmentalise areas, sometimes
+acting as containments, in addition to the many cubicles, gloveboxes and fume cupboards.
+170 C539/027
+
+The last two decades saw a diversification away from the nuclear mission. Separation
+technology was applied to chemical processing. Gel processing was used for pharmaceutical
+production. Pilot plants were built for desalination and heat transfer research. Large scale
+applications of microwave heating were investigated, including decontaminating concrete.
+1.4 Commercial realities
+In 1990 areas in Building 351 were managed by six of the nine UKAEA businesses created at
+that time. The costs of working in a “nuclear” building did not sit easily with attempts to run
+commercially viable non-nuclear R&D projects. As a result, equipment used in non-nuclear
+work was moved to other buildings at Harwell. Funding for long term nuclear projects was
+reducing rapidly. Attempts to find new uses for the building failed and in 1991, an Outline
+Decommissioning Plan and review concluded that the most cost effective solution would be to
+decommission the many rigs, laboratories and experimental areas as quickly as reasonably
+practicable, leading to demolition of the building and a return to a green field site.
+2s ‘THE DECOMMISSIONING PROGRAMME
+The Plan contained estimates for labour needed to decommission every area of the building
+and for quantities of waste that would be generated. These estimates were built into a strategy
+for decommissioning which lead to a phasing of the work against the Department of Energy
+(and later, Department of Trade and Industry) DRAWMOPS Programme Letter (now the Safe
+Environmental Remediation (SAFER) programme). Basic parameters describing the building
+are shown in Table 1.
+Table 1: Building Parameters
+
+Height 27m Asbestos Cladding 3,500m
+
+Width x Length 50m x 115m_ | Amount of Concrete 4,000m°
+
+Enclosed Volume 44,600m° Amount of Brickwork 900m?
+
+Total Floor Area 10,351m” Depth of Basemat Concrete 2.1m
+
+Lab & Office Area 4,030m” Amount of Structural Steel 1,200te
+
+Length of Ductwork 4,200m Length of Lagged Pipework 2,500m
+
+Floor Area Covered by Lino 3,600m? Area of Metal Floor Plates 1,700m?
+The variable standard of building housekeeping and stockpiling of redundant material and
+apparatus meant that each area undergoing decommissioning had to be carefully analysed for
+potential hazards. Different approaches had been taken to mothballing old experiments and
+labs, ranging from a well documented status following successful post operational clean out to
+near abandonment. Areas that were still operational in 1991 were well managed with
+substantial safety documentation. The decommissioning project and safety management team
+remained the same from 1991 until 1997 which ensured continuity of approach and a
+thorough understanding of the building characteristics and hazards‘, Initially the
+decommissioning was carried out by dedicated UKAEA teams managed directly by the
+project team, but by mid-1993 competitive tendering was applied to individual packets of
+work. During the seven year period of decommissioning many standard techniques were
+developed to cope with large scale operations. Seven examples of the decommissioning and
+demolition programme are included in this paper.
+539/027 74
+
+3. BUILDING CLEARANCE
+Because of the uncertainty surrounding the history of the building and the surrounding areas,
+preparations for decommissioning and clearance always involved preliminary radiological
+surveys, service isolations and where necessary, further COSHH and safety assessments, A
+dedicated Housekeeping team of two Decommissioning Technicians and two Health Physics
+Surveyors was used to reduce the hazards in each area by clearing the free-standing equipment
+and materials (Figure 2), and by safely disconnecting and isolating the process services (air,
+steam, gas, water etc.). These preliminaries were always managed directly by the UKAEA
+Project Team, with specific Permits to Work and agreed method statements. The use of
+dedicated staff with knowledge of the building for isolation (especially electrical) proved to be
+one of the most important factors in the management of safety and adequately compensated
+for any lack of records. Work on individual areas was often split into discrete stages to
+manage risk, minimize uncertainty and hence reduce the total costs of competitive tenders.
+a Analytical Laboratory decommissioning
+Post operational clean out of the Analytical Laboratory complex was performed by the last
+occupants. Moving equipment allowed access to a contaminated void store which had been
+inaccessible for at least twenty five years The Labs originally contained thirty two built-in
+fume cupboards with their own dedicated active extract system which ran up to the main
+building Sixth Floor Plant Room. In about 1957 the Labs were refurbished, half the fume-
+cupboards were removed and the active extract was relocated to the plant room directly above.
+Initial clearance involved isolating and removing old electrical supplies (severely embrittled
+rubber-insulated cables) and removing lab furniture, benches and shelves. Hidden behind the
+benches was contaminated ductwork that ran into vertical wall voids. The ductwork was
+sampled and found to contain low levels of loose '*’Cs contamination. Old photographs
+showed the Lab with suites of gloveboxes which must have been removed during the
+refurbishment, ventilated through the ductwork that was left behind.
+Table 2: Work Phases for the Analytical Laboratory
+Initial clearance & radiological surveys Occupants, building surveyors
+Service isolation Building electricians, Site Services
+Exposure of hidden hazards Decommissioning contractor
+Removal of asbestos from pipe voids Specialised contractor
+Decommissioning of fume cupboards and Contractor from Competitive Tender
+active ventilation systems
+Floor and wall scabbling Term contractor
+Strip out of electric cables from roof void | Building electricians
+Removal of asbestos from roof voids Specialised contractor
+Demolition (with main building) Contractor from Competitive Tender
+Table 2 shows the main steps associated with the clearance and decommissioning of the
+Analytical Laboratories. Work was completed in 12 weeks. The entire wing was designated a
+controlled area and handed over to the contractor. The ductwork was wrapped and stored for
+later size reduction in the building. Fume-cupboard steelwork went to landfill as chemically-
+contaminated waste or as low level waste via the building HISO route (see below). Floors and
+walls were scabbled and scarified to remove areas of fixed contamination. Asbestos
+‘nsulation was removed from roof and pipe voids under controlled conditions.
+172 C539/027
+
+3.2 Mild Steel Loop ;
+The Mild Steel Loop was a non-radiological, complex steam/water test facility used to
+measure corrosion at high temperatures and pressures. Operating records were not clear
+regarding the possible presence of kilogram quantities of sodium in a number of test sections.
+The test sections were safely isolated from the main loop which was dismantled using
+hydraulic shears to cut the steel pipework into manageable pieces. Radiological monitoring
+and sampling confirmed the absence of radioactivity and the steel was recycled. The sodium
+test sections were removed and sentenced to an authorised disposal service with the expertise
+to handle sodium wastes.
+
+4, FINGAL - AN ABANDONED VITRIFICATION CELL
+
+The FINGAL Cell housed a pilot scale vitrification plant which had processed approximately
+20 TBq of fission product activity during the early 1960’s. The processing equipment (liquor
+storage tanks, vitrification furnace, annealing ovens, off-gas filters etc.) was enclosed within a
+lead cell, surrounded by massive concrete shielding. After work stopped in the mid-1960s,
+the FINGAL Cell had been sealed off and left. Decommissioning was accomplished in three
+phases: removal of the vitrification plant; removal and decontamination of the massive (20
+tonne) concrete roof blocks; removal and decontamination of the concrete wall blocks.
+Inspections and surveys were carried out using remotely deployed miniature CCTV cameras
+and telescopic radiation probes. Access to the cell was via a narrow labyrinthine corridor.
+
+A ventilated modular containment system (MCS) was sealed to the cell entrance to provide a
+working area, avoiding the need to size reduce plant items within the restricted confines of the
+main cell. The narrow cell entrance meant that any large equipment required to support the
+decommissioning work could only be taken into the cell in pieces. For example, a proprietary
+electric stacker truck was modified” to enable suited operators to reassemble and operate it to
+dismantle the lead cell (constructed from 150kg blocks). A half-height ISO (HISO) container
+loading facility was installed adjacent to the MCS (Figure 3). This permitted bulk items to be
+dispatched as low level radioactive waste (LLW), without unnecessary size reduction.
+
+The removal of the roof and wall blocks was conducted in a containment due to the presence
+of '27Cs contamination. Extensive decontamination (using standard scabbling techniques),
+core sampling and radiochemical analysis rendered the blocks suitable for unrestricted reuse.
+All operations inside the MCS and FINGAL cell were monitored using CCTV. A two-way
+audio link ensured that supervisors could help and advise operators during complex tasks.
+
+5. MARK I GEL PRECIPITATION LABORATORY AND PLANT
+
+The Mark 1 Gel Precipitation Plant was used to prepare U/Th spheres for fuel fabrication
+studies and had been moth-balled when experimental programmes finished in the 1980’s. The
+gel process used solutions of U/Th nitrates (in strong nitric acid), organic solvents and
+ammonia. Residues remained in the moth-balled plant and its storage/preparation facilities.
+Correct choice of PPE was crucial in ensuring operator safety. Concentrations of organic
+solvents, ammonia and radioactivity in air were monitored continuously. Removal of gel
+plant, feed solution preparation equipment and ammonia storage tank were phased to avoid
+potentially hazardous interactions. Work was completed in 16 weeks.
+
+C539/027 173
+
+The Gel Precipitation Laboratory floor and walls were also contaminated. The floor was
+
+essentially a 6mm thick steel "catch-tray" pinned into the concrete beneath. The radiological
+
+status of the concrete was unknown. The wall dividing the laboratory from the main building
+was four storeys tall with contamination within the cavity. Both the wall and floor were
+removed as part of the decontamination of the laboratory over a period of 20 weeks.
+
+6. SEPP AND THE URANIUM EVAPORATOR
+
+The solvent extraction pilot plant (SEPP) was used to investigate the recovery of uranium
+
+during fuel reprocessing. The plant consisted of:
+
+e Cubicle 1 — constructed of plastic cladding bolted to a steel framework, enclosing 80m’,
+running from the ground to the 5 Floor. It housed 12m tall extraction columns (ranging
+in size from 25mm to 125mm diameter) and a boiler unit, located on the 3" Floor;
+
+e Cubicle 2 — was located on the 1° Floor and it contained the mixer settler plant and a
+series of liquor storage vessels of up to 300 litres capacity;
+
+e Evaporator Plant — both cubicles were connected to an evaporator plant which was
+located in the Storage Pit. The evaporator was used to concentrate urany] nitrate
+solutions for recycle to the extraction plant. The main (2m’) liquor storage vessels were
+also located in the Pit.
+
+Plant decommissioning was straightforward but was dominated by the potential for falls
+
+through the open floor areas within Cubicle 1. Strict controls were necessary to prevent
+
+operators working directly below the dismantling work and CCTV was used to check
+progress. Approximately 3m°> solvent (20% tributyl phosphate in odourless kerosene)
+contaminated with low levels of uranium activity was left from plant operations, stored in two
+steel tanks in the Pit. There was no disposal route for this material without the removal of the
+radioactivity. An ion-exchange material and process were developed to treat the solvent.
+
+This was successful and the 3m? of cleaned solvent was sent for incineration at a licensed
+
+disposal site. The ion-exchange material was grouted and sent to Drigg as LLW.
+
+7, CDFR DISSOLVER
+
+The CDER dissolver was installed to study the dissolution of spent fast reactor breeder fuel.
+
+Experiments were conducted on 200-300kg of unirradiated pins containing depleted UO).
+
+The dissolver was housed within a large 100? ventilated cubicle which extended over two
+
+floors. The cubicle also contained off-gas treatment equipment (condensers, NO, scrubbers,
+
+demisters etc) and the large liquor storage vessels (concentrated HNO;, NaOH, uranyl nitrate).
+
+Limited post operational clean out had been completed by the previous operators. However,
+
+significant volumes of liquors remained within the plant. These were recovered, analysed,
+
+conditioned and sent to the appropriate disposal route (chemical waste/radioactive effluent).
+
+The cubicle was then adapted to provide the containment for plant decommissioning. The
+
+solubility of the contamination greatly assisted decontamination and a significant proportion
+of the material recovered was demonstrated to be radiologically clean. Plasma cutting
+techniques were used to size reduce the main dissolver in-situ. Local, high volume,
+ventilation/filtration systems maintained aerosols within the cubicle at acceptable levels. The
+final phase was to dismantle the cubicle and the large volume liquor catch-trays.
+
+174 C539/027
+
+8. MAIN ACTIVE VENTILATION SYSTEMS ;
+
+Building 351 was served by a number of extract systems installed for the removal of
+potentially contaminated air. The extract fans and filter systems were located on the 6" floor.
+The fume-cupboards, active plant and decontamination facilities were connected to the fans
+by approximately 4km of mild steel ducting (sizes up to 3m x 3m). The possible presence of
+radioactive contamination within the ducting resulted in the need to undertake the dismantling
+operations within specially erected scaffold/PVC enclosures. This was particularly important
+where a number of suspect contaminated ducts were routed outside of the building. Lifting
+aids enabled the PVC-wrapped ducting to be safely lowered to floor and ground levels.
+
+A specially designed size reduction facility was set-up to process the ducting and other
+components. Decontamination was always used where it was proven to be ALARP. The
+ducting which could not be decontaminated was size reduced using cold cutting techniques
+(nibblers, band saws, etc) to produce “flat packs” of wrapped waste for disposal in HISO
+containers as LLW. This approach reduced waste disposal costs by a factor of 50.
+
+9, BUILDING DEMOLITION
+
+The strategy for decontamination and demolition of the building structure was to use
+conventional methods wherever possible. The demolition of the two storey West Wing
+extension was used as a trial for the main building and was completed in August 1996. This
+provided valuable information regarding the overall approach, but more importantly it
+finalised the methodology for radiological clearance surveys. For example, it highlighted the
+need to remove the metal floor plates to fully expose the floor support structures and proved
+the success of using “cherry pickers” to access high level surfaces. Long range surveillance,
+remotely steered, CCTV was tested and became an important tool in management control.
+
+An environmental impact assessment was conducted prior the demolition of the main
+building. Dust and noise were highlighted as potential problems as Building 351 was adjacent
+to the site boundary fence and the main NRPB and MRC buildings. Its closest neighbour on
+the Harwell site was the main post irradiation examination facility. Vibration controls were
+therefore necessary to protect that building’s zinc bromide-filled cell windows.
+
+The project management team moved from the main building in March 1997. Contractors
+and project temporary offices were placed close to the building and the site was fenced in.
+Four CCTV cameras were fixed to towers at the periphery of the building and local and
+remote monitors were installed. Control of all the cameras and video recording was done at
+the main project office which was within sight of the main building. Demolition commenced
+in April 1997 with the demolition of the Office and Analytical Wings. The asbestos/cement
+cladding panels were removed from the main building by carefully cropping the retaining
+bolts and lowering the panels to ground level for disposal to an authorised landfill.
+
+Demolition of the main steel/concrete superstructure proceeded by collapsing the roof and
+gallery floors using a wrecking ball suspended from a crane, and cutting the main steel
+supports as they were exposed. Continuous environmental monitoring and radiological
+surveys provided reassurance throughout. All demolition work was completed in August
+1997 but the concrete base-mat and below ground storage facilities remain on Care and
+Maintenance.
+
+C539/027 475
+
+10. WASTE MANAGEMENT :
+Rigorous radiological monitoring and sampling ensured that the wastes generated were
+correctly segregated. Decontamination techniques were employed to minimise the volume of
+radioactive material dispatched to the Harwell Radwaste Service (HRS). The application of
+these techniques was always judged on safety (ALARP) and economic grounds. The
+radiological fingerprint of the waste from individual tasks was determined prior to
+decommissioning and measurements that were made included gross activity, with B analysis
+and o and y- spectrometry to identify the isotopes present. This data was then used to ensure
+that LLW disposals complied with the requirements for material dispatched to Drigg.
+Any compactable waste, such as barrier waste (coveralls, gloves, overshoes etc), was
+sentenced to 200 litre bins for super-compaction. To ensure cost-effective HISO container
+filling, size reduction was employed to improve packing factors, and the wastes from different
+tasks were blended to minimise the voidage within the HISO container. Waste management
+procedures were subject to rigorous audit and monitoring.
+Approximately | tonne of nuclear material (uranium and thorium) was dispatched to HRS as
+contact handled ILW. This material was originally used in the Gel Precipitation and
+Dissolver programmes and had to be re-packaged into standard 50 and 100 litre waste bins
+and 50 litre carboys for disposal. LLW and ILW volumes dispatched to HRS are summarised
+in Table 3. The 1991 Outline Plan estimate for LLW anticipated improved decontamination
+processes from scaled-up R&D that did not materialize. Nevertheless predictions were
+adequate for planning.
+Table 3: Low and Intermediate Level Waste Disposals
+Financial | PVC | 100Litre | 200litre | HISO Estimate
+Year Wrapped bin bin container Actual from mceua?
+1991 Plan
+sa
+Hipie2 2232.0 [aT
+Hosp T 6] 200, seo 546 | 33.0)
+Hissans [os | | 100 | sas [296 [pen
+9967 [sso 100
+Heme [OO [SOIT 100 |
+* Remote Handled ILW from FINGAL
+All unidentified chemicals were analysed prior to their disposal. Many thousands of analyses
+were carried out on substances ranging from small (~ 5 ml) to large (tonne) bulk quantities.
+Chemical waste was sentenced through the Hazardous Disposal Service of AEA Technology.
+The disposal arrangements operated by this service were subject to regular UKAEA audit to
+ensure the maintenance of Duty of Care.
+Non-hazardous waste was dispatched (after monitoring by Health Physics) in skips for land-
+fill or on trailers for possible re-use or sale as scrap. Many tonnes of redundant copper cable
+was recovered and sold. The proceeds from the sale of the main steel support structures were
+176 C539/027
+
+set against the costs of the demolition of the building superstructure. The bulk of the concrete
+and brick rubble from the superstructure was crushed and used as in-fill on the Harwell site.
+11, CONCLUSIONS
+The demolition of a contaminated seven storey building was completed successfully, to plan
+and within budget. Despite the lack of documentation and operational records from the early
+experimental programmes, safe decommissioning of large, complicated, contaminated
+facilities within the building complex was possible because all operations were carefully
+planned and managed by the resident UKAEA project management team. The continuity of
+the project management team membership ensured that the decommissioning work was to a
+consistent standard and that there was a common approach to the use of contractors.
+The management and control of contracting and working methods ensured that the project was
+completed within the budget profile and predicted timescales.
+An early decision was made to process LLW within the building using a dedicated HISO
+container facility, rather than using 200 litre drums. This solution was initially driven by the
+practicalities of dealing with waste from FINGAL decommissioning but produced significant
+cost advantages both in volume cost and less need for size reduction. The processing of the
+building’s active extract ventilation ductwork in a containment close to the HISO facility
+minimised risk of contamination migration and reduced the complexity of waste movements.
+| All tasks were subject to rigorous safety assessments and were controlled by Method
+Statements and the Permit to Work system. This ensured that those at the working level were
+fully aware of specific hazards and had immediate access to the documentation that defined
+the task execution. All contractors underwent site induction and building specific training.
+There were no serious incidents or accidents.
+Where areas could not be easily observed, cctv systems provided more information and
+improved levels of confidence. Cameras were used for plant inspection where human access
+was difficult or impossible. Installed surveillance systems inside containments gave
+supervisors and UKAEA managers direct views of work in progress and controllable
+overview cameras inside and outside the building were used to observe progress safely from a
+distance.
+The techniques developed and used in this project and the lessons learnt have been applied to
+other UKAEA decommissioning projects and operational work with equal success.
+12. REFERENCES
+1. E Abel and C Hamblin, “Dismantling a Chemical Engineering Building”, Atom
+(426), Jan/Feb 1993, p34-39.
+2. E Abel, C Hamblin and AC Rose, “Re-engineering a Stacker Truck to Decommission
+a 30-Year Old Vitrification Cell”, Proc. ANS Sixth Topical Meeting on Robotics and
+Remote Systems, 5-10 Feb 1995, Monterey, California.
+© UKAEA 1998 .
+539/027 177
+
+ee a
+fee sate Nat AS
+ere cca ca NN
+[Beeb taeen tts SS Se Ae
+= ‘a SOREN Ecce vine ts AGS, *.
+: Bc cas See aN os,
+na a | ab ie NW Ns ee
+| I amen SRO Eis, ae Ph hee Ses
+a ant | uty eee
+A —p re) DA peice eacc a Mi 35)
+| | ; Br
+ee au AY UGE ve LA a | pee ee 1 ine #- j
+mee es 3 ties ae ea Re ee = = re |
+re site Reclaim Calon
+eS URC trata ees sagt eeg | ee Oe ee Ponies
+te Witiaee emer. Be, Sse eee RLM: eee on Rs: Rete oe 8 oa
+a eC eS ee
+pet POMOC MED ire See 6 gas a) deh MU apace es a ara es
+Re aia mumeeee eee = ee Pe ee ae
+Wee i peng ciel e et ay tn rect rc ee etter eo eee horas ew a ake
+——— RO a ee See eh ee ee Be
+ia mM ee ee eee teen mini
+nce eae pee a a ee ae ee Pe oh ff:
+eM i ge ay 6 ae
+Oi Pe ee ere ORT RES BS ES ee ad a eB a ee Diane ance tn ice ease ea Lee.
+ex a ta ae ee ee ie oS
+FMR a MCORP SSE OS ee ht ae 24 PAU eN won ald eirtte ope A ree or Ca miner sit yas Om a Ato.
+en. Sr So ee ues ee ee
+Loe eer aug eran RG PLCs Ae caer mien aie iaie cu neni ne ce ee eT
+Figure 1 Main view of the Chemical Engineering Building
+er | Bee
+$ " Me Pa | ae
+Br). | =
+RB Sy Ps i
+. NEE ES 3 : ree di %
+= a iv a Exe | |)
+. ¥ ty 4 ia lu
+i a ae are k= 5 i Pst G2
+ay (eee 7
+h { {= aN } J . pe Wh
+a ‘ * " AO al ; ia
+4 eT in b> ae 4
+yj We ce ; ee
+? oe ) AS zz
+= . f =" Pe a ee za
+P y & uh 4 tn Pras
+oe ‘Ss i ie eee
+SS aaa ae s A ih as
+oa es oon, i he oe Fa cca it «i
+a nae Sta i ommest , ) Pe ; |
+Pere aa \ rte A se A Ws a af
+oo Petree an oh) ER ‘ . a Pee
+oe gree yg Cane
+ee ; oe ee 3 yP yy se
+L we 4s ) ey : : wi
+fe 4 wf AN. — ne |
+fa ss “/ 5 gues oy Fs
+i. am hos — Sik |
+fe ¢ : sunt . et ae eee
+rg a Bal) te ON ee
+ae wa ape j) ' ee 1 sa
+Peer. eee a el ew jen i Blin
+Pegs PO i | ats Af fiir, re i ee | sw OS
+eee “ wet . oa es e ae Be ere
+Bee 39 ae “ na bg ek ae ea
+ia FM ee r oo ees. act i é
+2 Po Ps CoA =e igs t| P Ro a *a* 4 rete .
+Yh. Bei Ree ae a Ris ee is |
+fice ee, 4 sy = Rouen hom ss fe
+gr his Ba a A eel mS Se mo pie
+, bie £63  eeee i a REE Re SBR Gigin.
+yg Becton ecg Pe Wak: iB ae
+ra SSCS tern? ae Ae ae ee SE ty, Bat
+he : ES Sekt : oo Peet Ls ifn ari
+Figure 2 Clearance of contaminated items from cubicles and gloveboxes
+178 C539/027
+
+/ ;
+7 Pre. soe a ao ea co 4 Teed GEN =
+aaa ‘ : Ficemeee ‘k eer ee e Lhe a |
+Eg. LRA ee : o> NS
+eae es fe Lory i eo AS ce oe > i he
+> 5 As, a ae ae ame a
+3 eae Rime ey : U4 PSS ae Sealy
+aN tt RUNS 7) piper ¢.- aie a e
+ee UTA Bees) eR Ne
+ets ae Ce 2 Sime et 3 Ramer hs
+y "et 7 i # : | ee Ver | c
+Be fA ge A! Me We eh eee
+Bae os A | ;
+ee ie 7; oa -— ee
+ete a! rs eg a
+Ls Pane d fy Ae Gey ST eS =
+F A cd i; hae ; #] ws : ae ce
+yy aa A i. HO ee | |
+Vee ) a ae 13 os”
+A y iN ; oo a
+AP Sematary , i oS Rte Bak! 2 i
+Pee a { Pda P|
+fi \ pee 5 a! aoe ™ \.
+Figure 3 Half-height-ISO container for low level waste
+ae
+a an
+if Po
+ey ow ‘diylaa ROR maeye een
+| fi een Ce ee Tre eee 3 an
+We Rs eae 6,
+ae on Ail fe ; ree, f
+: es =f... HP aa he ee
+or A pee
+es ae ee
+i we ee, Y SSeS eee
+A! pe bes. ee ee eee
+a | be ECE d x SES gt eenn
+1 § iy Hee pe Ps 2 Dee ee ‘
+aT eee) SN, eta ar 3 "ps
+% iy kata fies: Fas | vy 3 gx’ |
+Hp Vp VO mec 1 eee
+a ik 1G ee aa ‘
+ow EE 4 ae) Pat Bch oe ed eet Bel
+. Fy ere a PANS 8 / ih % ‘ rk a ; N
+Me SE If NAA | Maetce |
+/ 2 oe Pe ie a Nob OTM }
+stare © Le ‘ | oe Fy re eae BS
+ey er mmaarae? Set A, \ A liad + gab
+tini>s eo +, eer ie a ie
+foe ee y Shea: 5 uae Nd cd j 2 s
+Coser meu 1 Seton Al ich Wee: pRrcare mere w oes AA t hee, ee Re Ainge
+: ee RE ti es dias ene iar Nee
+spt a) aes Ng o i 2 ee, Me snY,
+= DY ae rors wf. take open meee AN etna) ep E> og f Cx ee
+en OS iS i Ee Oe feign ae
+Figure 4 Demolition - removal of the 50 ton crane
+C539/027 179
+

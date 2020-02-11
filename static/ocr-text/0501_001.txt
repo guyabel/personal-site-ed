@@ -1,0 +1,169 @@
+1990
+REMOTE TECHNOLOGY
+A NEATER advance in active handling
+By E. Abel and C. J. H. Watson
+The NEATER robot, commercially launched in December 1989 by AEA Technology and
+Staubli Unimation, arose from the recognition that technological advances in the
+non-nuclear robotics industry were beginning to outstrip those in the nuclear active
+handling sector.
+Within the nuclear world, handling of tured environment, at comparatively low external input commands to individual
+radioactive materials is largely under- cost. robot joints. A “telerobotic controller”
+taken using relatively cheap but low- DESIGN WORK would then be added as a front-end to
+tech master-slave manipulators (MsM). accept human operator commands and
+They have a limited operational reach of | AEA Technology set itself the task of transform them into the electrical input
+a few feet from the biological shield. In adapting an industrial robot to meet the format required by the industrial robot
+addition, their initial costs can be greatly specific needs of the nuclear industry. controller. In this way, the considerable
+inflated over their lifetime by decontam- These needs include radiation tolerance, body of non-nuclear experience would
+ination, maintenance and repair costs. easy decontaminability and maintaina- remain available to be tapped into
+Power manipulators, also extensively bility, and the ability to operate under wherever the robot was required to
+used in the nuclear industry, tend to close human control in an unstructured Operate in autonomous (or teach and
+have limited functions and may not be environment. The aim was to meet these repeat) mode, although it would still be
+designed with maintenance in mind. specific requirements without sacrificing possible to put man in che loop and work
+New developments such as high-tech the outstanding advantages of the indus- in teleoperator mode when needed.
+custom-built servomanipulators are very trial robot — its cheapness, speed, load
+expensive and have failed to make their capacity and reliability. Choosing an industrial robot. The choice
+expected widespread impact on facility Ic was recognized at che outset that it of Staubli-Unimation as the robot manu-
+designs. would be necessary to work in close facturer, and the use of its puma 762 robot
+By contrast, within the non-nuclear collaboration with an industrial robor and val controller, was made for a
+industrial world, robot manipulators manufacturer, so as to retain as much as number of reasons:
+with high reliability and considerable possible of the proven mechanical design
+dexterity have become available, offering and good manufacturing standards. @ Staubli Unimation was willing to
+high-speed repetitive manipulation of | However a considerable redesign of the collaborate with AEA Technology in the
+loads up to 100kg in a suitably struc- incernal electrical systems would be redesign of the robot.
+—_— oO required to achieve the necessary radia- @ The puna was a well-established
+The authors are with AEA ‘Technology, DER Bus- tion tolerance. design with proven reliability over mil-
+iness. Harwell. Oxfordshire. OXI! ORA. AEA As for the electronic control systems, lions of machine-hours of operating
+Twhnoloyy is the trading mane for the legal entity ; : .
+UKAEA. DGR (Decommissioning and Radwaste it was decided that the best strategy Experience. .
+Business) is one of nine businesses within AEA would be to select an industrial roboc @ The Clean-Room version of the PUMA
+Technology. controller which was able to accept 762 already featured improved sealing
+———_————___———————_— oei—umim with a good surface finish.
+Specifications of PUMA 762NM robot Be tenet ana oR aceon Receaeicy oF
+20kg at a reach of 1.4m with a
+-_-__e LL maximum operating speed of Im/s:
+Load capacity 20kg at maximum reach (1.4m) these figures were more than adequate
+Maximum velocity 0.4m/s at 20kg; 1.0m/s at 12kg for a wide range of potential nuclear
+applications.
+Repeatability +0.2mm @ The internal design of the PUMA was
+relatively modular, with enclosed actua-
+Operational temperature 10-50°C tors, thus facilitating replacement of
+Radiation tolerance 10®Gy (100Mrad) integrated beta/gamma dose before major overhaul non-radiation-tolerant components by
+radiation-colerant equivalents without
+Contamination protection Double sealing of all axes and covers, including grease-filled affecting performance or reliability.
+labyrinth seals on axes 1-4 and a wrist gaiter on axes 5 and 6 @ The vat controller supported a user-
+Modularity Easy splittability at elbow (joint 3) and at base to permit separate friendly robot control language (VALI)
+removal of forearm and base stand, and reduce the slung weight. and had an input port for direct joint
+All bolts, fixings and electrical interconnects designed to permit control instructions.
+remote assembly and disassembly by MSM
+Weight Whole robot 568kg Nuclear requirements. In developing the
+Forearm 66kg specification for the nuclear engineered
+Base stand 112kg version of the puma 762, AEA Technology
+TT — performed a design and maintenance
+26 NUCLEAR ENGINEERING INTERNATIONAL
+t t
+
+REMOTE TECHNOLOGY
+———— “Th ea] — cere SSE ange
+Failure detected t ae ue ‘3 ball | | i
+=f ik <I . : =| Ee i
+Sy , Ae i :
+B | ¥ | l, = ag
+\ ) - | |
+appropriate oy ae >| a - | Pons Kaeo y
+CS Sea
+Transfer forearm and wrist or upper arm, — . — a rT? i Sry f F e ee
+shoulder, & trunk to decontamination area i ok | oe re el a - &
+— = | ts —
+Re iters, Decontaminate and monitor 5 | a, 5 = pe >
+exterior of machine : i P aks =} ==
+- _ . 1 \e — : ee <h
+a
+maintenance area, ; ea os
+f i BS
+: \ 2
+: ee |
+<a a
+DS r
+A The first NEATER robot is being used at Harwell to validate design specifications
+assembles to correct fauft. Hands-on or and to continue glovebox decommissioning trials.
+semi-remote maintenance in a glove box.
+to aim for colerance to a cumulative dose — a substantial Rab programme was
+ae of 106Gy wichout need for significant undertaken, of which che mechanical
+maintenance. engineering was performed by Staubli
+@ In hot cells, ic might be difficult to Unimation and the radiation colerant
+post a whole robot in or out of the cell. design, development and testing work
+Thus, in the event of component failure by AEA Technology. Every component
+and gaiters. or damage, it would be highly desirable of the robot which was judged suscepti-
+to have the ability to recover parts of che ble to radiation was tested, and where
+robot and post them out separately. In necessary redesigned and retested. Par-
+particular, since the part most likely co ticular attention was paid to the encod-
+be damaged is the wrist/forearm, it ers, which are of cricical importance in
+: might be advantageous to be able to joine concrol.
+coe make a quick replacement of this uni
+q placement of this Unit as WHAT ARE THE USES?
+a whole. Ic was therefore decided chat
+the robot should be redesigned to make All three versions of NEATER are now
+it modular, with parts being readily commercially available, and considerable
+removeable using remote handling tech- interest is being expressed worldwide in
+niques. this new development. Among the ap-
+plications for which it is being consid-
+A Sequence of maintenance operations It was recognized that many nuclear ered are:
+for NEATER. applications would not require all three
+features of the specification —- easy @ Fuel fabrication (including oy).
+review, taking account of the require- decontaminability, high radiation toler- @ Filter changing.
+ments of a number of cather different ance and modularity. It was therefore @ Wasce drum handling.
+nuclear operations: decided to develop an initial version @ Inspection, monicoring and assay.
+—the puma 762M — which would be @ Swabbing at any contamination
+@ In plutonium-contaminated environ- modular and decontaminable, but noc in level.
+ments, the primary requirement is case all respects radiation tolerant. This was @ Posting and transfer operations.
+of decontamination and maintenance then enhanced to form the PUMA 762NM, @ Decontamination.
+using remote handling techniques (eg by which is fully radiation tolerant, by @ Decommissioning of gloveboxes,
+oso). All crevices where contamination backfitting improved encoders with the process plant and reaccors.
+can accumulate must be eliminated. All necessary radiation performance. @ Routine manipulation and tool de-
+joincs must be water cight, both to ployment wichin hor cells.
+prevent ingress of contamination, and so Progress. This has now been followed by
+that decontamination can be under- the development of a third version —the For some of these applications, NEATER
+taken. PUMA 76IN — which is fully radiation will operate purely in robotic mode, ic it
+@ In intense beta/gamma_ environ- tolerant, buc which does not have the will be programmed to perform a set
+ments, the primary requirement is for same modularity and easy decontamina- sequence of operations (eg those in-
+radiation tolerance (though decontam- tion features, and is consequently signif volved in flask swabbing). For some
+inability and remote maintenance may icantly cheaper. applications it will be used only in
+also be required). After assessing a range Jo achieve the final specification of — teleoperator mode, with the operator py
+of possible applications. it was decided the most advanced model — the 762NM controlling every movemenc using a
+30 NUCLEAR ENGINEERING INTERNATIONAL
+
+REMOTE TECHNOLOGY
+
+master arm or other input device to automatic nut-running, drilling a special one-off machine or manipulator
+<Jcontrol its six degrees of freedom. matrix of holes, or making and breaking for the job, or using a telerobot such as
+
+However, for many applications, a electrical or pneumatic connections, NEATER. The first option, even if accepta-
+
+hybrid, semi-autonomous mode of oper- should be well within its capability. ble from a health physics point of view,
+
+ation is likely co be the bese option, and The first NEATER is being used at may be slow and expensive and expose
+
+work is in progress ac Harwell to extend Harwell co validate the design specifica- the staff involved to risks of contamina-
+
+the range of semi-autonomous functions tion and to continue glovebox decom- tion or irradiation. The second option
+
+which the equipment can undertake. missioning trials which had previously may involve long development delays,
+
+Examples which have already been de- begun using a standard ~61 PUMA. and prove very expensive or unreliable.
+
+monstrated include tracking a monitor WEIGHING UP THE OPTIONS Increasingly, the third option looks like
+
+head over a metallic surface in a regular being the most attractive.
+
+raster, maintaining a fixed stand-off A nuclear operator, faced with an active | c
+
+distance, and moving a cutting cool handling problem, is now in a position © UKAEA 1990
+
+along a prescribed line, with only the to choose between three options — The development of NEATER under the Active
+
+cutting rate under operator control. carrying out a hands-on procedure (if Handling Programme was funded by che Depare-
+
+More sophisticated examples, such as radiation levels permit), developing a ment of Energy
+
+| cee
+

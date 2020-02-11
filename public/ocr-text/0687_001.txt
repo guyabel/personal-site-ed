@@ -1,0 +1,620 @@
+f Lf 7
+i
+’
+ay
+«2, UK Patent Application «GB «2115230. A
+(21) Application No 8302836 (54) An electric power transfer system
+(22) Date of filing 2 Feb 1983 4
+(30) Priority data (57) Anelectric power transfer system
+. ee Lng in the form of a transformer comprises
+(33) United Kingdom (GB) a first core portion with two or more
+(43) Application published regions 14, anda second core portion 34
+1 Sep 1983 movable relative to the first core
+' (51) INTCL? portion 12 and providing alow
+HO1F 31/00 33/00 reluctance flux path between the
+(52) Domestic classification regions 14, Primary windings 10 are
+ee or en wound around the first portion 12 of the
+(56) Documents cited core, and secondary windings 20
+GB 1587531 wound around the second portion 34.
+GB 1239290 The regions 14 may extend along a path
+GB 1024583 along which power is to be supplied,
+GB 0981380 and that path may be straight, curved or
+~ eee circular. .
+GB 0637316
+GB 0609303
+GB 0483322
+GB 0413356
+(58) Field of search
+H1T
+(71) Applicants
+United Kingdom Atomic
+Energy Authority,
+(Great Britain),
+11 Charles Il Street, ;
+London,
+SW1Y 4Q0P
+(72) Inventors
+Sinclair Matthew Third
+Edward Abel
+(74) Agent and/or
+Address for Service
+John Edward Alderman,
+Patents Branch,
+United Kingdom Atomic
+Research Authority, .
+i 11 Charles Il Street,
+London SW1Y 4QP JA 18
+. ( (LO <GEX) 5B
+. fe _ <j > =
+bs, 2 a Ly SS
+os a —
+= Su “20 CO
+Tt yw “ Ko
+‘ =k
+aod
+O1
+NO
+OO
+©
+
+“9445230
+Fig.. ,
+A
+wn A RL EM
+Soe nes
+k - a 22
+INDO
+i il 70 <>
+16 Fig.2 As |
+I Ae
+| TB | 20 |
+On :
+
+2115231
+Wg -
+\( 3 )
+Ets wk
+' 4 La
+wh x ak
+‘\ \\
+Ws ‘\ ,
+oh \S Ayes
+/6\ ry Ve |
+\\ | / | Vy:
+‘ UN (/4R\\\ its
+aN Ny
+ie ie iN i
+\ |
+ie iris q LN
+ie. 8
+e_EST*
+
+2115239
+a, 29 __&
+ee \
+‘ SS, i IP |
+ASS lM
+al] 0 8 SUSIE Ts
+Ame tenet
+5 Ars * ‘
+8 4 a
+en 8
+—@Y os
+—Y
+rN
+
+Yd 2115230
+Fig.6. |
+AN LO 3
+ey |
+EEE 2
+Yd tf OP
+00 pb
+4)
+45 5" |
+Fig. 7. vi
+Hah —
+| SS 0
+= e¢
+49 52 20 ab dy
+CEES Fig.6
+ig.8.
+RR = oy ; SA |
+Wa be |
+. :
+
+* o445230
+Ce
+Fig.9. GA |
+. OF te
+4 KE \
+fr
+{tit ( gies
+Ea\ \Lze\ —_ EQ
+\
+| | S420 20
+F 1g.9a. RY AY S .
+OF = OF pare OU, 64) NWI
+SQAQAQ>2
+JO 70
+
+| 2115230
+6/9 oe
+IS 40
+70 RA
+| 70 “38 10
+Fig.11.) ny B82 yp :
+| BE EE CA
+aes. — Sw
+50 &8 $6 &8 S3 od G2
+SA
+Fig. 11a. —ESS3372
+9 S72 | Zo EZ
+| PEE SSOP,
+| LG" 8 £2
+. Fig. 12. Fig.13. |
+| 56 88 GA ~ J ~ 4.
+IOS y 70
+FR : Va 5é__|
+£8 Qa 20) MSG o
+
+115239
+7/9 _3 |
+© §
+
+2115230
+8/9 |
+Fig. 16 AMY :
+| oo sa |
+B22 ) N
+//4 vy
+D IN Ss Me
+SS 108
+/24 |
+L Fig.17
+lon i} wa
+| —~20
+|
+ST
+
+12115230
+WY a
+| Fig. 18. [vy wo.
+Y A 132
+[36 NY INS [36
+Qf
+So
+10
+Wei AD KS “
+JAD a SN 4 Fig.19.
+| 0, ¢ OD V4 HS /, Mp 3
+04NSS) G eo”
+S&S WS |
+
+1 GB2115230A 1
+~ — | ea —
+SPECIFICATION IXa-IXa of Figure 9; *}
+Figures 10 and 11 show medial sectional views of
+An electric power transfer system alternative rotary electric power transfer systems;
+Figure 11a shows a fragmentary sectional view of
+
+5 This invention relates to a system for transferring 70 amodification of that portion within the circle ‘A’ of
+electric power from an electric source to an electrical Figure 11;
+device which is movable relative to the source. Figures 12 and 13 show fragmentary media!
+
+Two known techniques for transferring electric sectional views of modifications of the rotary electric
+power from a Stationary source to a movable electric power transfer system of Figure 11; —\
+
+10 device, involve either the use of flexible cable links, 75 Figures 14 and 15 show medial sectional views of
+or the use of brushes making contact with conductor high frequency electric power transfer systems;
+rails. Cables may suffer fatigue due to repeated Figure 16 shows a sectional view of an alternative
+flexing, or encounter obstructions in use, and power transfer system; °
+brushes may cause sparking and become contamin- Figure 17 shows a perspective view of a modifica-
+
+: 15 ated with particulate material, thus making reliable 80 tion of the system of Figure 16;
+electrical contact difficult. Figure 18 shows a sectional view of part of a
+According to one aspect of the present invention, a modification of the system of Figure 17; and
+power transfer system comprises transformer Figure 19 shows a sectional view of a further
+means comprising first windings wound around a modification of the system of Figure 16.
+
+20 first magnetic core portion, and second windings 85 Inthe above Figures, like parts have like numerals.
+wound around a second magnetic core portion, the Referring now to Figure 1, a single phase power
+first core portion and the second core portion being transfer system comprises primary windings 10
+movable relative to each other and the second core wound onto a magnetic core portion 12 formed from
+portion providing a low reluctance magnetic flux straight, elongate laminated iron bars 14 extending
+
+25 path between at least two spaced apart regions of 90 parallel to and adjacent to each other and linked at
+the first core portion so as to complete a magnetic each end by short laminated iron bars 16. (Note:
+flux circuit therewith. Short lines drawn on the bars 14 and 16 represent
+
+In asecond aspect, the invention provides a the direction of the laminations). An auxiliary prim-
+method of transferring alternating current electric ary winding 18 is provided at the end of the core
+
+30 power, the method comprising, defining at least two 95 portion 12 furthest from the primary windings 10
+spaced apart regions on a first magnetic core and a secondary winding 20 is wound onto a
+portion, energising the first magnetic core portion laminated iron member 22 which extends between
+with an alternating electric current, locating a second the bars 14 and is movable in a direction parallel to
+magnetic core portion so as to provide a low the bars 14 as shown by the arrows, the member 22
+
+35 reluctance flux path between the regions and to 100 providing a low reluctance magnetic path between
+complete a magnetic flux circuit therewith, and the regions of the magnetic core portion 12 defined
+moving the second core portion relative to the first by the bars 14.
+core portion, the second core portion having secon- When the primary windings 10 are connected to a
+dary windings wound therearound, whereby an source (not shown) of alternating current with a
+
+40 electromotive force induced in the secondary wind- 105 frequency of for example 50 Hz, an alternating
+ings is used to provide a power output. magnetic flux passes through the magnetic core
+
+The regions may extend ina direction along which portion 12 and also through the low reluctance
+power is to be supplied, and might extend ina magnetic path provided by the member 22. An
+straight line, or in a curved or circular manner. If alternating electromotive force (e.m.f.) will therefore
+
+45 desired, the first core portion or the second core 110 be induced in the secondary windings 20, and may
+
+; portion may form concentric or co-axial rings. The be used to provide electric power to an electrical
+first core portion may have more than two regions, device (not shown). Some magnetic flux leakage
+‘ whereby the system is adapted for polyphase opera- from the bars 14 can be expected. Hence if the
+tion. member 22 is far from the primary windings 10, it
+
+50 =‘ The invention will now be further described by 115 may be necessary to augment the flux from the ,
+
+way of example only with reference to the accom- primary windings 10 by energising the auxiliary
+. panying drawings in which:— primary winding 18. The problems due to magnetic
+Figures 1 and 2 show perspective representations leakage become more significant the longer the bars
+of single phase electric power transfer systems; 14, and one solution is to provide a C-shaped
+
+55 ‘Figures 3 and 4 show perspective representations 120 laminated iron core 25 magnetically linking the bars
+of three-phase electric power transfer systems; 14 and onto which an additional primary winding 27
+
+Figure 5 shows a plan view of a modification of the is wound. It should be possible to have a multiplicity
+system of Figure 4; of such C-cores 25 along the length of the power
+
+Figure 5a shows a sectional view along the line. transfer system, and if necessary the local additional
+
+60 Va-Va of Figure 5; 125. primary windings 27 could be switched in as the
+
+Figures 6, 7 and 8 shows perspective representa- member 22 approached. If required, the member 22
+tions of rotary electric power transfer systems; could be turned about its longitudinal axis.
+
+Figure 9 shows a plan view of a three-phase rotary An alternative system (not shown) similar to that
+electric power transfer system; of Figure 1, has the secondary winding 20 wound
+
+65 Figure 9a shows a sectional view along the line 130 onto the C-core 25 which is made movable along the
+
+2 GB 2115 230A 2
+~ Oe ne ~ oy
+long bars 14, and if necessary has additional primary windings 27 produces the effect ofa magnetic
+windings 18 wound on static members 22. commutator,
+In Figure 2 is a slightly different single phase In the power transfer systems described with
+power transfer system from that of Figure 1, the reference to Figures 1 to 5, straight bars 14 sre used
+5 main difference being in the plane of the laminations 70 to define regions of the stationary magnetic core
+which are indicated in the same manner as in Figure portions. In these systems, the path along which the
+1. The system comprises primary windings 10 (all secondary windings 20 move and along which
+the windings being represented by broken lines) electrical power is available is a straight line. It will
+wound onto a laminated end portion 30. Two be understood that where electrical eae ae be
+10 straight, elongate laminated iron bars 14 extend 75 supplied along a curved path, the elongatebars 14
+from the end portion 30, and at their far end are may themselves be curved. Alternatively, elongate
+linked by another end portion 30 onto which an bars 14 may be laid end to end, as in the system of
+auxiliary primary winding 18 may be wound. A Figure 5, but so as to define a generally curved path.
+secondary winding 20 is wound onto a C-shaped In each case, the two or more regions of the
+15 laminated iron core 32 which makes wiping contact 80 stationary core portion 12 must be separated by a
+along the sides of the bars 14. constant distance along their length.
+The power transfer system of Figure 2 operates in Figures 6, 7 and 8 show representations of rotary :
+a similar manner to that of Figure 1, the C-core 32 power transfer systems, Figures 6 and 7 being
+providing a low reluctance flux path between the analogous to the system of Figure 1, and Figure 8
+20 bars 14. If it is found necessary to augment the 85 analogous to that of Figure 4. Referring to Figure 6,
+magnetic flux from the primary windings 10, this the rotary single phase power transfer system
+may be done by energising the auxiliary primary shown comprises a magnetic core portion 40 formed
+winding 18, or by energising additional primary from a static laminated iron member 42 linking two
+windings (not shown) wound on C-shaped lamin- regions provided by identical co-axial laminated iron
+25 ated iron cores (not shown) similar to the C-core 32 90 rings 44, the laminations forming concentric rings
+but fixed to the bars 14 on the other side to that of about the longitudinal axis of the rings 44. A primary
+the C-core 32. winding 10 is wound on the member 42, and a
+A three-phase power transfer system may be secondary winding 20 wound on a laminated iron
+arranged as in Figure 3 utilising three magnetic core member 22 linking the rings 44 and slidable between
+30 portions 12 of Figure 1, three primary windings 10 95 the rings 44, the member 22 being limited in its
+and, if required, three auxiliary primary windings 18 movement by the member 42. In Figure 7 a single
+(only two are shown}. Three secondary windings 20 phase power transfer system is shown similar to that
+(only two are shown) are wound onto a laminated of Figure 6 but differing from that of Figure 6 in that
+iron E-shaped core 34, the E-core 34 being slidable primary windings 10 are wound onto a C-shaped
+35 along the magnetic core portions 12. 100 core 25 linking two laminated iron co-axial rings 44.
+If required, additional primary windings 27 may be The C-core 25 and the rings 44 constitute a stationary
+wound on fixed laminated iron E-shaped cores 36 magnetic core portion 46, hence the member 22 and
+linking the magnetic core portions 12 and spaced the secondary windings 20 can undergo continuous
+along their length on the opposite side to that of the movement between the rings 44.
+40 slidable E-core 34. 105  Asinthe systems of Figures 1 to 5, when an
+In Figure 4 is shown a simpler design of three-ph- alternating current is passed through the primary
+ase power transfer system comprising three elon- windings 10, an alternating magnetic flux passes
+gate bars 14 linked at each end by laminated iron through the magnetic core portion 40 or 46 and also
+E-shaped cores 38. On one E-core 38 three primary through the member 22 on which the secondary
+45 windings 10 are wound, and three auxiliary primary 110 winding 20is wound, since the member 22 provides
+windings 18 are wound on the other E-core 38. Three a low reluctance flux path between the rings 44. An
+secondary windings 20 are wound ona /aminated alternating e.m.f. will therefore be induced in the
+iron E-shaped core 34 which is slidable along the top secondary windings 20.
+side of the bars 14. Referring now to Figure 8, a rotary three-phase .
+50 ~=—The elongate bars 14 may be 50mm thick, 75mm 115 power transfer system comprises a stationary
+wide and 2m long. If a longer power transfer system magnetic core portion 50 having regions defined by
+is required, the design of Figure 4 may be modified three identical co-axial laminated iron rings 52, the
+as shown in Figures 5 and 5a by laying the bars 14 laminations being in planes perpendicular to the
+end to end to the required length, primary windings longitudinal axis of the rings 52, and linked by an
+55 10 being wound onto an E-shaped core 38 atoneend 120 E-shaped core 54 having arms curved concavely at
+of the system and additional primary windings 27 the ends to conform to the adjacent peripheries of
+being wound onto E-shaped cores 36 on the under- the rings 52. Primary windings 10 are wound onto
+side of the bars 14. The E-cores 36 are situated on the arms of the E-core 54. Inside the rings 52 and
+either side of every butt joint between adjacent bars. slidable around them is an E-shaped core 56 having
+60 14. Asin the system of Figure 4, secondary windings 125 arms curved convexly at the ends to conform to the
+20 are wound on an E-shaped core 34 which is inside surface of the rings 52. Three secondary
+slidable along the upper side of the bars 14. Only the windings 20 are wound on the arms of the E-core 56.
+primary windings 10 or additional primary windings The system of Figure 8 provides for continuous
+27 in the vicinity of the E-core 34 need be energised. rotation of the E-core 56 around the rings 52 and
+65 Sequential energising of the additional primary 130 operates in a similar manner to the systems of
+
+3 GB 2115 230A 3
+
+eee SSS
+Figures 6 and 7. It will be appreciated that if space is in Figure 11a, the annular plates 82 may be attached
+limited the E-core 54 may be replaced by three short to the top and bottom surfaces respectively of an
+radial stubs (not shown) in place of the arms of the iron ring 80a, slightly thicker than the iron ring 80.
+E-core 54 on which the primary windings 10 are The annular plates 82 provide a mechanical shield
+
+5 wound. Magnetic flux between the rings 52 which 70 for the secondary windings 88 and rotatable ring 86,
+would otherwise have followed a low reluctance and also provide a flux path between the two rings
+path through the stem of the E-core 54 will instead 80 or 80a and 86 - they constitute the regions of a
+emerge from the stubs and follow a path through the stationary core portion. a
+air. Referring now to Figures 12 and 13, which repre-
+
+10 Rotary power transfer systems (not shown) similar 75 sent single phase rotary power transfer systems,
+
+to those of Figures 7 and 8 have the secondary secondary windings 88 as in Figure 11 are wound
+windings wound onto a C-core 25 and onto an E-core inside and outside an iron ring 86 and are rotatable
+54 respectively, which are movable relative to iron about the longitudinal axis 64 of the ring 86. The
+rings 44 and 52 respectively, and have primary systems differ from that of Figure 11 in having
+
+15 windings wound onto a stationary iron member 22 80 primary windings 10 wound onto laminated iron
+
+and a stationary E-core 56 respectively. C-shaped cores 90 and 92 respectively which define
+Referring to Figures 9 and 9a, an alternative rotary regions thereof each side of the ring 86. In the
+
+three-phase power transfer system comprises a system of Figure 12 each C-core 90 extends inside
+stationary magnetic core portion 60 formed from the iron ring 86, unlike the system of Figure 13 in
+
+20 three concentric co-planar laminated iron rings 61, 85 which the C-core 92 extends outside the iron ring 86.
+62 and 63 having concentric laminations linked by an Operation of the power transfer system at higher
+E-shaped core 38 below the rings 61, 62 and 63. frequencies, for examples 5kHz, enables smaller
+Primary windings 10 are wound on the arms of the cores to be used to transmit the same power and
+E-core 38. Above the rings 61, 62 and 63 is an increases the efficiency of the system. In addition,
+
+25 E-shaped core 34 slidable around the rings 61, 62 90 cores may be made of a ferrite or iron powder, rather
+and 63, and providing a low reluctance flux path than laminated iron. As examples, Figures 14 and 15
+between them. Secondary windings 20 are wound show sectional views of low profile three-phase high
+onto the arms of the E-core 34. frequency rotary power transfer systems. Both sys-
+
+The system of Figure 9 provides for continuous tems comprise concentric, co-planar, primary wind-
+
+30 rotation of the secondary windings 20 about the axis 95 ings 94, and concentric, co-planar secondary wind-
+64 of the iron rings 61, 62, 63, and requires rather ings 96 having the same radial dimensions as those
+less height than the system of Figure 8 while of the primary windings 94. In Figure 14 the primary
+operating in a similar manner to the system of windings 94 and secondary windings 96 are wound
+Figure 8. into concentric annular slots in respective opposed
+
+35 Referring to Figure 10, an alternative rotary 100 disc-shaped ferrite cores 93 and 97, the outermost
+three-phase power transfer system comprises two and innermost windings 94, 96 being exposed. The
+E-shaped cores 38, which constitute a stationary core 97 is rotatable with respect to the core 93 about
+magnetic core portion, primary windings 10 being the longitudinal axis 95 of the cores 93, 97. The
+wound on the arms of the E-cores 38. In between the system of Figure 15 differs from that of Figure 14 in
+
+40 two E-cores 38 are three concentric co-planar lamin- 105 having disc-shaped cores 98 and 99 each with four
+ated iron rings 61, 62 and 63, rotatable about their concentric slots into which the primary windings 94
+longitudinal axis 64 and providing low reluctance and secondary windings 96 are wound. The enclo-
+flux paths between regions defined by the respective sure of the innermost and outermost windings
+
+; arms of the E-cores 38. Secondary windings 70 are within the cores 98 and 99 decreases the reluctance
+
+45 wound concentrically around the rings—insidering 110 inthe magnetic circuit, and also reduces radiation of
+63, between rings 63 and 62 and between rings 62 high frequency electromagnetic radiation.
+and 61, and outside ring 61. If desired, the high frequency e.m.f. induced in the
+
+The power transfer system of Figure 10 operates in secondary windings 96 of Figures 14 and 15 may be .
+a similar manner to that of the aforedescribed subsequently converted to 50 or 60 Hertz using for
+
+50 systems, an alternating current flowing throughthe 115 examplea controlled rectifier and a direct current
+primary windings 10 of Figure 10 causing an alter- link inverter.
+nating flux to pass both through the stationary In order to reduce the air gap between the
+E-cores 38 and also through at least a section of the magnetic core portions, a magnetic liquid such as
+rings 61, 62 and 63. An alternating e.m.f. is therefore Ferrofluid may be introduced between the portions.
+
+55 induced in the secondary windings 70. 120 However, when the power transfer system is de-
+
+In Figure 11 is shown a diagram of a low profile energised, an auxiliary low power electric supply
+rotary single phase power transfer system compris- may be necessary to provide sufficient residual
+ing a laminated iron ring 80 and two identical magnetism in the core portions to retain the Ferro-
+co-axial annular iron plates 82 above and below the fluid.
+
+60 ring 80. Primary windings 84 are wound concentri- 125 Insome applications of the invention a relatively
+cally inside and outside the ring 80. Asecond thin non-magnetic material may be interposed be-
+laminated iron ring 86 Is rotatably mounted inside tween the first core portion and the second core
+the iron ring 80, and is co-axial and co-planar portion, for example the wall of a tank enclosing a
+therewith. Secondary windings 88 are wound con- radioactive environment.
+
+65 centrically inside and outside the ring 86.Asshown 130 Where movement'about more than one axis is
+
+4 GB 2115 230A 4
+Se OO
+required, the regions of a stationary magnetic core to alternating current in the primary windings 10 will
+portion may be spherically concave so as to define pass along the low reluctance flux path provided by
+parts of a spherical surface, and the adjoining the rod 102, and an e.m.f. will be induced in the
+portions of a movable magnetic core portion may be secondary windings 20. . .
+
+5 correspondingly spherically convex. In Figure 16, to 70 ‘In Figure 18 a partial sectional view of a power
+which reference is now made, a single phase power transfer system 130 is shown, differing from that of
+transfer system 100 is shown permitting limited Figure 17 only in that the ring member 122 of Figure
+rotation of a movable core portion about two 17 is replaced by a ring member 132 of the same
+perpendicular axes. The movable core portionis a shape but comprising two low reluctance ferrite
+
+10 cylindrical ferrite rod 102 with spherically convex 75 portions 134 joined by two non-ferromaghetic por-
+ends 103 whose centre of curvature is at the mid tions 136 diametrically opposite each other and of
+point of the rod 102, Asecondary winding 20 is width slightly greater than the diameter of the rod .
+wound around the rod 102, and the rod 102 is 102 of Figure 17. The power transfer system 130
+rotatably located between opposed spherically con- operates in the same manner as that of Figure 17, an
+
+15 cave ferrite caps 106 defining the regions of a 80 e.m.f. being induced in secondary windings 20
+stationary magnetic core portion 108 and with which except when the rod 102 fies in the diametral plane
+the convex ends 103 mate, the caps 106 being joined between the non-ferromagnetic portions 136.
+by a generally C-shaped ferrite core 110. Primary In Figure 19 a power transfer system is shown
+windings 10 are wound around the ends of the ferrite analogous to that of Figure 16 but for three-phase
+
+20 core 110 adjacent to the caps 106. A guard ring 114 85 alternating current, and comprises a movable core
+around the rim of each cap 106 prevents excessive portion in the form of a ferrite star member 140, with
+rotation of the rod 102. six equally spaced co-planar cylindrical limbs 142.
+
+The rod 102 provides in operation a low reluctance The limbs 142 have spherically convex ends 143 with
+flux path between the caps 106, so completing the a centre of curvature at the centre of the star
+
+25 magnetic flux circuit for the magnetic field set up by 90 member 140. Secondary windings 20 are wound
+the primary windings 10. The rod 102 is rotatable around each limb 142, those on opposite limbs 142
+about two perpendicular axes through its mid point being connected electrically. The ferrite star member
+and perpendicular to its longitudinal axis, within the 140 is rotatably located by six spherically concave
+limits set by the guard rings 114, and is also ferrite caps 146, the end 143 of each limb 142 mating
+
+30 rotatable around its longitudinal axis. 95 with one of the caps 146. Pairs of diametrically
+
+It will be appreciated that if space is limited the opposite caps 146 are joined by three generally
+C-shaped core 110 joining the caps 106 may be C-shaped ferrite cores 148, which are all joined
+dispensed with, the primary windings 10 being together in a star shape at their mid points (not
+wound around short stub cores (not shown) extend- shown). Primary windings 10 are wound around
+
+35 ing radially from the caps 106, the magnetic flux 100 each end of each C-shaped core 148 adjacent to each
+which would otherwise have flowed through the cap 146, those on opposite ends of each C-shaped
+C-shaped core 110 instead emerging from the stub core 148 being connected electrically.
+cores and flowing through the surrounding air. The ferrite star member 140 provides in operation
+
+Referring now to Figure 17 a power transfer three low reluctance flux paths between pairs of
+
+40 system 120 is shown, similar in some respects to 105 opposing caps 146, so that if three phase alternating
+that of Figure 16, comprising a movable core portion current is supplied to the three sets of primary
+in the form of a cylindrical ferrite rod 102 with windings 10, three phase alternating e.m.fs. are
+
+spherically convex ends (not shown) whose centre induced in the three sets of secondary windings 20. It
+of curvature is at the mid point of the rod 102, and will be appreciated that the ferrite star member 140 is
+45 having secondary windings 20 wound around it. The 110 rotatable about three perpendicular axes through
+rod 102 is rotatably and diametrically located within the centre of the star member 140, but that all of its
+a ferrite ring member 122 whose inside surface 123 motions need to be limited by the edges of the caps
+is spherically concave, the convex ends of the rod 146, because if the star member 140 rotates so far
+mating with the inside surface 123. A generally that one or more pairs of diametrically opposite
+50 C-shaped ferrite core 124 joins two diametrically 115 limbs 142 are no longer adjacent to the respective .
+opposite parts of the ring member 122, and primary caps 146 then an e.m.f. is not induced in the
+windings 10 are wound around the C-shaped core corresponding secondary windings 20. To prevent
+124. The ferrite material of the rod 102 is of lower this occurring, guard rings 114 (shown in Figure 16)
+reluctance than the ferrite material of the ring may be provided around the edge of each cap 146.
+55 member 122 so that the rod 102 provides a lower 120 CLAIMS
+reluctance path for magnetic flux than the portions 1. An alternating current electric power transfer
+of the ring member 122 with which it is in parallel in system comprising, a transformer means compris-
+respect of the magnetic circuit. ing first windings wound around a first magnetic
+The rod 102 is thus free to rotate continuously core portion, and second windings wound around a
+60 about the axis X-X of the ring member 122, and can 125 secord magnetic core portion, the first core portion
+rotate within limits set by the edges of the ring and the second core portion being movable relative
+member 122 about two perpendicular axes through to each other, and the second core portion providing
+the centre of the rod 102. Except when itisinthe  . a low reluctance magnetic flux path between at least
+horizontal plane (the ring member 122 being in the two spaced apart regions of the first core portion so
+65 orientation shown in the Figure), magnetic flux due 130 as to complete a magnetic flux circuit therewith.
+
+5 GB 2115 230A 5
+2. Apower transfer system as claimed in Claim 1, about three perpendicular axes extending through
+wherein the first core portion is arranged to be the common centre of curvature.
+stationary, and the first windings define the primary 17. Apower transfer system as claimed in any
+windings of the transformer means. one of the preceding Claims wherein the first core
+
+5 3. A power transfer system as claimed in Claim 1 70 portion and the second core portion are at |east in
+or Claim 2, wherein the regions extend in a direction part of laminated construction oriented such that in
+along which power is to be supplied. operation the lines of magnetic flux lie generally in
+
+4. A power transfer system as claimed in Claim 3 the planes of the laminations.
+wherein the regions extend in a straight line in 18. A power transfer system as clained in Claim
+10 parallel relationship to each other. 75 10r Claim 2, wherein the first core porti@n and the
+5. Apower transfer system as claimed in Claim 3 second core portion are each of annularform
+wherein the regions extend in a curved or circular co-axial with and rotatable relative to each other and
+manner. each defining a plurality of concentric annular
+6. Apower transfer system as claimed in Claim 5, grooves of the same radial dimensions on one side
+: 15 wherein the regions extend in a circular manner and 80 thereof, at least some of the first windings being
+are defined by co-axial rings. located within the grooves in the first core portion, at
+7. A power transfer system as claimed in Claim 6, least some of the second windings being located
+wherein the regions are defined by concentric rings. within the grooves in the second core portion, and
+8. A power transfer system as claimed in Claim 3, the grooved sides of the first and the second core
+
+20 further comprising auxiliary primary windings 85 portions being adjacent to each other.
+wound around the first core portion remote from the 19. A power transfer system as claimed in any
+first windings. one of the preceding Claims, wherein a magnetic
+
+9. Apower transfer system as claimed in Claim 3, liquid is located between the first core portion and
+comprising a plurality of first windings wound the second core portion.
+
+25 around a plurality of first magnetic core portions,the 90 20. Apowertransfer system as claimed in Claim ’
+first core portions being located adjacent to one 19, including an auxiliary relatively low power
+another and the regions of each core portion being source for magnetising the first core portion and the
+aligned with the regions of the adjacent core portion, second core portion.
+the second core portion being movable relative to all 21. Apower transfer system as claimed in any
+
+30 the first core portions in sequence and providing a 95 one of the preceding Claims, wherein a relatively
+low reluctance flux path between the regions of the thin non-magnetic material is interposed between
+first core portion to which the second core portion is the first core portion and the second core portion.
+adjacent. 22. Amethod of transferring alternating current
+
+10. Apowey transfer system as claimed in Claim electric power, the method comprising, defining at
+
+35 9, wherein only the first windings adjacent to the 100 least two spaced apart regions on a first magnetic
+second core portion are arranged in operation to be core portion, energising the first magnetic core
+energised. portion with an alternating electric current, locating
+
+11. Apower transfer system as claimed in Claim a second magnetic core portion so as to provide a
+1 or Claim 2, wherein the second core portion low reluctance flux path between the region and to
+
+40 defines at least one ring, and is rotatable relative to 105 complete the magnetic circuit therewith, and mov-
+
+the first core portion. ing the second core portion relative to the first core
+12. Apower transfer system as claimed in Claim portion, the second core portion having secondary
+
+11, wherein the second core portion comprises a windings wound therearound, whereby an elec-
+
+plurality of concentric rings. tromotive force induced in the secondary windings
+
+45 13. Apowertransfersystem asclaimedinClaim 110 is used to provide a power output.
+
+11, wherein the first core portion and the second 23. Amethod as claimed in Claim 22 wherein the
+core portion each defines a respective concentric energising alternating current has a frequency in the
+ring, and further comprising two co-axial discs of range from 50 Hz to at Jeast 5 kHz.
+magnetic material adjacent to the two ends of the 24. A power transfer system substantially as
+50 said concentric rings. 115 hereinbefore described and with reference to Figure :
+14. A power transfer system as claimed in any 1, or Figure 2 or Figure 3, or Figure 4, or Figures 5
+one of Claims 1 to 12, wherein the first core portion and 5a, or Figure 6, or Figure 7, or Figure 8, or
+‘comprises more than two regions, whereby the Figures 9 and Ya, or Figure 10, or Figure 71, or Figure
+system is adapted for polyphase operation. 11a, or Figure 12, or Figure 13, or Figure 14, or Figure
+
+55 15. Apowertransfersystem asclaimedinClaim 120 15, or Figure 16, or Figure 17, or Figure 18, or Figure
+1 or Claim 2 wherein the regions extend along a 19 of the accompanying drawings.
+plurality of spherically concave surfaces having a 25. Amethod of transferring alternating current
+common centre of curvature, and the second core electric power, substantially as hereinbefore de-
+portion comprises a member shaped to extend scribed and with reference to Figure 1, or Figure 2, or
+
+60 between the spherically concave surfaces and have 125 Figure 3, or Figure 4, or Figures 5 and 5a, or Figure 6, °
+ing corresponding spherically convex ends adjacent or Figure 7, or Figure 8, or Figures 9 and Ya, or Figure
+to the spherically concave surfaces. 10, or Figure 11, or Figure 11a, or Figure 12, or Figure
+
+16. A power transfer system as claimed in Claim 13, or Figure 14, or Figure 15, or Figure 16, or Figure
+15 wherein two said surfaces are provided in 17, or Figure 18, or Figure 19 of the accompanying
+65 opposing relationship, and the member can turn 130 drawings.
+
+6 GB 2115 230A 6
+ccc cc ce cco
++
+ae
+26. Adevice arranged to be energised by an l
+electric power system as claimed in any one of
+Claims 1 to 21, or Claim 24, or by a method as 5
+claimed in any one of Claims 22, 23 or 25, ;
+Printed for Her Majesty's Stationery Office by The Tweeddale Press Ltd.,
+Berwick-upon-Tweed, 1963
+Published at the Patent Office, 25 Southampton Buildings, London, WC2A 1AY,
+from which copies may be obtained.
+}
+XN
+

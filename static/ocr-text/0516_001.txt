@@ -1,0 +1,199 @@
+ABSTRACT FOR BNES SEMINAR ON LONG TERM MANAGEMENT OF REDUNDANT FACILITIES
+22 AUGUST 2002, NRPB TRAINING CENTRE, CHILTON
+ENGINEERING SUBSTANTIATION - A TOOL FOR MANAGING
+AGEING AND OTHER DEGRADATION EFFECTS
+Ed Abel (UKAEA), Andrew Buchanan,
+Mark Bateman (WS Atkins), Alan Want (Carl Bro Group)
+UKAEA's site at Harwell was established in 1946 as the UK's centre for nuclear R&D.
+Some facilities are still operating but decommissioning has always been a feature of the
+changing response to nuclear programmes, the need to make space for new facilities or
+simply dealing with redundant plant. In the extreme, reactors and nuclear plant have been
+moved to other UKAEA sites.
+Two of the early reactors at Harwell, BEPO and GLEEP have been in Care and Maintenance
+(C&M) for some time - BEPO was shut down in 1968 as was GLEEP in 1990.
+Decommissioning began at a new pace in the early '90s, when PLUTO and DIDO, the two
+Materials Test Reactors, went through the first two stages of decommissioning and were
+placed in long term C&M. Other facilities, including the Variable Energy Cyclotron, the
+LIDO reactor and the Chemical Engineering Buiding were cleared of radiological and
+chemotoxic hazards and demolished. Some of these buildings contained facilities that
+themselves had been in various forms of C&M (including virtual abandonment) for several
+decades.
+So at Harwell, UKAEA have gained significant experience of early and delayed
+decommissioning, over five decades, will be keeping some facilities in C&M for four more
+decades and then will be continuing to operate waste storage facilities for several more
+decades.
+Modern Safety Cases are being developed for the operating nuclear facilities at Harwell
+(including the reactors in C&M). Engineering Substantiation supports the deterministic
+element required in a safety case and is there to underpin the safety arguments. Engineering
+Substantiation requires attention to the detail of design or operational intent, tracks the
+lifecycle of the safety-related Structure, System or Component (SSC) against modern
+standards and compares the expectation with observation of the real situation in the
+operating facility. The process considers explicitly the potential for ageing and other
+degradation effects on the reliability of any of the plant items (SSCs) that must perform a
+safety function. The results are presented in Engineering Substantiation Reports (ESRs) as
+support files within the new Safety Cases.
+The paper will present the features of the Engineering Substantiation process at Harwell and
+highlight the arrangements that are being put in place to establish configured sets of
+knowledge, including design and safety information. Forward actions, plant condition and
+performance constraints will be recorded as baselines for future safety reviews. The
+retention and maintenance of plant knowledge will ensure that future safety managers and
+decommissioning teams will be able to understand the condition of their facility and its
+sensitivity to physical, environmental and any external influences that could contribute to
+ageing or other degradation effects.
+
+Engineering Substantiation - 4 Cool for Mimaging
+Pore liye Avcing and Other Degradation Effects
+MS. Sad m Past experience
+<4 ™ Future Plans
+@ Engineering Substantiation
+— Background
+— Definitions
+=== _ Process
+Engineering Substantiation - A Tool for Managing — Structured records
+Ageing and Other Degradation Effects — Contribution to long term safety
+Ed Abel, Andrew Buchanan, Mark Bateman, Alan Want
+BNES Seminar, 22nd August 2002, NRPB, Chilton wi UKAEA 3
+Past Experience at Harwell Gi) - Background Past Experience ar Harwell (ii) - Reactor ty pes
+™ Site established in 1946 as UK’s Centre for [weer | oes | | Soe |
+Nuclear Research ne
+ee vatiety of nde es ae ee
+m= Decommissioning has always been a peme [e [Perea | te | Seaerart and to boar |
+feature of facility renewal PS aoe
+= Reactors and nuclear plant mothballed or HO} 28,000 __| Howey Weter | 1958 __}ad 1990.82 COM ay
+moved to other sites as well eRe eT led been concrete rains |
+m In ‘90s Decommissioning began in earnest puro —|2ep00 — [siamo Ws | vost [ea eso co
+i UKAEA ei UKAEA
+Restariog as Exvirrmmcmt 3 comming oxy Koviremmcn 4
+Past Experience at Harwell Gii) = G351 Past Experience at Harwell iv) - FINGAL
+del wer
+he » = ; => |i x
+=> m ph,
+i962 1992 1995
+F FINGAL was it
+— abandoned for
+30 years until . tet
+B351 operated for 40 years, took 7 years decommissioning j ¥
+a ; . 1997
+to decommission & demolish began in B351 ex |
+Fe UKAEA gj UKAEA -
+Reeve Eons 5 Aeeeig = Boerne 5
+1
+
+Pase Expericnee at Harwell (v) +4 Research Reactors lett Past Experience at Harwell (vi) - Lessons Learnt
+ie - m Remaining reactors safely in C&M, some
+~ ee *oftal already for > 30 years
+Dae. - j ee ™ Reactor records kept by project teams and
+oo. - operational records in Corporate Archive
+a m™ Maintaining knowledge is a long term
+| | commitment and must be adequately funded
+q ae ® Despite poor records and abandonment of
+= old plant, have demonstrated successful
+decommissioning of complicated buildings
+fg] UKAEA }g] UKAEA
+Raswing owt Exrirmmcat 7 emering cor Exvirmmans 8
+URRY On PY Kom i PE Engineering Substantiation - Background (i)
+= Decommissioning well advanced, new ™ Licence Conditions and the SAPs
+waste facilities under construction for long ; 7
+term storage of ILW on site Licence Condition 27:
+= Deli . Iti te objective f tof “The Licensee shall ensure that a plant is not operated,
+€ icensing ultimate objective tor Most O inspected, maintained or tested unless suitable and sufficient
+site by 2025 safety mechanisms, devices and circuits are properly
+® All nuclear facilities to have modern Safety connected and in good working order.”
+Cases with Engineering Substantiation
+- : mae About % of the SAPs are concemed
+® Consolidation of site records to maintain ith Enci ing Princiol
+knowledge upkeep and transfer with Engineering Frinciples
+}@i UKAEA 3g] UKAEA
+ae 7 pee nad 10
+(oeineering Substantiadon - Baekground (i Preinecring Substantiation - Background (ii)
+@ The Engineering Lifecycle ™ Engineering and the Safety Case
+i ws sesessnit Safety Case
+wales sl Fault Schedule a
+= |_—| Management Engineered
+soo Hom | — Claims Protection Claims
+cae |r| i KSMRs/SMRs __KSREs/SREs
+| HH Facto | Ree
+=H zs Human Factors Engineering
+ae we Substantiation | manors |
+30), UKAEA Se gj UKAEA
+ewwring ow Enrica Ww Rewwieg amt Exricpmacat 42
+2
+
+fneinecring Substantiation - Background (iv) PTITCUIGO MMi FGe TTT DX E LN PDR CTL SLOT MRA OT RIAD)
+@ INSAG-8* suggests deterministic methods as @ SSCs:
+well as probabilistic methods should be used Structures, systems and components which
+for in-depth safety assessment of a plant perform a safety function
+m Licence Conditions and the Safety
+Assessment Principles have always stressed = Engineering Substantiation:
+the need for accurate plant knowledge The demonstration that there is adequate
+confidence in the ability of SSCs to deliver their
+*"A Common Basis for Judging the Safety of Nuclear Power Plants required safety functions with sufficient reliability
+Built to Earlier Standards", INSAG-8, IAEA, 1995
+KAEA UKAEA
+RG UKAEA * i UKAEA a
+Freincering Substantiation - Delinitions di Fneincering Substantiition - Process (i)
+™ Engineering Substantiation Report (ESR) @ Typical disciplines
+The means by which the Engineering Substantiation — Structural (including shielding) — Services
+process is reported in the Safety Case. - Vessels & Pipework — Mechanical Handling
+— Ventilation — CA&l (including computing)
+BESR ® competency assessment based on
+— is a Safety Case Support File or files IEE/BCS/HSE model
+— has well defined stages — Expert
+— involves design review and plant walkdown — Practitioner
+- classifies SSCs according to their failure consequence . vas
+— considers ageing and degradation effects — Supervised Practitioner
+UKAEA
+wi UKAEA 15 wi. Rewering ent Kiretromman 16
+Fnetneering Substantiation - Process Gi) I TREE M LCM TLDS PIN UWP KSIS RTD em ba OY CO
+@ Methodology Si = Engineering Recommendations
+ray] a a a — Agreed with facility ATO Holder, Safety Case
+So Authors and facility Safety Advisor
+7 (= — urgency of resolution prioritised
+=] <= =] ss — options suggested
+a a —may change as safety case updates and/or
+CS] more information is forthcoming
+| Stage — identify underlying engineering weaknesses
+B
+=] ..
+pd UKAEA e= C=) cy UKAEA
+Rawpring ow Eavirmimacnt 17 ——— 18
+3
+
+OIF R UCM ICCMS TT ESETINHEALC MeO MIKGRTER CCM SCO Ud) Mt Rae) Engineering Substantiation - Struchired Reeords (i)
+= Sources of existing records & Engineering Substantiation Database
+~ variety of records sets => configured sets
+—consolidates/inks to all sources of records
+~ incorporates document management with
+traceable workflow
+— eases future changes/modifications
+— transparency to all users
+— intent to collapse back to central system as
+facilities are decommissioned
+UKAEA
+RG UKAEA fi UKAEA 7
+P >a : =. Engineering Substantiation - Contribution to Long Cerm
+(UTUMLOG MAK UDP R CY em TUM ICG RU UG ML COC Omen
+Satety (1)
+® Engineering Substantiation Database ®@ Benchmarking of engineering status at fixed
+points in time allows design revisting
+fo ‘Sracseateas| = Can be directly linked to plant/site PSRs
+= tS ™ Regular professional review - trend tracking
+= "=. | detects degradation
+ee . ——— : 7 . ‘
+= s ime ae etl ee m@ Engineering Recommendations will capture
+=| —— | need for action and identify weaknesses
+— | = 3 Ce oat wll
+KAEA . UKAEA
+fof UKAEA 7 Fot URAEA ss
+Knvinecring Substantiation - Contribution to Long Term
+pe 7 Conclusions
+Safer ii
+® Intelligible archive and record resource tied to m™ Eng Sub is an appropriate tool to capture
+delicensing activities plant degradation and review the impact on
+®™ Consistent application of reference to modern safety
+standards m@ Assists normal C&M activities
+m™ ATO Holders and Safety managers fully ®@ provides focused professional engineering
+involved in process expertise
+3h UKAEA 7 59) UKAEA :
+4
+

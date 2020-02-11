@@ -1,0 +1,2055 @@
+AERE G4605
+PCOMWP (88)P4
+The Effects of Display Flicker Rate
+on Task Performance
+
+P M Scheiwiller A A Dumbreck
+
+V M Reading E Abel
+
+Department of Visual Science Engineering Sciences Division
+
+Institute of Ophthalmology Harwell Laboratory
+
+University of London Oxfordshire
+
+Judd Street OX11 0ORA
+
+London WC1H 9QS
+
+March 1988
+
+; a "
+"
+S—_ ian 1
+a
+'
+7
+me J 3 ot ==
+on = @
+i
+ttt =>
+i a ee
+| :
+/ , -_
+: ul
+a
+a 7 at
+
+Summary
+
+There is evidence that the human visual system responds
+to intermittent illumination at frequencies above those required for
+flicker fusion and that flicker can cause the enlargement of high
+velocity eye movements, necessitating corrective saccades (Wilkins
+1986). AS a consequence, it is possible that an observers performance
+of a demanding visual search task will be improved by displaying the
+task at an increased field rate even though flicker may be minimised
+at conventional field rates by optimising the viewing conditions. For
+Surveillance or remote viewing by television this may be important.
+
+The experiment described here measured the speed and
+accuracy with which subjects counted the number of circular targets
+hidden in a background pattern of random noise, displayed non-
+interlaced at field rates of 50, 80 and 100 Hz. There were two parts
+to the experiment; the first compared 50 and 80Hz, the second, using a
+different display monitor, 50 and 100HzZ. Thus there were two 50Hz
+conditions. The displays were viewed under lighting such that flicker
+was not noticeable even at 50HZz.
+
+The error rate was found to be constant across’ the
+field rates and there was no statistically significant difference in
+time taken between 50 and 80Hz. At 100HZ subjects performed slightly
+Slower than at 50Hz and the difference was statistically significant.
+However this difference was small compared to the difference between
+the two 50Hz conditions, which can probably be attributed to a
+practise effect rather than any physical difference between the
+monitors. The difference between the 50 and 100H2 field rates is
+unlikely to be of any practical importance.
+
+When asked, the subjects reported little difference
+between the display rates and did not express any preference. Only one
+of the subjects reported seeing flicker, even at 50Hz.
+
+The hypothesised effect of display flicker on
+performance wasS not confirmed; perhaps the effect of intermittent
+illumination is only strong for the highly ordered eye movements
+investigated by Wilkins. A second experiment is planned replacing the
+visual search task with the reading of text.
+
+il
+
+Table of Contents. Page
+1.0 Introduction. 4
+2.0 Visual Search Tasks. 5
+2.1 Apparatus. 5
+2.2 Calibration. 6
+2.3 Experimental Design. 8
+2.4 Experimental Procedure. 9
+2.5 Subjects. 10
+3.0 Results, Analysis and Discussion. 10
+3.1 Error Rates. 11
+3.2 Response Times. 11
+3.3 Possible Effects of Learning. 13
+3.4 Subject Comments. 14
+4.0 Conclusions. 16
+5.0 References. 17
+List of Tables
+Table l. Actual Line and Field Frequencies for the 18
+Nominal field rates.
+Table 2. Picture Dimensions. 18
+Table 3. Measured and Calculated Screen Luminances. 19
+Table 4. Measured Picture Contrast Ratios. 20
+Table 5, Subjects” Opinions; Easier/More Difficult. 21
+Table 6. Subjects” Opinions; Clearer/Less Clear. 21
+Table 7. Subjects” Opinions; Brighter/Less Bright. 21
+List of Photographs
+Photo. l. Typical Search Task. 22
+Photo. 2. Experimental Apparatus. 23
+2
+
+List of Figures
+Figure l. Phosphor Decay Curves.
+Figure 2. Monitor Resolution.
+Figure 3. Monitor Resolution and Modulation Sensitivity
+Functions.
+Figure 4. Total Number of Errors at 50 and 80 Hz.
+Figure 5. Total Number of Errors at 50 and 100 Hz.
+Figure 6. Mean Response Time vs. Number of Targets
+at 50 and 80 Hz.
+Figure 7. Mean Response Time vs. Number of Targets
+at 50 and 100 Hz.
+Figure 8. Linear Regressions for Sessions 1-4.
+Figure Al. CIE Photopic Spectral Luminous Efficiency
+Function.
+Figure A2. The Illumination of a Hemisphere by a Small
+Element of an Emitting Surface.
+Appendices
+Appendix 1. Derivation of Phosphor Decay Curves. i
+, Appendix 2. Relationship Between Luminance and Illuminance. iii
+Appendix 3. Instructions Given to the Subjects. Vv
+Appendix 4. Summary of Statistically Significant Results vii
+and Table of Regression Coefficients.
+3
+
+1.0 Introduction
+
+CRT based displays are in widespread everyday use, both
+in work places and for entertainment. Most use field rates in the
+region of 50 to 75 Hz and will often appear to flicker appreciably.
+Most people find this annoying and sometimes extremely disturbing.
+
+Flicker can be minimised by careful choice of viewing
+conditions and display design (Scheiwiller et al 1988), but there is
+evidence that the human visual system responds to the intermittency of
+illumination even when no flicker is visible. Tyler (1981) has
+recorded electrical activity of the brain synchronous with a display
+field scan at frequencies above flicker fusion. Brindley (1962) has
+demonstrated the perception of beats between electrical and visual
+Stimulation of the eye at frequencies where either stimulus alone
+would be invisible. It is possible that these responses have
+undesirable effects, and although there is no very good evidence that
+the use of CRT displays causes eyestrain or illness, the intermittency
+of illumination may be reponsible for the commonly reported finding of
+a slower reading speed from a CRT than from a piece of paper (e.g.
+Gould and Grischkowsky 1984).
+
+Wilkins (1986) has shown that flicker can cause the
+enlargement of saccadic eye movements, the movements made frequently
+whilst reading. The extent of the enlargement depends on the display
+field rate and is evident when flicker is not noticeable. At 50Hz,
+Wilkins found saccades to be 11% larger than at 100Hz. This may
+necessitate corrective saccades, which themselves might be enlarged. A
+practical implication may be that accurate fixation of the eyes will
+be facilitated at a high field rate and a demanding visual search
+task, involving many changes of fixation, will be performed more
+quickly and possibly more accurately than at a lower field rate. If
+the minimum time between saccades is 100msec (Stark et al 1961) then
+every ten saccades requiring correction will add 1 second to _ the
+search time and produce a measurable difference in performance.
+
+The experiment described here compared observer
+performance of such tasks at display rates of 50,80 and 100Hz. The
+study is important because a finding of impaired performance at lower
+field rates, under viewing conditions where flicker is not apparent,
+would indicate that achieving flicker fusion may not be a good enough
+criterion for choosing the field rate. |
+
+4
+
+2.0 Visual Search Tasks
+
+The subjects were asked to find and count the number of
+circular targets hidden in a background pattern of random dots. There
+were 100 tasks and each contained between 1 and 20 targets. An
+example, with 20 targets, is shown in photograph 1. For each number of
+targets (1 to 20) there were five patterns, generated by a
+Microcomputer and stored on floppy disc prior to the experiment. The
+disposition of the targets was randomised over the screen, but care
+
+was taken to ensure that they were evenly distributed between the four
+quadrants of the screen and that none were less than two targets-
+widths distant from any other. The resolution of the pattern was 256
+by 192 pixels and the targets were drawn in cells 8 by 8 pixels. The
+background pattern of random dots had approximately equal numbers of
+black and white dots and was the same for all 100 tasks.
+2.1 Apparatus
+
+The experiment was controlled and timed by a BBC Master
+Series microcomputer, which retrieved the appropriate display pattern
+from the disc and transferred it as a bit-image, via the user port, to
+an Acorn ATOM. The ATOM had been modified in several ways and was able
+to generate video signals at field rates nominally of 50,80 and
+100HZ. In addition, it was possible to blank and reveal the picture
+under program control of the BBC, instantly and without any picture
+Gisturbance. This was achieved by switching the output of the ATOM
+between the picture signal and a train of syncronising pulses derived
+from the picture signal, or vice versa, during the interval between
+fields.
+
+The picture was 262 lines, non-interlaced of which 242
+lines were active. The actual line and field frequencies for _ the
+nominal field rates are shown in table 1. The display had a bright
+border which was 25 lines wide at the top and bottom, and the
+equivalent of 58 pixels at either side. This was a feature of the
+video controller used in the ATOM (Motorola 6847 ) and was unavoidable
+in the graphics modes. However under the viewing conditions used for
+the experiment, even at 50HzZ, the border did not flicker noticeably.
+
+It was not possible to obtain a picture monitor capable
+of displaying 50, 80 and 100HZ, so two monitors were used; a _ BARCO
+CD351 to display 50 and 80HZ and a MANITRON VLR20101 for 50 and 100Hz.
+The BARCO was a colour monitor with a dot-pitch of 0.32mm and a P22
+phosphor, whilst the MANITRON was a high quality black and white
+Monitor with a P4 phosphor. Both of these are medium-short persistence
+phosphors; figure 1 shows the expected decay curves and Appendix 1
+gives the derivation of these curves. The P22 red component has a
+longer persistence than the P4, but at the field rates used here the
+light output from the excitation of the red phosphor will have decayed
+to zero long before the next excitation. The overall flicker waveform,
+when the components have been weighted according to the CIE photopic
+luminous efficiency curve, is very similar for each monitor.
+
+5
+
+The scan rate of the BARCO monitor was changed by two
+internal Switches and re-adjusting the scan geometry controls
+(picture height, width, trapezium distortion etc.) The controls were
+made accessible from the outside of the monitor by drilling holes in
+the backplate, and using test patterns generated by the ATOM, the
+correct settings at each scan rate were established. To achieve the
+necessary accuracy and repeatability of these adjustments, so that the
+picture size and shape did not change each time the field rate was
+changed, the position of each control was marked, from a 3.5" pointer
+attached to the adjusting screwdriver, onto a paper scale attached to
+the monitor backplate. Changing the MANITRON monitor from 50 to 100Hz
+was achieved more easily, by swapping the scan control circuit board
+with a second, matched board supplied by MANITRON.
+
+2.2 Calibration
+
+Whilst the viewing conditions used in this experiment
+were probably not typical of those for CRT displays in everyday use,
+they were chosen to minimise the visibility of the picture line
+structure which was rather coarse, to make the task suitably
+difficult and the picture flicker at 50HZ imperceptible.
+
+a) Room Lighting.
+
+The room lighting was subdued throughout the experiment
+and entirely from overhead incandescent lamps; there were no windows.
+The illuminance falling on a horizontal surface was 170 Lux where the
+Subject waS seated but varied between 160 and 200 Lux for other
+locations in the room. There were no obvious reflections from the
+monitor screen and glare was minimal.
+
+b) Viewing Distance.
+
+Although both monitors were of 19" diagonal, it was not
+possible to arrange for the active picture sizes to be exactly the
+same. However by adjusting the viewing distance slightly the pictures
+were made to subtend aproximately the same visual angles at the
+subjects” eyes. (As the position of the subject’s head was not
+constrained there was probably considerably more variation in visual
+angle due to the subject moving than to any difference between the
+monitors anyway.) For the BARCO, the viewing distance was 160cm and
+for the MANITRON monitor 150cm. The actual picture, target and pixel
+dimensions are detailed in table 2 with the approximate visual angles
+subtended.
+
+c) Monitor Luminance
+
+To ensure that as far as possible, the pictures were of
+the same brightness and contrast at the different field rates, the
+monitors were set up accurately using an EEL Lightmaster photometer to
+measure the light output from the screen. With the meter’s sensor held
+against the centre of the screen, and the monitor displaying a black
+field, the brightness control was adjusted. To set the white level, a
+
+6
+
+completely white field was displayed and the contrast control
+adjusted. For a high quality monitor these adjustments should be
+largely independent, but as a small interaction was evident, the
+process was repeated until satisfactory readings were obtained. These
+are given in table 3.
+
+Strictly, the EEL meter is an instrument for measuring
+illuminance, in Lux rather than luminance, in Candela per sq metre,
+but by holding the sensor against the screen, which is assumed to be a
+Lambertian surface, the relationship is simply:-
+
+L=E/Pi
+
+Where L is the screen luminance in cd/m sq and E is the
+illuminance in Lux. (See Appendix 2 for the derivation.)
+
+Later, measurements were made with a MINOLTA spot photometer
+to verify the calculations (only the EEL meter was used during the
+experiment). These are also included in table 3. The agreement is
+fairly good, but using the spot photometer it was discovered that
+there were anomolies for each monitor. The BARCO displayed a white
+field which was not of uniform luminance over the whole screen; there
+was some shading towards the edges, so table 3 includes centre and
+edge measurements for the BARCO. (Such measurements were not practical
+with the FEL meter.) For the MANITRON monitor, it was found that the
+luminance measured from a homogeneous white field was slightly less
+than that measured from the white parts of a field made up of black
+and white squares; again, details are recorded in table 3. (Perhaps
+this effect was due the monitor’s internal power supply being unable
+to cope with the sustained high beam current). However it was decided
+that these deviations, and their effects on the picture contrast, were
+small enough not to influence the results of the experiment.
+
+The contrast inherent in the display can be calculated
+from table 3, but the perceived contrast will be modified by the
+effect of ambient light reflected from the display screen. Hence,
+using the spot photometer, the screen luminance seen from _ the
+subjects” view point, under the experimental lighting condition, was
+measured. Table 4 shows these results and the display contrast ratio
+for a pattern of black and white squares. ( The spot photometer
+measurements in table 3 were taken with the room lights off and froma
+closer distance to be comparable with the readings taken during the
+experiment with the EEL meter.)
+
+d) Display Resolution.
+
+Since the sharpness of the display could affect search
+times, the resolution was measured.
+
+The ATOM waS used to generate linear gratings of
+different spatial frequencies up to the maximum that was present in
+the experimental display, where alternate pixels along a line were on.
+As a measure of system response, the luminance modulation of the
+display was measured at each frequency. With a close-up lens attached
+to the spot photometer it was possible to measure the luminance of an
+
+7
+
+area 0.4 mm in diameter, so even at the highest spatial frequency the
+modulation could be found by measuring the luminance of the black and
+white bars of the grating. The modulation is then defined as:-
+
+M=(L -L ) / (L +L )
+
+w b w b
+Where L is the luminance of the white bars and
+Ww
+L is the luminance of the black bars.
+b
+
+The results for the four display conditions are
+plotted in figure 2. Each point is a single measurement and_ the
+spatial frequencies are expressed in cycles per degree of visual
+angle from the subjects point of view.
+
+Comparison with the modulation sensitivity functions
+of the human visual system puts the differences between monitors and
+between field rates into perspective. Figure 3 shows the sensitivity
+functions obtained by Van Meeteren and Vos (1972) for a field, 17 by
+11 degrees of visual angle. Sensitivity is defined as the reciprocal
+of the modulation for which subjects would see, with a probability of
+0.75, a grating rather than a uniform grey field. The solid curves are
+therefore boundaries between seeing a grating and a uniform field. The
+reciprocal of the modulation measured from the MANITRON monitor at 100
+Hz (which can be seen from figure 2 to be the worst case) is plotted
+to the same scale. The mean luminance used here is about 27 cd/sq m so
+the modulation of the display, at the highest spatial frequency, is at
+least 200 times greater than at threshold. Compared to the
+degradation of resolution that would be necessary to make the task
+impossible (a factor of about 200), the difference between monitors
+seems negligible.
+
+2.3 Experimental Design.
+
+As the MANITRON picture monitor was not initially
+available, the experiment was in two parts; the first compared
+performance of the search task at field rates of 50 and 80HzZ, using
+the BARCO monitor, whilst the second, one month later compared 50 and
+100HZ using the MANITRON. It was expected that the two 50Hz conditions
+would give a sufficiently similar baseline for the comparison of 80
+and 100HzZ to be legitimately drawn, and if not it would still be of
+interest to see whether any differences found in the first part were
+replicated in the second.
+
+In each sub-experiment the subjects were divided at
+random into two groups (5 per group). Each subject attended two
+sessions and completed all 100 search tasks in each. The first of
+these groups saw the higher field rate in their first session and the
+lower rate in their second, whilst the second group saw the lower
+field rate first, and the higher rate second.
+
+8
+
+Each part of the experiment was timetabled in a _ way
+such that, as far as possible, the two sessions for each subject were
+at the same time on consecutive days. No subject did both sessions on
+the same day, but one in the first part of the experiment had a days
+break between the first and second sessions. Most of the subjects took
+about 50 minutes for a session, but the best performers took about 30
+mins, and the slowest around 75 minutes.
+
+2.4 Experimental Procedure
+
+The subject was, for the first half of the experiment,
+seated on a stool, but by popular demand on a more comfortable
+draughtman’s swivel chair, with a backrest, for the remainder. The
+subjects” eyelevel, when seated, was about 145cm, depending on posture
+and stature, and was slightly higher than the centre line of the
+monitor at 125cm. Meanwhile the experimenter sat some way behind the
+subject facing a display connected to the BBC computer. On this was
+displayed the test pattern, the task number, the correct answer, and
+any responses the subject had made.
+
+A high quality television camera was set up,
+unobtrusively, about 40 degrees off-axis slightly behind the subjects”
+monitor. This enabled the experimenter to see, from a monitor on his
+bench, that the subject was looking at the task and answering
+conscientiously. (See photograph 2.)
+
+A session was started by the subject, seated in front
+of the the display monitor, pressing the space bar of the computer
+keyboard. The instructions (see Appendix 3) were then displayed page
+by page on the monitor as black characters on a bright background. To
+display the next page, the subject pressed the space bar. In short the
+subjects were instructed to count the targets as quickly and as
+accurately as possible.
+
+Next, five practise trials were presented for
+familiarisation with the procedure, but from which no data were
+recorded. After these the subject was given the choice of repeating
+the instructions and practise trials, repeating the practise trials
+alone or proceeding with the experiment. None of the subjects repeated
+the instructions or practise, except by accident. Up to this point the
+experiment took about 5 minutes, and it was assumed that the subjects”
+eyes would by now be adequately adapted to the room lighting.
+
+This was followed by presentation of the 100 search
+tasks. The order of tasks was always the same; a pseudo-random
+sequence such that no consecutive tasks had the same number of
+targets. A trial commenced with the screen blanked (i.e. black) whilst
+the BBC transferred the display pattern to the ATOM. After about 3
+seconds the display was revealed and the subject began to count the
+number of targets. When he had an answer he pressed the space bar and
+the screen was again blanked. Half a second later he was prompted, on
+the screen, for the number of targets. The answer was entered via the
+numeric keypad of the computer and echoed to the screen. As this echo
+required a transfer of data between the BBC and the ATOM, there was a
+
+9
+
+small delay between pressing a key and the number appearing on_ the
+screen. Initially this caused some problems for one or two of the
+subjects but these were quickly overcome during the practise trials
+and the delay was easily accepted. The answer was checked to see if it
+was a number between 1 and 20. If not, the subject was reminded that
+the answer should be in this range and prompted to re-enter the
+number.
+
+If the answer was correct, the screen was blanked and
+the next task presented. However, if the subject had answered
+incorrectly he was informed thus and the task was repeated. A maximum
+of three attempts was allowed for each task (although the subjects did
+not know this) and if the third attempt was unsuccessful the
+experiment proceded as if the answer had been correct. If, by accident
+a subject had entered a number he did not intend which was
+nevertheless a valid answer (e.g 9 instead of 19) he was instructed to
+tell the experimenter, who made a note of the trial number, so that
+the error could be corrected later.
+
+The computer recorded, for each task, the number of
+attempts taken, the time (in centiseconds) for which the task had
+been displayed and, right or wrong, the subject’s actual answer. When
+all 100 tasks had been presented the subject was briefly asked
+whether he had noticed flicker in the display and for any comments.
+After the second session he was also asked whether he had found the
+session easier than the first, and whether he felt that the picture
+had been clearer, brighter or no different than before.
+
+2.5 Subjects
+
+Twelve male subjects participated in the experiments;
+there were 10 per sub-experiment (5 in each group ) and eight were
+common to both parts. None were frequent VDU users, but all watched
+television. By profession, they were technicians, craftsmen or
+engineers (staff at UKAEA Harwell), aged between 22 and 36 years, with
+a median age of 24 years. Within the last three years each had been
+ophthalmically screened and with one exception had 6/6 or better
+visual acuity with spectacle correction if worn. The exception had 6/9
+acuity in his right eye and 6/4 in his left. All were naive as to the
+purpose of the experiment.
+
+The two subjects new to the second part of the
+experiment were put in different groups; one saw the 50Hz field rate
+in his first session, the other, 100Hz.
+
+3.0 Results, Analysis and Discussion
+
+The data were corrected where subjects had
+inadvertently entered the wrong answers, and then uploaded to the
+mainframe computer at University College London, where the following
+analyses were carried out, mainly using the BMDP package of
+statistical software.
+
+10
+
+3.1 Error Rate
+
+In drawing any conclusions from the comparison of
+response times it is important to take into account the error rate (or
+indeed the response times when considering error rates). It is
+possible that subjects trade-off accuracy for a fast performance or
+vice-versa (Pachella 1974) and therefore a quantitative comparison of
+response times where the error rate does not remain constant can be
+misleading since two qualitatively different performances are being
+compared (slow and accurate vs. fast but inaccurate).
+
+Essentially, the data were analysed with a _ two-way
+analysis of variance of the number of errors made, with field rate and
+the number of targets presented. This was done both for the total
+number of errors, (the number of incorrect answers on attempts 1,2 and
+3) and for the number of errors made at the first attempt.
+
+For the first part of the experiment, 50 vs 80 Hz with
+the BARCO monitor, the total number of errors is plotted in fig. 4
+against number of targets. Similarly fig. 5 shows the number of
+errors made in the second part (50 vs. 100 Hz). The analysis of
+variance showed that there was no statistically significant difference
+in the total number of errors between any of the field rates but, as
+expected, the number of targets was significant (F(19,3920)=12.31;
+p<0.0001 Table A4.1). There was no significant interaction between
+these two factors. Analysis of the number of errors at the first
+attempt was very Similar (Table A4.2). It is therefore legitimate to
+compare subject performance by comparing response times.
+
+3.2 Response Times.
+
+Although more of the data collected could have been
+utilised, only the response time for the first attempt at a task has
+been used. It is possible that spurious results might have been
+introduced using the second and third attempts, where subjects may
+have reasoned their answer could not have been wrong by more than one
+or two and simply adjusted their first answer.
+
+The response times were examined by calculating the
+linear regression of mean response time on the number of targets
+presented (see table A4.12 for a summary of the coefficients). Linear
+regression was used for both ad hoc and a priori reasons. First,
+because it is a simple model which fits the data well (typically
+explaining about 85% of the variance), and second because’ response
+time might reasonably be expected to vary in an approximately linear
+way with number of targets presented. For each trial, there will bea
+component of response time due to searching the display, a component
+due to "registering" each target (to fixate and count a target ) anda
+component due to pressing the space bar. Whilst it is difficult to
+know exactly what cognitive processes are involved with each
+component, it is reasonable to suppose that the first and third will
+be largely independent of the number of targets and that the second
+will be related proportionally. Hence a linear relationship, with a
+non-zero intercept is to be expected (perhaps with some deviation for
+
+ll
+
+the case of 20 targets, where the search need not be exhaustive; once
+20 targets have been found there is no need to look for any more). The
+hypothesised effect of picture flicker could affect either or both of
+the first two components and hence be manifest as a change of gradient
+(B in table A4.12) or both intercept (A in table A4.12) and gradient.
+
+If the residual variance, ie. the variance not
+explained by the regression, was significantly reduced by
+partitioning the data in some way (e.g. by field rate) and fitting a
+linear regression, in turn, to the data on each side of the partition,
+then these linear regressions would be Significantly different, in
+gradient, intercept or _ both.
+
+Fig.6 show the results for the first Part of the
+experiment. Each point is the mean of 5 trial by 10 subjects and the
+error bars are plus or minus one standard error of the mean.
+Similarly, fig.7 shows the results for the second part; 50 vs 100 Hz
+with the MANITRON monitor. The following Significant differences were
+found:-
+
+Monitor Difference p value
+BARCO 50Hz vs. BARCO 80Hz 50HZ Slightly faster n.s.
+MANITRON 50HZ vs. MANITRON 100Hz 50HZ slightly faster p=0.0065
+BARCO 50Hz VS. MANITRON 50HzZ MANITRON faster p<0.0001
+BARCO 80HZ VS. MANITRON 100Hz MANITRON faster p<0.0001
+(See Tables A4.3, A4.4 and A4.5 for analysis of variance tables for
+Significant results.)
+
+The gradient of the regression for the MANITRON at 50Hz
+did not differ significantly from that at 100Hz (Table A4.6), whilst
+for the other two significant comparisons the slope was different.
+(F(1,1996)=16.11, p=0.0001, table A4.7 and F(1,1996)=8.66, p=0.0033,
+table A4.8 respectively).
+
+The differences between the regressions are reflected
+in the overall mean response times (10 subjects; 100 tasks):-
+
+Monitor Mean Response Time (Sec) Standard Deviation
+BARCO 50HZ 10.67 6.78
+BARCO 80Hz 11.09 6.45
+MANITRON 50Hz 8.89 4.58
+MANITRON 100Hz 9.45 5.07
+
+12
+
+From this it is evident that the difference between the
+two field rates of the MANITRON monitor was quite small and, by
+comparison with the difference between the two 50Hz conditions, is
+probably of no practical consequence.
+
+3.3 Possible Effect of Learning.
+
+The large difference between the two parts of the
+experiment was unexpected and because of the experimental design, it
+is not possible to say whether this is due to physical differences
+between the monitors, or can be entirely explained by a practise
+effect. Eight of the subjects were common to both parts, and _ had
+already completed two sessions before starting the second part.
+
+a) Error Rate
+
+For these eight subjects the error rate (all attempts)
+was not constant across the sessions (F(3,3120)=5.13, p=0.001; table
+A4.9). A Newman-Keuls analysis (table A4.10) showed that for session 4
+the rate was no different from session 1, sessions 2 and 3 were not
+Significantly different from each other but differed from sessions ]
+and 4. Session 3 and 4 are respectively, the first and second sessions
+of part 2.
+
+b) Response Times
+
+The regressions of mean response time on number of
+targets for these eight subjects are plotted session by session in
+figure 8. The ordering of the lines is certainly consistent with a
+practise effect; the line for each session lies below that of the
+previous session and their disposition may well be enough to explain
+the difference between parts 1 and 2: 80% of the data for the results
+in fig.6 are drawn from session 1 and 2 of fig.8, and 80% in fig.7 are
+drawn from session 3 and session 4.
+
+Since the error rate changes from session to session a
+quantitative comparison of the regressions is dubious, but with
+practise it might be expected that subjects will perform more quickly,
+more accurately, or both at each successive session. For the first
+three sessions this was true:- session 2 was faster and more
+accurate than session 1; session 3 was faster than session 2 for the
+Same accuracy, but for session 4 there was a different speed-accuracy
+trade-off; session 4 was the fastest of the 4 sessions, but only as
+accurate as session l.
+
+Session Mean Response Time Standard Deviation No. of Errors
+1 11.93 6.79 111
+2 10.33 5.88 72
+3 9.51 4.89 75
+4 8.65 4.87 107
+13
+
+This suggests that practise explains the difference
+between the first three sessions and probably the difference between
+the two parts of the experiment, but after three sessions has little
+further effect.
+
+c) New Subjects
+
+If this explanation is correct, then the two subjects
+new to the second part, might be expected to have performed in a
+Similar way to the ten subjects in part l.
+
+The error rate (all attempts) for these two subjects,
+at 50 and 100 Hz was not significantly different from elsewhere in the
+experiment and there was no interaction with the number of targets.
+
+At 100 Hz, the regression was not significantly
+different from that at 80Hz in part 1, whereas the regression for all
+the subjects at 100 Hz differed. However at 50 Hz the regression for
+the new subjects differed significantly from 50 Hz in part 1
+(F(2,1196)=14.91, p<0.0001; table A4.11) but not from the rest of the
+subjects in part 2 at 50Hz. Since the higher field rate argues that
+these two subjects perform in a similar manner to those in part 1, and
+the lower field rate that they perform like those in part 2, no
+conclusion can be drawn from this.
+
+Session by session, the error rate for the new subjects
+(all attempts) did not differ significantly between session Il,
+session 2, and the error rate of the eight common subjects in their
+third session. There was no interaction with number of targets in
+either case.
+
+The regression for the new subjects” second session
+was not significantly different from the old subjects” fourth
+session, whilst the regression line for the new subjects” first
+session lay between the old subjects” first and second sessions.
+Therefore the two new subjects started off slower and less accurately
+than the rest in part 2, but by session 2 appear to performed at the
+same speed but more accurately than the other 8. This supports a
+practise effect, but these two subjects learnt quickly and appear to
+have been particularly good at the task.
+
+3.4 Subject Comments
+
+When the subjects were asked for their comments at the
+end of each session, none spontaneously mentioned display flicker.
+Even when asked specifically, only one had noticed any. This subject
+was one of the eight who participated in both parts of the experiment
+and after both of the 50Hz sessions reported seeing flicker. In the
+first part he thought that both sessions were of about equal
+difficulty, whereas in the second he thought 50Hz the more
+difficult. However the data from this subject suggest that, in fact,
+he searched more quickly and more accurately at 50Hz, but as he was in
+group 1, which saw 50Hz second, for both parts of the experiment, this
+could just be the effect of practise.
+
+14
+
+In the first part, all but one of the subjects thought,
+either that the second session was easier than the first or that they
+were of equal difficulty. Interestingly, in the second part, whilst
+the two new subjects found the second session easier, only one of the
+other subjects thought the second to be the easier session. This
+supports the practise effect suggested above. Table 5 shows’ these
+opinions arranged by field rate, and although the numbers are _ too
+small for any reliable statistics to be performed there is no evidence
+to suggest that the higher field rates were preferred.
+
+Similarly, table 6 and 7. show the subjects” opinions
+as to which of the displays was the “clearer” and which if either was
+the brighter. “Clearer” meant a subject had commented that in some
+way the targets were easier to see, and in one case that the display
+had more contrast. Again , because of the small number of observation
+and the informal nature of the comparison, it is not possible to read
+very much into this, but it appears that the slight differences in
+display resolution were not conspicuous.
+
+15
+
+4.0 Conclusions
+
+The hypothesised effect of display flicker is not
+confirmed; there is no evidence from this experiment that subjects
+performed a demanding visual search task with increased speed or
+accuracy at display field rates higher than 50Hz.
+
+It is possible that the effects of flicker found by
+Wilkins are only pronounced for the highly ordered, predictable eye
+movements found in reading rather than the more erratic ones likely to
+be found in the search tasks used here. A second experiment is planned
+where subjects will be required to read text displayed at either 50 or
+100HZ.
+
+Curiously, performance at 100HzZ was slightly Slower than
+at 50Hz and the difference was statistically significant.
+Measurements of the display resolution suggest that there was a small
+difference in sharpness, 100HZ being slightly less sharp than 50Hz,
+but it was certainly not the case that the smallest details of the
+task could be seen at one field rate and not the other. A Side by
+side comparison was not possible, but none of the subjects remarked
+that the 100HzZ display was less sharp than any other. In addition the
+regressions calculated for mean response time on the number of targets
+did not differ in slope between these two field rates. This would not
+be expected if degradation of the display was the reason for the 50HzZ-
+100Hz difference. Therefore it is unlikely that a change in resolution
+is the explanation.
+
+There waS a statistically significant difference
+between the two parts of the experiment. This is most plausibly
+explained by a practise effect rather than any physical difference
+between the monitors. Compared to this, the difference between 50 and
+100HZ is small, and therefore of little practical consequence.
+
+Although the comparisons were not rigorous, the
+subjects did not think any field rate easier than any others and on
+the whole noticed little difference between any of the display
+conditions.
+
+16
+
+5.0 References
+
+1 Brindley GS. Beats Produced by Simultaneous Stimulation of the
+Human Eye with Intermittent Light and Intermittent or Alternating
+Electric Current. J Physiology (London) 1962;164:157-167.
+
+2 Brown JL. Flicker and Intermittent Stimulation. In: Graham CH. ed.
+Vision and Visual Perception. New York: Wiley and Sons, 1965
+Ch10:251-321.
+
+3 cCakir A, Hart DJ, Stewart TF. The VDT Manual. Darmstadt, West
+Germany: Inca-Fiej Research Association 1979.
+
+4 Gould JD, Grischkowsky N. Doing the Same Work with Hard Copy and
+with Computer Terminals. Human Factors 1984;26(3):323-337.
+
+5 Hunt RW, Darby PJ. The MeaSurement of Light. In: IBA Technical
+Review 22, Light and Colour Principles. London: IBA 1984;4-16.
+
+6 JEDEC. Characteristics of JEDEC registered Phosphors. JEDEC
+Publication No.16C. Washington: Electronic Industries Association.
+
+7 Pachella J. In: Kantowitz ed. Human Information Processing.
+1974;:p59-61.
+
+8 Scheiwiller PM, Reading VM, Dumbreck AA, Abel E. Flicker in
+Television Displays: A Review. AERE Harwell Technical Progress
+Report AERE G 4604 PCOMWP (88) P4.
+
+9 Stark L, Vossius G, Young LR. MIT Research Laboratory of
+Electronics, Cambridge, Mass. Quarterly Progress Report No.62, July
+1962.
+
+10 Tyler CW. Human Brain Responses to Flicker in Visual Displays. In:
+Reading VM. ed. Vision and Visual Displays. London: Institute of
+Ophthalmology 1981 Course Documentation :l-1l, 1-6.
+
+ll Welde WL, Cream BW. Variables Influencing the Perception of Flicker
+in Wide-Angel CRTs. Texas: Wright-Patterson Air Force Base, Human
+Resources Lab. 1972.
+
+12 West DC, Boyce PR. The effect of Flicker on Eye Movements. Vision
+Research 1968;8:171-192.
+
+13 Wilkins AJ. Intermittent Illumination from Visual Display Units
+and Fluorescent Lighting Affect Movements of the Eyes Across Text.
+Human Factors 1986;28(1),75-81
+
+14 van Meeteren A, Vos JJ. Resolution and Contrast Sensitivity at Low
+Luminances. Vision Research 1972;12:825-833.
+
+17
+
+SE dec eet oe pte ak oe
+50 Hz * : 14.05 kHz : 53.6 Hz
+80 Hz : 21.02 kHz : 80.2 Hz
+wenn 20082 E2820 toe 2073
+* An unmodified ATOM also has a nominal field rate of 50 Hz,
+but the line frequency is 15.35 kHz and the actual field rate is
+therefore 58 Hz. This was thought to be too far removed from the
+nominal value, and thus the ATOM was modified to operate at the line
+frequency above.
+Table l.
+
+: BARCO : MANITRON : Approx. visual
+eee SNe a ee re Sd auc cee)
+Total picture width : 365 : 348 : 13.0
+Active picture width : 260 : 242 : 9.2
+Target width : 8 : 7 : 0.3
+Pixel width : 1 : 0.9 : 0.04
+Total picture height : 273 : 269 : 10
+Active picture height : 220 : 213 8
+Target height 9 8.8 0.3
+Pixel height : 1.1 : 1.0 0.04
+
+Table 2.
+18
+
+: : Reading with : Calculated : Measured
+Monitor : Pattern : EEL meter : luminance : luminance
+: : (Lux) : (Cd/m sq) : (Cd/m sq)
+: Uniform black : 10 : Bb? : 0.5
+: field : $ 7
+BARCO : : : :
+at : : 2 :
+50 Hz : Uniform white : 170 s 54.1 : 51.0
+: field (centre) : : :
+: Uniform white : n/a : n/a : 47.0
+: field (edge) * ;: : :
+: Uniform black : 10 : 3.2 : 0.8
+: field : : :
+BARCO : : : :
+at : : : :
+80 Hz : Uniform white : 170 : 54.1 $ 52.0
+: field (centre) : : :
+: Uniform white : n/a : n/a : 49.0
+: field (edge) * ;: ‘ $
+: Uniform black : 10 : 3.2 : lel
+: field : : :
+MANITRON : : : $
+at : : : :
+50 Hz : Uniform white : 155 : 49.3 : 46.8
+: field : : :
+: Checkered : n/a : n/a : 52.0
+: white field * : : :
+: Uniform black : 10 : 3.2 : 0.4
+: field : : :
+MANITRON : : : :
+at : $ $ $
+100 Hz : Uniform white : 160 : 50.9 : 58.0
+: field 3 : :
+: Checkered : n/a : n/a : 61.0
+: white field * : ‘ :
+* See text
+Table 3.
+19
+
+: Luminance of : Luminance of :
+Monitor : black squares : white squares : Contrast ratio
+: (Cd/m sq) : (Cd/m sq) :
+BARCO at : 3.1 : 55 ; 17.7:1
+50 Hz : : .
+BARCO at : 4.0 7 62 : 15.5:1
+80 Hz : : :
+MANITRON : 2.5 : 52 > -20.8:1
+at 50 Hz : é ¢
+MANITRON : 2.6 : 53 > 20.321
+at 100HZ : : :
+Table 4.
+Screen luminance, measured at the centre of the screen, viewed from
+subjects” point of view under the lighting used for the experiment.
+20
+
+- Number of Subjects : Number of Subjects
+Opinion : Part l : Part 2
+Low field rate easier : 4 : 3
+High field rate easier : 4 : 4
+No difference $ 2 : 3
+Table 5.
+: Number of Subjects : Number of Subjects
+Opinion : Part 1 : Part 2
+Low field rate clearer : 2 § 1
+High field rate clearer : 2 : 4
+No difference : 6 : 5
+Table 6.
+: Number of Subjects : Number of Subjects
+Opinion : Part l : Part 2
+Low field rate brighter : 0 : 0
+High field rate brighter : 2 : 1
+No difference : 8 : 9
+Table 7.
+21
+
+22
+
+yaa Me de tes dn
+7 ws rt ee “web f ib past am
+| — Me ears
+couepeaeeneaa gee eae
+Tite? eh RTA 20 Reet at eS a Sota
+Seta anne Besse ethene 4
+Yee ee peers Beek
+Seach Se Geretnte Pinar
+| mee -" a gig a fa P fay ee Fiat ‘a shee ee soe
+teak ate ae iat. aes : eet.
+eT aries ris tS Eee aa nt cet Fie) so tes aie
+7; Ste Bs oa a : Point, uae 452 tote es ie Lk
+>: rae ne =U 5 ae Sot “ust eta ar ha Z ea: te
+enti tes, See Re
+te Dig attag age Rete Pa nat. ie ae ee
+Re ne ee Tee £ a aya tras As te Bas m eo
+er rear Sei at a ie Par pea Toa ini
+ih ae fs oye if eat) ee Fc Pet Wa lit oy eee rps, Lae hay -
+See a pane tae ats
+aie ie ee Aetna N aT es ate pe
+33 oft | + “sh: f Ae i F ry me Ac ; Se ee eh oe ¥
+sath S eae es ecaieent isk
+stint he Seal ae ae ie tite me eo f ie
+Cee cere as
+a eae! eet t tea bees ' Ef ra i 3 4 ei
+es rian as STD
+Pe eS ey, Brees
+ares = yk es
+ae et Boe ate
+Pee eee
+Photograph 1. A Typical Search Task
+
+HARWELL LABORATORY
+PHOTOGRAPHIC GROUP
+HRC 39473
+
+NOT FOR PUBLICATION
+
+. . ’ | | |
+= -—_ i
+sey
+f WS
+’ : bh al 4 a z= amr
+= 1 « ‘ cd
+a . . |
+hy | J*™
+: £. . ~
+. ! "a9
+f »
+| mn
+2 2
+‘Ee c ’ % c
+4. ) out i) a
+a 7 | hic <
+ey : 7
+wt : ZA > =
+— Pi 5
+. 3) Pi | .
+- a bas oo : b
+a 7" i yi Wy ui
+—_ q ni
+= ; | 6
+a
+©
+— pee S
+(IT
+8
+: °
+- £
+a a
+
+NOTLYIT 8d YOd LON
+2c0Sb 4H
+
+aNQd9 JTHAYY9OLOHd
+AMOLGY08Y7 TT3MYHH
+
+2 o
+
+st §
+
+m oO
+
+a
+
+oO.
+
+12 .
+
+,| 2 uJ
+
+e . ry
+
+_ a m oO
+
+a
+
+_— £
+
+_— 7 i *
+c 4 ~ .
+a ; “ ee
+é =
+
+’ v
+Pe ? Oo o x
+Oo »
+© , fr j % z
+@ e a ~~ Gg
+> ™ ‘ $s &
+
+oN
+
+5 ” 7 19 a <
+° / .° a _ € a
+~ ° * - @ @
+5 a 77 Q . £-n
+Oo 0% » E -“ OY
+
+a a - “1 oO
+Q oso -”" oO e G E 8
+oF -- ° OQ { 8 5
+Gc 4 - e — 2 o QO
+Q ”“ -_ nm ~~
+ff 2 ° g 0) “= Cc Pe
+Oo .” bs] o uw 2 Oo
+@ , _ a 0 O6UC¢€
+Q @ a)
+L ‘ O o @
+
+a. 7 + z od in 0
+. s ~
+/ a a c ov
+. » PY) Ga ££ «
+“ “1 0 qa » oO
+/ <L L a tL oO 0
+= = ow o 5 G% oC
+’ Q i
+i nN N N : E
+rv N Ql E 3
+s a. oO oO. a on
+
+oO ®
+
+1 L
+
+' | ; »
+
+'
+
+. 1 [ | @
+
+Q ~-
+
+= ©
+
+tT T ! —-4
+
+oO Oo OQ Oo 2 Qo £
+
+Oo @ (o + N oO -
+
+= a e . . o +
+
+andang 34617 eATapTey
+
+‘oO
+-
+3
+t
+Po ~ t
+nm
+G
+xn a
+~  §
+7 QO.
+5 N “~ &
+3 fF 0
+a N NO 8 S Ni
+o rr hn wz o go
+00 yy ~ tL
+5 no os Ss e =
+»
+~ YY ¥ 22 Oo 9g it
+c 50hUC6UlC COD 2-
+0 ec
+= 00Fe & @
+oO YQ m= = Q
+ecererezz2z st<t
+<<«<« <
+oo = = .
+-
+eo x (a wv 4
+a
+w
+oO
+Oo wn Qo in Oo in oO
+oO o oa a @ nt Bn
+“ oS o So oS Oo oO
+CA) YOTIOTNpPS,
+
+t
+0
+eS)
+e -~
+a Cc N
+Cc 6
+6 = +
+” un NN ON oO Oo
+» EE£cE£ZO Oo
+Oo ~nN “Nn ON ons -
+Cc boo aw
+2 00 0F » A
+te — 5 = Q
+> e772 83 5
+= e
+re) Oo = iu ~“
+= mn
+> a ,
+* 0
+— Ot >
+® i
+5 j g .
+n \ @ 6
+‘ oO @
+£ ‘ =“ . Cc
+Q Oo () @
+re 4 ~ L
+» YO Q a
+5 : in ~ L #
+> . 5 9
+’ ~ Qa
+2 a @ os
+O c a
+5 0
+vu ' un o> >
+c ; a
+: ! E 5
+Cc 1
+°Q ' 1 oy é
+wt ' So
+2 ' A 9g
+2 ' In » ~
+_ 1 » GO 6
+8 : o 0 o
+G 1 “
+ow
+{ Qo o 9a oO 2 0 Wn NU o-«
+Q Oo Oo oO in Q =
+» in A ~-
+-|
+5
+= (W/1) AdTATATSUeS UOTIOTNPOW
+
+Q
+| N
+wore =
+?
+4. ca
+ie nN
+wt
+x
+eo _ 0
+tines ~~
+R ee es, wage -”
+ee mn
+oOo Fee 4
+@ wey
+v “pro -s ~
+“_
+Cc ’
+0 d m
+~
+Q s ®
+in ‘ N 2
+q “t a
+ye) e
+o 7 =~
+4. = 6G +
+@ ~
+L tk
+3 ~s oO Q
+c Af c
+Cc Py Q m
+lw <q o & _
+G . 2 be
+o . 2
+q © 5
+t N ‘| >
+o MS
+5 Oo oO one”
+= in @ a Ta}
+a ’
+~=
+3 q “ & in
+» ' c “6
+0 ' Q or
+= J = 4 a
+9 :
+' & --" ™
+t < _o7”
+<q oa oe N
+--\_
+OQ
+om @ wo + N oO @ wo st N OQ
+W -_ ~_ — -~ —
+S40445 go JABQUINN
+
+oO
+lees a “I
+<2-@ e
+=e _
+ES @
+R “te —
+= : ®
+--o*” =
+N wert
+po 4e. : =
+o wos
+3 G—<q Ce
+0 ‘4 p <
+c ®
+S a d 2
+Q : 2
+nn 1 N 2
+» Z ~ g
+S ~c7 - o
+0 i.e _ 6 in
+L “SS é
+7 ~I3s~o Oo @
+a . - q Cc
+f a ae:
+% ae =
+* . a E
+&§ N - *s 2
+a r S [ \ ei
+£ Oo OQ »
+2 uw -_ ~ .
+2 2 2 wn wo
+oa <q 2 2”
+o : = 0 <. in
+x} ~
+Oo t S ales
+- ; oe R~4 Pt
+E- ‘
+a _— ‘
+t Zz - m
+, OS
+4 G N
+“_
+oO @ S
+q# 2 es @ gee W d'e
+S404 gO uwequNn
+
+Q
+~~ N
+8 Oo
+—
+‘
+= : @
+‘ -
+‘
+=) ‘ ~
+_
+TG A
+Cc ‘ ©
+5 ; “
+N . In
+=< - _
+Oo ‘ <
+mn —
+‘
+»
+3 ‘ %
+® ‘
+9 Ug
+G »
+4 = = §
+_ ‘ = a wo
+‘ oO ~ w
+G ” &
+Oo \ G 2
+o o 0 -“
+az ‘ . ie
+‘ oO
+@® foo o z
+> Oo o 4
+o in @ . N
+E ‘
+~ : ©
+‘
+g o 4 c in
+c @ Qo ‘
+o 2 + ‘
+Qo. Oo “1 st
+a ' @ c ‘
+a ' ~) QO
+aw 1 4 = om
+c ' wo oO \
+6 ' © ‘ N
+@ A ~ we A
+= 1 -_ < ‘
+‘ < a > —
+Qo
+oO @ wo + N oO @ wo ~~ N a
+MN -_ -_ ~_ _ -
+(Spucoces) Sut) esuodsey uDEy
+
+oO
+ey
+‘ oO
+Ho4 -
+N ‘ rosy
+pm ‘ aaa
+oO \
+oO 7 fh
+ed Sn]
+Uv ‘
+©
+oO
+‘
+is e
+7 \
+in ' =
+ae) \
+5 Si 121 m
+® ‘
+» ‘ No
+a ' ~
+m . a
+c “=
+~ ~ ¢ é
+> = Q
+rs) ‘ “ 5
+‘ $ mn
+o o “4
+z : . Lu
+yn & ¢ o Ss
+@
+> xz Oo : z
+Oo oa \
+o nm BR
+7 \
+i L 1 wo
+- oO :
+Y
+Qa o 4 “ res, in
+Q ® c \
+Cc » Oo ‘
+9 o f: st
+a. ' Qa t
+0 : o 6 +
+a ! 5 om
+: oO Ff ‘
+c ' —_= v
+o ' - 2 ‘
+Q ' a 6 ‘
+= e <=. = _
+Oo
+0 oo hlUuwt™mhlCCUh NULCLUCtCODWUmlC OOUUMUCOMhC<C FTLMC(‘(C LOCO
+OD wm Om ett
+(Spucces) suit; Bsucdsey UDEY
+
+oO
+MN
+Oo)
+-_
+@
+L . -
+v »
+Oo c b
+DA Q —_
+£
+; eS @ o
+~ a
+g sg e
+“_
+° - ° “
+a 5G _
+0
+co mM
+7 © » _
+Ps » ®
+@ Oo q AQ Pr)
+. a) =
+Q Db 0 m
+w 7 c
+2 re) = CS oO
+es Ww 5 te
+o Q
+& co oO. ~~ a
+° c 3
+7 gE
+— 2 ue
+Y @ E
+® _ M mM st 2
+a z
+t c c c c NK
+wn Qo Q Qo 0
+Q@ — —_ 4 “—
+rng © o o ® wo
+® M @ ®
+t @ ag @ a
+: Ww Hw) wn Ww Tp)
+g ;
+—
+7 wz
+mM
+N
+~=
+oO
+Oo @ © vz N Oo @o wo st Ow oO
+WN — = -_ — _
+But} esuodssy upey
+
+: Oo
+@
+nN
+z=
+c o
+oc -
+5 6 WO #+D =
+=a fg Q@ mm Gg oO
+¢ n oc fF wD > ”
+9S “ao ono a 7
+vr on wo st
+is qo ao a ao «4
+§
+a @
+> o @@ nfF  P © =
+c
+a
+—
+oO °
+“ ™
+a. Cua
+E
+ud c .
+@ ~ oo
+<
+3 Oo xc
+c oOo » Qo
+-_ mo wD ¢
+E c 3
+3 as
+9 wu
+~=
+oO
+0 m 0
+c =
+Pc In
+o
+a
+a
+WO
+0 @
+= i
+a
+°
+»
+oO
+é 6
+m
+TT] xf
+-_
+Oo
+°
+@
+m
+r= oO Qo o oO o
+oO @ ‘0 t “ o
+— ry s oO oO .
+BOUDU TUN] BATAOTSY
+
+Q
+oO
+GS
+q
+Cc
+2
+wo
+2”
+@ 1
+oD vv rf)
+ze Lt. =
+; oO | ro us
+rot
+' CL ' , c
+' ' 1 4 S
+' ' i!
+QO i ' i: 4 Oo
+v0 ' ' , »
+' ! » c
+' ' 1 a
+' ' 1! a
+' 1! _
+or , fn
+J ns
+bi
+= N
+ie "Te < o
+a” Cc ~e Q
+-7 = ~
+° . c
+me “ 3 2D
+’ ‘ Do @
+\ =
+hf \ : Le. 5
+£
+. o
+® 4
+v Ee
+Gg
+x
+5
+qQ
+Oo
+c
+oO
+wt
+re)
+5
+c
+“4
+E
+=
+~~
+ao
+—
+@
+<£
+E
+
+0
+Appendix 1
+
+Explanation of the derivation of the phosphor decay
+curves of figure l.
+
+P22 is a set of coloured phosphors; red, green and
+blue. P4 is a white phosphor, but has two components, blue and yellow.
+For the P22 and P4 phosphors the decay times to 10% brightness are as
+follows (JEDEC):-
+
+‘ P4 yellow component 60 usec
+P4 blue component 20 usec
+P22 blue 40 usec
+P22 green 40 usec
+P22 red 1 msec
+
+It is assumed that the light output decays
+exponentially with time after excitation. If the output is measured
+relative to the peak value, the decay has the form:-
+
+-kt
+L(t) = e Where t is the time in usec, L is the
+relative light output and k the decay
+constant.
+
+Setting L = 0.1 and t = the persistence tabled above,
+
+the decay constants are:-
+P4 blue component 0.115
+P4 yellow component 0.038
+P22 green and blue 0.058
+P22 red 0.002
+
+These are the P22 red and P22 green & blue curves
+plotted in figure 2. However, so that they can be plotted on the same
+graph, a logarithmic time scale is used.
+
+To estimate a total decay curve for the P22 phosphor,
+when the colour white is displayed, the curve from each colour
+component is weighted by the CIE Photopic Luminous Efficiency
+Function. ( Which is essentially a plot of the relative response of a
+normal human eye to monochromatic light at different spectral
+wavelengths.)
+
+i
+
+For the P22 phosphors the principal spectral peaks are
+(JEDEC):-
+Red 630 (nm)
+Green 516 (nm)
+Blue 450 (nm)
+Figure Al shows these points on the luminous efficiency
+curve, and hence the equation for the decay curve is:-
+L (t) = 1.075 (0.265 L (t) + 0.627 L (t)
+tot red green
++ 0.038 L (t) )
+blue
+The factor of 1.075 is to make the total output equal
+to 1 when L Let and L all equal 1. This is the
+red green blue
+curve labelled “P22 White’, in figure 2.
+Similarly, for the P4 phosphor the principal spectral
+peaks are:-
+Yellow component 560 (nm)
+Blue component 460 (nm)
+Weighted by the photopic luminosity function, the decay
+curve is:-
+L (t) = 0.947 (0.995 L (t) + 0.060 L (t))
+tot Yellow blue
+This is the curve labelled “Pp4 White” in figure 2.
+ii
+
+Appendix 2
+Derivation of the relationship between luminance and
+illuminance for a non-absorbing Lambertian surface.
+
+A Lambertian surface is one which appears to be of
+equal luminance from all directions. For instance a
+plane mirror illuminated with a collimated light source
+would not be Lambertian, but a self-luminant surface,
+such as a CRT face, would be.
+
+Luminous flux (F) measured in Lumen, is a measure
+of the amount of light emitted, received, or transmitted
+per second.
+
+Luminous intensity (I), measured in Candela (cd),
+is a measure of the illuminating power of a light
+source. For a point source, luminous intensity in a
+given direction is equal to the luminous flux emitted,
+in that direction per steradian. ( The steradian is a
+unit of solid angle, such that 1 steradian is the solid
+angle subtended at the centre of a sphere by an area on
+the surface equal to that of a square with sides equal
+to the sphere’s radius.)
+
+Hence:-
+
+I=F/w Where w is the solid angle
+subtended.
+
+The illuminance (E) of a surface is a measure of
+the luminous flux (F) falling on the surface per unit
+area. The unit is Lux, and 1 Lux equals 1 Lumen/ sq
+metre.
+
+For a surface of area A, distant d from a point
+source:-
+
+2
+E= F/A = I/d Lux
+or if the light source is at an angle of @
+to the normal to the surface:-
+2
+E = (I Cos @)/d
+This result is known as the cosine law of
+illumination.
+
+The luminance (L) is a measure of the luminous flux
+per unit solid angle, per unit projected area, in a
+particular direction at a point on the surface. The unit
+is candela per square metre and :-
+
+2
+
+L = I/A cd/m Where A is the area projected
+
+in the specified direction
+iii
+
+If the luminous flux emitted from a surface, ina
+direction @ to normal to the surface, varies in
+proportion to Cos 6, then the surface is Lambertian as
+the area projected in the direction of 6 also varies
+with Cos @. ;
+
+If such a surface has an illuminance of E Lux and
+is non-absorbing, then a small element of the surface,
+ds, will emit a luminous flux of:-
+
+E.ds Lumen into a hemisphere (see fig A2).
+2
+
+If the surface luminance is L cd/m, then the
+
+element will have a luminous intensity of:-
+L.ds cd normal to the surface.
+
+This element, by itself illuminates a hemisphere of
+radius r (fig. A2). An elemental ring on the surface, at
+an angle @6 to the normal has a width of r.d@ and a
+circumference of 2t r.Sin ©. The solid angle subtended
+is:-
+
+2 2 2
+w= Area/r = (2Trr Sin © dé@)/r
+= 27TTSin @.d6e6
+The ring is subject to luminous intensity of:-
+L.ds.Cos @ cd
+The elemental luminous flux is then:-
+aF = Iw = 211L.ds.Cos 6 Sin 6.de
+The flux emitted into the whole cone of semi-
+vertical angle © is:-
+e
+F - | 2™7L.ds.Cos @ Sin @.dée
+° 2
+= TWL.ds.Sin 6 Lumen
+For the whole hemisphere 6=T /2 radians so _ the
+total flux due to area ds is:-
+F = 7L.ds Lumens
+But this also equals E.ds, hence:-
+2
+L = E/tr cd/m
+iv
+
+Appendix 3
+Text of the instructions given to the subjects.
+
+The instructions were presented as several screens of
+text, each ending with the line " Press space bar to continue......”.
+When the subject responded, the screen was cleared and the next
+section displayed; thus the rate of presentation was paced by the
+subject.
+
+Instructions
+In this experiment you are required to
+count the number of "targets" hidden in
+a background pattern.
+A "target" looks like this:-
+Oo
+Press space bar to continue.............
+Each screen will contain between 1 and
+20 "targets". You are asked to count the
+"targets" AS QUICKLY AND AS ACCURATELY
+AS POSSIBLE.
+Press space bar to Continue... ..eeeveves
+When you are satisfied that you have
+found all the "targets" press the space
+bar. The screen will go blank, and
+shortly afterwards you will be asked to
+enter the number you have counted.
+Press space bar to continue.......ceeeee
+Enter your answer using the _ key-pad;
+then press RETURN. There is a_ small
+delay between pressing a key and the
+number appearing on the screen.
+Press space bar to continue......cceeeee
+V
+
+If you have made an error in entering
+your answer and have not yet pressed
+RETURN, simply enter any letter before
+pressing RETURN. You will then be
+prompted to re-enter your answer.
+However, if you have already pressed
+RETURN then tell the experimenter.
+Press space bar to continue.........cc0.
+If the answer you have entered is
+correct, then after a short pause the
+next test will be presented.
+If you have answered incorrectly you
+will be informed and asked to repeat
+the count.
+Press space bar to continue.....csceeees
+There are 100 such tests’ and the
+experiment usually takes about 1 hour.
+Before starting press either the space
+bar to repeat these instructions or
+press RETURN to run some practise tests.
+vi
+
+Appendix 4
+Significant results from the statistical analysis and
+table of coefficients of linear regression.
+: Sum of : : Mean : :
+
+Source : Squares : dF : Square g F : p
+Field Rate : 420.000: 3 : 140.000 : 0.13 : 0.9446 ns
+Targets : 259560.000 : 19 : 13661.053 : 12.31 : <0.0001 **
+Interaction : 60980.000 : 57: 1069.825 : 0.96 : 0.5521 ns
+Residual : 4349600.000 : 3920: 1109.592: - : =
+
+Table A4.1
+2-Way analysis of variance of number of errors*l00 (all attempts)
+with field rate and number of targets.
+3 Sum of 7 3 Mean : :
+
+Source : Squares ;: dF ; Square : F : p
+Field Rate : 27.500: 3°: 9.167: 0.01 : 0.9984 ns
+Targets : 192187.500 : 19 : 10115.132 : 12.24 : <0.0001 **
+Interaction : 47422.500 : 57 : 831.973 : 1.01 : 0.4617 ns
+Residual : 3239800.000 : 3920 : 826.480: - : -
+
+Table A4.2
+2-Way analysis of variance of number of errors*l100, at the first
+attempt, with field rate and number of tar¢ets.
+** indicates a significant result.
+ns non-significant
+vii
+
+: Sum of : : Mean : :
+
+Source : Squares : dF : Square $ F : p
+Reduction of : 169.730: 2: 84.865 : 5.0488 : 0.0065 **
+residual : 7 : : ms
+Residual > 33554.211 : 1996: 16.811 : - z -
+within groups: : : : :
+
+Table A4.3
+Groups are:- part 2 at 50 Hz and part 2 at 100Hz.
+: Sum of : 3 Mean : :
+
+Source : Squares : dF : Square : F : Pp
+Reduction of : 1990.414 : 2 : 995.207 : 40.492 : <0.0001 **
+residual : : $ : :
+
+Residual : 49057.230 : 1996: 24.578: = ¢: =
+within groups: : : : :
+Table A4.4
+Groups are:- part 1 at 50 Hz and part 2 at 50 Hz.
+: Sum of : : Mean : :
+
+Source : Squares : GF ; Square ; F : Pp
+Reduction of : 1557.141 : 2: 778.570 : 31.160 : <0.0001 **
+residual : : : : :
+
+Residual : 49872.969 : 1996: 24.986: - : =
+within groups: : : : :
+Table A4.5
+Groups are:-part 1 at 80 Hz and part 2 at 100 Hz.
+Reduction of residual is the reduction afforded by grouping the data
+and fitting a linear regression to each group separately.
+** indicates a significant result.
+Vili
+
+>: Sum of $ : Mean : 7
+Source : Squares : dF 7 Square 7 F 7 p
+Equality of : 3.356 : 1: 3.356 : 0.1996 : 0.6551 ns
+Slopes : : : : :
+Residual : 33554.238 : 1996: 16.811: - : =
+within groups: : : 7 :
+Table A4.6
+Groups are:- part 2 at 50 Hz and part 2 at 100Hz.
+: Sum of : : Mean : :
+Source : Squares : dF : Square : F : P
+Equality of : 396.020: 1 § 396.020 : 16.113 : <0.0001 **
+Slopes : ; : : ;
+Residual : 49057.266 : 1996 : 24.578: - : =
+within groups: : : : :
+7 Table A4.7
+Groups are:- part 1 at 50 Hz and part 2 at 50 Hz.
+: Sum of : : Mean : :
+Source : Squares : dF : Square : F : Pp
+Equality of : 216.035 : 1: 216.035 : 8.646 : 0.0033 **
+Slopes : : : : :
+Residual : 49872.996 : 1996 : 24.987: - : -
+within groups: § : $ :
+: Table A4.8
+Groups are:-part 1 at 80 Hz and part 2 at 100 Hz.
+** indicates a significant result.
+ix
+
+: Sum of : : Mean : :
+
+Source : Squares : dF : Square : F : p
+session :  18034.375 : 3 3 6011.458 : 5.13 : 0.0015 **
+Targets > 233559.375 : 19 : 12292.599 : 10.48 : <0.0001 **
+Interaction : 54653.125 : 57 3: 958.827 : 0.82 : 0.8338 ns
+Residual : 3658250.000 : 3120: 1172.516 : = :
+
+Table A4.9
+2-Way analysis of variance of total number of errors*100, with
+session and number of targets for the 8 subjects common to both parts
+of the experiment.
+Group : Mean : Group Mean ; Diff. : p
+Session 2 : 9.000 : Session 3 : 9.375 : 0.375 : >0.05 ns
+: : Session 4 : 13.375 : 4.375 : <0.05 *
+: : Session 1 : 14.375 : 5.375 : <0.05 *
+Session 3: 9.375 : Session 4 : 13.375 : 4.000 : <0.05 *
+: : Session 1 : 14.375 : 5.000: <0.05 *
+Session 4 : 13.375 : Session 1 : 14.375 : 1.000: >0.05 ns
+Table A4.10.
+Difference in error rate (total number of errors) between sessions for
+the 8 subjects completing both part 1 and part 2. Newman-Keuls method;
+* indicates a significant result.
+ns non-significant.
+x
+
+: Sum of : : Mean : 7
+Source : Squares : dF : Square : F $ p
+Reduction of : 898.086 : 2: 449.043 : 14.905 : <0.0001 **
+residual : : : :
+Residual : 36031.629 : 1196 : 30.127 : = : -
+within groups: g : : :
+Table A4.1l
+Groups are:- subjects new to part 2 at 50 Hz and all subject in part 1
+at 50Hz.
+Reduction of residual is the reduction afforded by grouping the data
+and fitting a linear regression to each group separately.
+** indicates a significant result.
+xi
+
+: : : Standard : Standard
+enn sey eee see Stetina ee fe Bf unoU ce! * E Etmon or B
+BARCO 50 Hz (Fig. 6) : 4.450 : 0.592 : 0.345 : 0.029
+BARCO 80 Hz (Fig. 6) : 5.153 : 0.566 : 0.494 : 0.041
+MANITRON 50 Hz (Fig. 7) : 4.284 : 0.438 : 0.262 : 0.022
+MANITRON 100HZ (Fig. 7) : 4.711 : 0.452 : 0.280 : 0.023
+Session 1] (Fig. 8) : 5.066 : 0.653 : 0.546 : 0.046
+Session 2 (Fig. 8) : 4.970 : 0.510 : 0.301 : 0.025
+Session 3 (Fig. 8) : 4.907 : 0.438 : 0.369 : 0.031
+Session 4 (Fig. 8) : 4.052 : 0.438 : 0.246 : 0.021
+New Subjects 50 Hz : 4.238 : 0.414 : 0.386 : 0.032
+New Subjects 100 Hz : 4.906 : 0.528 : 0.715 : 0.059
+New Subjects Session 1] : 5.543 : 0.509 : 0.702 : 0.059
+New Subjects Session 2 : 3.602 : 0.433 : 0.407 : 0.034
+Table A4.12.
+Coefficients of linear regression.
+Equation fitted is:-
+Mean Response Time = A + B * Number of Targets
+xii
+
+DISTRIBUTION LIST: PCOMWP(88)P4 AND P14
+POWER AND COMMUNICATION WORKING PARTY
+Dr E Abel (Chairman) ... B351.28, Harwell
+Dr RS Adrain eee eee  CEGB, Marchwood Eng Lab
+Mr K BaSSON coe cee vee £257, UKAEA, Risley
+Mr AG Castle woe eee UKAEA, Dounreay
+Mr J Doogan ... «s+ «e-  B148, BNFL, Sellafield
+Mr AJ Finlayson ... oe. E and I DO, H400, BNFL, Risley
+Mr T T Hanna wee wee aoe B351.28, Harwell
+Mr M Kear coe eee eee Culham Laboratory
+Mr C Leeks BYeWs" c¥o%s ole UKAEA, Winfrith
+Mr C Stubbs ... «es «ee  B3, UKAEA, Windscale
+Mr G Telford ... «+. «+. B Al4.4 MoD, AWE(A)
+Mr A Dumbreck (Secretary) B401.4, Harwell (10)
+CEGB OPTICAL INSPECTION LIAISON GROUP
+Dr P Walton ... ee. «--  CEGB, GDCD, Barnett Way, Barnwood, Glos, GL4 9RS
+Dr DW James ... «oe eee " " " " " " "
+Mr T Wickett 2... eee eos CEGB, Gravesend Lab, Canal Road, Gravesend
+Mr S Mansfield  ... oe. : : : : a "
+Mr J Moorby ... «++ «e-  CEGB, SW Region, S and TG, Bedminster Down,
+Bridgewater Road, Bristol
+Mr R P F Clayton ... «..  CEGB, S and TG, Timpson Road, Wythenshawe,
+Manchester, M23 9LC
+Mr R Dixon wee eee «ee Hinkley Point 'B' PS, CEGB, Nr Bridgewater,
+Somerset , TA5 1UD
+ADDITIONAL
+Mr J Phillpott eee cee EScD, B392.7, Harwell
+Mr J Williams .. ... «».  AFPD, B10, Harwell
+Mr S Hansford .. ... ee. Chairman, Viewing Working Party, BNFL, Risley
+Mr H Whittle ... ... ... Hinton House, BNFL, Risley
+Mr P Vickery we. eee oe R412, BNFL, Risley
+Mr D YeomansS .ee eee coe Hinton House, BNFL, Risley
+Mr G Stewart 2.2 cee cov B125, BNFL, Sellafield
+Mr A Webster ... «es. «e- B148, BNFL, Sellafield
+Dr MCroSS- «ese eee «ee B3, UKAEA, Windscale
+Dr J Wakefield ... ... = : "
+Mr E Perrott ... eee ove : = 2
+Mr D Perratt ... ese ee | CEGB, Marchwood Eng Lab, Marchwood, Southampton
+Mr J Holt 2. woo coe cee " . “ 8 _ "
+Mr R Carrey «ceo cee ove CEGB, Hunterston Power Station, Hunterston,
+Ayrshire
+Mr I Angell ... «+s «e- | CEGB, Hunterston Power Station, Hunterston,
+Ayrshire
+Mr J A Ward wee eee oe»  EScCD, B351.28, Harwell
+Mr MH Brown woo cae coe Secretary, Steering Group for Active Handling,
+EScD, B351.28, Harwell
+Dr E Abel .. wee eee ee  EScD, B351.28, Harwell
+Mr S P Murphy .. «s+ ee.  EScD, B401.4, Harwell
+Mr P Scheiwiller ... ... B401.4, Harwell
+Dr J C Evans ... eee oes  EMSCD, B364, Harwell
+Dr V M Reading ace eee Institute of Ophthalmology, Judd Street,
+London, WC1H 9QS
+
+es ee /
+: +. =i e
+7 L
+a ae
+- -== I a <1
+| ae
+os a - == a
+= a” baa - i :
+Sim “4, 7 _ “
+a a [Lk a a
+a a s om = ol a - -
+: a —  s “i a |
+ee ee i i _— a
+a a a 1 a oe
+eee Be ee = a = a a i - i
+a r.-= F *
+Bee RP es OU Ol Cll lc Cr
+- - =. oe
+on a = =. LL i=". = I
+o— as — = a ay
+ee -
+- a a - iia
+-- a _ 7 -
+a a. eo 1 a a a i Bs "
+se eg pee | we nl i ;
+= = &. & sees “25 F
+7 i 2 | occas ©
+ks I, ws & _— —__
+= et a “
+en
+eqeg Gee eee OU Ct«Cs sre a
+; oi 1 os oe © ——_ as a 7
+a sl al ot" eee ee i ee |
+a .
+BEae a a = a=, ™ a
+aol epee = = 2 ee - , ==
+ss Fo= "2
+= MF oe : =k 7
+ee oe Sn |
+: 7 : a 7
+PS we Fe Uhl one =
+ae) oe :
+

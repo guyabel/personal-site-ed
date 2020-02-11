@@ -1,0 +1,523 @@
+Flying Land Vehicles
+using Superconducting Magnets
+R. G. Rhodes, BA, MS, PhD., B. E. Mulhall, BA, PhD, and E. Abel, BSc (Engineering Science)
+Department of Engineering, University of Warwick
+SYNOPSIS
+The possibility of both suspending and propelling a land vehicle completely free of its guideway at
+a height of 20 to 30 cm represents an entirely new concept in transportation. Resiliently supported
+by magnetic forces and propelled at speeds up to 500 km/h or greater, a vehicle such as this bears a
+closer resemblance in both its streamlined shape and behaviour to a wingless aircraft than to the
+more conventional train riding on wheels along steel rails. Unlike the aircraft, however, from an
+environmental point of view it is almost noiseless and pollution-free.
+This is only one of several novel modes of land transport using magnetic suspensions and linear
+Motor propulsion which are being actively developed both here and abroad. These can be roughly
+divided into (1) the electromagnetic smali-gap suspensions and (2) the electrodynamic large-gap
+systems. The former is based on the magnetic attraction faces developed between conventional
+electromagnets on the vehicle and steel guide rails along the track, while the latter so-called
+magnetic levitation (maglev) system utilises the repulsion forces developed between
+superconducting coils on the vehicle and induced currents in an aluminium guideway. It is this
+latter development which is being investigated at the University of Warwick, and, with the help of a
+grant from the Wolfson Foundation, a linear test facility and a model vehicle is being designed.
+The essential feature on which the feasibility of this basically simple system depends is the
+superconducting magnet. These cryogenic magnets are being commercially produced with field
+strengths many times higher but with weights many times fess than their conventional copper-iron
+counterparts. Furthermore, since there is virtually no resistance to the flow of current in the
+superconducting coils, there is negligible power consumption during their operation (mainly the
+relatively small amounts of refrigeration power required to replenish the supply of liquid helium
+coolant in the cryostat).
+In its simplest form the guideway for the maglev vehicle would be a continuous strip of
+aluminium conductor having a suitable cross-section to provide both the lift and guidance forces
+for the vehicle. Analyses of the ride quality of such a maglev vehicle have indicated that the surface
+roughness of the track need be no better than that of an average motorway. By comparison with
+small-gap magnetic systems for which accurate and very smooth tracks are essential, the maglev
+guideway would have considerable advantages both in initial capital costs and in subsequent
+maintenance.
+The stringent requirement of maintaining a small air gap between primary and secondary would
+tend to preclude the use of a linear induction motor drive for the maglev system since this would
+partially nullify the advantage of the large gap suspension. Apart from the excessive weight of
+present designs having the primary winding on the vehicle, a major disadvantage of the LIM is the
+difficulty of power collection in the very-high-speed range up to 500km/h. Most of these
+drawbacks can be overcome by a linear synchronous motor propulsion system utilising a powered
+track winding interacting with the superconducting magnets on the vehicle. The possibility of
+integrating the propulsion and the suspension using the same set of magnets is being investigated.
+In this paper the basic specifications for a magnetically levitated test vehicle using
+superconducting magnets and linear synchronous motor propulsion along a powered guideway will
+be discussed.
+Introduction increased, the underlying demand for transport is such that
+What is required to succeed the ‘motorway and jet’ age no one expects cars, trams and aircraft to disappear.
+of the present is not just a railway revival, although this is However, this very demand is strong justification for a
+long overdue, but a completely new public transport system high-speed ground transport (HSGT) system intermediate
+which is environmentally ‘clean’ and capable of much between the car and the aircraft which would be more
+higher speeds of travel. With all our worsening social and efficient and environmentally acceptable than either.
+environmental problems directly linked with present From the point of view of average inter-city distances in
+inefficient and inadequate transport modes, already Europe and the advanced countries in the world it is
+aggravated by a serious oil shortage, the time scales for the considered that 500 km/h (300 mph) is the speed to aim
+introduction of the novel high-speed railway of tomorrow for. This allows the business man, for example, to travel
+will be much shorter than previously thought. Although from one major centre to another and return in a day, with
+supplies of fuel will become less plentiful and their cost ample time to complete his job of work.
+[Akemetiond Hevenag Cat, Hy dofert 157
+‘ 7 _ ? “
++ Adveace) Treas it Saskns Carferrea §3 Io Mag Tg » Brgvibm, Sussck
+fuel. Kaleeghs Prtliatons , Londen
+
+Although any ground system operating in this speed Tokyo to Osaka, a distance of 515 km, was the earliest
+range would be expensive to develop and to construct example of an effort to push the technology of the
+initially, it will mot necessarily be expensive to operate. A ‘steel-wheel-on-steel-rail’ concept beyond the conventional
+500 km/h system is not sikely to cost three times as much limits. Inaugurated in 1964, the Tokaido line has proved to
+as a 170 km/h one, either to build or to run. Yet it would be both a commercial and a technical success; trains run
+be capable of making three times as many journeys in a every 20 minutes (more often during rush hours) at an
+given period and hence could earn three times as much average speed of 170 km/h and reaching top speeds of
+revenue. The traffic is already there on many of the world’s 210 km/h. The success has been considered so great that
+busier inter-city corridors and at the present rate of increase this line has now been extended to form the New San-Yo
+it will have a calamitous effect on the more desirable line and plans have been approved to build additional trunk
+aspects of our present life style unless something is done to lines which would allow average speeds of 200 km/h with
+relieve the present transport chaos. A fast and efficient peak speeds of 250 km/h.
+public transport system for the inter-city transport of both However, even with new track and advanced
+passengers and goods, using ‘clean’ electric motor developments in the equipment, there would appear to be
+propulsion, makes more sense than our present reliance on limits as to how far one can push the steel-wheel-
+cars and aircraft with their inefficient, polluting, and noisy on-steel-rail technology. The problem of attaining the
+internal combustion engines, using oil and petrol fuels necessary adhesion between the wheels and the rails at
+which are already becoming more scarce and costly. speeds beyond 200 km/h has led to doubts about the
+
+But although the growing fuel shortage gives cause for reliability of propulsion and braking. There is also concern
+serlous concern and makes Cee one of the first fang about the ability of coned wheels to resist the lateral forces
+for economising on its consumption, the real necessity for which would be encountered at these high speeds as well as
+HSGT systems is to Se the intolerable congestion levels their stability in operation. The cost of achieving and
+which many of our cities will be experiencing in the 80's if maintaining the very high accuracy of track alignment that
+road traffic is allowed to grow at its present rate. Although would be necessary is also thought to be prohibitive since
+trains have dominated our society and our economy for technical and safety problems multiply rapidly beyond
+well over a hundred years, in more recent times they have about 250 km/h.
+given way to the dominance of the motor car and its big . . .
+brother, the juggernaut. The hardening of public opinion Although this speed may represent a practical limit of
+against further deterioration of living standards which is achiesion; 1c ane traction sverims geyelSemenies "oh
+now reinforced by the economic pressures created by the linear motor propulsion will enable the speed of trains to be
+fuel shortage, are clear signs pointing to a revival of the pesmeehpyc! Byeng this, ie, in a of 300 km/h.
+railway age as one solution to our problems. But Bloweyer very high accuracy of rail alignment would be
+tomorrow's trains will bear little resemblance to the eaten requiring hie straight, level track and
+familiar strings of coaches suspended on steel wheels rights-of-way so that considerable development lies ahead in
+running on steel rails, and certainly speeds will be very this field.
+much higher. The other main competitor for inter-city transport is the
+
+Conventional railway have had a good run since their aeroplane. However, because of the formalities of take-off
+invention over 140 years ago and the steel wheels with and landing and the waiting times of incoming and outgoing
+flanges for guidance are little different from those which aircraft at airports, short air journeys over land would seem
+supported Stephenson’s Rocket in 1830, although now the to have no great future in competition with a HSGT
+wheels are coned to enable them to negotiate curves more system, which is in addition virtually independent of
+easily. weather conditions. The difficulties of the expansion of air
+
+It is a widely held opinion that speeds of 200 km/h or so transport, however, are much more serious. The present
+
+represent a practical limit on the existing rail system and policy of building new airports or extending the existing
+that higher speeds, although technically feasible, ones has clearly shown up the adverse effects of pollution
+nevertheless require considerable investment in new track- and the spoiling of the environment in the neighbourhood
+or radically improved rolling stock or both. The history of of cities. The situation has been further aggravated by the
+railway technology abounds with methods for improving future landing and take-off of supersonic aircraft.
+the wheel-on-rail concept and considerable effort is still That domestic air transport is declining in competition
+being put into the development of high-speed trains. with the railways is shown by statistics, — for example,
+In the UK, British Rail are concentrating on the during the period 1962—1972 the number of passengers
+development of an entirely new rolling stock, the advanced travelling by air between New York and Washington
+passenger train (APT), with a maximum design speed of increased by 3% compared with an increase in rail
+250 km/h on existing track, and trains having a similar passengers of 19% during the same period. A similar pattern
+speed are being developed in half a dozen other countries in is being repeated in the UK and in Europe and there now
+Europe. seems little doubt that the introduction of very-high-speed
+In Japan, too, the now famous New Tokaido line from trains will pose a serious threat to the airlines. A new
+158
+
+regime is emerging in the sphere of intercity transport for the field winding of a linear induction motor on the vehicle,
+the greater good of the travelling public. has been made by Professor Laithwaite of Imperial College
+
+and is discussed in another paper in this conference. With
+Magnetic suspension systems the aluminium reaction rail on the tracks the capital costs
+
+The magnetically-levitated train, magiev, is a serious for this arrangement should be very much reduced and
+contender for the new high-speed era which seems on-board control becomes more feasible.
+inevitable for the 80's. It will bear little resemblance to Following the development of the high-field
+trains as we know them and instead of wheels it will be superconducting magnet in the past ten years, another
+levitated several inches above an aluminium guideway by method of vehicle suspension based on induced eddy
+magnetic forces. Propelled at 500 km/h it will resemble a _-—«“urrents is being re-examined. We now have a relatively
+wingless aircraft in size and shape, flying at an altitude of lightweight source of de magnetic field of high intensity
+20 to 30cm along its trough-shaped guideway. Unlike the requiring little or no power during operation, so that some
+aeroplane, however, with its jet propulsion, the electric of the objections to the previous schemes, namely excessive
+maglev vehicle will be virtually noiseless and pollution-free. weight and large power consumption, can be overcome.
+The basic principles of its design are well understood but it Thus another variant of Bachelet’s basic ideas can be
+is only in the last few years that the technology has been reconsidered for the levitation of high-speed trains. In
+developed to the stage when a practical vehicle now seems contrast to the schemes mentioned above, the
+feasible (refs 1-6). superconducting magnet only produces a dec field, and
+
+The possibility of supporting a vehicle by magnetic hence it must be moved relative to the conducting sheet in
+forces extends back for over a century and numerous order to produce the time-varying fields necessary to
+inventions involving both permanent magnets and generate the eddy currents which provide the lift force.
+electromagnets have been proposed. For many reasons, The essential features of eddy current suspension are
+including the cost and weight of permanent magnets, such easily understood and ‘the flux line patterns of the real
+as the ceramic ferrite materials, and the weight and power magnet and an imaginary image magnet of equal and
+requirements of electromagnets if operated with a opposite strength are shown in Fig 1. As the vehicle magnet
+reasonable suspension height, none of these has hitherto moves over the aluminium sheet, eddy currents are induced
+proved economically successful. However, with recent in the thin surface layer so as exactly to prevent the
+technological developments, particularly in the case of the magnetic flux lines from penetrating the sheet. The
+solid-state control of electromagnets, a new impetus has interaction of these induced currents with the magnetic
+been given to this form of suspension (refs 7,8). Also, with field gives rise to a magnetic pressure or lighting force on
+the development of stable superconducting magnets within the vehicle. As illustrated in the figure, the magnetic flux
+the last few years, the engineer now has a relatively pattern is the same as if an ‘image’ magnet were produced
+light-weight source of magnetic field strength hitherto on the other side of the sheet in a similar position and with
+unobtainable by conventional means. an equal strength but oriented to produce a repulsion force
+
+Hence the two systems with the most promise which are on the real magnet. If, for example, the magnetic field
+actively being developed on a significant scale, are (1) the strength at the surface of the guideway is 1T, which is
+attraction system using controlled electromagnets (refs 7,8) easily attainable with superconducting magnets, the lift is
+and (2)the repulsion system using superconducting equivalent to a pressure of 4 x 10° N/m? or 4 atmospheres
+magnets (maglev) (refs 1—6). over the guideway and the levitation of a 100-passenger
+
+it is this latter type of magnetic suspension that is being vehicle having a tyrical weight of 30 tons becomes entirely
+investigated at the University of Warwick and financed by feasible.
+thelWialisonsheumeasionr Speed dependence of the lift and drag forces
+
+In the following the maglev system is discussed from the
+point of view of the lift and drag forces, guidance and linear In general, the lift force produced by a current-carrying
+motor propulsion. coil accelerating at a constant height above a conducting
+
+sheet guideway, increases sharply at low speed, ie,
+Induced current suspension proportional to Vv’, but “Seely approaches
+asymptotically to a high speed limit (Fig 2).
+
+A repulsion force can be produced between a coil However, since the aluminium sheet, and indeed all
+carrying alternating current and a metal conducting plate, metal conductors at normal temperatures, have only a finite
+ie, eddy currents are generated in the plate by the conductivity the induced eddy currents give rise to a power
+time-varying field. Using this principle, Emile Bachelot dissipation in the form of Joule losses which appear as a
+(ref 9) in 1912 demonstrated a model vehicle carrying an magnetic drag force on the vehicle. It is as if the image
+aluminium plate that was suspended and propelled above a magnet were smaller and displaced forward of ‘the real
+continuous row of coils along the track. More recently magnet. The dissipated power must be supplied ultimately
+(ref 10, 1971) a similar system was demonstrated in by the propulsion system, ie, linear motor, and appears as a
+Germany. A proposal which is in many ways similar, to put drag on the vehicle motion. This drag force at first increases
+
+159
+
+rapidly with speed, being proportional to V, but it then At speeds below about 30 to 40 km/h the eddy currents
+passes through a peak value (at around 20—40 km/h) and in the guideway exclude so little of the magnetic flux that
+decreases as V-” at high speeds (Fig 2). The drag decreases the lift force falls below the vehicle weight and therefore an
+more slowly in the high-speed range because of this ‘‘skin”’ alternative low-speed suspension, such as rubber-tyred
+effect whereby the induced eddy currents are prevented wheels, must be provided. This can in fact be turned to
+from penetrating into the aluminium sheet and flow only in advantage, since maglev vehicles may be designed to run on
+a thin surface layer called the “skin depth’, ie, the standard gauge track and hence use existing city termini.
+aluminium appears to have a lower conductivity. This Lateral stability and guidance are obtained by the
+decreasing drag force with increasing speed, unlike appropriate guideway configuration, such as, for example,
+aerodynamic drag, is one of the remarkable advantages of two L-shaped guide rails. The stability of the maglev
+this form of electromagnetic levitation. For a practical suspension and guidance is similar to a spring, in that the
+guideway take-off becomes possible at around 40 km/h and lift force increases rapidly with decreasing lift height.
+the limit of lift is essentially reached at approximately Supported by superconducting magnets distributed
+100 km/h. essentially over its entire length the maglev vehicle offers
+The lift/drag ratio, F, /Fp, is a measure of the quality of the possibility of guided land flight at an elevation of
+the conducting sheet suspension since it determines the 30 cm. On bends, the aluminium guides might be curved in
+propulsion power necessary to overcome the drag force. It section to allow the vehicle to assume a coordinated ‘bank’
+has been shown (refs 1, 2) that angle in a similar manner to an aircraft or bicycle (ref 5).
+The distributed lift forces, combined with a lightweight
+V Load construction, provide the possibility of an elevated
+FL/Fp “> (low speed) guideway of a strength and cost very much less than that
+required for conventional trains (Fig 3). With the large
+V Ug od vehicle guideway clearance, the track need not be very
+a (high speed) smooth or accurate, and an ordinary roadway or airfield
+surface would suffice. Furthermore, small debris or snow
+where Lg is the permeability of free space, o is the amgiice wend Bernranyy Way be a problem. i
+ir a ; a F At the higher speeds, the aerodynamic drag, which
+conductivity of the aluminium guideway and d is its . 2 . .
+thickness; in the high-speed range the eddy currents are pecieeses ae mcncege Cea segura bc oe .
+limited by the skin depth, 8 which is proportional to thy considered to be an Cree limit for Seay yen
+From calculations and experiments it has been found that, under nena conditions. However, the possibility exists of
+in general, increasing the length of the rectangular magnetic Ree eae eee een bactes (evacuated)
+coils in the direction of vehicle motion and increasing the Soe ea me utr become) bos ile: a
+. . . . other reasons also, such as weather-free conditions and the
+suspension height improves the F_/Fp ratio (ref 2). f h ling ji ial € hiah- d
+Proposed magnet design parameters for a conducting sheet eee a tugne Engels essentia Or ear eae a
+BEDE RTioneree ne aain Tabi Te system depending on the terrain, a tunnel system should be
+seriously considered.
+Table 1 Design Parameters of Typical Vehicle
+Propulsion
+Fuselage Lightweight aircraft construction The choice and design of propulsion machinery is of
+length 30 m major importance in the design of high-speed magnetically
+width 4m levitated vehicles. Having eliminated the need for
+weight 30,000 kg mechanical contact betwéen vehicle and ground for
+suspension, it is undesirable to reintroduce it for
+Suspension height 200-300 mm propulsion, either in the primary means of transmitting the
+Track aluminium sheet (25 mm thick) propulsive force, or in ancillary power collection
+(double L section) mechanisms. This is proposed not merely on aesthetic
+. ; grounds, but for reasons already discussed above. !t should
+slipeneonelWtiitg TEE ee ae eee also be noted that the absence of the wheel/rail current
+(filamentary wire) length 3m return path accentuates the power collection problem.
+width 0.5 m Modern conditions dictate that environmental effects
+current 4 x 10° A-turns shall be minimised — hence the power unit should be
+winding cross-section 100x 50 mm __—sinon-polluting (at least locally), quiet, and, in view of future
+max. field 3 Tesla energy costs, should form part of a system of the highest
+possible overall efficiency. Clearly linear electric motors
+Maange ti Jenyostat Sons must be considered, since they possess all these qualities in
+Lift-to-drag ratio 20 varying degrees, and indeed many types of linear motor
+aS have been proposed for traction purposes. In principle a
+160
+
+linear equivalent of any type of rotating machine can be motor is that for lowest capital cost the primary should be
+developed (though the resulting end effects may introduce on the vehicle, but this introduces the problem of
+quite profound differences in behaviour between linear and high-speed power collection, as well as_ significantly
+rotating versions). The following discussion is by no means increasing the weight to be levitated.
+exhaustive. The main points are summarised in Table 2, A possible answer to the inherent problem of the
+though again it must be emphasised that these machines are induction machine is to provide part of the magnetic flux
+at such an early stage of development that a comparison by means of another winding, viz, a superconducting
+can only be in very general terms. winding. Since this source of flux is light in weight
+The machine which has received most attention to date {involving no iron) and consumes little power the efficiency
+is the linear induction motor. In its originally developed and power factor of the machine should be capable of
+form a relatively short primary (on the vehicle) generates a improvement. A further attraction is the possibility of using
+moving wave of magnetic flux, which interacts with eddy for the propulsion the levitating magnets already on the
+currents set up in the reaction rail (along the track) to vehicle, je, combining the lift and propulsion for levitation.
+produce tractive force. The reaction rail requires a backing Several suitable types of machine have been proposed,
+of iron to complete the magnetic circuit, but this can in including homopolar (ref 14), synchronous (ref 6) and
+fact be made as a second primary, giving the double-sided commutation machines. Homopolar machines (Fig 4) can
+machine. The reaction rail assembly of the single-sided be dismissed as they necessarily entail severe problems of
+machine is expensive, while the double-sided machine has high-speed current collection, which are solved only with
+the disadvantage that for good efficiency the air gap must difficulty even in the environment of experimental
+be small, and hence the reaction rail is narrow and machines. Synchronous and commutation machines are
+mechanically very weak. For high-speed applications the similar, in that each has a nominally de field winding,
+main problem is that either a high frequency supply reacting with a second powered member. In the
+(perhaps up to 400 Hz) must be available or the pole pitch synchronous machine (Fig5) the powered member is a
+must be so long that the core thickness and winding multiphase winding which produces a travelling magnetic
+resistance would become excessive. These difficulties are to wave onto which the field winding locks. Power pick-up
+some extent overcome by the ‘transverse’ flux machine of problems are avoided if the multiphase winding is on the
+Laithwaite and Eastham (refs 11-13). However, in all track, and though a normal type of machine winding (but
+induction machines the primary is the only powered with no steel yoke) is possible it appears that for high-speed
+winding, and hence is ultimately the source of all magnetic transport a simple wave winding may be sufficient, and
+fluxes and electric currents in the machine. The net result is would represent only a rather small fraction of capital cost
+that for reasonable efficiency and power factor the air gap of the track.
+should be small and induction machines are incompatible The main disadvantage of the synchronous machine is
+with the large gap possible with super-conducting magnet that it can only provide thrust when running synchronously
+suspensions. A further problem with the linear induction so that some alternative method of acceleration and
+Table 2 Characteristics of Linear Motors
+ee eee
+LIM, LIM, LIM, LSM, LCM, LHM, LHM,
+wound track reaction rail reaction rail wound wound on-board trackside
+on track, on track, track track power power
+narrow gap large gap control control
+a
+Gap narrow narrow wide wide wide wide wide
+(40 mm) (40 mm) (40 mm)
+Efficiency 70% 70% poor 70% 70% 60% 60%
+Power factor 0.5 0.5 poor 0.2 ' good good good
+Capital cost high low low moderate moderate- low high
+high
+Weight of onboard moderate- moderate-
+equipment low high high low low high low
+Power collection none h.v.a.c. h.v.a.s. none none severe severe
+problems
+Starting performance good good good poor good good good
+ee eee
+161
+i
+
+deceleration is required. The several possibilities for doing apart from cost savings, eliminates the attractive forces, and
+this are (1) a variable frequency supply, (2) variations in the secondly from the high excitation available for negligible
+pitch of the track windings, or (3) auxiliary windings for power dissipation, which allows the track currents to be
+the machine to operate as an induction machine for relatively small even at large vehicle-track clearances. The
+starting. A further problem is that, if at any time a long design of such a machine is one aspect of the research now
+length (say 1 km) of track is powered, the efficiency and in progress at Warwick.
+
+more particularly the power factor are seriously degraded.
+
+The alternative of powering short track lengths poses a
+
+switching problem, though as discussed below, this may Experimental programme at Warwick University
+
+prove to be quite tractable.
+
+The requirements of good starting torque and the ability From the preceeding discussion it is clear that the use of
+to operate efficiently over a widespread range are already superconducting magnets in high-speed ground transport
+met in traction service by rotating commutator machines. offers quite remarkable advantages. It is also clear that
+Series connected they may be fed with ac or dc, though in there are many aspects to a transport system, each of which
+the former case the frequency is usually low (e.g. 16% or it is difficult to study in isolation. Thus the University of
+25Hz). As a linear machine, with separate field excitation Warwick, .with generous funding from the Wolfson
+(from the superconducting magnets on the vehicle) the Foundation, is building an experimental vehicle and track.
+supply must be unidirectional — ie, de or rectified ac, and The vehicle is planned to be running in 1975, on a
+the track winding will in many ways resemble that of a straight track of over 600m length to be built on the
+linear synchronous machine. It is the switching action of campus. Speeds of over 180 km/h will be possible, and
+the commutator which controls the currents thus setting up though this does not allow a comprehensive study of the
+the travelling magnetic wave, and as the commutator is vehicle’s dynamic behaviour (the time of any run, less than
+synchronised to the vehicle (in a rotating machine it is, of a few tens of seconds, will be too short for many modes of
+course, on and fixed to the rotor) the machine can run at instability to develop), it will both demonstrate the
+any speed. Clearly the major problem lies with the feasibility and essential characteristics of magnetic
+commutation mechanism. One solution is to use thyristors levitation and serve as a test bed for linear synchronous
+(Fig 6) switched on by signals transmitted from the vehicle, motors.
+for example, by light-duty mechanical contacts, or by To focus attention on the engineering problems, as
+optical or magnetic induction methods, and switched off by opposed to the conceptual ones (which have in any case
+supplying the power as ac. Since any one switch only already been extensively studied) the vehicle will be of
+operates for the short time the vehicle is passing (which Passenger-carrying size — that is, it will be about 3m long
+may be a few or only one half cycle(s) of power frequency) by 1m wide by 1m high, and weigh up to 600 kg fully
+they can be appropriately overrated and hence keep costs loaded. Thus it will not be a scale model of a revenue
+within reasonable limits. Such a scheme is of particular vehicle.
+
+: interest for the track sections where the vehicle must be The maximum speed desired will only be attained with
+accelerated. accelerations approaching 1g, and thus the propulsion
+
+. equipment will have a short-term rating of about 400 kW.
+Levitating motors The development is planned in two stages; in the first the
+
+The radial forces that exist in rotating electric machines chassis and superconducting magnets will be towed by a
+are well known, and indeed Laithwaite has pointed out that winch, while the second will be the addition of the linear
+the corresponding vertical forces in a linear induction motor. To facilitate modification the track is a simple
+motor can provide lift. It is also known that in an induction concrete roadbed with a flat top 1m wide. The aluminium
+machine, with iron return yokes for the magnetic flux, the L-shaped sections to provide the {ift and guidance surfaces,
+
+| force has an attractive component arising from the iron and the propulsion winding, will be bolted on at the
+components and a repulsive component arising from the appropriate stage.
+interaction of the armature currents and currents induced Present studies are devoted to choosing and designing
+in the reaction member; the net force varies from being the propulsion/levitation system. It is however already clear
+repulsive at low speeds (high slip) to attractive at high that the superconducting magnets will have ratings well
+speeds, (low slip). Clearly the same possibility of obtaining within the limits already reached by the technology. The
+lift and thrust from one machine exists for other types of peak magnetic field at the coils is about 1T, with the coil
+motors, Indeed, the magnetic drag discussed above can be riding about 20cm above the guideway (the actual
+regarded as another aspect of the subject, and illustrates track-vehicle clearance will be 10cm, because of the
+that the problems are not those of setting up currents (and thermal insulation around the coils). The vehicle will carry
+their associated losses) of the magnitudes needed to provide sufficient liquid gases for several hours’ operation, after
+both lift and thrust, but rather of devising a stable and which re-filling from trackside storage will be a relatively
+controllable system. The advantages of using super- simple routine. The feasibility of such a system for a
+conductors arise firstly from the elimination of iron, which, full-scale design will also be investigated.
+
+162
+
+References
+
+1. Coffey, H.T., Chilton, F., and Hoppie, L. O., 1972.
+SRI Report DOT-FR-10001, PB-210505.
+
+2, Reitz, J.R., Borcherts, R.H., Davis, L.C., and
+Wilkie, D.F., 1972. Ford Report DOT-FR-10026,
+PB-210506.
+
+3. Rhodes, R.G., and Eastham, A. R., 1971. Hovering
+Craft and Hydrofoil, Vol. 11 no.3, p.12. (see also
+Final SRC Report, Oct 1971 — Oct 1972).
+
+4. Alston, |. A., Hayden, J.T., and Clark J.M., 1972.
+Hovering Craft and Hydrofoil, Vol. 11 no.11, p.9.
+
+5. Kolm, H.H., and Thornton, R.D., 1972. Proc
+Applied Superconductivity Conference, Annapolis,
+Md,
+
+6. Thornton, R.D., 1973. Proc IEEE Vol. 61 no.5,
+p.586. -
+
+7. Meisenholder, S.G., and Wang, T.C., 1972. TRW
+Systems Group, Report FRA-RT-73-1.
+
+8. Jayawant, B. V., and Kaplan, B. Z., 1961. J. Phys. E.,
+4 p.301.
+
+9. Bachelet, E., 1912. The Engineer, Vol. 114, p.420.
+
+10. Hockhausler, P., 1971. Elektrotechnik Z. Vol. 23,
+no.13, p.311.
+
+11. Laithwaite, E. R., Eastham, J. F., Bolton, H. R., and
+Fellowes, T.G., 1971. Proc IEEE Vol. 118 no.12,
+p.1761. (See also discussion in ibid 119 no.12,
+p.1727).
+
+12. Laithwaite, E. R., and Eastham, J. F., 1973. Proc IEE
+Vol. 120, no.3, p.337.
+
+13. Laithwaite, E. R., 1973. Electrical Review, Vol. 193,
+p.566.
+
+14. Polgreen, G.R., 1966. ‘Wew Applications of Modern
+Magnets’, Macdonald, London.
+
+163
+
+OIRECTION OF MOTION
+ee
+COMPRESSED
+ALUMINIUM
+FIELD PATTERN
+SHEET _—*
+; 7 a INDUCED SURFACE
+IMAGE COIL SIMULATING re ——_—s CURRENTS.
+INDUCED SURFACE CURRENTS > Ds CL
+Fig. 1 Magnetic field and induced current distribution produced by a de coil moving over a conducting sheet
+TOTAL MAGNETIC ORAG
+LEVITATION HEIGHT (LIFT & GUIDANCE)
+¢ em} (TONNES)
+2s 2s
+20 20
+wo He 5
+© | to
+s 5
+o 40 80 120 160 200 °
+dra SPEED V (METRES /SEC)
+Fig. 2 Levitation height and total drag force as a
+function of speed for a conducting sheet
+suspension
+164
+
+=
+al
+_
+a ee y (I
+x ——_— aes.
+# \ SS aE s (J ae 4
+re = TIX Sb = ) == a ZS
+. ————— _ Ls = =
+p ssi = Z
+= aioe
+. = nN g
+SS SNS S A Ee
+Ph; = : aK ee Si -
+o, Zo > Ja = ) \ a —
+3 SS> a _< Z
+iS Re a SUPERCONDUCTING
+¥ ms—_|* Ca SN 5 Ps ee . MAGNET
+ee: SANS A * SSW A %
+LINEAR MOTOR SEB SSH ee .
+3 Siw <
+TRACK WINDING SER 5 Z 4
+NS en EZ
+a San B scenes
+ALUMINIUM eee ZS SUPPORT imeZ Y
+GUIDEWAY : =| THERMAL SHIELD ig
+= HELIUM - 4°2K a
+Ss COIL te a k; < oe
+Ss ALUMINIUM 5
+- CASING VACUUM
+ee
+“
+ee
+Fig. 3 Artists conception of maglev vehicle showing the levitating superconducting magnets
+SLIDING D.C. SUPERCONDUCTING MAGNETS
+Be CONTACT ON VEHICLE
+7B (LSD) =% ‘ C 2
+Zi (= ee ee) ” :
+fb SD Ze
+CLL LLLIZI ILD ILIRLL LL LL M4 7
+ae a3 Ris ey Wa. 2. a CONDUCTING Sanh
+De en ace ep Dar HEET TRACK ie e7
+We Sy NI 2 Be id ay
+A
+3 PHASE TRACK WINDING (ONE CONDUCTOR / PHASE.)
+SUPERCONDUCTING
+MAGNET
+—e— CURRENT FLOW
+—e— CURRENT FLOW
++>——-> MAGNETIC FLUX Fig. 5 Scheme of linear synchronous motor (LSM)
+Fig. 4 Scheme of linear homopolar motor (LHM)
+(section through track)
+165
+
+; . ‘ - . ' ; ’ _ . ‘ .
+D.C. MAGNETS ON VEHICLE
+= TRACK WINDING
+Bh (5 TUANS }
+4, < —
+a 7 Yl. _— SUPPLY
+Lr
+a (
+™_ 4 J
+Ai g
+THYRISTOR
+b SWITCH
+CJ
+—_—— CURRENT FLOW Fig. 6 Scheme of linear commutator motor (LCM)
+166
+

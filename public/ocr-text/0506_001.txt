@@ -1,0 +1,153 @@
+BY vance! ANP lakekves in Pe UK » Poe dN 1994 j
+[fee | Loudon
+ROBOTICS IN THE NUCLEAR INDUSTRY
+- AEA TECHNOLOGY’S PART IN THE TELEMAN PROGRAMME -
+Dr Ed Abel CEng, FIEE
+SUMMARY
+The development of advanced robotics in the nuclear industry has been accelerated by the
+CEC’s TELEMAN Programme. TELEMAN is a five year cost-shared research programme
+directed towards remote handling in hazardous and disordered nuclear environments. AEA
+Technology’s own telerobotics development includes products such as stereoscopic TV and
+nuclear engineered robots. The TELEMAN Programme objectives are described and AEA
+Technology’s contributions to this significant new Programme are summarized.
+THE TELEMAN PROGRAMME
+The TELEMAN Programme was authorized by Council Decision in July 1989. Funding has
+been set at 19 million ECU over a period of five years to support a cost-shared research
+programme covering remote handling in hazardous and disordered nuclear environments[1].
+The Programme is split into two phases. The first phase consists of a co-ordinated set of
+sixteen multi-partner, multi-national projects which integrate new technological development
+into building blocks. These building blocks will be brought together in the second stage of
+the Programme, where the construction of research machines will demonstrate significant
+advances in teleoperated machines, manipulators and vehicles.
+The TELEMAN Programme will benefit from non-nuclear research in CEC programmes such
+as BRITE and ESPRIT, as well as from the nuclear Fusion and Decomissioning programmes.
+Many of the organizations in the sixteen phase one projects have direct experience in these
+other programmes. A TELEMAN Users Group advises the TELEMAN Programme of the appli-
+cability of the projects, and has influenced the definition of the types of research machines
+that will be the subjects of phase two.
+The CEC budget for phase one is just over 9 Million ECU, and for phase two it is about 7
+Million ECU. With cost-sharing, the Programme total effective value is expected to be
+equivalent to about 35 Million ECU. In phase one, the sixteen projects have a combined 130
+man-years of effort and the Table shows the spread of the technical areas addressed.
+The CEC have stressed the importance of inter-project co-ordination, and encourage joint
+access to results between the projects. In particular, one project concerned with the
+environmental and radiation tolerance, and systems reliability aspects of telemanipulated
+devices runs for four years. It will act as a common database and information dissemination
+agency for the other projects and phase two research machines.
+The majority of phase one projects run for about two years or less; a few have durations of
+up to three years. The second call for proposals covering research machines and product
+evaluation is expected in 1992. The research machines will focus on
+Dr Abel is with AEA Technology at Harwell Laboratory, Oxon
+3/1
+
+¢ improved light mobile machines that can be used to collect information, relay signals,
+or provide auxiliary views or grasps.
+
+* more robust mobile machines for maintenance repair, post accident intervention or
+decommissioning, and includes manipulators attached to gantries and teleoperated
+cranes.
+
+* improved long reach devices that can work through restricted access across
+containment boundaries.
+
+Product evaluation will include end-user evaluation of TELEMAN teleoperators, monitoring
+trends in teleoperator development, and evaluation the performance of tools.
+AEA TECHNOLOGY AND REMOTE HANDLING
+AEA Technology is Europe’s largest organization involved in nuclear development work and
+operates in six major nuclear sites in the UK. Remote handling R&D is carried out at the
+Harwell Laboratory, and for the last seven years the emphasis has been placed on developing
+advanced viewing and telerobotic products that can be easily applied to a wide range of
+nuclear industry facilities. Robot applications have been successful in AEA sites at Winfrith
+[Radwaste Treatment] and Windscale, [reactor decommissioning] and now following successful
+trials, work at Harwell has begun on a glovebox decommissioning project using NEATER, the
+nuclear engineered advanced telerobot. NEATER is a re-engineered PUMA 762 CR robot,
+tolerant to extremes of radiation, developed with Staubli Unimation [2]. New telerobotic
+control and force-reflecting input devices have been produced [3].
+In parallel with telerobotic hardware, a vigorous viewing program has produced a range of
+stereoscopic television systems, TV3, which are also available in radiation tolerant formats.[4]
+TV3 systems show immediate benefits for users of remote equipment such as manipulators or
+vehicles, and are easy to use and give none of the operational problems such as eye strain or
+headaches associated with many of the alternative systems that are commercially available.
+Stereoscopic images can be recorded on standard videotape for training or plant walk-
+through[5].
+AEA TECHNOLOGY AND TELEMAN
+AEA Technology at Harwell is involved with seven of the sixteen phase one projects, as
+co-ordinator, partner and sub-contractor. The main contribution is as a member of the .
+CIRCUIT group [Components for Intelligent Robot and Crane and Control, Usability and
+Intelligent Teleoperation] where ten organizations from four countries carry out four of the
+TELEMAN phase one projects. The réle of AEA Technology in the seven projects is as follows
+TM 1 ARTIST [Advanced Radiation Tolerant Information and Sensor System for Teleoperation]
+Co-ordinator: IPB Pietzsch
+ARTIST integrates several different sensor systems into a high precision pan and tilt platform
+that will be tested on a KHG remotely operated vehicle at the Emergency Brigade’s facilities.
+) 3/2
+
+AFA will produce a rapid prototype stereoscopic radiation tolerant camera with zoom lenses
+and minimal cabling that can be interfaced to an advanced workstation.
+TM7 VISYS [Vision Systems and Sensors] Co-ordinator CEN/SCK, Mol
+VISYS integrates sensing components developed in the project to produce a user friendly
+interface for teleoperated cranes and manipulators. AEA will produce a high dynamic range
+camera that can be applied to view poor contrast scenes experienced in low light conditions,
+and also conditions such as flame viewing for cutting and welding operations. VISYS is one
+of the CIRCUIT projects.
+TM20 MAGIC [Manipulator and Gantry Intelligent Control]. Co-ordinator AEA Technology
+MAGIC extends the current state of the art in on-line computer controlled cranes, gantries
+and large serving systems. Real-time force control strategies for manipulators and
+telerobotic control will be advanced. AEA will produce a robust telerobotic controller for
+force reflection, including a new input device, and devise hardware configurations for robot
+and gantry control systems to facilitate radiation tolerant design. MAGIC is one of the
+CIRCUIT projects.
+TM22 [Development of an Intelligent Radiation Vision System]. Co-ordinator CIEMAT
+TM22 will develop a small size system that can capture a radiation image of a source in a
+facility. The sensing system will be suitable for installation on a vehicle. AEA will be
+involved in the data interpretation of the sensing system, using new techniques.
+TM26 SIMPLE [Simulation, Planning and Programming Environment] Co-ordinator KfK
+SIMPLE is concerned with off-line techniques for robotic and gantry control. Many
+standardized interfaces will be used [from sources outside TELEMAN] to implement task
+planning, simulation, and tool deployment. An integrated software environment for off-line
+programming will result. AEA will look at developing off line programming using a synthetic
+task box modelled on GRASP and controlled, bilaterally, with the Cartesian Mini Master Arm
+[CARMA] developed in TM-20. At the end of the project CARMA and GRASP will be
+interfaced to the KfK software environment for off line programming. SIMPLE is one of the
+CIRCUIT projects.
+TM34 RATOCA [Radiation Tolerant CCD Camera] Co-ordinator SOFRETEC
+RATOCA will develop a CCD sensor that has improved radiation tolerance with a target dose
+rate of 103 Gy/h. AEA will carry out radiation testing of the prototype.
+TM41 ENTOREL [Environmental Tolerance, Reliability and Safety] Co-ordinator Risd
+ENTOREL will consolidate and expand existing knowledge of radiation and environmental
+tolerance of components and systems. It will act as a data gatherer and supplier for the
+other TELEMAN projects. Reliability analyses will be performed, if required, for the research
+machines, and a strategy for reliability assessments will be developed. AEA will contribute
+by carrying out specific radiation tests, supplying test data and advising on material/
+component selections. ENTOREL is one of the CIRCUIT projects.
+
+3/3
+
+REFERENCES
+[1] B Tolley and B Robertson "TELEMAN - A European Community R&D Programme on
+Robotics in the Nuclear Industry" Proc. 4th ANS Topical Meeting on Robotics and
+Remote Systems, Albuquerque, February 25-28 1991 pp 503-514.
+[2] E Abel etal "NEATER - A Telerobot for the Nuclear Industry" ibid pp 611-620.
+[3] K V Siva etal "The Development of a Bilateral Input Device for Use in Teleoperation",
+ibid pp 621-632.
+[4] A A Dumbreck and C A Kittmer et al "3-D TV Systems for Remote Operations:
+Development and Applications", ibid pp 587-597.
+[5] PM Scheiwiller et al "Videotape Recording of 3-D Television Pictures" ibid pp 599-609
+TABLE 1
+[a ]2|5] 7] 5 |rafralss|s7|r0|20|2a|2e|20|a4|43
+x mawpuaton-Hano | | | | | | | [[ ele] | | | lel
+See ol tT fel ft el
+4 tocoworion-venicie | | | | |e| lee! | | | | | | le
+5 tocoworion-tecceo | | | | | le! | | | | | | | | lel
+‘5 opsenvarion-waces |elelele| | | | [el | \elelelele}
+7 OBSERVATION-RANGE _ :
+| ANDSHAPE :
+(9 MAPPING- WORLD |
+| MODELLING |
+40 MISSION PLANNING- |
+CONTROL = :
+11 commuvicarions _|e| | |elele| |e| | lelele| | |e
+12 FAULTTOLERANCE = |
+NUCLEAR ENVIRONMENT _
+3/4
+

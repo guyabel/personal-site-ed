@@ -1,0 +1,362 @@
+¥ ™
+4
+TELEROBOTICS MADE EASY
+E. Abel, M. H. Brown, G. V. Cole, A. A. Dumbreck, C. J. H. Watson.
+Remote Handling and Robotics Department
+Harwell Laboratory
+AEA Technology
+Oxfordshire OX11 ORA
+Telephone 0235 434987
+
+ABSTRACT
+
+AEA Technology has developed, and now supplies, products that can reduce the cost and improve
+the reliability of decommissioning and radwaste operations. This paper describes some of the
+features of these products, which include NEATER, a telerobot based on acommercial industrial
+robot, and TV’ - an engineered 3-D TV System. The products are designed for the radiation
+and environmental conditions of a range of nuclear plant. The operator-robot interface has been
+improved by the provision of a telerobotic controller, and of a new multi-degree-of-freedom
+force reflecting input device, that can also be used to control many different types of slave
+manipulator. Human factors experiments and field trials have proved that the TV’ system gives
+useful performance benefits and is comfortable to view. NEATER and TV’ are affordable,
+robust systems which make telerobotics a realistic option for the nuclear industry.
+
+Ren da lechu Aepy fx be Nucl (udashy
+lolu De conser 1770 boom den
+
+INTRODUCTION |
+The Remote Handling and Robotics Department of AEA Technology has recently evolved a
+special approach to solving remote handling problems. Although in the past, its in-house
+development programme has produced sophisticated manipulators for use in decommissioning
+and fuel cycle operations, in general its experience has been that its traditional approach to
+development led to long timescales.
+In 1984, anew approach was devised, that had the potential to reduce the development timescale,
+and bring remote handling products into operation much more quickly [1]. The new approach
+is made up of five key principles:
+
+° use techniques proven in previous projects
+
+° use off-the-shelf solutions wherever possible
+
+° if not, adapt and modify existing equipment
+
+° develop special equipment only when necessary
+
+° anticipate evolution.
+By 1987 some of these principles had been applied in building telerobotic controllers for
+industrial robots, and in producing robust black and white and colour 3-D TV systems [2,3].
+The next goal was to build fully-engineered robotic and viewing hardware that could be used
+inradioactive environments. Instead of building totally novel hardware, solutions were proposed
+that incorporated a blend of existing equipment design, special material selection [to survive in
+an active environment], and re-engineering to meet particular size or maintenance constraints.
+Equipment suppliers were involved in re-engineering to the necessary target specifications.
+The result has been the rapid prototyping and subsequent production engineering of NEATER
+(the Nuclear Engineered Advanced Telerobot), and TV’ (the engineered 3-D TV system). This
+paper describes the development of NEATER and TV’, and the associated work on a telerobotic
+input device.
+As a result of the programme of design, testing, and development described here, simple
+hardware is now available to make telerobotics easy, for operators, designers and manufacturers.
+TELEROBOTICS
+Telerobotics is a blanket term relating to systems which can support both remote manipulation
+with a human operator in the loop and programmed manipulator operations. In consequence
+telerobotics combines all that is best in industrial robotics with all the skills of a human operator
+to respond to ill defined and unpredictable tasks.
+
+| From this definition it is clear that the operator requires both a means of exercising control and
+
+feedback information about how the remote manipulator is performing. Most experience in the
+nuclear industry is of mechanically-linked master-slave manipulators [MSMs] with direct
+viewing through a shielding window. The hydraulic manipulator developed at Harwell[4] has
+a greatly increased payload compared to MSMs, but still relies on visual feedback except when
+executing a pre-programmed task. Without the benefit of force feedback, tasks have to be
+carefully controlled by the operator.
+
+NEATER can operate as a telerobotic manipulator because a Telerobotic Controller [TRC] has
+been built and attached to the standard controller [5]. The TRC conditions demands from the
+input devices - joysticks or force balls - so that the end effector moves smoothly throughout
+NEATER’s considerable operating volume. A touch-screen interface sets up the different
+operating modes of the telerobot.
+
+In their basic forms, both the hydraulic manipulator and NEATER are unilateral manipulators.
+However bilateral (force feedback) control of both manipulators will become possible using the
+kinematically dissimilar Cartesian mini-Master Arm. TV’, the engineered stereoscopic TV
+system enhances the ability of an operator to perceive and control complex tasks in a nuclear
+environment. These two developments are described in the following paragraphs.
+
+INPUT DEVICES
+
+Simple input devices such as three-degree-of-freedom joysticks can be used to control NEATER
+through the TRC. A new development is the Cartesian mini Master Arm which provides end
+point bilateral control of remote manipulative operations. The system is designed to be easily
+maintained, to produce useful force feedback from within a generous operational volume and
+to be simple to interface with the TRC and auxiliary processors.
+
+Figure 1 shows a outline of the prototype Cartesian mini Master Arm, which will be operational
+at the end of 1990. It is an optimised structure, consisting of a parallel-serial linkage in a
+gravitationally balanced package. The mechanism is symmetrical and has homogeneous
+mechanical properties. Low force/torque friction thresholds produce a comfortable responsive
+control without fatigue or mis-cued information.
+
+TV’
+
+TV’, the engineered stereoscopic TV systems developed by AEA Technology, give operators
+or observers a 3-D view of aremote scene which may be part of an inspection, repair, maintenance
+or decomissioning task. There are many tangible benefits of TV’, which have been achieved
+by a thorough understanding of how three dimensional images should be re-constructed and
+presented for remote viewing. Unlike time interlaced systems, TV? produces no flicker, and
+simple polarized spectacles are all that are needed to view the display. The viewer can use the
+TV’ display for long periods of time without eyestrain or other forms of fatigue, which are
+
+common in most other forms of 3-D TV system. Auxiliary tasks and use of VDUs are in no ,
+way inhibited by the use of the polarised spectacles. Among the benefits of good stereo TV
+over 2-D viewing systems for manipulation tasks are:
+
+° there are significant time savings in performing manipulation tasks
+
+° the number of cameras required may be smaller
+
+° positioning of cameras and lights is easier
+
+° complex tasks are completed with fewer manipulative movements
+
+° the risk of collision damage to manipulators and their environment is reduced.
+Figure 2 shows the radiation tolerantcamera built for in-reactor inspection. Cameras and displays
+have been built for both colour and black-and-white systems. Applications include 3-D computer
+graphics, 3-D flow visulization, and systems for decommissioning operations.
+NEATER
+NEATER, the Nuclear Engineered Advanced Telerobot is based on the mechanism design of
+Staubli-Unimation’s clean room PUMA 762 robot. The radiation tolerance objective was
+achieved in a two-stage programme, with a tolerance of 10“Gy achieved initially, followed later
+by upgrading to 10°Gy by back-fitting improved components.
+Working with Staubli-Unimation, AEA Technology examined every component and subsystem
+for radiation tolerance. An initial assessment of the robot identified a number of areas with
+obvious radiation tolerance problems, for example, cable and wire insulation, lubricants, motors,
+optical shaft encoders. Substitution of equivalent materials which were radiation tolerant was
+carried out wherever possible, but some components needed to be completely re-engineered.
+The optical shaft encoders fell into this category. After considering the alternative of replacing
+the encoders with resolvers, it was decided to re-engineer the encoders. This involved a new
+circuit design, using components that were stable when irradiated, or at least varied in a
+predictable way. Using the RHRD radiation effects database, supplemented by extra testing, a
+computer simulation of a range of possible circuit designs was undertaken. On the basis of this
+simulation, an optimal design for a radiation tolerant encoder was selected and built. Prototypes
+were successfully tested in the Harwell fuel ponds, and then exercised on NEATER itself.
+A maintenance review indicated that extra seals were required at the joints, so that NEATER
+could withstand contamination, and also be decontaminated easily. The manipulator is designed
+to be split into three components. A split base offers a weight reduction of 100kg. A removeable
+forearm eases in-cell maintenance procedures, and extensive use of quick release connectors
+and special tapering bolt heads facilitates active maintenance of the machine [Figure 3].
+
+‘ The resulting manipulator [Figure 4] has all the mechanical design features of an ordinary
+industrial robot, and benefits from the knowledge gained during millions of operational hours
+in non-nuclear applications.
+
+EXPERIENCE WITH NEATER
+NEATER was officially launched at the IBC Conference on the Applications of Robotics in the
+Maintenance, Inspection and Refurbishment of Nuclear Installations, in December 1989.
+Inactive trials at Staubli-Unimation’s Telford works and at Harwell Laboratory have been carried
+out over the last year. More than 1200 operational hours of experience have accumulated without
+a failure of any of the special components in the manipulator or standard controller. In the
+interests of economy, the telerobotic controller has now been rebuilt using a single 486PC. Work
+on glovebox cutting and decommissioning trials have continued, with robotic deployment of
+many of the tools that are currently being used in manual decommissioning.
+Tools such as nibblers, bandsaws [Figure 5], hacksaws, jigsaws and drills have been tried, to
+establish which give the best performance in cutting up to 6mm steel plate. Most of the tools
+require compliant mountings to isolate the telerobot from parasitic vibrations and to prevent
+tool jams. The tools have a common interface with the robot which allows them to be exchanged
+either manually at a gloved change station or robotically at a tool change station. A jaw change
+mechanism developed for the hydraulic manipulator is being adapted for use with NEATER.
+NEATER comes in three basic forms [6]:
+1) A basic radiation tolerant version of the clean room PUMA
+without modularity or improved sealing, for high radiation,
+low contamination applications [for example in waste drum
+handling or swabbing] - designated PUMA 762N [N for
+nuclear].
+2) A modular version, with improved seals but not highly
+radiation tolerant, for applications where the
+decontamination is necessary but radiation levels are low
+[for example in replacement or assistance to
+pressurised-suit operations] - designated PUMA 762M [M
+for modular].
+3) Aradiation tolerant decontaminable version, which can be
+used in the most extreme environments, with modularity to
+help maintenance-designated PUMA 762NM [nuclear and
+modular].
+
+The prototype NEATER at Harwell began as Version 2, with modularity, improved seals and °
+some radiation tolerant components. It is now being brought up to the target tolerance of 10°
+Gy, [Version 3] by the addition of the radiation tolerant encoders.
+Two NEATER robots have been supplied to the nuclear industry, to swab the outsides of high
+level vitrified waste containers. The specification called for 50°C operation, with a contact dose
+of up to 5.10° Gy per hour. 750 cycles per year were demanded from the manipulators, so that
+over a two year period an integrated dose of 10° Gy could be expected. Because there was
+unlikely to be a contamination hazard to the machine, PUMA 761N versions [radiation tolerant,
+no modularity or extra sealing] were supplied.
+Inactive demonstrations of the system were performed following a simulation using GRASP.
+The robots had to perform complete surface swabbing, providing a fixed contact pressure, and
+then exchange the swab at a transfer station. The first robot was produced and delivered after
+customer acceptance trials, and was shortly followed by a second machine. Radiation tolerant
+encoders have been fitted, and it is anticipated that the first manipulator will be installed in an
+active area in late 1990.
+CONCLUSIONS
+The development programmes to produce NEATER and TV? in radiation tolerant form have
+been successful. The time taken from the prototype stage to a fully-engineered production piece
+of equipment has been short, and this is a direct result of working closely with manufacturers
+to set design specifications that are achievable and are based on existing knowledge of systems
+used in a wider field than nuclear engineering. New developments such as the Cartesian mini
+Master Arm will enhance the capabilities of NEATER and the hydraulic manipulator, and
+radiation effects research, testing and design will continue to provide new solutions by adapting
+existing equipment. Telerobotics made easy is now a justified claim.
+ACKNOWLEDGMENTS
+The recent work described has been funded by the Department of Energy. The authors gratefully
+acknowledge this support and also thank the many members of the Remote Handling and
+Robotics Department involved in these programmes.
+REFERENCES
+[1] J.Phillpott et al. "Robotic Equipment for Active Handling Facilities - Present and Future
+Trends in the UKAEA", Proc. IAEA Seminar on Remote Handling Equipment for
+Nuclear Fuel Cycle Facilities - Oxford, 2-5 October 1984, pp.390-403.
+[2] E.Abel et al. "The Harwell Robotics Programme - Telerobotics plus Industrial
+Standards", Proc. of ANS Topical Meeting on Remote Systems and Robotics in Hostile
+Environments, Pasco, WA., 27 March-2 April 1987, pp.263-9.
+
+[3] A.A.Dumbreck et al. "The Development and Evaluation of a Stereoscopic Television
+System for Use in Nuclear Environments", ibid, pp. 106-1 13.
+
+[4]  G.V.Cole et al. "Operating Experience of a Hydraulic Master Slave Manipulator in a
+Nuclear Facility", Proc. of ANS Third Topical Meeting on Robotics and Remote Systems,
+Charleston, 13-16 March 1989.
+
+[5]  E.Abel. “Nuclear Telerobots and 3-D TV - New Tools for the Industry", Proc. IBC
+
+Conference on the Application of Robotics in the Maintenance, Inspection and
+Refurbishment of Nuclear Installations, 11-12 December 1989, London.
+
+[6] | E.Abel and C.J.H. Watson. "A NEATER Advance in Active Handling Technology”,
+Nuclear Engineering International Vol. 35, No. 430, May 1990, pp.26-32.
+
+UKAEA Copyright 1990
+
+\ we
+L S )
+y < ' Nee
+Zz Ee PE NaS |
+aT ie Re
+GON:
+WY CS
+SN
+SS, NY
+
+eae ee - St ee eee
+= 1 oF a epee o>:
+j y Pe - 0 ‘ —
+- | aes , a
+i" . FF ae eo a Yt Sy ’ A
+| ee | EN
+. Ss i a dd aN +
+1s ri : wa A
+P gd nnd, + ere | mms
+(as f) ; an é - ls pee
+K pe ent Ab Phe Ps “68 ; 4 y Cs Y
+" én ~ , Wf
+SS ses fi a a ee | , Ts S| i sg tie ae /
+NS i ' ao ba aT we 2 SS o9 ae |
+ao hd ‘a | A a all ( ~—y by : * fy :
+Me te DD teievison iyo \ a Es
+a ; ae { Pertormance of remote! saat
+“a ™ " oma mace
+Figure 2: Radiation Tolerant Camera - Nuclear TV’
+eparation
+at joint 3 le
+©)
+Quick release
+connectors
+| «<——— Separation
+a a at base
+Figure 3: Modular Design of NEATER
+
+eee f
+" _ Sania eee
+a tthe SS we
+“SWC SC a »
+. a oe eed Bd ee
+a mamaiale i
+a
+Boke es -e - ebay td ‘ a is
+Nee . rd see ee Wes A eee Ny Uh ata a eo
+Wi Bes need sim (ig eaten Sel haa gi
+2 ra * Vase |
+ed <a ¥ , 4
+a | ae
+oe CT rene Pie hr
+a OSS aaee, | A oa aae
+n x : ae gh se Se
+] 1 oe F > | : "te
+ks “—* : qi Ss ae
+a | a
+. ? a ; eg oy a
+| e « 2s re F me a :
+| aoe a (a Cade Lael
+Hig ear WP ee ey We <li TEN ; i
+Pa Spay 4 se Te
+pea se Ee ! ‘ a 1, eae §
+eM vk so toh, Ey a nu SS ale
+j NA = Syren ee te! be 2 i y ee — ae ff
+ia al i, Caan Aux lh | ————— ——— Are wae
+4 ¥ Rpts bbe leh [aa eae fi rr . ————— Bo” SoA)
+a) i. la os ae ; Paes ahi oat sm era === , “ . oY ‘
+. Aen / hf h ears | teeete sy "3 alae E
+: a - i | ’ La} he : ee Lane : . A
+i | 3 F - of
+! | ] Ee :
+: /) ; :
+| i | x
+} | - ae
+~ J ™ i - °
+a a ©
+Se pyle Sh ll
+ts - a!
+ate at 5 arp 7
+A 0 ee
+’ —
+* ; * - —_—. ‘~ ea
+ae
+™ 1 hey \ a ad wa
+alt ~ ie. LU — ui a ~ Sy : .
+, \ \ — r A : a Pe oe 5
+! . an
+\ . * ie . — i re < =
+s a ‘ a = f 7 hy
+. i * ne X
+SF Si : s a $08 Se:
+Figure 4: NEATER carrying out a Decommissioning Trial
+
+|
+— a
+sa : 5 j i i . 2)
+; : 7 i & . ‘—
+_ oe fi | <a & a ,
+-= ee ie? Saar ha R 4 ’ . 9 ra
+ad ) pay dsc x ~~ ta - J
+coe os , ag / \\ \ r
+aa $ —~ See \ \ I
+/ if _ ame” ae 4a » \ ss
+Xe ma Bae is ne “~w\ Sx # |
+; Pn? Le ee eg & ri na : | % .
+oe, ee z - y ; a oi ay Y : oat .
+: a (oe fe} he .
+ait ros
+’ " mone
+Figure 5: NEATER Deploying a Bandsaw
+
+_ et .
+4," on ;
+ic ae nw + 2
+7 | rs ‘ oh |
+ie ie! - |
+| ‘eae pee os ae nl
+; a ae Re =
+sees &
+| a ae ea sae La
+| a ee
+|
+| ——
+

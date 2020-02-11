@@ -1,0 +1,327 @@
+>
+Fee 96
+a =
+Re-engineering a stacker
+truck to decommission
+Id 8 ifi 8
+30-year old vitrification cell
+_—— i as
+ANS Sixth | — LT —
+Topical Meeting i f ” Bera
+on Robotics and | Nh ely — | |
+Remote Systems \ ! AN lees y <fo
+February 5-10, a |__| | im y} ee q
+1995 Monterey, | | sae) —\ ai | es la By a id
+California We =| SSAA i i mn Be
+= | | df ‘| 4 ‘Lad ae od \ / BN Tee i) i i —
+Sei ae is:
+| ae V/ " ; ul
+GE) ee 7 i | i ie Bee) >)
+ee tau i bZ hs ! ec eT , ph | .
+Fie | : ei
+a > i iD a i
+et ar aan |
+hi ?
+| . f —~
+A, 4 I ¥ / \
+4 | , y ra N
+Figure 1. The FINGAL sy A es
+Cell in operation ‘ \ PP, }
+Abstract
+A 30-year old abandoned vitrification cell contaminated six-stage vitrification furnace
+has been successfully decommissioned at and in the support and removal of the
+United Kingdom Atomic Energy main process vessels, some of which
+Authority’s Harwell site. The major piece contained remmant process liquors with
+of hardware used to carry out handling radiation levels of up to 45 mSvh!.
+tasks was a re-engineered pedestrian Following the completion of this project,
+stacker truck. The 1 tonne capacity truck the stacker truck was removed from the
+was used to disassemble the chemical cell, decontaminated and moved across the
+process cell, from which 45 tonnes of lead site to the High Activity Handling
+shielding bricks were removed, in the Building. There it has been used to
+breakdown and movement of the construct a new lead shielding wall.
+Oagiad Cdaed Me Fp
+Se choker trees | | KAEA Government
+eo g S An over a oso
+. ROA 4. Division
+Plges ret prae
+
+Introduction
+In the early 1960s, the United Kingdom
+Atomic Energy Authority (the ——
+Authority) experimented with different '
+types of processes that would facilitate
+safe, long-term storage of highly active
+liquid wastes. The Fixation in Glass of
+Active Liquors (FINGAL) project
+explored the feasibility of producing 50 HA
+__. liar
+
+Kg glass blocks and Spetamsed process HE Ss ETL aT
+parameters for production-scale !
+equipment (Figure 1). The last few runs | |
+used highly active liquors from the ce Tica ONE OAT eG | ll ll i |
+Authority’s Windscale Laboratory. Pipe a’ a ; Ch ee eae .
+leakages within the FINGAL cell spread : enero _ : ae
+contamination over plant items, walls, yee .
+the floor and ceiling. Attempts were = ——
+made to clean the cell so that operations a —— eee Papen
+could continue and the planned a
+experimental programme was completed Figure 2, The Chemical Engineering Building
+in 1965. Spillages on the cell roof from
+transfers between the shielding liquor
+flask and the plant and from sampling Plant Configuration
+points were finally dealt with by putting Analysis of the way in which the cell and
+down a concrete screed over the roof its contents could be decommissioned
+shielding blocks. Samples taken recently presented some fundamental problems.
+from hot spots in the shielding blocks Design and construction details had not
+showed that radioactive contamination been kept and plant drawings had been
+had penetrated to at least a depth of 0.5 archived as microfilmed images taken from
+m with activity levels up to 107 Bqgt. second generation masters. The resultant
+
+The FINGAL cell is situated at the prints lacked clarity and were of little use.
+end of a 36 m long storage pit in the old Despite the elapsed time, information from
+Chemical Engineering Building (Figure original operators was of more value. Two
+2). This building is the subject of a campaigns of careful man-entry provided
+decommissioning programme with a checks on the physical conditions and
+scheduled green field end point in dimensions of main plant items. Video and
+1998.© Initial tasks have been to strip the — photographic records were taken at the
+building of the multitude of redundant same time and radiation and contamination
+chemically and radiologically surveys were made.
+contaminated process plant, rigs, The main cell was found to be in a
+laboratories and stores. The building decrepit state. The six-stage vitrification
+fabric is being decontaminated so that furnace and two pre-heating ovens were
+near-conventional demolition techniques discoloured and their steel supports were
+can be employed. The 'INGAL cell had badly corroded. The pipework was poorly
+to be decommissioned to allow access to supported and in places had been cut to
+the pit which must also be extensively allow removal of connections to the balance
+decontaminated. Even after 30 years of of plant that had been removed from the
+abandonment, FINGAL represented one outside of the cell in the late 1960s.
+of the largest single inventories in the Contaminated, used items of plant had been
+building. Later experimental and near- left on the cell floor. Lighting and power
+production scale vitrification facilities circuits had been only partially isolated. The
+such as HARVEST were not heavily remaining sections of ventilation ductwork
+contaminated and were relatively easy to were found to be heavily contaminated.
+decommission. Areas of loose and fixed contamination
+
+—-Z-
+
+interlocking concrete "
+blocks weighing up to 20
+| tons apiece. The blocks
+r } Ht i " were supported by internal
+" {ih me | walls that were set into
+| Hl iT the west area of the
+AAA pit. FINGAL
+jean components were
+Bs 4) 1 ’ originally put into
+the cell and the roof blocks
+iT , > positioned by the 50 ton capacity pit
+nt crane. The spilt activity on their top
+IN oy co a — = surfaces and contarainiaiea within the
+= a Ng a ee UT a blocks precluded a easy moe soa
+q - ' Ba SS oe reverse assembly was impossible. The cell
+an =—_ 2 _—- r had only one entrance which was 29”
+ate a a } (0.74 m) wide. All decommissioning
+a ee fF: == equipment and all generated waste had to
+- 22S pass through that limiting doorway and
+negotiate a right-angle turn at the end of
+the cell access corridor.
+The lack of space within the cell
+could be found throughout the cell; dictated that an extra handling/breakdown/
+subsequent analysis showed that the decontamination/packaging area had to be
+predominate isotopes were ?°Sr and °’Cs, constructed adjacent to the FINGAL cell.
+Within the main cell was a lead- A Modular Containment System (MCS),
+shielded chemical process cell, which developed in the Authority’s Winfrith
+contained the active stock and feed tanks. laboratory, was built in the pit with a
+This cell consisted of approximately 800 passageway linked to the FINGAL cell
+lead bricks with an estimated mass of 45 doorway. A low level waste half-height ISO
+tonnes. The walls of the cell were made of _ packaging facility was commissioned
+‘System 10’ bricks which each weighed further down the pit to receive FINGAL
+150 kg, and were built up to the full height — and other building waste materials.
+of 3.2 m. It was impossible to view inside
+the lead cell, but during the man-entries
+rudimentary /y radiation measurements Selection of handling equipment
+were made with a telescopic probe through The numbers of extremely heavy bricks
+a hole in the top of the shielding. that needed to be moved from height and
+The furnace and two ovens were joined _ processed focused attention on possible
+by remotely operated connectors that were solutions. New European legislation on
+unmade and made every time a manual handling that would become
+vitrification cylinder was moved through enforceable during the decommissioning
+the plant. The steelwork supporting the project dictated that a specific analysis
+pipe closure gear prevented close should be undertaken to minimise risk to
+examination of the tops or internal surfaces individuals from mishandling of loads.
+of the three vessels. This inspection was Several options for handling were
+carried out from the outside roof of the compared.
+cell, by inserting a miniature colour CCTV Fixing a structure within the cell would
+camera down the bore of each vessel in be difficult because of inaccessibility and
+turn. The inspection showed that despite wall contamination. Installing a conveyor
+the degradation on the outside of the for lead brick handling between the cell a
+vessels, their internal surfaces appeared to and the external MCS
+be in good condition. was impractical as it | ers
+The cell roof consisted of six would block the wy
+_ 3 ~
+
+i) Conclusions
+i | The modification of a commercially
+a y ij available pedestrian stacker truck enabled
+: the restricted-access abandoned
+‘ ; vitrification cell to be decommissioned
+‘ safely and efficiently. The use of the 1
+tonne truck in a variety of roles with
+i different lifting attachments (e.g. forks, jib
+and pallet plate) showed that it is a versatile
+eae piece of equipment that can be used
+aed = readily in areas where access is a problem.
+ia Although in this application the truck was
+y ORs “1G = used manually, it would be possible to use
+—<— hi 8 it in conjunction with an advanced
+Figure 8. Creep control me Wy telerobot such as NEATER.
+for inching near the roof ss
+Acknowledgement
+tank was carefully planned to ensure that The assistance of Mr H Matthews of
+operators’ dose budgets were not Crown Lift Trucks Ltd and Mr M Moody
+exceeded. A contingency plan of adding a of Fast Scheme Ltd is acknowledged.
+level of remote control to the truck to The decommissioning of FINGAL was
+remove contaminated (>50 mSvh"!) funded under the DRAWMOPS
+components was not necessary despite the programme of the UK Department of
+drain tank liquor values (45 mSvh"') being ‘Trade and Industry (DTI). The results of
+close to this threshold. The additional this work form part of the UK
+control envisaged the use ofa telerobot Government programme on
+such as NEATER to manipulate and load decommissioning and radioactive waste
+the trolley with components from the management, but do not necessarily
+truck for transfer to the MCS. The truck represent government policy. ,
+was used to remove all the furnace
+segments which were wrapped and then References
+transferred to a half-height ISO container. (1) JR Grover, W H Hardwick, R Gayler and
+‘Towards the end of FINGAL M H Delve, ‘The FINGAL Process’,
+For further decommissioning, the truck was split and Con-660208, USAEC, Richland (1966).
+information brought back into the MCS. Basic
+please contact: decontamination was carried out and the (2) E Abel and C Hamblin, ‘Dismantling a
+truck was declared free of loose chemical engineering building’, Atom,
+E Abel, C Hamblin contamination for transfer across the site as Jan/Feb 1993, (426),34-39.
+and AC Rose a wrapped package. It has been moved to
+the High Activity Handling Building (3) E Abel, ‘Telerobotics and 3D TV: What
+351 Harwell where it has been used to construct a new you need to know’, IEEE Trans Nuc Sci,
+Didcot lead shielding wall which included some 37 (3) 1443-1451 (1990).
+Oxfordshire of the bricks from FINGAL.
+OX11 ORA
+United Kingdom
+Telephone
++44 (0) 1235 434987
+Facsimile
++44 (0) 1235 434987
+Kt UKAEA Government
+RGA — Oo Division
+
+Figure 3. The 1 tonne only escape route from the cell. The Crown Lift Trucks Ltd as being the most
+capacity pedestrian conveyor would inevitably become suitable for modification (Figure 3). As
+| stacker truck contaminated and would have to be standard, this truck has removable forks
+i disposed of as low level waste. Mobile and outriggers. The later are easily
+> cranes had neither the operational envelope — removed (by unbolting) from the truck
+nor payload required for the furnace lower body. The rear battery compartment,
+breakdown and were not suitable for the power drive wheel and tiller are joined to
+lead cell and its process vessels. They could the truck body through a bolted hinge.
+be used however, for removal of the ovens Electrical connections between both parts
+28 and general purpose handling in the MCS. are directly wired (Figure 4), through two
+' 1 The conclusion drawn was that a main cable bundles.
+[ | pedestrian stacker truck would be able to The sequence of modifications made
+take the range of payloads, offer the reach were:
+| needed for the lead walls and could be * removal of the internal battery charger
+used to move furnace segments. The _ to provide space in the truck body
+remaining problem was that no * re-routing of wiring and addition of quick-
+Bh commercially available stacker truck could connecting plugs and sockets for control °
+a be found that could negotiate the restricted and charging circuits (Figures 5 and 6)
+pathway into the cell. e addition of a battery Ah meter
+We had already modified an industrial e addition of a brushless fan to purge the
+robot design to produce nuclear truck body during charging
+engineered telerobots and had adapted e rewiring for remote charging; packaging
+| ul ‘he CCTV equipment to make robust three- the charger in an IP65 enclosure
+dimensional TV systems.°) Modification ¢ addition of limit switches and linear cam
+| of standard equipment is often cheaper on the lift assembly to limit vertical
+than producing specialised equipment, movement to less than the cell roof
+even if it requires the development of height (Figure 7)
+ia Ih radiation tolerant replacement sub-systems e addition of creep control mode for
+i | for the extreme environmental conditions inching at near-roof heights (Figure 8)
+of modern nuclear facilities. For the e elimination of fast-motion speed on
+— — FINGAL cell, the drive wheel motor
+ie bi es majority of ¢ addition of jockey wheels for stabilising
+| | Se %, dismantling stripped down main truck body
+ay . operations were e seal holes and openings and totally cover
+| Ay planned as being truck surfaces with strippable coating.
+fame fh manual and the
+| | S .\) y problems of The modifications were made using,
+| | i. radiation wherever possible, components similar to
+EN . tolerance were those specified by Crown in their truck
+Ea) not an issue. It assembly. Crown supplied cable for
+— was decided that additional runs and advice on the
+| , ae modification of functional connection of the electrical
+4 \ an existing truck circuits. Keyed quick-connect connectors
+| should provide a with substantial handles were used in the
+"' 5 solution to the wiring break points between the main
+| problems of in- truck body and the front battery
+" . cell handling. compartment. This modification allowed
+| 5 the decommission team to reassemble the
+Modifications truck quickly without error, despite being
+A survey of encumbered by protective clothing.
+—- ” available pedestrian All aspects of the modifications were
+: stacker trucks considered from the view of operational
+identified a 3.8 m three-stage constraints imposed by lack of space in the
+lift, 1 tonne capacity truck from cell and the difficulties of potential
+a> 4
+a
+
+4 = unplanned maintenance or failure of key
+r ei ; 4 components.
+" i Ser ue ean { : sia ’ ' Before the truck was taken into the cell,
+a cay - a trial breakdown and reassembly was
+if : * >} ' } practised in the full-sized cell mock up.
+i 2 unt 4 ; The simple mock up was used to set
+; | dl ) camera parameters and test accessibility for
+“a bane of I the truck and mobile cranes, before work
+a il ; in the cell began. The breakdown and
+aoe ea 1: ‘ reassembly was video recorded as an aide
+connections inside tig - | . oe - 9). ~~~ ~memoire for the team that would
+eactenyanekauive <a — eventually remove the truck from the cell.
+alae ee _ Once the FINGAL ovens had been
+removed, the truck was craned into the pit
+) f in two parts and taken through a removed
+; —— side panel of the MCS. Access down the
+am - 728 ‘ | corridor posed no problems and in the cell
+F F h \) } ; ai a ; the truck body reassembly took only 10
+- \ La i minutes. Functional tests showed that the
+; s) G A. | pee : performance parameters of the modified
+\ A 7 i Mam) truck were within specification.
+} \ we LON Ty Operations
+Operation of the truck allowed all of the
+Figure 5. New wiring - " — Sa eu lead bricks to be removed safely from
+Seppe ced 5 Oy heights of up to 3.2m. A eo kg payload
+jib extension was used to lift the large
+re | aa bricks individually to ground level and a
+Waa: ee : 3 4 a =| trolley. The trolley was manually moved
+) firs \7 ane E through the access corridor to the MCS
+| Si oh and all the bricks were removed and stacked
+aon Li eee = using one of the mobile cranes. The jib was
+) 4 § used to lift out all the large vessels from the
+i d a ea op chemical cell, including those that still
+~¢ : contained process liquors and washings.
+i rN 4 All operations were supervised from
+5; ¢ outside the MCS from a control desk.
+Operators inside the cell and MCS were in
+Figure 6) WewrmHnne)- j 3kQ) contact with the contgoller at the desk via a
+connectors detached | : BS CCTYV system and audio link. The same
+type of miniature camera used for
+| oA inspection of the ovens and furnace was
+| P E a used for this surveillance and
+i . a communication link. The stacker truck and
+: the operational staff could be observed
+a wherever they were working and this
+i lf ensured that difficulties in decommission
+atl could be resolved quickly without the
+TT ; need for supervisory entry to the
+| controlled area.
+! During the removal of the lower layers -
+c of the process cell wall, ambient radiation
+Figure 7. Linear cam ee : (| | levels increased rapidly. Removal of the
+sndilimfcnifenes oe [ { ie lower process vessels, including the drain
+—S-
+

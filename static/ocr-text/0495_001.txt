@@ -1,0 +1,427 @@
+ANS Third Topical Meeting on Robotics and Remote Systems,
+Charleston, March 13-16, 1989
+NUCLEAR ROBOTICS RESEARCH AT
+UKAEA’s HARWELL LABORATORY
+E Abel, MH Brown, P J Fischer, D R Garlick, T T Hanna and K V Siva
+Engineering Sciences Division
+Harwell Laboratory
+United Kingdom Atomic Energy Authority
+Oxfordshire, OX11 ORA, United Kingdom
++44 235 24141
+ABSTRACT The Harwell Nuclear Robotics demonstrators to validate generic design
+Programme uses demonstration hardware to principles and to explore the systems
+validate generic design principles and to integration _ issues. This approach is
+explore systems integration issues before consistent with our experience of remote
+active plant design and trials begin. handling research and development, and is
+Three activities are described. A  proto- even more important as equipment becomes
+type nuclear engineered telerobotic mani- more complex. Plant designers and
+pulator, based on an industrial robot, is operators need sufficient practical proof
+being designed and constructed. This low of new techniques before they can be
+cost device will be of use in decontamin- incorporated into active plant proposals
+ation, decommissioning and waste handling or pre-construction pilot studies. The
+tasks, and several application studies demonstrators therefore will have the
+and trials have been completed. The dual function of being a research test
+Robotics Demonstration Facility includes bed and a potential training aid.
+a computer controlled 5 tonne crane, a ,
+gantry mounted robot and a floor standing , ” At the heart of the development is
+robot. Both robots can _ function as the production of a prototype nuclear
+telerobots using a _ specially designed § engineered robot, based on an_ existing
+input device controller, and have  over- commercially available machine. The
+lapping workspaces. A remote hydraulic Nuclear Engineered Robot [NERO] will use
+independent slave arm with force feedback the standard robot controller, to which
+and connection to local and remote has been added a specially developed
+[>400m] workstations through a broadband joystick input controller, so that
+communications link is the next stage of efficient teleoperation can be
+development of the successful Harwell accomplished. The prototype is being
+hydraulic manipulator. engineered to allow an evaluation of its
+performance to be carried out in an
+INTRODUCTION active environment, proving the ease of
+maintenance and reliability of subsystems
+The initial objectives of the and establishing the design criteria for
+Harwell Nuclear Robotics Programme have future plant applications. In parallel
+been previously described.! Work now is with the NERO development, work on
+underway, focusing on demonstration hard- telerobotics, systems integration, the
+ware and construction, to closely match man-machine interface, communications,
+possible applications in active plant. servosystems and radiation tolerance is
+The emphasis of the Programme is to use carried out, mainly on hardware in the
+
+Robotics Demonstration Facility [RDF). such as accelerator target maintenance or
+An important complementary programme on  ffusion § research, operational experience
+remote television systems is _ reported of production quality machines [rather
+elsewhere,2 as is specific work on force than prototypes] is non-existent.
+feedback for the Harwell Hydraulic
+Manipulator.3 The continued development In contrast, development and
+of the hydraulic manipulator includes the progress in robotics has been dramatic.
+production of an independent slave arm Robotics technology is driven by market
+which will be remotely controlled, and forces which have resulted in mechanisms
+will embody many of the communications and controllers that are reliable, cheap,
+and workstation design principles easy to maintain, and have _ operational
+established by the RDF experimentation. experience of tens of thousands of hours
+per model. Worldwide, there are over
+This paper describes the progress 100,000 operating industrial robots. One
+made so far in the Programme, and the of the major conclusions of an _ internal
+various research topics. The | UKAEA study has been that many of the
+demonstrator projects provide an_ ideal attributes of an _ industrial robot could
+mechanism for increasing the efficiency be directly matched to the requirements
+and versatility of remote handling of nuclear remote handling equipmment.4
+equipment to meet the UKAEA’s future The most obvious deficiencies of industr-
+requirements. ial robots were their lack of radiation
+tolerance, and lack of an effective tele-
+NUCLEAR ROBOT DEVELOPMENT operator interface - to allow real time
+control by a human operator. Other
+Background Mechanically linked differences, compared to an MSM, are the
+master slave manipulators (MSM) and power relative manipulator size nd _ stiffness
+manipulators are the mainstay of remote for a given payload, but these factors
+handling equipment in existing and give advantages of robustness and ease of
+currently planned nuclear facilities. maintenance. Although the replacement of
+MSMs, especially, restrict operators to MSMs_ by industrial robots in existing
+the cell face, are easily damaged and can  pplant is mot generally viable [mainly
+be difficult to maintain. Their design because the space available for de-
+principle has remained much the same over ployment and maintenance is limited],
+the last 40 years despite changes in many applications such as decontaminat-
+facility size and complexity, more ion, decommissioning, waste handling and
+stringent Health Physics requirements, packaging, fuel fabrication and _ repro-
+and advances in non-nuclear handling cessing, posting, inspection, maintenance
+techniques. Attempts to replace the MSM _ and repair could be configured to use
+with electrically-linked force-reflecting suitably modified industrial robots. If
+bilateral servomanipulators in the 1960s the modifications do not _ significantly
+failed because of the high unit cost of change the engineering of the industrial
+those manipulators, a perception of un- robot, then the industry can benefit from
+reliability in electronics hardware, and the accumulated experience of non-nuclear
+an unwillingness to adopt new technology applications, and as significantly,
+despite the advantages of increased benefit from the economies of scale that
+volume coverage, a more adaptable mechan- result from an established robot
+ism and a design less prone to operator manufacturing route.
+abuse. The development of force _
+reflecting servomanipulators continued in 7: An alternative to modifying indust-
+several national laboratories and rial robots is to build special purpose
+companies, and commercial systems are servomanipulators, and specific examples
+available now. Their costs range from in the UK are CEGB’s WARRIOR, GEC’s
+£0.2M to £1.8M for a basic machine, and Advanced Slave Manipulator, and the WAGR
+except for very specific applications decommissioning manipulator. The  dis-
+
+advantage of these machines is that they * ease of decontamination
+are so. special, and do _ not have ¢ radiation tolerance [>104Gy for
+experience behind their design from a in-cell components]
+significant operational _history. Their ¢ industrially supported servicing
+costs are comparatively high and_ the ¢ teleoperator and robotic modes.
+ability to repair and maintain contamin-
+ated machines effectively is unproven. Special applications might also specify
+If the nuclear industry wishes to reduce
+the lifetime costs of remote handling ¢ load capacity [10kg minimum]
+equipment, the benefits of adapting a * reach
+mature series of robot designs which are * ease of use/dexterity
+supported by an established manufacturer * standard communications protocols
+will be significant. Our Programme plans
+to demonstrate that such an option exists (. Typically, because robots are used
+by re-engineering an industrial robot in in production plant where downtime is
+association with the manufacturer, to unacceptable, reliability is high,  de-
+suit a range of nuclear environments, and spite a variety of attitudes to mainten-
+in addition, provide an_ effective  tele- ance procedures. The prototype NERO will
+operator interface and communications exhibit a similar potential for  reli-
+infrastructure. The Nuclear Engineered ability to the mother design because the
+Robot [NERO] will first exist as a proto- overall mechanism and transmission design
+type but will be the baseline design for has not been radically changed.
+commercially available _ versions. The Servicing has been examined with respect
+prototype is based on the Unimation PUMA to glovebox or suited working resulting
+762 robot, with a 20kg capacity. in modifications to fixtures and fasten-
+ings. The radiation tolerance has _ been
+Robot _ Requirements If a robot enhanced by developing radiation tolerant
+can be successfully operated as a tele- subsystems where necessary. External
+operator, which our studies suggest is a surfaces are smooth and tolerant to wash-
+valid hypothesis, then the factors which down and swabbing, to allow decontaminat-
+would make it suitable for a nuclear ion, and additional seals and cover re-
+application have great variety. For design has been undertaken. Finally, an
+example, applications may dictate that interface to the robot controller allows
+effective contamination control is more hybrid teleoperation and robotic
+important than radiation tolerance or operating modes.
+that decontaminatability is more  import- ‘
+ant than speed of operation. Clearly, to ‘ Teleoperation So far we _ have
+address the needs of applications ranging produced a _ versatile teleoperator  inter-
+from fuel fabrication and glovebox face for the PUMA 560, PUMA 761 and PUMA
+decommisioning to PIE and hot cell 762. The payload range for these
+operations will require a corresponding machines is 2kg to 20kg. We have carried
+number of discrete solutions. Even so, a out preliminary manipulative trials using
+set of key functional requirements for the interface shown in Figure 1 with two
+the nuclear industry have been identified three degree of freedom joysticks and a
+as: six degree of freedom hand controller. A
+version 2 joystick interface has been
+¢ Very high reliability [MTBF of in- shipped to UKAEA’s Windscale Nuclear
+cell serviced components >5000Qhrs] Laboratory to allow control of their PUMA
+* ease of servicing [MTTR of in-cell 762 machine as a teleoperated manipulator
+serviced components <1 hour] to simulate decommissioning operations.
+* long service intervals [>1000 hrs Version 2 incorporates teach and _ repeat,
+for in-cell components] operation in world, tool or joint co-ord-
+* modularity inate systems, and a touchscreen is used
+* use of industrial components to select the operational modes. Through
+* contamination control the menu, the robot arm power can be dis-
+
+aa a) Hot spot monitoring and _ selective
+| = I 4 ps electrochemical decontamination could
+a ~~ ys i reduce background levels to allow man
+ae 1 2 % vee <i entry for fefitting. Basic trials have
+oh : : fa shown the feasibility of deploying a hot
+mogemners ay” . spot decontamination head using a robot.
+at Pe > fy Pee [Figure 2].
+. 2 ~ SY a SS ZG a {
+= J Oe k
+° ' ” S fhe i AAAw N __ Mi y
+ee 70H i ee atten
+rt = ; a Beals Ff 4. ja E NY fe PS Ea
+| OF Ne |
+i ea a wr if
+A i ill ot
+Figure 1. The Harwell Input Controller is
+Bs
+abled, the touchscreen can be calibrated, f >"
+and tool offsets can be set. Normal $ coc = _
+features such as inserting, modifying or y i ys
+deleting VAL instructions, moving through a4 ;
+and editing programmed points, merging f HH te
+joystick instructions and replaying the Re ee
+result are included and accessed through ; . a
+the controller. Automatic checks are X, ie ok cay
+made of the demanded command parameters y Mie! + fe
+for legality against the ranges accept- Ai NGA Ye
+able to the Mark 3 VAL II controller. HA\S ae Nfs.
+This requires a fast calculation of the ea\\\ Ween es Palit ee
+robot kinematics, imposition of joint HIN a4
+margins and avoidance of _ singularities. ; Ea is ue
+The controller features a Research it A
+Machines Nimbus VX-20 computer which \ ; \ :
+contains a 80386 microprocessor with a \ ‘. v)
+80387 floating point coprocessor. WY :
+Application _ Studies Decontamin-  Figure2. Non-Active Testing of Electro-
+ation and decommissioning are just two of Chemical Decontamination.
+many different applications which would
+benefit from the introduction of a nnu- In addition, a simulation of a range
+clear engineered robot design. Applic- of solutions was performed using GRASP,
+ation studies have examined in detail the a robot kinematic and _ solid modeller,
+way in which a prototype device could be installed on an Apollo colour graphics
+effectively deployed, and the engineering = workstation. The simulation modelled a
+implications for plant operations. The | PUMA robot with special tooling which was
+prototype NERO will be used to confirm introduced into the box through a rear
+the predictions made by simulation of the | door; additional degrees of freedom were
+task and to assist task definitions. One needed to transport the robot into the
+recent example of an application study box. An example is shown in Figure 3.
+concerned the decontamination of the |The simulation showed that the initial
+insides of stainless steel boxes used as choice of robot size posed difficulties
+refurbishable containments for chemistry in trying to perform sequential decontam-
+experiments. The stainless steel boxes inations because some required motions
+are removed from their shielding and exceeded joint limits. A revised
+moved to a _ shielded refurbishment bay. simulation selected another size of robot
+
+which was then seen to perform adequately _—_
+throughout the box volume. A _ post- ’ aa"
+processor has been used to convert GRASP ™ A :
+instructions to a VAL I _ off-line \ ii | . ,
+programme. The demonstration task \ 43
+consisted of generating an arbitrary me yy i
+planar raster scan of the end effector \ ‘ x
+Symptomatic of decontamination, or the = iia
+cleaning of shielding windows, with a [,
+complient tool. -
+er ru . =
+WW \ - a rm A
+— y -e he
+wat ) eis i ; *
+: = ae . ea xy af
+= SS -~ 4 =
+SI >: SP | ' ae
+It 4 SS — . | =
+ee ke NOLES
+Figure 3. GRASP Simulation 3 i ¥ tia a
+A requirement to improve the ~~ ™™ 7
+effectiveness of pressurized suit workers Figure 4. Elementary Cutting Trial under
+involved in glovebox decommissioning has Teleoperation
+been examined, and a potential solution
+using a NERO and auxiliary remote In the working volume of the gantry is a
+handling equipment has _ been proposed. floor mounted PUMA 761 robot. Above the
+Simple _ proof-of-principle cutting _ trials gantry is a computer controlled 5 tonne
+have taken place, Figure 4, using easily crane with a positioning accuracy of 1mm.
+available tools. GRASP has also been Mono and stereo camera systems are linked
+used to test the dynamic operation of the through a broadband cable system to one
+process of dismantling as well as the of the control rooms where a _ workstation
+kinematic requirements of the remote has been designed to accommodate a
+handling devices. More specific trials selection of cctv monitors and man-
+are analysing the cutting, jig design, machine interfaces. A hierarchical
+and retrieval of glovebox components, control system is distributed over the
+and tool changing techniques are being broadband network with a top level
+adapted from other in-house projects. control computer which issues system
+level instructions to lower level
+ROBOTICS DEMONSTRATION FACILITY subsystems controllers. The facility
+provides the communications test  infra-
+This facility consists of a demonst- structure, the hardware for realistic
+ration area with a control room at each demonstrations of the principles of tele-
+end. Figure 5 shows an inverted PUMA 560 operation using industrial robotics and a
+robot suspended from an X-Y gantry system variety of input devices, and an arrange-
+which can move the PUMA at speeds of up ment for the examination of system level
+to 0.5ms! in the 6x3x2m working volume. strategies such as _ cooperation, collision
+
+avoidance, cell management and _ sensor ——— Ee
+data fusion. ~~ =f realy ms
+————— 4 = 1 Ves aS Hi ! Aap ale =, {ues} 7
+— a 7 | Ay 8 cae ———
+at a ae a a , 14 A i] i ae =e
+, a Pres ( Z ~ Be iy , oh
+joey Ee . 0 oH Noone
+| ha ar " 4) ’ ‘
+wae 4 io. oa
+Wa (ort CO se AS _——— q)
+[ el ai eel gf / Pe 4 A— Id te 3 AS
+rs ———— - ye £ , Le hep Seo) Sa, bs
+ie, = Zs + oar | a
+eaten | 1 jean
+es ea a ir am
+Ce /- Figure 6. Crane Long Travel Motor & Shaft
+Figure 5. Robots in the RDF
+motion control tasks that are encountered
+Crane and Servo Control Smooth in  teleoperation and crane transmissions.
+crane control has been demonstrated on a Emphasis is placed on the application of
+refurbished 1952 5 tonne crane. The present and emerging standards, and
+long and cross travel motors were re- includes modelling, simulation and
+moved and replaced with brushless AC optimizing the control system, drive
+servo motors; the new long travel motor components and_ servos. Digital control
+is shown in Figure 6. Position measure- techniques are now coming into widespread
+ment of long and cross travel was achiev- use, but their performance depends on the
+ed by using two: infra red electronic quality of measurement of position,
+distance measurement systems which were velocity and acceleration. Robust
+located at ground level and whose beam sensors are needed that are compatible
+paths were directed by mirrors and retro- with the active environment, and system
+reflective elements. Despite the age of solutions are being evaluated on _ test
+the crane and its original transmission beds to establish the validity of
+elements, repeatable controlled motion simulations, and to build up data on
+and positioning of the long and _ cross which control strategies can be based.
+travel has been possible by using a
+digital motion controller. Creep speeds Several experimental manipulator
+of a few millimetres per second and powered joints have been produced with
+bumpless_ reversability has been shown. different torque ratings and gear ratios.
+The hoist motor will soon be replaced The principle of an electronically back-
+with an AC servo motor which is rated to  driveable high gear ratio powered joint
+maintain the crane rated load of 5 tonnes has been demonstrated for a prototype
+in suspension without pplication of bilateral servomanipulator test rig, and
+mechanical brakes. Active compensation special purpose motors have been designed
+of hook heave motion and hook swing is and built for the evaluation of force
+planned. The dynamics of the hook motor reflection through direct drive master
+have been simulated and its performance arm joints.3
+and precision of simulation will be
+confirmed through experiments with the Communications A broadband cable
+motor mounted on a test stand. network has been installed to allow
+experimentation to take place into part-
+The overall objective of servo itioning of systems for in and out of
+system development is to assess and cell communications. The cable links the
+demonstrate the servo control techniques Robotics Demonstration Facility, the
+that are most suited to the wide range of Indirect Viewing Laboratory, and a
+
+Development Laboratory 400 metres away. Bry
+The cable is routed through existing site 5 ¥
+underground heating distribution channels - Maamoe
+between buildings. A Headend = rack | eve ee
+accommodates signal processing equipment _ ‘ : _<l'e ae ee !
+for video channels and _ remodulators/ 4 im a Le Sm
+frequency translators. Full band data aa bE aX Meh ef |
+channels as well as video are installed Sa ee ys) ioe
+on the system. Signals are driven into a Wa sy —” |
+the trunk network via a combining/launch p v y ery
+amplifier. The distribution network [ieseeen feet ON a
+amplifiers can drive four outlets, and “US =. as:
+each outlet drives cable _ splitters, Pa ae
+directional couplers and cable taps, ,
+ultimately to the Network Access Points Figure7. A Hand Controller Model Based
+[NAPs]. A total of 24 NAPs are currently on the Stewart Platform
+on the system, in the three laboratories.
+IBM PC-ATs or equivalents are used as versatile input device for  teleoperation,
+system controllers and are linked on the and in its basic form can be used as a
+broadband cable network. For example the compound joystick.
+communications between the joystick
+interface and the PUMA controller is via ° A workstation design can accommodate
+the network. Point to point video several different input devices, master
+transmission over the network has been arms and_ television display monitors
+used to provide adequate viewing [including stereoscopic displays]. A
+conditions for some of the teleoperation touch sensitive screen is used to select
+trials. modes of operation and a task box
+designed to present typical manipulative
+1 The Man-Machine Interface The use tasks to human operators will feature in
+of single hand controllers such as the human _ factors and _ visual perception
+DFVLR and CAE force balls appears to be studies in the Robotics Demonstration
+beneficial, but initial trials suggest Facility. The use of stereo with
+that cross coupling effects between teleoperation without force feedback
+controlled axes can give rise to un- enables very specific and exact operat-
+expected motions. Both devices allow ions to be achieved, using the increased
+unilateral operation of a slave arm, but richness of the scene. In cutting
+are not easily configured to produce § demonstrations, {Figure 8] the use of the
+force reflection. Working in tool mode CAE hand controller, a colour _ stereo
+through our input device controller, both display and precise control over tool
+six degree of freedom input devices are speed in all degrees of freedom allowed
+easy to use and their characteristics can easy manipulation and alignment of the
+be quickly learnt. Correct alignment of tool, minimising spurious contact forces,
+axes relative to the operators’ percept- | unexpected mis-alignments and unnecessary
+ion of tool or viewed tool coordinate hesitation in repositioning the cutting
+systems is vital to effective  tele- blade for subsequent operations.
+operation and is not necessarily  intuit-
+ive. Low stiffness devices can suffer ©REMOTE INDEPENDENT SLAVE ARM
+from gravity preloading which has to be, ,,
+compensated by the operator. Work has — The Remote Independent Slave Arm
+begun on developing a general purpose [RISA] is a continued development of the
+hand controller [Figure 7] which is based Harwell hydraulic manipulator, with force
+on the parallel kinematics of the Stewart feedback. Local and remote workstations
+platform.5 The mechanism design is will allow control of the slave arm using
+compact and easy to service and maintain. the single broadband cable communications
+It has the potential to be a cheap and network. Feedback of stereo vision,
+
+a Loe 7 ™ Il; uD as teleoperators. Application studies
+[ated — soe /— sr8e = into decontamination and decommissioning
+Sth tei il ” ie have established the suitability of the
+sn ¥ ‘Bee. 28 ‘ approach. The design of a nuclear eng-
+ai a ee | ineered telerobot is nearing completion
+can | cna 3 td and the constructed prototype will be
+RSS Goer zz é installed in an active area. Future work
+aoe SS Oe ft into remote workstation design, further
+ime’ ee systems integration and implementation
+i b : will establish the ground rules for
+iA a s effective systems configurations based on
+es: | : truely remote handling.
+i 5
+Figure 8. Cutting Trials Using Stereo TV - - ACKNOWLEDGEMENT
+and a 6 Degree of Freedom Hand
+Controller. This work is funded as part of the
+Department of Energy’s Active Handling
+force and other kinaesthetic cues will be Programme.
+frequency-division multiplexed over the .
+cable. RISA will consist of a hydraulic- « -REFERENCES
+ally powered slave with electrical and
+hydraulic connectors that can be  auto- 1. E ABEL, MH BROWN, PJ FISCHER, DR
+matically connected as the arm is lowered GARLICK, and T THANNA, "The Harwell Ro-
+onto its mounting plate attached to a botics Programme - Telerobotics plus Ind-
+cell wall or transporter. The concept ustrial Standards", ANS Topical Meeting
+allows plant flexibility in that the |= on Remote System and Robotics in Hostile
+manipulator can be placed exactly where | Environments, Pasco, WA, USA, 27 March-
+it is needed rather than in some perman- 2 April 1987, pp. 263-9.
+ent position. The use of an_ electric
+master arm described in Reference 3 means 2. AA DUMBRECK, E ABEL, S P MURPHY,
+that force feedback control is _ possible, J HOLT, P M SCHEIWILLER, and V M
+and one master can be used to service READING, "3-D TV:Evaluations and Lessons
+several slaves, in sequence, if required. Learned", ANS Third Topical Meeting on
+This demonstrator will allow an _ evaluat- Robotics and Remote Systems, Charleston,
+ion to be made of realistic remote SC, USA, 13-16 March 1989.
+handling, communications techniques and
+workstation design. 3. K V SIVA, K KERSHAW, B HUNTER, and
+G V COLE", "The Development of a
+CONCLUSIONS Force Reflecting Electric Master Arm for
+Harwell’s Hydraulic Manipulator”, ibid.
+The Harwell Nuclear Robotics Progr-
+amme is developing some of the generic 4. E ABEL, "Robotic Devices for Future
+techniques needed for manipulation in the Nuclear Plant?" the CEC Working Party
+nuclear industry of the future. With the Meeting "Hot Laboratories and Remote
+use of simulation to predict behaviour of Handling", Cadarache, 26-28 June 1985.
+Systems, and demonstration hardware to
+validate simulation and on which to base 5. K V SIVA, A DUMBRECK, P J FISCHER,
+specific experimentation, designers will and E ABEL, "A General Purpose Hand
+be able to become familiar with the new Controller for Advanced  Teleoperation".
+techniques that are arising from outside Proceedings of the International
+the nuclear industry, in automation, Symposium on Teleoperation and Control,
+communications, robotics and control. Bristol, 12-15 July 1988, IFS, pp 277-90.
+Work so far has concentrated on improving
+the man-machine interface for industrial
+robots so that they operate efficiently UKAEA Copyright 1988
+

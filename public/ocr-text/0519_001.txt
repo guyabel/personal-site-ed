@@ -1,0 +1,215 @@
+DECONTAMINATION & DECOMMISSIONING
+Can Harwell awaken the long-dormant memories of its “old-timers” to help
+a, e . s e e
+speed up the demolition of its biggest pile? By David Fishlock
+unique long-term experiment premier research tool and isotope BEPO, in essence, is a cubic rein-
+has just begun at Harwell, source for the next 20 years, before —_ forced concrete box with walls nearly 7
+expected to last a decade, per- being shut down and sealed in 1968. inches thick and nearly 50-ft. long.
+yaps longer. It concerns Four decades on, BEPO has again This box is packed with 28,000
+Europe’s first big reactor; the first outside become a focus of Harwell’s attention, graphite blocks, totalling about 700
+the USA, built 1946-48. as plans take shape to decommission tonnes, punctuated with holes — chan-
+Harwell showed as much ingenuity and demolish the pile. To assist this nels for its uranium fuel slugs, control
+in naming its experimental reactors as process Dr Ed Abel, manager of Har- rods, and experimental access.
+in designing them. BEPO stood for _ well’s three remaining reactors — the BEPO provided the first experience
+British Experimental Pile with the “O” others are the much smaller piles both of the problems of reliable fuel
+added to create an acronym that PLUTO and DIDO — has assembled —_ element canning and of detection of
+recalled the popular Marx Brothers. the original construction drawings and failed fuel, recalls Bob Jackson, its first
+But it was no joke. BEPO was the photographs. “However, they do not —_ reactor manager. Its main contribution
+UK counterpart of the pile assembled reveal the way in which the reactor was to the future of nuclear energy had
+at Oak Ridge, Tennessee, by Clinton operated,” says Abel (pictured with the _ been to suggest to his colleague, the late
+Engineering Works to scale up Enrico author on p3). For example: Dick Moore, that “a gas-cooled reactor
+Fermi’s first successful pile demonstra- system could substitute for a fossil-
+tion in Chicago in 1942. (Fermicoined = * they don’t say what construction or fuelled boiler.” Moore outlined this
+the term “pile” for what literally was a operational difficulues arose that idea in 1947 and it triggered design of
+pile of graphite bricks.) The Clinton might be important in decommis- Calder Hall and the Magnox reactors.
+precursor preceeded the huge reactors sioning: Jackson, who later became Harwell’s
+built by du Pont at Hanford to produce ° they don’t explain how day-to-day chief engineer, also reports that late in
+plutonium for atomic bombs. experience was gained and how it BEPO’s construction designers had
+Britain had not been privy directly influenced operations; added a heat exchanger to the air
+to the project and post-war was ban- ¢ they don’t explain or reconcile coolant outlet duct to heat the adjacent
+ished from further nuclear collabora- inconsistencies between different — buildings: “nuclear power.” And an
+tion with the USA. But work had reports, drawings or files; outlet air filter “which Windscale then
+begun on the design of a British pileat * some aspects of construction and copied on their stacks — with great ben-
+Chalk River, the Anglo-Canadian-US operation are missing altogether. efit when one reactor caught fire.”
+collaboration. This was the origin of B.T. (Terry) Price, a physicist whose
+BEPO. When John Cockroft returned He believes the missing data could have _ calculations had led to these air filters,
+from Chalk River in 1946 to set up the an important bearing on the approach, recalls how staff worked under safety
+Atomic Energy Research Establish- duration and eventual cost of decom- _ conditions that would horrify today’s
+ment, Harwell, he asked those left missioning. He had the idea of recruit- Health & Safety Executive. “They
+behind to start designing a pile. ing surviving constructors, operators consisted merely of a cardboard notice
+In its day this was a colossal engi- and experimenters to share recollec- hung on the master switch: DO NOT
+neering achievement, comparable tions with his decommissioning team. SWITCH ON MEN INSIDE.”
+with anything Britain achieved in the “Some piece of information ~ such as Price, who in the mid-1970s became
+second World War (see Box). Complet- knowledge about the use of the slug founding secretary-general of the Urani-
+ed in July 1948, it served as Harwell’s store and how it was sealed and putinto um Institute (now the World Nuclear
+sy = : safe care and maintenance 40 yearsago —_ Association), used BEPO for experi-
+x\ ‘ | OM: ine sale ~ might give us more confidence than ments for three years. Compared with
+Bas 1 ON ek aa oU having to assume the worst,” he sug- other Harwell reactors it had a wealth of
+F , fi cA ret gests. “I want to suck your brains dry.” experimental capacity — 100 holes for the
+ak SW ae? er Yk ee Late last year Abel assembled about _ scientists to use. In one kind you poked
+\., : Y & 21.” 70 former Harwell employees at BEPO things in to expose them to the intense
+at i 5 i Ay Fe ee = to. announce his plans and invite them radiation within the graphite pile. From
+rus | y eka 7 to complete an initial three-page ques- the other you released a beam of neu-
+2 oe es 1 tionnaire. They gathered in Hanger 10, trons for measurements outside the pile.
+a BEPO’s home, now at the edge of a site One of Price’s main occupations
+P known today as Harwell Science and had been to measure the neutron cap-
+fa Innovation Campus. Current plans — ture cross-sections of three isotopes of
+Old-timers gather in BEPO’s hanger on the 40th anniversary of | dependent on funding from the — crucial interest to the bomb-makers:
+its shutdown to share recollections with the decommissioning Nuclear Decommissioning Authority 235, 239Py and 2+! Pu. For “Pu there
+team. Photo copyright UKAEA are to start decommissioning in 2015. — was no published information avail-
+14 NUCLEAR ENGINEERING INTERNATIONAL FEBRUARY 2009
+
+Vol 54 No 655 February 2009 CONTENTS
+LEAD NEWS
+Ni Ic |EAR 4 Sweden to reverse ban on nuclear; a second EPR for
+France; more uncertainty on ESBWR design; talk of
+y 9
+E N Gl N F F R | NG a Siemens and Rosatom joint-venture; two UK AGRs
+=, come back online
+INTERNATIONAL ®
+! —= a NEWS UPDATES -
+Assistant Editor: 8 Three companies are vying to build Finland’s next
+Caroline Peachey nuclear power plant
+Associate Editor: <= —= = a
+Claire Maden 9 interested parties have until the end of March to
+a . ne as
+Editorial Assistants: er: z nominate potential sites for new build in the UK
+Hi aa pees 10 The IAEA will see change this year, with a new
+aneenes director general and the recently changed US
+Group Managing Editor: administration
+James Varley
+croup el Manager: COMPANY NEWS
+cott Galvin
+11 The latest company news and contract results
+Journal Secretary:
+Natasha Denney
+Art Editor/Designer: t as COMMENT
+Karen Townsend ae bs “AC j 12 Global recession is not necessarily bad news for
+Technical Illustrator: . | Rs nuclear, according to Steve Kidd
+Nick Stenning as ae
+Production Controller: j eet DECONTAMINATION &
+Lyn Shaw a =| 2 <a _ __ DECOMMISSIONING
+Classified Production Controller: yy i 2 cin 14 “Old-timers” are helping with the demolition of
+Ann Waters Europe's first big reactor
+Sales Director: _ 7 7 =
+Tim Price 17 A European Commission project has been getting
+rt, . to grips with graphite to aid decommissioning
+Publishing Director: : :
+rogrammes in Russia
+jon Morton prog
+aan: Shite __ RADWASTE MANAGEMENT
+e “Vitti A said
+; ; // / Mi } 20 The present cap on Yucca Mountain is not enou h
+Editorial & Advertising Office: gy /} if if j p p 10 9
+Progressive Media Markets Ltd, lbh LLL em to accommodate projected waste volumes arising
+2 Maidstone Road, Foots Cray, Kent DA14 SHZ, UK . i
+Tend Th 8269 7835 Fan dd 20 8269 7804 after 2010. What options does the USA have?
+email: cpeachey@progressivemedlagroup.com 7 a -
+Japan office: 22 Alook at the extremes of waste management in
+Masayuki Harihara, Yukari Media inc, 3-4 Uchihiranomachi, a France: the very-lows to the highs
+3 Chome chug-ku, Osaka 540-0037, Japan eo ' = . —
+Tel: +816 4790 2222 Fax: +81 6.4793 0800 Ha
+Subscription office: a ees FU SION
+For subscription enquiries, single copies or back issues:
+Optima WDIS, Units 12 & 13 Cranteigh Gardens Industrial 26 Testing of remote handling machines is underway
+Estate, Southall, Middlesex UB1 2DB, UK ,
+Tel: +44.845 155 1845 Fax: +44 20 8606 730) ona mock-up of one of Iter’s key components
+emall: progressive@optimabiz.co.uk
+Subscription rates: "yt
+es subscription Dini the INSTRUMENTATION & CONTROL
+World Nuclear Industry Han k)
+Uk Europe: £285 /€440 “7 = 30 US regulators have reservations about all-digital
+ane safe oN reactor protection, but things may be about to
+Progressive Media Markets Ltd 2007 change
+Nuclear Engineering International ISSN 0029-5507 A a aT
+is published monthly for $505 a year by Progressive 2 ( ‘Bec: ay)
+Media Markets Ltd, Progressive House, en, et ro | PC IWER PLANT PERFORMANCE
+2 Maidstone Road, Foots Cray, Kent, DA14 5HZ, UK. . - \ = " : " =a
+ae i 32 The two units at Beznau in Switzerland have been
+eriodicals postage at Rahway, Nj. x . .
+POSTMASTER: send address corrections to a operating for an equivalent of 32 full power years
+Nuclear Engineering International c/o BTB each
+Mailflight Ltd, 365 Blair Road, Avenel, Nj 07001. = _
+US agent: BTB Mailflight Ltd, — a oO —
+365 Blair Road, Avenel, Nj 07001. POWER MARKET DEVELOPMENTS
+ae ee et Bes2°
+Pe eh Ni a | ve °° °° 38 The EDF takeover of British Energy from a financial
+edia MarketsLtd @ @ 7
+perspective
+©2009 Progressive Media Markets Ltd
+Printed ty ISSN 0029-5507 ,
+) Ay 1 yL iit >. |
+a WN=\omm =| WaterPower DAM Nias.) Modem Sistems OM
+
+DECONTAMINATION & DECOMMISSIONING
+SSS a ey
+PR
+able. When in 1955, the Russians pub- ; € rie | \ ek ear ,
+lished their measurements Price had AMIS oii Ul Li K ig + aah li
+been very relieved to learn that they Harwell’s first pile was the low-power 100kW experiment GLEEP, jal — : eae ve pest
+tallied with his. similar to one operated at Chalk River. But a more powerful pile _ or] J 1
+Decommissioning was first consid- was needed, around 6000kW, recorded Professor Margaret a Sb | ie
+ered when the reactor was closed in Gowing in Independence & Deterrence: Britain & Atomic Energy A : \ »
+1968. Such imaginative options as 1945-52, Vo, 2. The fundamental design of this pile was done by o \ i
+excavating a huge hole beneath the pile British scientists in the Montreal Laboratory in the months before iN
+and lowering it into this hole were con- and just after the end of the war. ny
+sidered, Another was to wrap the reac- Various uses were foreseen: as an essential research tool and FHS ee MA
+tor in plastic and entomb it, having test-bed for instruments, for shielding designs and for radiation Bratt es as \
+demolished its hanger. These options effects on materials. It would also provide data for the design of Ay " 1 HTT a i e
+are not acceptable toclay, says Abel. bigger piles for plutonium production. NT ; moet . a f |
+The issues that confront planners BEPO’s designers were restricted to using natural uranium as ae gi nt ti Nh i
+today are well known he says. The fuel, graphite as moderator, and air as the coolant. “BEPO was a ry + ‘ie wii K B
+most radioactive parts of the reactor therefore similar in all main respects to the first American experi- P ene
+are the G-inch thick steel thermal mental pile at Clinton, Oak Ridge,” Gowing concluded.
+shield plates that line the concrete box. Christopher Hinton’s production organisation at Risley was responsible for BEPO’s design and construction. From early
+Also the 28,000 graphite blocks are summer 1946 Risley engineers worked closely with what then was a very small band of Harwell reactor physicists — notably
+above the ILW/LLW threshold }.V. Dunworth, FW. Fenning and C.A, Rennie. Construction began in June 1946 and BEPO went critical in July 1948,
+because of !*C and tritium activity. The pile itself is a 26-ft. graphite cube built of 28,000 blocks of nearly 15,00 different types, alt machined in an
+When BEPO was closed and sealed, adjoining hanger to an individual tolerance of +0.0025 inch, then built to the correct height by carefully selecting
+the large area once occupied by its over- and under-sized blocks. The biological shield is of reinforced concrete 61 ft. thick, of a specific gravity much
+charge face was devoted to the devel- higher than normal concrete. An inner thermal shield of 6-inch steel plates protects the concrete from overheating.
+opment of remote handling technolo- The pile shield had to be assembled so that the 3800 holes common to both the shield and the graphite blocks were
+gy for radioactive activities throughout accurately aligned. This was achieved through a system of permanent steel shuttering with an elaborate support
+UKAEBA sites. The current decommis- structure — a very complicated maze of steelwork fabricated and created by the Admiralty dockyards at Plymouth.
+sioning plan expects to use many such Cowing recorded that there were surprisingly few difficulties in design and construction given the novelty of the
+techniques, unavailable 40 years ago. project. Two minor crises were both non-nuclear: one concerned the centrifugal compressors that sucked hot air
+“The advantages of using these types from the pile; the other the hydraulic hoists for the charge and discharge platforms.
+of technologies is that the awkward Professor Gowing concluded: “From the time BEPO went into operation, it worked without any breakdown and
+decommissioning tasks — decanting continued to do so until it was finally closed down in December 1968. The engineers learned a great deal in design-
+and processing the graphite, orienting ing and building BEPO, It was their professional art to find the cheapest and simplest way of producing the results
+and handling the thermal shield plates required, but in this, the first pile, they were dependent on the physicists, and at the end they realised that the scien-
+— become a well-defined logistics prob- tists had demanded higher standards of accuracy and perfection than were necessary. This in itself was valuable expe-
+lem similar to that found in flexible rience and gave the engineers far more confidence when they came to design the large-scale piles which were to
+automated production lines or ware- produce plutonium.”
+houses,” Abel believes.
+He plans access to the pile through
+the unload (west) face, through a 26-ft. decommissioning in 2015, Radiological — aware of BEPO’s musical properties. Its
+square opening. So robustly was the characterisation, scheme design, financial — 200-ft air exhaust stack became known
+containment designed, its stability will sanction, regulatory approval, procure- _ as the world’s largest organ pipe, until
+survive this massive intrusion. The big — ment and mobilisation of the decommis- __ the scientists found ways of controlling
+opening will improve rates of material _ sioning team will take 2-5 years. Mostly the five tonnes of air it released every
+removal and allow access to the whole _ these activities have to be carried out in minute. Joslin recounts a local scare
+pile at its place of easiest decant, he __ seriessince they dependon previoussteps _ story that urged folk to “run like stink
+says. Roof-top plant will be limited to —_ and they fit a gated process. upwind of the stack” if they ever saw
+dealing with the thermal column doors The plan expects decommissioning — smoke issuing from it. None ever did.
+and sackhole emptying. of the slug store and the pile itself to be The stack was demolished in 1999
+Today, the site boundary is close to completed by 2022. The following year —_and its base is now used as a car park.
+three sides of Hanger 10. To ensure — Hanger 10 will be demolished and the —_ Inspectors found the top-most section as
+that the impact on the critical dose site restored to a delicensable state. clean as new. Joslin ranks BEPO “one of
+group is minimised debris will first be Dick Francis, formerly from Harwell Oxfordshire’s proudest achievements,”
+taken below floor level into the area and now an executive of the Nuclear Among those invited was BEPO’s
+occupied by the biological lab, hoist | Decommissioning Authority which will — operator at the time of its closure. He
+pits and inlet and exhaust ducts. pay for the project, describes Abel’s inter- brought with him a framed certificate
+Here the waste will be assayed, with —_ rogation of Harwell’s old-timers as “an — with which he had been presented in
+some processing (including removal of — excellent example of NKM inaction”. 1968. It testifies to the fact that he’s
+any particulate) and where appropriate © NKM stands for “nuclear knowledge _ proved himself to be a fit, proper and
+packed. The graphite will need heat- management,” atermused by the Inter- sober person “entitled to call himself a
+treatment to ensure absence of any national Atomic Energy Agency (IAEA). Pile Driver, and all lesser beings shall
+residual Wigner energy, in order to meet Terry Joslin, representing BEPO’s treat him with respect due to his
+long-term disposal criteria. The thermal neighbours around Harwell, recalls status.” The certificate is signed by
+shield activation is due to ®°Co so its how the community became aware of __ Plutonius Rex. We want to relearn the
+classification as ILW will depend on just the pile’s utility in making radioisotopes __ lessons Jearned in the 1940s by opera-
+when it is delivered to storage. available for medical and industrial pur- tors, no less than the scientists and
+Abel’s current plan calls for a starton pose. The community also became designers, says Ed Abel.
+WWW.NEIMAGAZINE.COM FEBRUARY 2009 15
+

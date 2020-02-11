@@ -1,0 +1,394 @@
+24. Three-dimensional television system for remote handling
+
+A. A. DUMBRECK and E. ABEL, UKAEA, Harwell Laboratory, J. HOLT, CEGB, Marchwood Engineering
+
+Laboratories, UK, and P. M. SCHEIWILLER and V. M. READING, Institute of Opthalmology, London, UK
+
+ABSTRACT
+
+The paper refers to work previously described on the development of 3-D Television Systems. 3-D TV
+
+had been developed with a view to proving whether it was a useful remote handling tool which would
+
+be easy to use and comfortable to view. The paper summarizes the work of evaluation trials at UK
+
+facilities and reviews the developments which have subsequently taken place. 3-D TV systems have
+
+been found to give improved performance in terms of speed and accuracy of operations and to reduce
+
+the number of camera views required.
+
+INTRODUCTION The facility is designed to test and develop
+
+equipment for nuclear decommissioning, part-
+
+l. The Engineering Sciences Division of  icularly with respect to the decommissioning of
+
+‘Harwell Laboratory carries out research and the pressure vessel of Windscale's Advanced
+development of remote television systems for Gas-cooled Reactor (WAGR).
+remote handling in nuclear environments. The
+work includes equipment development and human 4, Four operators were asked to carry out a
+factors experimentation; its ultimate aim is to series of cropping tasks using a KUKA robot
+facilitate the widespread introduction of fitted with a small hydraulic scissor-shear. The
+television (TV) viewing equipment into nuclear robot was controlled remotely via a _ hand
+plant. controller. Television viewing arrangement was
+
+the independent variable, and the floor plan is
+
+2. The work includes the development of shown in Fig 1. The viewing conditions were:
+
+stereoscopic or three-dimensional (3-N) TV. The
+initial development has been previously Condition 1, 3-D - The stereoscopic camera was
+reported!,3, In brief, this concen- mounted obliquely to the task as_ shown.
+trated on determining the factors which would (Qperators were allowed to switch between wide and
+make 3-D TV easy to use and comfortable to view. narrow angles-of-view and to pan and tilt the
+The control of the depth and shape in 3-D images camera. The narrow angle view just covered the
+was studied, as well as the accuracy required in complete area of the task ~ there was no need to
+matching the two images. Guidelines for system switch to the wide angle if small pan-and-tilt
+design were derived and these were used in the movements were made,
+
+. design and manufacture of prototype 3-D TV ;
+systems. Subsequently prototype systems have | aang 1a8k Site
+been evaluated at Central Electricity Generating ___ Reference Plane_—— a
+Board (CEGB), Marchwood Engineering Laboratory, ee ee 7
+
+* who are collaborating in the work, and at UKAEA S | Se
+facilities. These evaluations have confirmed a h nN
+the original design philosophy and _ have _¥®@ ff D
+suggested refinements which have been incorp- | | 6
+orated into subsequent designs. The purpose of '/ (+p
+this paper is to summarize the evaluations and ,
+design changes that have resulted, and to report J KUKA ROBOT
+on the current state of development. This Ny
+development work has made available 3-D TV
+systems for a wide range of viewing requirements ———
+and environmental condit ions,
+
+[r[teme soow [| ss | 28 | 1 | as
+
+PRELIMINARY EVALUATION:
+PROTOTYPE BLACK AND WHITE 3-D fa| tame soow | 25 | 15 |
+
+3 Prelimi luat i t Wind ] 4] 6.6.0. Camera] 10 | i
+
+5 reliminary evaluations a indscale "
+Laboratory showed a 23% improvement in the time psx — =
+taken to complete a typical decommissioning task @] tome eoow | -
+- cropping a reinforcement bar - via a remotely Fig 1 - Camera and Task Arrangement -
+operated industrial robot in a mock-up facility. Preliminary Trials
+Remote techniques for inspection and refurbishment of nuclear plant. BNES, London, 1988. 109
+
+VISUAL INSPECTION TECHNIQUES
+Condition 2, Orthogonal Cameras - Two cameras A task was based on an operation planned as part
+were placed at right angles to each other with of decommissioning WAGR; two heavy steel plates
+respect to the task and manipulator tool axis. were to be moved between stands and a "toast
+Informal trials were used to determine the rack" using an overhead gantry crane, see Fig 2.
+positions of the cameras. Whereas the 3-D camera The task involved rotation and = accurate
+was found to give acceptable views at the first positioning of the plates. One was a curved
+try, two subsequent attempts were needed for the piece of thermal shielding 5cm thick, and the
+orthogonal cameras. The cameras were originally other was flat and 8cm thick. Respectively,
+mounted further forward, but this gave operators these were to be inserted into slots 8cm and
+orientation problems. Both orthogonal cameras 8.3cm wide.
+had fixed focal-length lenses, giving a slightly
+larger angie of view than the 3-D narrow angle, 8. Two television views were provided - a
+so that the task could be completed without main view looking along the slots from 1.6m
+panning or tilting the cameras. above the toast rack and an oblique supple-
+mentary view - based on camera positions
+5. Lighting was fixed and not within the possible for the real operation. The supple-
+operators’ control. Times to complete the series mentary view was always in 2-D but the main view
+of crops were measured. The average times were could be either 2-D or 3-D. At present, it is
+9 mins 22 secs for 3-D and 11 mins 33 secs for envisaged that the real operation will use only
+orthogonal, but it was not possible to establish a single view (the main view).
+statistical significance. A study of video tapes
+made of the operations showed that the reduction 9. Six operators were timed using both 3-D
+in time for stereo was linked to fewer discrete and 2-D. Half used the 3-D first, the others
+movements of the robot being made. A number of 2-D. In turn, with each viewing system, the
+operators who used the equipment during these operators moved the curved plate from stand to
+trials and other operations expressed a toast rack, the flat plate to the toast rack and
+preference to work with the 3-D system. None then returned both to their stands. The
+said they preferred the orthogonal or expressed sequence was ther repeated. The time taken was
+any difficulty in using the 3-D system. divided into 4 components for each plate
+transfer:-
+EXPERIENCE AT CEGB, MARCHWOOD:
+PROTOTYPE BLACK AND WHITE 3-D Component 1: From start position (or end of
+component 4} to the first touch
+6. A prototype black and white system is in of the plate by crane grab.
+use at the Central Electricity Generating Board's
+Marchwood Engineering Laboratory. It is set up Component 2: End of component 1 till plate is
+in a test and evaluation rig for in-reactor man- clear of stand or toast rack,
+ipulators2, The 3-D system provides visual including grabbing the plate.
+feedback for a range of simulated in-reactor
+operations such as welding repairs. Operators Component 3: End of component 2 till plate is
+have chosen to use the 3-D rather’ than inserted fully home in toast rack
+alternative two-dimensional (2-D) systems also or stand.
+available and report improved visual feedback.
+The extended time over which the system has been Component 4: End of component 3 till crane grab
+used at this facility has provided an opportunity is released.
+to check the stability and performance of the
+camera and display in the hands of operators with
+no expert knowledge of television equipment.
+Regular inspection has shown no routine
+requirement to set up the camera mechanisms. :
+There has been some drift in monitor geometric : Te
+alignment after one year, but this was small rm ? ~ i
+enough not to give operational problems and was \ ar ee
+easily corrected. The display brightness and ea | ~¢ : er — ys
+contrast controls, which need to be carefully en Seve x ~~
+matched on the two monitors, had been locked off ite = TA ES Spica, Keay ET
+during installation and so had not been adjusted As ¥ GEE cp iy ary
+by operators. The settings had not drifted ae or | Vat). PEs
+significantly during the eighteen months of use. hale 4. aie (Eas. ? a
+Part of the design philosophy has been that the §& ‘ 8 ee Sal i ag a
+operator should not be able to change settings - BN ae OE en ey eee
+that are not essential for operations. This has fy Sr i Sate Wh) fof ooo nde
+been largely confirmed by trials - operators have #7 > ie eb i} \ Pe f. 1 Se
+not expressed a wish for more adjustments, and 9% a: ee a (Se
+the equipment has stayed well set up. mer >t. os ae. RE ee =
+TRIALS AT WINDSCALE: COLOUR 3-D pee aa Ee Re: o San
+7. Evaluations of the colour 3-D system
+described later in this paper, were carried out Fig 2 - Windscale Evaluation Facility showing
+at the Windscale facility described previously. Crane-grab and Mount ing-rack
+110
+
+PAPER 24: DUMBRECK, ABEL, HOLT, SCHEIWILLER AND READING
+“10. Assuming that moving the two plates
+was equally difficult, each component’ was
+repeated 8 times for each viewing condition by
+each operator. For the four components, at each
+repetition by each operator, the 2-D times were a mr
+subtracted from the corresponding times with the 2i Pei
+3-D system. The mean differences are shown in a 18 mms eee
+Fig 3. Statistically, components 1, 2 and 4 are 5 Hees Ses
+not significantly different, but overall and for g 2 ee eed
+component 3, the difference is significant at 7 fines esis
+5%. One-sided t-tests were used because it was = 3 mies pee
+expected, a priori, that 3-D would give the a 6 RES cee
+faster times. @ 34 geme Ye SS
+a Bes) ees | fees | Come: +e
+11. The absolute mean times for the 7 Comp. 1 Comp. 2 Conp. 3 feist | overall
+components were:
+3-D (Seconds) 2-D (Seconds)
++1 Standard +1 Standard
+Component Error of Mean Error of Mean
+1 39.9 + 3.6 42.7 + 3.4 Fig 3 - Time Difference, 2-D minus 3-D,
+2 36.8 + 4.1 40.7 + 3.3 for Task Components
+’ 3 103.1 + 9.8 124.7.+ 10.0
+4 20.8 + 3.9 18.1 4 2.1 operators commented that the 2-D views could
+have been better placed - plan and elevation
+Overall: 200.6 + 13.4 227.2 + 12.9 views would have been preferred - but with 3-D,
+, the camera positions were satisfactory. This is
+in accord with earlier findings that the
+Table 1 - Mean Component Times positioning of a single 3-D view is far less
+critical than the optimal siting of a pair of
+2-D views.
+14. Component 3 was part of the task which
+required the most positional accuracy, and also CONCLUSIONS FROM EVALUATIONS AND OPERATING
+shows the most benefit from using 3-D; an EXPERIENCE
+improvement of 17%. Video tapes of two of the
+operators recorded during the trials showed that 15. The experience of trials and operations
+the supplementary view was used differently when shows that 3-D TV systems give a number of
+the main view was 3-D rather than 2-D. With benefits for remote handling:
+3-D, the operators looked at the supplementary
+view for only a small percentage of the time. - A reduction in the number of views (cameras)
+required.
+Mean % of Mean % of
+Time 3-D Time 2-D - Faster operational times, with greater
+improvements for elements requiring
+Main ‘ 94.6 60.1 alignment.
+
+» Supplementary 0.2 32.7
+Controls 4.0 5.0 - Fewer manipulator movements for a given task,
+Other 1.2 2.2 . suggest ing that fewer errors and collisions
+
+r would be made.
+
+Table 2 - Percentage of Time Spent Looking at - Positioning of cameras is less critical with
+
+Main View, Supplementary View and 3-D.
+Controls
+Furthermore we can hypothesize that operators
+are better able to interpret unfamiliar scenes
+13. A third operator showed a less marked with 3-D TV.
+difference between 2-D and 3-D. However he was
+
+not typical and had considerable experience of 16. Brightness and contrast controls were not
+using orthogonal, 2-D viewing systems, provided on the 3-D system because of the
+: preferring to use a way of working which was difficulty foreseen in re-setting the matching
+familiar. of the brightness and contrast of the two
+monitors. These should only require adjustment
+14. A questionnaire was completed by the six if lighting conditions change in the viewing
+timed operators plus two more who had also used area, or to compensate for inadequacies in the
+both the 2-D and 3-D arrangements. The 3-D was video signal. Some facility for adjustment with
+highly rated on picture quality and ease of use. ability to match the pictures would give a more
+All except one (the third of those video taped) useful display. Although the geometry
+had preferred using 3-D and would have been corrections needed on the display were slight,
+happy to do so for extended periods. Some it would be helpful to operators if they could
+111
+
+VISUAL INSPECTION TECHNIQUES
+check the adjustment themselves and adjust if range about the convergence plane, the con-
+necessary. vergence distance being automatically or
+manually set. In this case, a switch to return
+CAMERA DEVELOPMENT focus to the convergence plane would be helpful.
+This latter requirement to unlink focus and con-
+17. A requirement to develop a_ fully vergence has implications for the complexity of
+engineered colour camera, subsequent to the the camera, and could best be made as a software
+production of the first black and white cameras, option. To date camera designs have not
+has provided the opportunity to incorporate some permitted such a link which would only otherwise
+of the refinements to the original designs be a requirement for 3-D cameras using zoom
+suggested by the mock-up. evaluations and Tenses.
+operational experience. The cameras have been
+built and were used for the second series of SPECIFICATION FOR AN IN-REACTOR AND IN-CELL
+trials at Windscale Laboratory, see Fig 4. The CAMERA
+camera has included: the choice of automatic or
+manual iris control; a mechanism accurately 19. The ultimate aim of the development work
+linking focus and convergence, convergence is on 3-D TV systems is to provide systems which
+achieved by axial offset of the lens so no can be used for a variety of nuclear applic-
+trapezium errors are suffered; mechanically ations, including for use in inspection and
+linked iris control giving very accurate iris repair of gas-cooled reactors and for use in
+matching; the position feedback of the focus post-irradiation examination and experimental
+mechanism which could be used to provide a fuel-reprocessing facilities. A specification
+binocular range-finding facility. The camera for a camera to work in these environments has
+uses two re-packaged single-sensor solid-state been produced by consulting with experts on
+cameras and a range of photographic lenses which remote viewing systems and on in-reactor repair,
+make angles of view from 30° to 8° available. As mainly within the CEGB and the South of Scotland
+with the earlier cameras, video is transmitted Electricity Board (SSEB). The specification
+via twisted pairs. The camera is designed to encompasses the temperature requirement to 150°C
+allow radiation-tolerant sensors to be fitted to with chilled air cooling, lighting requirements,
+give a radiation-tolerant and environmentally materials, and mechanical constraints. The
+sealed version. camera will have angles of view from 40° to 10°
+and will converge and focus down to 300mm for
+18. The combined focus and convergence control the wide angle-of-view. A technical decision on
+was originally designed to give simple operation whether to use zoom lenses or two pairs of fixed
+- one control instead of two. It is generally focal length lenses has not yet been made.
+true that the cameras should be converged on the Cable tengths of up to 100m will be allowed for.
+object plane that is in focus, which is the plane Target radiation-tolerance will be to 106Gy
+of interest. However, it is sometimes desirable with dose rates to 104Gy/nour.
+to focus on a plane behind the optimum con-
+vergence plane. The optimum convergence plane DISPLAY DEVELOPMENT
+normally corresponds to the nearest object in the
+view of the camera. Simple automation of linked 20. The polarized light displays. use two
+focus and convergence to focus and converge on modified picture monitors set at right angles
+the nearest object would be useful, an option of and viewed via a  beam-splitting mirror.
+reverting to manual control should be included. Polarized light filters at the monitor faces and
+Experienced operators would be able to make use in spectacles worn by viewers separate the two
+of a facility to adjust focus within a limited pictures. These have proved to give good
+quality pictures which are comfortable to view
+and with no operational difficulties. We
+ae ie anticipate that this display will be the
+ae at preferred option for serious use of 3-C
+ee See oS ry television over the next few years, because of
+SP aa. the high standard of performance. Some
+{ } 35 applications may demand smaller displays for a
+\ ‘ a int given size of Screen. In this case we now
+i Prarie es = | believe that a time-division display. of
+= a pect a acceptable quality could be made, but at
+oy m$ EL ree or met considerable financial cost. The display would
+ES a aa - 4 be required to show a video at twice the normal
+Ue fi Sauipe | 4 rate and suitable framestores would be needed to
+ae a ee : buffer the video, if conventional cameras were
+a ms s : to be used. This would give anomalous picture
+a : , Be : = if components for moving objects, but we believe
+Me, ie 3 that picture quality could be acceptable for
+: ae tt . Se a oe = = most subjects. The polarity switching should be
+' |e ae ¥ ye be 4 y carried out at the monitor face, with polar-
+PO ee eee ae oe Bae eee he izing spectacles being worn by the viewer. Care
+yt hee i: mot pee must be taken in the choice of picture phosphor
+Pm 32 2eme vd £ and polarizing materials to keep’ crosstalk
+: " a “ between the left and right pictures to an
+Fig 4 - Colour 3-D Camera acceptable level. Autostereoscopic displays are
+112
+
+PAPER 24: DUMBRECK, ABEL, HOLT, SCHEIWILLER AND READING
+feasible; these use an image-forming screen to
+transmit the left and right pictures to the eyes | 57o Pe eS (2a a a eg
+without the need for a viewing aid to be worn See
+(though the viewer's head position must be moka ED SUG DS as WB
+reasonably fixed to obtain the 3-D view). Such a Bag Pe) EY Fe) a Ee a a Ba Se UT a
+display showing live 3-D video has recently been Sma esd ET ES a aaa ee FB
+demonstrated at Harwell Laboratory. Teche [Se es eee se fees ol Rees [r |
+A Pe BEES) SS Fe DF DS WD
+21. The colour polarized light display SB Ge Sa ES Sa BS ST aE a
+developed at Harwell, see Fig 5, is a development FEE) Py RN Aa Te] SRS SC SN WS GH Bs
+of the original black and white display, but SRE BBB GR Es ES Se a BW ee |
+using Grade 1(4) Colour Monitors which have AES Fe) ead ee Sd aa BW
+preset controls for allowing control of the SP) RG FER Pd SS ES 2 a
+picture shape. By collaboration with the manu- f+ ft tt tt 2
+facturer, the important preset controls for each HS a BA BMS He ae
+monitor have been brought out to a_ Tockable (a a Pe hese
+control panel on the top of the display; this can HN DW eee ee ee
+be seen in Fig 5. A test pattern generator has < EAR G5) BF SG BD ‘ABs
+been included in the system so that the operator
+can follow a relatively simple procedure to
+check, and if necessary, adjust the geometry, Fig 6 - Cross-Hatch Pattern for Matching
+colour, and grey level of the monitors so they Display Monitors
+are well set up and matched. A cross-hatched
+pattern, see Fig 6, is displayed on both monitors been deliberately set out of balance to show how
+t to allow geometry comparison - the scan circuits they are compared. The black level, set by the
+; of the two monitors are adjusted until the two brightness control on a high quality monitor, is
+patterns exactly overlay. A picture line-up set using the three bars at the top or bottom of
+y generator (PLUGE) signal is sent to the top half the picture. The central bar is at the black
+of the right monitor and the bottom half of the level voltage of the video signal, the bar to
+left, see Fig 7. The grey scales are thus the right is 2% above black and the bar to the
+displayed on one monitor each. The display is left is 2% below black. The brightness is
+viewed without spectacles so the two scales can adjusted so that the difference between the
+be compared, In Fig 7 the two pictures ‘have central and right bar is visible, but the
+difference between the central and left bar is
+f » Re not. The contrast controls are then adjusted to
+a give correct and matched grey scale.
+22. We anticipate that some training for
+; operators to carry out the set-up would be
+required, in addition to concise’ written
+: instructions. Similar developments are being
+» 2g included in black and white displays currently
+ines 4 in manufacture.
+Dy, iy —— Tor al VIDEO TAPE RECORDING OF 3-D TV PICTURES
+—=——— =i ay /. A 23. 3-D pictures can be recorded in a number
+‘ oe presco$ Fa 4 of ways. Two tapes can be synchronized on two
+ba —F A ai high quality machines with a suitable edit
+i 1 i i esa | controller. This method can give very good
+' : SS ; = - -
+; == ; A. '
+SS == ss si == | e |
+; r Ye et
+? Seta
+Ve a
+. : : Worry o e Nf
+: Sod Gees
+Per : A gracias se yi a! jams tee URE ee es
+. ; ee a or 2327 SEE Gk Soh ey aces SE aU eR gat
+* = mes Dee Ee An PALS Ge Nanay Cee MAT Ee ERUE Ses EA
+Be Weteore | «| amen a rs  tnt re peu ee a
+: , Fig 7 - PLUGE Pattern for Matching Display
+Fig 5 - Colour 3-N Display Monitors
+113
+
+VISUAL INSPECTION TECHNIQUES
+results, but is expensive and requires that two Nuclear Fuels plc. We thank them for their
+tapes are kept together. Some degree of skill is support and permission to publish this paper. We
+needed to record or play back. We have demon- would like to thank Ed Perrott at Windscale
+strated a satisfactory technique where left and Laboratory for arranging evaluations there.
+right fields are recorded alternately to the odd
+and even fields of the tape. The tape is then REFERENCES
+played back via two frame stores which repeat
+fields, for example, the left field is repeated 1. A A Dumbreck, C W Smith, and S P Murphy.
+once while the right field is being read from the The Development and Evaluation of a Stereoscopic
+tape. Television System for Use in Nuclear Environ-
+Ments. American Nuclear Society, International
+CONCLUDING REMARKS Topical Meeting on Remote Systems and Robotics
+in Hostile Environments, Pasco, WA, USA, March/
+24. The trials and subsequent developments April 1987, Pages 106-113.
+described here show that 3-D TV can provide a
+useful tool for the assistance of remote handling 2. D W Perratt. Remote Operations Inside
+operations. Development is already at a stage Nuclear’ Reactors. ibid, Pages 182-189.
+where 3-D systems can be usefully employed to
+enable operators to carry out remote operations 3. C W Smith and A A Dumbreck. 3-D TV: The
+more quickly and accurately than with conven- Practical Requirements. Television, Journal of
+tional television. the Royal Television Society, Vol 25, Pages 9-15
+January/February 1988.
+ACKNOWLEDGEMENTS
+4. General Purpose Television Colour Picture
+25. The work has been jointly funded by the Monitors. BBC Engineering. BBC Specification TV
+CEGB, SSEB, Department of Energy and British 1282, London, September 1984.
+114
+

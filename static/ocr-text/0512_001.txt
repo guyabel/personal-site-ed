@@ -1,0 +1,272 @@
+Accepted Poster Paper for the IMechE International Conference on Nuclear
+Decommissioning, 29-30 November 1995 (Nuclear Decom’95)*
+
+TV2GO - THE USE OF MINIATURE OFF-THE-SHELF CCTV DURING
+THE DECOMMISSIONING OF A CHEMICAL ENGINEERING BUILDING
+E Abel, C Hamblin and A C Rose
+AEA Technology’, Harwell
+
+SYNOPSIS
+The 43 year old Chemical Engineering Building at AEA Technology's Harwell Laboratory is
+the subject of a decommissioning programme, with a scheduled green field end point in 1998. It
+has housed experimental and production plant covering the full spectrum of the nuclear fuel
+cycle. Clearance of the building is being accomplished using mainly hands-on methods.
+However, increasingly stringent legislation on topics such as manual handling, COSHH and
+workplace evaluation mean that every task has to be carefully planned and strictly controlled,
+with reference to a range of potential chemical and radiological hazards. Using techniques
+borrowed fromm remote systems technology, decommissioning operations now regularly employ
+Video and CCTV for inspection, surveillance, communication, record keeping, training and
+management control. This poster paper describes the use of miniature off-the-shelf colour
+CCTV systems that have been configured to meet a range of applications in the building.
+Because of their versatility, cheapness and the ease with which systems can be built quickly and
+made ready for use, they are known as TV2GO.
+* Note: The submitted Synopsis (virtually identical to the first section) and pictures of the
+building surveillance cameras were added to this printed version in 1998, otherwise this version
+is as presented at the Conference Poster session.
+* In 1995, UKAEA work was published under the AEA Technology banner.
+
+BACKGROUND
+The 43 year old Chemical Engineering Building, Building 351, has housed experimental and
+production plant covering the full spectrum of the nuclear fuel cycle. Clearance of the building
+is being accomplished using mainly hands-on methods. However, increasingly stringent
+legislation on topics such as manual handling, COSHH and workplace evaluation mean that
+every task has to be carefully planned and strictly controlled, with reference to a range of
+potential chemical and radiological hazards. Using techniques borrowed from remote systems
+technology, decommissioning operations now regularly employ Video and CCTV for
+inspection, surveillance, communication, record keeping, training and management control.
+Miniature off-the-shelf colour CCTV systems and 3-D TV have been configured to meet a
+tange of applications in the building. Because of their versatility, cheapness and the ease with
+which systems can be built quickly and made ready for use, they are known as TV2GO.
+SELECTION OF CCTV CAMERA
+UKAEA have extensive experience in specialized CCTV design for the nuclear industry.
+Stereoscopic systems such as TV> have been used in reactors, decommissioning projects and
+non-nuclear applications. However for short-term exposure to radiation, especially at the levels
+where manual decommissioning teams will operate, radiation-induced degradation of CCTV
+electronics and optical systems is not normally a problem. The decommissioning tasks require
+a system that could be rapidly deployed or installed, would provide quality pictures and was
+robust. Video recording of the information and the ability to interface cameras with audio links
+was also important. For inspection purposes, colour was necessary because chemical residues
+and corrosion were likely to be found in many rigs, ductwork and installations throughout the
+building.
+Table 1 - Details and Specifications of Chosen “Lip stick” Camera
+583 pixels
+[Scanning | 2:Dinterlaced
+Ambient temperature -10°C to +40°C
+
+up to 30m
+
+a
+The particular camera chosen was supported by a wide range of accessories. The camera
+control unit could be located up to 30m away from the head. Environmental and underwater
+housings were available, but for the mainly dry applications in this building they are not
+necessary. Contamination has been avoided by carefully double-wrapping the camera and cable
+in lay-flat plastic tubing. The camera was fixed to a miniature pan and tilt unit when used to
+observe work being carried out by decommissioning teams. The pan and tilt was either hung at
+height on a wall or mounted on a tripod that could be easily moved.
+
+FINGAL INSPECTION AND DECOMMISSIONING
+
+A deployment system for the lip stick camera was based on a 5m length of plastic conduit. The
+camera was wedged at one end and the control and signal cable run inside. A cut down plastic
+filter funnel was fitted to shroud and protect the camera head, and a halogen light was strapped
+to the conduit. The maximum width of the assembly was 75mm, compared to the plant bore
+dimension of 150mm. Camera parameters such as aperture and focus were set beforehand by a
+trial inspection of a (clean) soil pipe.
+
+Working from the roof of the FINGAL Cell through the concrete shielding, a telescopic B/y
+probe was used to map the radiation distribution of the furnace and two oven bores. The
+conditions of the inside surfaces were then inspected using the lip stick camera. High quality
+pictures of the bores showed that remarkably little debris remained and the furnace elements
+and ceramic bricks were mainly intact. This information strengthened the methodology
+proposed in the Decommissioning Safety Case. Correlation of the radiation measurements
+with the camera images clearly identified the location of the hot spots on specific areas above
+the furnace and ovens.
+
+Two cameras were installed, one on a wall-hung pan and tilt unit within the Cell and one fixed
+to the inside of the MCS. The two viewpoints gave virtually total coverage of all areas. The
+control units were housed in a cabinet next to the change barrier in front of the MCS. A video
+switch allowed the supervisor to watch his team in either area on a TV monitor and record
+operations using the VCR. Two-way speech communications were possible through an audio
+system which was also patched to the VCR. The FINGAL Communications System worked
+without any problems during decommissioning operations.
+
+At the end of the work the camera heads, lenses and cables were decontaminated and
+pronounced clear of contamination and will be used in other MCSs or containments built for
+decommissioning in different parts of the building. As expected, the microphones and speakers
+were not saved. An enhancement of the system components which uses leaky feeder cables as
+the transmission medium for voice, control and and video will allow greater variation in the
+types of respiratory protection that can be used by the decommissioning teams and make
+system deployment and installation simple.
+
+UNDER FLOOR DUCT INSPECTIONS
+
+The Ground Floor of the building is crossed by seven 0.9m x 0.6m under floor ducts, which run
+towards the pit. Each duct is 17m long and is clad with a stainless steel liner. They have
+housed all the building rig and laboratory active transfer and drainage pipework. Chemical
+contamination persists and spillage from rigs has resulted in corrosion of pipes and supports in
+the ducts. Contamination levels range to beyond 200 cps a and 3500 cps B/y. Spectrometry of
+samples shows predominately U and Th contamination with Cs-137 and Ac-228. Significant
+Pu-239/240 and Pu 238/Am-241 levels are present in one specific duct and another contains the
+drain line for the U-233 separation pilot plant. The duct which contains the majority of Solvent
+Extraction Pilot Plant transfer pipework had accumulated radiologically contaminated debris
+soaked with the aggressive plant solvent, tributyl phosphate in odourless kerosene (TBP/OK).
+An inspection programme was devised to establish the extent of the contamination and the
+status of pipework in the ducts. Each duct was covered by a series of interlocking steel plates
+(1.2m x 0.6) which each weighed approximately 170kg. In many places the ducts ran under
+internal walls and active cubicles and so direct access was impossible. A TV2GO camera was
+fixed to a set of rodding poles which could be progressively added as the camera was inserted
+
+further into a duct. As with the FINGAL inspection, a halogen lamp was used. A more
+substantial shroud was provided so that the camera did not get trapped between duct
+obstructions. The CCU and VCR were mounted on a mobile trolley. Video and radiological
+records were compiled for cach 1.2m section of each duct so that the eventual strip-out can be
+based on detailed knowledge of the ducts' contents.
+
+VENTILATION AND EXTRACT DUCTWORK
+
+The majority of the 4km of ductwork in the building is being removed in 1995/96. Inspection
+of the internal volumes of the ductwork has been carried out in 1994/95 so that records of
+accumulated in-duct debris, contamination levels and other information (such as the presence
+of asbestos and chemical corrosion) can be determined. Such information forms the basis of
+safety justifications for decommissioning. Initial trials have shown that for this building, at
+least, visual inspection is an easier alternative to investigative dismantling prior to ductwork
+strip-out, and is inherently safer.
+
+GENERAL SURVEILLANCE OF OPERATIONS
+
+TV2GO systems have been used to observe several other decommissioning operations where
+containment construction has prevented easy access by project management teams. 3D-TV has
+been used where the additional quality of information has been essential for the safe removal of
+the FINGAL Cell mass concrete shielding roof blocks. 3D-TV and lip stick cameras were
+placed inside the containment to monitor the progress of block lifting. The 20-tonne blocks
+had loose contamination tied-down onto their upper and lower surfaces. It was crucial for the
+safety of operators to see clearly the way in which the tie-down coating tore apart, sheared,
+delaminated and sagged, before the blocks were raised even a few inches. It would be
+impossible to get definitive, unambiguous visual cues using ordinary cameras. The stability of
+the supporting walls and the way in which the jointing cement (also contaminated) broke free
+had to be monitored remotely as the block removal progressed.
+
+Success in using CCTV within the building will be extended to external decommissioning and
+final demolition. Steerable, mast or building mounted surveillance cameras will be used to
+watch, record and control operations. The data will be relayed to a central point in B351, then
+as the building is vacated prior to demolition, to an adjacent building which will house the
+Project Team.
+
+CONCLUSIONS
+
+The use of cheap, colour lip stick cameras in a Chemical Engineering Building have enabled
+decommissioning operations to be carried out safely and efficiently. A visual link between
+decommissioning team members allows rapid analysis of task complexities and helps in routine
+communication. The size and ease of deployment of camera systems means that high quality
+information can be obtained from plant without extensive alterations. This information can be
+successfully used as a foundation for decommissioning planning and safety assessment.
+ACKNOWLEDGEMENT
+
+This work has been funded under the DRAWMS/DRAWMOPS programme of the Department
+of Trade and Industry (DTI). The results of this work form part of the UK Government
+programme on decommissioning and radioactive waste management, but do not necessarily
+represent Government policy.
+
+/
+3 :
+aa 7 oO , i
+“a |
+a ;
+: eo = ;
+g °r | a
+. 4
+| >
+A lip stick camera Camera plus simple shroud and light
+I]
+| iI!
+I
+ry l gl \
+i. am ‘s
+Lie e
+4 ° i 4 ra ry , <4
+Fi o © 1, ,
+‘es ing a rs Wy - x
+” ma j of i ra eve a ip ra
+St ree PM 2 “pty a 4"
+. as a f ra » a
+i ae , | \e /
+~— tt .
+i | om : +. - ! " \
+Camera and B/y monitoring of FINGAL furnace Microphone, speaker and camera with pan and tilt
+mechanism on installation backplate
+I | es
+- a rye ett Oi 1 ; i ir
+Pas —
+| & a. a”
+ie sl e “ rd fa
+" ” » SG \ yl
+| a A s
+! otis - ‘ -
+| | ! is
+| m td ' / "
+| 7 aN i
+’ ’ us . = eA J
+i 2 f
+1 . - - .
+ &
+Camera and communications control station Inside the FINGAL Cell — lipstick camera image
+
+® - a e.., >| °
+- ae 4
+aan \\ wa br |
+ms 1 = i P ry ; i «ees STS: ae
+——— ee eee . |
+s = : —t ss ad . I° : ;
+l £ y db BN SY | vee -, ™ . 5 i ae j p
+et P 7) a = i " | ’
+ar ; as ; a ie | ; *}- z
+= ob ee “fi a
+7 pa ) sh ae ot - °
+} ‘aap ais of. ;
+i -— = é ts if x zs i . oot F ——— 4 ;
+Us|. =e if - ' I = i
+| I
+ad ¥ |: 4 j au 1 t
+Examples of building contaminated ductwork that | “TV2Go Kart” — trolley with camera, lighting and
+was inspected before decommissioning recording controls for use within Building 351
+; ) > = S| : as oe j
+i ‘ f 5 a _ : aa
+a | : ‘< ene Pt al
+_ an | VT “a + fF \ Xe ee net | |
+! e y © > i a | j
+= = b X as gece he il 1 ie
+; r > i ff ° i — a al waite = a} | |
+» we =z s mae | ie . . & |
+25 ie a : a go l | ri 4
+i Th a 4 a / f iy . | —— 1
+a - ' rer: a / r
+ae, = 4 , Me Sw iy; ™ I ir
+CW eS ee ls em RL
+ff .
+7 sz é e — 4
+. os eo:2- oe a ~
+(4 - jan |
+i rs / ; : ie = Bd
+3-D TV camera head 3-D TV monitor
+bance
+| = i ¢
+. ' tl
+f Ny 9) |
+i hs 4 are !
+} ‘ ; 4 ii ae : j : 7 as st
+i iq ni i. aan a oe |
+y ite Sa sed 2 7] *- Wap: Ht
+et i 4 |
+} ; —™ |r) 4 ~~ F > 5 Ae Wh ar
+f ot | —— aa ha a
+AL | :
+I} ie ea |! oe ty |
+(| femme i F; ee
+~~ FS ; —, —
+— - aera an ee
+1 ae feta Got, ce. te NS irae
+: =z oo =
+| 4 i CIEE Bi, imme a See Sees» ae a ee ee
+Building surveillance during decommissioning & Camera mast for surveillance of
+demolition decommissioning & demolition
+

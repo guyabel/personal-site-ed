@@ -1,0 +1,1101 @@
+r pe Dead | | +~< ; ' i ‘ i | -
+Sri is DUDISNeC } nay NC DE cifCculatec or referred to outside tne organisation to
+
+yhHich copie: ave been ser
+
+5 ’ j
+oe
+r = i
+z= ALE. 3 ITF, ry) |
+fl AD! ; } j OH
+] ROV! ’ PLIBLICATION
+
+ee Ci et
+- : ate ae a ase
+i2-L ot [aa |
+Act ce AMT ;
+= ao To a al / r et aoe
+5, en? ee iP
+a Pee 2 oe = ae
+coe See hea ee
+; iL Meant 1 ee i Pe oe : 7 ES
+ape en i eal en
+ae ne ; a eon i - sae = a i
+i ct fa = - Bs aie oe. ia aes
+a _ ie ee ee a Tere ae
+ow tr FS ie a fae Tet -
+=o. p= ale = 5 12 7
+ae fs coast, [ae ee ee
+a = i ie is “ nee
+: 7 a 7 = Pee : ook -
+OS at oe Ss ,= a ao : oe
+sige eae | 2 keen Ae
+
+AERE R-11822
+Sading pave fer
+Nuclear ajar!
+ab dis foyer ere
+ROBOTIC DEVICES FOR FUTURE |
+NUCLEAR PLANT?*
+E Abel
+ABSTRACT
+Robots can present cost effective alternatives to man and
+conventional manipulators in nuclear facilities. The
+historical background to the development of servomanipulators
+and robots is reviewed, the types of application areas
+suited to robots are discussed, and recommendations are
+made for further developments. In the light of this review,
+a programme considering the use of robotic and teleoperated
+devices in nuclear environments commenced in August 1984
+at AERE Harwell.
+*Paper prepared for the 24th Plenary Meeting of the CEC Working Group
+“Hot Laboratories and Remote Handling", Cadarache, 26-28 June 1985
+Engineering Projects Division
+Harwell Laboratory
+May 1985
+HL85/1463 (C7) (i)
+
+CONTENTS
+Page No.
+Introduction 1
+Historical Background 2
+Manipulators 2
+Robots 5
+Robot Applications 7
+Fuel Fabrication 8
+Waste Removal and Packaging 9
+Cask Handling System 9
+Extending the Range of Applications 9
+Future Developments 12
+Conclusions 13
+References 14
+ILLUSTRATIONS
+Fig.
+1 Through the Wall MSM with Chain Transmission
+2 MASCOT Servomanipulator at CERN
+3 CRL Model M Bilateral Force Reflecting Servomanipulator
+4 The Brookhaven Manipulator
+5 VIRGULE
+6 German Emergency Vehicle
+7 CRL Model M2 Bilateral Force Reflecting Servomanipulator
+8 Industrial Robot with Spherical Wrist
+9 Subdivision of the Study Project
+(ii)
+
+INTRODUCTION
+Harwell Laboratory has been involved in the development of remote systems for
+nuclear facilities over a period of many years. The emphasis has been placed on
+extending conventional master slave manipulator [MSM], shielding window, and
+filter technology, although novel alternatives to plant and equipment design have
+also been proposed.[1, 2] In recent years, the United Kingdom Atomic Energy
+Authority's Active Handling Programme has continued the conventional remote
+systems development, but has also fostered further research into alternative
+manipulative and remote viewing systems.[3]
+While conventional through-the-wall MSMs and direct viewing are adequate for
+plant designed to existing standards, it has become increasingly difficult to
+match their capabilities to the task descriptions of facilities required for
+present and future fuel cycles. These facilities naturally require high
+availability and an assured consistent process throughput to maintain their
+economic viability. Similarly, decommissioning and waste storage activities
+require techniques for which the fixed manipulator-plus-window workstation is
+inappropriate. Finally, pressures to reduce operators’ radiation exposure from
+Health Physics and Regulatory bodies are likely to limit the operating practices
+associated with through-the-wall MSMs and perhaps in the extreme might even
+curtail the option of penetration-based manipulators and adjacent handling.
+The penalties of the fixed workstation and limited reach manipulator were
+recognized early on in the United Statés, and from 1954 Ray Goertz at Argonne
+National Laboratory LANL] improved on the basic MSM design by electrically
+rather than mechanically linking the master and slave arms.[4] This radical
+change meant that the slave arm was no longer restricted to a position determined
+by the wall penetration, but was restricted only by the transportation device it
+was mounted on. Using ac servomotors as the actuators for the master and slave
+arm joints, Goertz provided a truely remote servomanipulator system, with force
+reflection. This philosophy was adopted by the nuclear industries in several
+other countries, but the ‘concept has been largely ignored in the United Kingdom,
+where facility design required relatively minor modifications to the existing
+range of manipulators. Even so, UK utilities and manufacturers have designed and
+built complex machines for reactor refuelling, and specialized manipulators for
+inspection and repair of gas cooled reactors.{5, 6]
+
+-l-
+
+The UKAEA has begun to redefine its strategy for manipulator development. In
+doing so, cogniscence is taken of the recent rapid advances in microelectronics,
+computing and robotics, all of which have emerged as technologies in their own
+right, independent of the limiting constraint of low growth in the nuclear
+industry. Significantly, by adopting aspects of these technologies, it is
+possible to design remote handling systems whose components are the result of a
+much wider development effort, spread across many different industries. The
+starting point for the design of a manipulator or a sServomanipulator is
+considerably different from 30 years ago, when there was virtually no recognized
+expertise appropriate to remote handling outside the nuclear industry.
+The purpose of this paper is to review the historical background to
+servomanipulator and robot development, to consider the types of application
+areas suited to robots, and to identify the deficiencies that need to be
+overcome. From these considerations, the "Robotics" programme at AERE Harwell
+has been identified, and the initial year's work is nearing completion.
+HISTORICAL BACKGROUND
+Manipulators
+The beginnings of master slave manipulator evolution in the nuclear industry can
+be traced back to an inverted U over-the-wall structure developed by Ray Goertz
+at the Argonne National Laboratory's Remote Control Engineering Division. The
+mechanism consisted of master and slave arms, connected by mechanical linkages,
+giving the operator all the feedback necessary to perform complex operations at
+a distance; it was first publicly displayed at ANL in 1949.[7] Work over the
+next few years, primarily at ANL, was directed at refining the transmission
+system to the tape and pulley, seven degrees of freedom, through-the-wal1
+manipulator that has been widely copied throughout the industry and is still in
+common use today. The transmission medium had low friction and inertia, and
+proved ideal for Hot Lab applications. Increases in load handling capacity were
+achieved by stiffening the machine, and using roller chain as the transmission,
+[Figure 1] but the coverage of the slave arm was still limited to the volume
+immediately around the wall penetration.
+The next development at ANL was the electric servomanipulator; four models [E1,
+E2, E3 and E4] represented progressive improvements in design. The £3 was the
+starting point for the Italian CNEN-Selenia development of the Mascot I and II
+-?2?2-
+
+servomanipulators.[8] Examples of these machines are in use at CERN[9]
+LFigure 2] and at the JET Undertaking at Culham.[10] The E4A[11] formed the
+basis of the Model M, [Figure 3] commercially available from Central Research
+Laboratory LCRL], who later undertook some modification of the electronics to
+reduce the heat dissipation in the ac servomotors.L12] A pair of Model M
+servomanipulators maintain and repair the accelerator targets at Fermilab[13] and
+their cost benefit in man-rem saving and straightforward monetary saving has
+recently been demostrated.[14] Perhaps of special importance are the two £2
+machines at MIT, which formed the experimental test beds on which many
+postgraduate theses were based [for example, reference 15], and on which some of
+the early concepts of robotic theory that have now become standard practice were
+developed and verified.[16]
+In the mid sixties, Carl Flatau developed the Brookhaven servomanipulator
+[Figure 4] which used a different control strategy of interlacing signals from
+force transducers as well as from position transducers. Dc servomotors were also
+used for the first time in the Brookhaven manipulator, resulting in a more
+compact drive package.[17,18] The practice of using dc rather than ac motors was
+continued in Flatau's SM229 manipulator,[19] and in Jean Vertut's MA22[20] and
+MA23[21] machines. All three machines retained the elbows-up attitude of the ANL
+E-Series., and used tapes and cables as the transmission media, with the motors at
+the shoulder. The SM229 has been used extensively for maintenance operations at
+the Los Alamos Meson Physics Facility,l22] where a pair of slave arms are mounted
+on a hydraulically powered boom. A pair of MA22 slaves were mounted on a
+remotely controlled vehicle, VIRGULE, [Figure 5] whose additional degrees of
+freedom meant that rescue or other complex tasks could be performed at a
+distance, outside of the normal fixed geometry of a Hot Lab containment.[23]
+About the same time, German development of servomanipulators produced prototypes
+for demonstration in Hot Labs and on an emergency vehicle.[24][Figure 6]
+Vertut has continually refined the concept of telemanipulation based on the MA23,
+by optimizing the design [realized with the next model, the MA23M], to allow for
+easier maintenance.[25] He has also investigated CATS - computer aided
+teleoperation systems[26] and the application of the MA23M to the maintenance of
+future fusion reactors.[27] The last two developments anticipate the use of a
+servomanipulator in a robotic mode, where preprogrammed operation of the machines
+enhance normal man-in-the-loop control, improving efficiency, and reducing
+operator fatigue.
+
+-3-
+
+With the exception of the SM229 and the French development, servomanipul ator
+technology stagnated after the close of the ANL programme. Machines were
+expensive compared to _ through-the-wall manipulators, especially when the
+necessary support and deployment systems and remote viewing were included.
+Because of the small number of development machines, reliability could not be
+adequately demonstrated and the servoelectronics was considered at the time to be
+an unnecessarily complex addition.
+Recently the Japanese have developed several experimental servomanipulators which
+exhibit force reflection. Both the Japan Atomic Energy Research Institute[28]
+and Hitachi[29] manipulators are designed to go on vehicles, and both use direct
+force measurement on the slave for feedback via a computer to the master arm. In
+contrast, Meidensha Electric and the Power Reactor and Nuclear Fuel Development
+Corporation [PNC] have cooperated since 1978 to develop a series of force
+reflecting servomanipulators for use in high level liquid waste vitrification and
+FBR fuel reprocessing plant.[30] Several prototypes have been built and tested
+and application areas other than just nuclear plant are envisaged.
+In the US, a revival of interest in teleoperation has centered in the
+Consolidated Fuel Reprocessing Program [CFRP] at Oak Ridge National Laboratory
+under US Department of Energy funding. Beginning with the Remotex concept,[31]
+which proposes that power manipulators be replaced with servomanipulators, and
+which also relies almost totally on remote viewing, the last five years have seen
+considerable progress.[32] Three full-sized mock-ups of remote maintenance
+facilities provide actual realistic demonstration of servomanipulators. The
+Breeder Reprocessing Engineering Test [BRET] project will incorporate the ORNL
+designed Advanced Servo Manipulator [ASM], a modular torque tube driven force
+reflecting servomanipulator.[33] The Remote Systems Development Facility [LRSDF]
+uses a dual set of TeleQperator Systems SM229s on loan from Princeton Plasma
+Physics Laboratory, and has been used to evaluate many aspects of the effective
+use of servomanipulators.[34] The CFRP Remote Operations and Maintenance
+Demonstration Facility EROMD] has been used to evaluate the CRL Model M2. The M2
+is a recent joint development between CRL and ORNL where ORNL produced the
+all-digital control for the new CRL machine.[35] The mechanics of the M2 are
+directly derived from the E4A and model M machines, but the motors are brushless
+dc servomotors with rare earth permanent magnets.L[Figure 7] The change in motors
+allows gross maximum orthogonal velocities to be virtually doubled compared to
+the original manipulator.[36]
+
+~4.-
+
+Continued development at ORNL and in France will certainly bring force reflecting
+servomanipulators to the stage where proven reliable machines can be specified
+and procured on the world market for remote nuclear operations. These machines
+already exhibit a high degree of sensitivity in force reflection, and because of
+the adoption of digital control, they will also be amenable to robotic
+operation.
+Robots
+The development of robots can also be traced back to the early nuclear remote
+handling activities in the United States. In 1947, the first servoed electric
+power teleoperator [power manipulator] was produced, with the operator driving
+the end effector from a master control.[37] There was no force measurement or
+feedback [other than by viewing the machine's operation], and in many ways the
+device had the essential components of a robotic system, with the. exception of
+programmability.
+Despite this early start, and the continued development of power manipulators, it
+was not until 1956 that George Devol produced the concept on which the Industrial
+Robot Industry could be based. A prototype was built in 1959 and was applied in
+1961, the same year that Devol's patent was issued, [38] and he formed the
+Unimation Company with Joe Engelberger.L39] Even so the company did not produce
+a profit until 1975. At that time the Robot Institute of America was formed
+although there was still no strong manufacturing base for robots.[40]
+During this time several research laboratories were experimenting in the analysis
+and control of manipulators and robots.
+In 1955, Denavit and Hartenberg produced a methodology for matrix representation
+of linkages that is now often used as the starting point for robot kinematic
+analysis.[41] In 1961 Ernst at MIT used a teleoperator slave arm under computer
+control to map out positional information using touch sensors on the jaws.[42]
+The robot did not have any preconception of position, and so the task was defined
+as a series of touch states.
+Work at MIT and Stanford explored the possibility of using vision systems to
+define the positional information required for robot control.[43,44], but at this
+time no analysis existed to adequately map a robot's absolute position through to
+re
+
+its respective joint angles. Pieper, again at Stanford, provided a solution to
+the joint angle-effector position problem.[45] He also noted that a wrist with
+three intersecting axes of rotation is one of the configurations which
+automatically allows an analytical inverse kinematic position calculation. For
+precisely this reason, many Industrial Robots have now been redesigned with
+"spherical wrists", which are effectively wrists with three intersecting axes.
+LFigure 8]
+Whitney, in 1969 proposed a method of analysis which he called Resolved Motion
+Rate Control, which was necessary because he was using an E2 servomanipulator at
+MIT, which did not have a spherical wrist.[16] The inverse kinematic positions
+could not be calculated other than by numerical approximation and convergence,
+which is too slow for real time control of the manipulator. Whitney's method
+avoids calculating the inverse kinematic positions and instead used a precomputed
+set of inverse Jacobians to reduce the computational cost of matrix
+manipulation.[46]
+By 1970 the Robotics community was sufficiently well established to hold the
+First National Symposium on Industrial Robots in Chicago. This grew into the
+annually held International Symposium on Industrial Robots [ISIR] whose venue
+rotates between the US, Japan and Europe.
+In the early 1970s, control of robots was becoming more sophisticated, at least
+in the research laboratories. In 1972, Groome provided the first demonstration
+of force feedback control of a manipulator, where force sensing in several axes
+was used to determine levels of contact force [47]. About the same time, Paul at
+Stanford was developing a robot programming language, WAVE, designed to specify
+tasks symbolically in Cartesian coordinates and add constraints of position,
+force, touch, and vision feedback to the overall control.[48] The language was
+extensively tested on tasks performed by the Stanford Arm designed by Victor
+Scheinmann[49]. This electrically driven computer controlled arm has rotary
+motions and a prismatic motion similar to the early hydraulic Unimate series of
+robots.
+With the increasing availability of faster and more compact processing, it at
+last became possible to take the broadly based laboratory expertise into
+industry. In 1976, Cincinnati Milacron developed and began to market the first
+computer controlled industrial robot.[50] The robot controller ensured that the
+-6§-
+
+tool point could move in straight lines so that it could interact directly with
+the motions of a moving conveyor. The basic robot function was taught with the
+conveyor at rest [to make it easier for the human operator] and then when the
+robot and process were running, the conveyor speed was fed directly into the
+controller, allowing conveyor tracking.
+
+Also in the mid seventies, the advances in microelectronics had begun to produce
+small, low cost, high performance microprocessors. The impact of cheap fast
+computing on manipulators was that their control could be all digital, and that
+their performance could be rapidly changed to track changes in motion or payload.
+Dubowsky described an adaptive control law formulated using a Model Referenced
+Adaptive Control System [MRACS] technique.[51] MRACS algorithms do not require
+complex mathematical models of the system dynamics nor a priori knowledge of the
+environment. They result in significant improvements in the dynamic performance
+of manipulators which are invariant with respect to changes in either the system
+configuration or the characteristics of the manipulated item.
+
+Supporting the development of new laws for robot control, the analysis of robot
+kinematics and dynamics was consolidated in a book by Paul[52] and in a
+collection of papers edited by Brady.[53] Hollerbach and Featherstone extended
+their earlier work on the solution of inverse kinematics[54,55] and precisely
+identified the computational complexity involved for the major analytical
+methods. Finally, Hollerbach has proposed an efficient algorithm for calculating
+the inverse kinematic accelerations of a six degree of freedom manipulator with a
+spherical wristL56] - the configuration that was noted for its importance by
+Pieper fifteen years earlier.
+
+ROBOT APPLICATIONS
+
+Hot Lab applications of robotics should be considered as a subdivision of the
+many nuclear applications, and this section illustrates the Suitability of robots
+to aid exposure reductions and simplification of the task.
+
+Immediate application of robotic devices in conventional nuclear power plant for
+routine testing, inspection, surveillance and repair can already be justified,
+and the savings over the design life of a robot might be between $100,000 to
+$1 million [57, 58]. Robots are now used extensively in PWR steam generator
+channel heads to inspect and repair the tubes [59], and have been considered for
+
+-7-
+
+demilitarizing obsolete chemical munitions [60]. Currently available industrial
+robots could be modified to perform the following tasks Lin order of increasing
+modification]:
+@ low level waste drum handling
+e@ flask and pipework inspection
+e CAGR/PWR/FBR fuel fabrication
+e filter changing
+@ posting/bagging out operations
+@ decontamination
+@ glovebox decommissioning
+@ glovebox operations
+@ intermediate level waste drum handling.
+For the levels of contamination and radiation associated with these tasks, it is
+not anticipated that major components of the robots would need modification.
+Modifications that might need to be made would be the addition of gaiters
+(booting) or alternative methods of contamination control, and the provision of a
+real time hand controller either for programming or teleoperation. As with any
+task, special purpose end effectors may need to be developed.
+Details of several robot applications have recently been published, which are
+relevant to the Hot Lab fraternity.
+@ Remotely controlled manufacturing of mixed uranium/plutonium oxide fuel
+pins at Westinghouse Hanford [61]
+@ Remote waste removal and packaging from glove boxes at Savannah River
+LaboratoryL62]
+e Remotely operated cask handling system at Westinghouse Hanford [63]
+The three applications are briefly described:
+Fuel Fabrication
+The Secure Automated Fabrication [SAF] line is designed to produce mixed
+uranium/plutonium oxide fuel pins for the Fast Flux Test Facility. The majority
+of operations are fully remote and with one exception, commercially available
+« 8 vw
+
+electric and pneumatic robots, without any major modification, perform the
+loading/unloading operations into specially designed fuel fabrication machines.
+The types of operation undertaken by the robots are pallet transfer of material,
+pellet transfer to a debinding furnace, pin loading and decontamination, chemical
+analysis, and general purpose workstation load/unloading. The facility is being
+commissioned and production is expected to begin in August 1986.
+Waste Removal and Packaging
+Chemical and metallurgical processing at Savannah River Laboratory, Shielded
+Cells Facility generates non recyclable solid waste which includes glassware,
+adsorbent towels and used test equipment. The waste is packed into one gallon
+paint cans, conveyed to a glove box and posted out. The outside of the cans are
+contaminated and cannot be handled directly. Health Physics surveys showed the
+surveying and posting of the cans generated significant radiation exposures and
+so the operation has been realigned to use a 10kg payload industrial robot. The
+robot uses a bagging technique to retrieve the cans and place them in a shielded
+drum. A separate automatic machine clips the PVC sleeve either end of the can.
+Future plans include automating other waste removal systems using prepackaged
+sleeves or a double door transfer system.
+Cask Handling System
+At a waste handling facility, cask surface doses may limit the throughput if
+personnel are required to work for extended periods of time close to the casks.
+Even with additional shielding in cask handling areas design targets cannot be
+met when multiple shipments per day must be handled. An analysis of the benefits
+of using robots to perform the cask handling processes determined that radiation
+exposure could be reduced by 94%, bringing the level down to the target of 1 rem/
+year. Typical tasks were cask washdown, survey, handling, gas sampling, and
+closure removal and installation. Part of the development has been to produce a
+simple method of controlling the particular robot chosen with man-in- the-loop
+control ,[64] and to refine the man-machine interface.[65]
+Extending the Range of Applications
+The three applications cited above use industrial robots with very little
+modification, to work in mildly radioactive environments. It is natural to
+expect that a continued advantage could be gained if it were possible to extend
+ol (Gna
+
+the ability of robots to tolerate more extreme conditions. Before this can be
+achieved, deficiencies in the way existing robots are designed and are operated
+have to be resolved. Secondly, the environmental hazards have to be explicitly
+described, and thirdly, the tolerance of robotic subsystems to the environment
+must be understood.
+The majority of robotic research is aimed at improving control algorithms or
+developing exotic sensors for vision, touch and feel. These developments often
+take five to ten years before they are incorporated into commercially available
+systems having a proven reliability. Improved control would be of immediate
+benefit, as it would allow error recovery, collision avoidance, higher level
+programming and trajectory control using sensory feedback. The Model Referenced
+Adaptive Control System already noted eases the computational burden in the robot
+controller, but is not as yet available outside the laboratory. The development
+of sensors has usually been at the expense of complexity at the end effector:
+this is the antithesis of good nuclear design principles. Most immediately,
+develoments are required for:
+e Improving the teleoperator image - for successful human
+intervention and control.
+e Force feedback to a master controller - for critical operations.
+® Design modularity - to aid remote maintenance.
+e Design for decontamination - resistance to acid cleaning
+and water jetting.
+@ Standardization of interfaces - $0 that common communication
+and software can be used.
+e@ Robust viewing and sensing systems - to allow adequate control.
+The addition of a master controller which provides force feedback to an operator
+inherently improves the teleoperator image over the common robot teach pendant.
+Several compound motion joysticks have been developed, but the most successful
+version has been developed by the Jet Propulsion Laboratory. Their Universal
+Hand Controller provides six degrees of freedom force feedback.[66] The
+controller is kinaesthetically dissimilar from the type of manipulator it
+controls - anything from a PUMA 560 to the Shuttle Manipulator - and the
+- 10 -
+
+transformation is calculated in real time by a computer.
+Design modularity ensures manageable sub-units which can be easily replaced and
+readily handled and posted through to maintenance or disposal routes.
+Decontamination design implies smooth surfaces devoid of contamination traps and
+requires leak tight sealed joints. These aspects have been examined in detail in
+the design of manipulators for gas cooled reactor inspection and repair[5, 6] as
+well as for conventional active handling machines.
+Interface standards will dominate the choice of available equipment in the
+future. General Motor's Manufacturing Automation Protocol defines the method of
+interconnecting the computer systems which control automation and robotics, and
+is likely to become the de facto standard. Finally, remote viewing systems
+including stereo have been developed at Harwell specifically for the nuclear
+environment .[3]
+Radiation presents the most severe environmental hazard, especially in the fuel
+processing facilities. Here, and during decontamination, the robot might also be
+heavily exposed to aggressive fluids. Dose rate is particular difficult to
+accurately specify in a large facility, as overall beta/gamma activity may vary
+by about eight order of magnitude. Those facilities which are concerned with
+alpha activity generally have low dose rates and total dosages, but require the
+robot to be designed to avoid contamination carry-over and to be easily
+decontaminated. The small sizes of laboratory glove boxes may often preclude
+efficient utilization of robots if retrofitted. As with the design of an
+Advanced Manufacturing Technology cell, the robot should be included as an
+integral part of the handling machinery, rather than as an add-on extra.
+Every component of a robot should be examined to assess its radiation tolerance.
+A value of 104R is approximately correct for the total survivable dose,
+although the actual degradation might be gradual. Critical items would be:
+
+@ encoders {or other transducers),
+
+® any electronics,
+
+@ organic material
+
+-ll-
+
+@ cable and connector insulation,
+@ seals,
+@ booting,
+@ lubricants.
+Radiation testing allows estimates to be made for these critical items. A
+comprehensive data base does not exist for all these components, but would be
+necessary if widespread application of robots in the high radiation environment
+was envisaged. Data from space, military and accelerator sources is often not
+relevant because either the irradiation levels or energy spectra are different,
+or the dose rates do not match those expected in nuclear facilities.
+Fortunately, robot manufacturers have tended to modularize their products so that
+it is relatively easy to replace, for example, a motor-gearbox-brake-encoder
+package aS a unit. This means that for supercritical components, a reptacement-
+when-degraded strategy may give up to an order of magnitude mitigation against
+the total dose limit for the robot.
+FUTURE DEVELOPMENTS
+Robots that are used in ‘fringe applications’ of nuclear facility active handling
+have shown cost benefits in successfully reducing operational radiation
+exposures; Special purpose nuclear robots have proved invaluable in reducing
+exposure in reactor operations such as steam generator tube repairs and
+inspection. Any programme of work should attempt to extend their application by
+improving the basic design of industrial robots and understanding the
+consequences of the hostile environment. Harwell's programme has been to
+@ Establish guidelines for future plant and equipment specification.
+@ Indicate the direction in which medium and longer term R & D
+proposals should proceed.
+e Provide the first stage of a comprehensive and co-ordinated
+programme in advanced robotics, teleoperators and process plant
+technology, relevant to the nuclear industry.
+= fla =
+
+Main elements of the programme have been to quantify the data handling
+requirements, examine power and communications transfer within and into caves,
+study the man-machine interface, including such aspects as visual perception,
+image processing and stereo television, and establish a radiation tolerance data
+base and design philosophy. More recently, a study project has been evaluating
+the whole aspect of the integration of robots into the nuclear environment under
+the areas shown in Figure 9. The first year's results from this study are in the
+stages of final reporting.
+CONCLUSIONS
+This paper has surveyed the background of nuclear remote handling and its
+associated technology, robotics. It can be seen that there are many similarities
+between the complexities of design of both types of equipment, and in some cases
+adoption of a robot to perform tasks that previously were under manual control,
+or impossible, can show considerable advantages and savings in exposure dose and
+cost.
+So far the applications have been restricted to mildly radioactive environments
+where only minor changes to a commercially available robot have been necessary,
+or in nuclear reactor plant where special purpose machines have been built for
+limited excursions into the primary circuit. Extending the range of applications
+will be possible by paying attention to
+@ Improving the man-machine interface and providing realistic easy-to-use
+controls for real time operation and programming.
+e Improving the supporting systems such as sensing, including remote
+viewing.
+@ Designing for radiation tolerance using relevant data from representative
+radiation testing.
+@ Quantifying the environment in radiation or other hazard items.
+@ Ensuring that special purpose equipment conforms wherever possible to
+industrial standards.
+@ Equipment test of subcomponents and systems.
+= 13 =
+
+The in-depth analysis of an application is always necessary because robots are
+not designed for the type of environment considered here. It is however,
+possible to modify and adapt existing robots to suit a wide range of nuclear
+facility handling tasks, and this is being demonstrated successfully around the
+world in Hot Labs and Power Reactor Plant.
+
+REFERENCES
+
+1. G Bauer and G Peagram, "A New Concept in Remote Handling", Proc 28th
+Conference Remote Systems Technology, Vol. 1, 1980, pp. 94-106
+
+2. PE Brown et al, "A New Chemical Active Handling Facility - Conceptual
+Aspects", Proc. 29th Conf. Remote Systems Technology, Vol 1, 1980, pp.66-73.
+
+3. J Phillpott et al, “The Use of Robotic Equipment in Active Handling
+Facilities Now and in the Future", IAEA Seminar on Remote Handling Equipment
+for Nuclear Fuel Cycle Facilities, Oxford, October 1984, IAEA-SR-103/15.
+
+4.  R Goertz, "Some Work on Manipulator Systems at ANL, Past, Present and a Look
+at the Future", Proc. 1964 Seminar on Remotely Operated Special Equipment,
+Germantown, May 1964, Vol. 1, pp. 27-69.
+
+5. AR Gregory et al, “The Use of Remote Handling Equipment for Gas Cooled
+Inspection, Maintenance and Decommissioning", IAEA Seminar on Remote Handling
+Equipment for Nuclear Fuel Cycle Facilities, Oxford, October 1984,
+IAEA-SR-103/18.
+
+6. Fairey Engineering Ltd, Stockport, UK, Product Information: 3 Axis Wrist.
+
+7. UD G Jelatis, "Where do we go from here with Master Slave Manipulators?",
+Proc. 18th Conf. Remote Systems Technology, Nov. 1970, pp. 191-195.
+
+8. S Barabaschi et al, “An Electronically Controlled Servomanipulator", Proc. of
+the 9th Conference on Hot Laboratories and Equipment, Nov. 1961, pp.
+143-153.
+
+9. RA Horne, "MANTIS - A Compact Mobile Remote Handling System for Accelerator
+Halls and Tunnels", Proc of 26th Conf. Remote Systems Technology, Nov. 1978,
+pp, 55-61.
+
+-14-
+
+10. T  Raimondi, “Remote Operations on JET: Problems and Solutions",
+Proc. 1st European Symposium on Remote Operations on Fusion Devices, Milan,
+CEC 1982, EURFUBRU/XII-603/82-RO1.
+
+11. R Goertz et al, "“ANL Mark E4A Electric Master-Slave Manipulator",
+Proc. of 14th Conf. Remote Systems Technology, Oct. 1966, pp. 115-123.
+
+12. D G Jelatis and A E Gross, "A Triac Output Control System for Two Phase
+Servodriven Master Slave Manipulators", Proc of 25th Conf. Remote Systems
+Technology, Nov. 1977, pp. 162-168.
+
+13. J Simon et al, “Design of the Fermilab Remote Target Maintenance System",
+Proc. 23rd Conf. Remote Systems Technology, Nov. 1975, pp. 32-40.
+
+14. S W Butala, “Remote Manipulator Experience in Target Train Maintenance at
+Femilab", Femilab TM-1283, 11 October 1984.
+
+15. TL Brooks, "SUPERMAN: A System for Supervisory Manipulation and the Study of
+Human/Computer Interactions", MSc Thesis, MIT, 1977, AD-AO 75 199.
+
+16. D E Whitney, “Resolved Motion Rate Control of Manipulators and Human
+Prostheses", IEEE Trans. on Man-Machine Systems, Vol. MMS-10 June 1969,
+pp. 47-53.
+
+17. C R Flatau, "Development of Servomanipulators for High Energy Accelerator
+Requirements", Proc. 13th Conf. Remote Systems Technology, Nov. 1965, pp.
+29-35.
+
+18. C R Flatau, "Compact Servo Master Slave Manipulator with Optimized
+Communication Links", Proc. 17th Conf. Remote Systems Technology, Nov. 1969,
+pp. 154-164.
+
+19. C R Flatau, "SM-229 - A New Compact Servo Master Slave Manipulator",
+Proc. 25th Conf. Remote Systems Technology, Nov. 1977, pp. 169-173.
+
+20. CR Flatau, J Vertut et al, "MA-22 - A Compact Bilateral Servo Master Slave
+Manipulator", Proc. 20th Conf. Remote Systems Technology, Sept. 1972,
+pp. 296-302.
+
+- 15 +
+
+21. J Vertut et al, "The MA23 Bilateral Servomanipulator System", Proc. 24th
+Conf. Remote Systems Technology, Nov. 1976, pp. 175-187.
+
+22. J E Lambert and D L Grisham, "History of Remote Handling at LAMPF", Proc.
+30th Conf. Remote Systems Technology, Vol. 2, Winter 1982, pp. 3-7.
+
+23. J Vertut and J P QGuilbaud, "Virgule - Variable Geometry Wheeled
+Teleoperator", Proc. 2nd Conf. Industrial Robot Technology, University of
+Birmingham, 27-29 March 1974, pp. 03-21-38.
+
+24. GW Kohler et al, "Manipulator Vehicles of the Nuclear Emergency Brigade in
+the Federal Republic of Germany", Proc. 24th Conf. Remote Systems Technology,
+Nov. 1976, pp. 196-218.
+
+25. J Vertut et al, "MA23M Contained Servomanipulator with Television Cameras on
+PICA and PIADE Telescopic Supports with Computerized Integrated Control",
+Proc. 28th Conf. Remote Systems Technology, Vol. 2, Nov. 1980, pp. 13-19,
+
+26. J Vertut et al, "Advances in a Computer Aided Bilateral Manipulator System",
+Proc. ANS 1984 National Topical Meeting on Robotics and Remote Handling in
+Hostile Environments, Gatlinburg, April 1984, pp. 367-374.
+
+27. J Vertut et al, "The Teletrans Concept for Remote Maintenance of Tokamak
+Reactors", Proc. Int. Conf. on Robotics and Remote Handling in the Nuclear
+Industry, Toronto, September 1984, CNS, pp. 262-266.
+
+28. Y Shinohara et al, "Experimental Remote Handling Systems", Proc. ANS 1984
+National Topical Meeting on Robotics and Remote Handling in Hostile
+Environments, Gatlinburg April 1984, pp. 117-121.
+
+29. M Suzuki et al, "A Bilateral Servomanipulator for Remote Maintenance in
+Nuclear Facilities", Proc. 30th Conf. Remote Systems Technology, Vol. 2,
+Winter 1982, pp. 138-145.
+
+30. H Kashihara et al, "Advanced Two-Arm Servomanipulator Having New Multi-Joints
+and Ingenious Wrist", Proc. ANS 1984 National Topical Meeting on Robotics
+and Remote Handling in Hostile Environments, Gatlinburg, April 1984,
+pp. 249-253.
+
+- 16 -
+
+31. MJ Feldman and J R White, “Remotex - A New Concept for Efficient Remote
+Operations and Maintenance in Nuclear Fuel Reprocessing", Proc. 28th Conf.
+Remote Systems Technology, Vol. 2, Nov. 1980, pp. 3-4.
+
+32. Md Feldman and W R Hamel, "The Advancement of Remote Systems Technology:
+Past Perspectives and Future Plans", Proc ANS 1984 National Topical Meeting
+on Robotics and Remote Handling in Hostile Environments, Gatlinburg,
+Apr. 1984, pp. 11-24.
+
+33. D Kuban and H Martin, "An Advanced Remotely Maintainable Servomanipul ator
+Concept", ibid, pp. 407-415.
+
+34. R § Stoughton, "Automatic Camera Tracking for Remote Manipulators",
+ibid, pp. 383-389.
+
+35. PE Satterlee et al, "Control Software Architecture and Operating Modes of
+the Model M2 Maintenance System", ibid, pp. 355-366.
+
+36. J N Herndon et al, “The State-of-the-Art Model M2 Maintenance System",
+ibid, pp. 147-154.
+
+37. RC Goertz, “Manipulators Used for Handling Radioactive Materials", Human
+Factors in Technology, Chapter 27, ed. E M Bennett, McGraw Hill, 1963.
+
+38. G C Devol, “Programmed Article Transfer", US Patent 2988237 1961.
+
+39. J F Engelberger, "Robots in Practice", IFS Publications, Kempston, England,
+1980.
+
+40. B Sallot, "Performance Evaluation of Programmable Robots and Manipulators",
+NBS Special Publication SP-459, October 1976, p.6.
+
+41. J Denavit and R S Hartenberg, "A Kinematic Notation for Lower Pair
+Mechanisms based on Matrices", ASME J. Appl. Mechanics, Vol. 22, June 1953,
+pp. 215-221.
+
+42. H A Ernst, "A Computer-Operated Mechanical Hand", ScD Thesis, MIT, 1961.
+
+43. LG Roberts, “Machine Perception of Three-Dimensional Solids", MIT Lincoln
+Lab. Report No. 315, 1963.
+
+= i -
+
+44, MW Wichman, "The Use of Optical Feedback in Computer Control of an Arm",
+Stanford Artificial Intelligence Lab, AIM 56, 1967.
+
+45. D L Pieper, “The Kinematics of Manipulators Under Computer Control",
+Stanford Artificial Intelligence Lab, AIM 72, 1968.
+
+46. OF Whitney, "The Mathematics of Coordinated Control of Prosthetic Arms and
+Manipulators", ASME J. Dynamic Systems, Measurements and Control, Dec. 1972,
+pp. 303-309.
+
+47. RC Groome, "Force Feedback Steering of a Teleoperator System", SM Thesis,
+MIT Aero and Astro Dept. 1972.
+
+48. R P Paul, “WAVE: A Model-Based Language for Manipulator Control", The
+Industrial Robot, Vol. 4, No. 1, March 1977, pp. 10-17.
+
+49, V D Scheinmann, “Design of a Computer Manipulator", Stanford Artificial
+Intelligence Lab, AIM 92, 1969,
+
+50. R E Hohn, "Application Flexibility of a Computer Controlled Industrial
+Robot", SME Technical Paper MR 76-603, Chicago 1976.
+
+ol. S Dubowsky and D T DesForges, "The Application of Model Referenced Adaptive
+Control to Robotic Manipulators", J. Dynamic Systems, Measurement and
+Control, Vol. 101, September 1979, pp. 193-200.
+
+92. R P Paul, “Robot Manipulator: Mathematics, Programming and Control", MIT
+Press, Cambridge, 1981.
+
+53. JM Brady et al, "Robot Motion: Planning and Control", MIT Press, Cambridge,
+1983.
+
+54. J M Hollerbach, "A Recursive Formulation of Lagrangian Manipulator
+Dynamics", IEEE Trans. on Systems, Man and Cybernetics, Vol. SMC-10, No. 11,
+1980, pp. 730-736.
+
+95. R Featherstone, "Position and Velocity Transformations between Robot End
+Effector Coordinates and Joint Angles", Int. J. Robotics Research, Vol. 2,
+No. 2, Summer 1983, pp. 35-45.
+
+- 18 -
+
+56. Jd M Hollerbach and G Sahar, "“Wrist-Positioned, Inverse Kinematic
+Accelerations and Manipulator Dynamics", ibid., Vol. 2, No. 4, Winter 1983,
+pp. 61-76.
+
+57. B M Bartilson et al, “Automated Maintence in Nuclear Power Plants",
+EPRI NP 3779, Nov. 1984.
+
+58. JR White et al, “Evaluation of Robotic Inspection Systems at Nuclear Power
+Plants", NUREG/CR-3717, March 1984.
+
+59, EN Hayden and T R Wagner, “ Review of Nuclear Steam Generator Maintenance
+Remote Tooling and Robotics Developed by a Major NSSS Service Vendor
+[Westinghouse]", Proc. Int. Conf. Robotics and Remote Handling in the
+Nuclear Industry, Toronto, Sept. 1984, pp. 125-128.
+
+60. J M McNair, “Designing Robots for Demilitarization of Obsolete Chemical
+Munitions", Proc. ANS 1984 National Topical Meeting on Robotics and Remote
+Handling in Hostile Environment, Catlinburg, April 1984, pp. 335-337.
+
+61. D H Nyman and T T Nagamoto, “Application of Robotics in Remote Fuel
+Fabrication Operations", Proc. Int. Conf. Robotics and Remote Handling in
+the Nuclear Industry, Toronto, Sept. 1984, pp. 136-140.
+
+62. J J Fisher, "Shielded Cells Transfer Automation", Proc. ANS 1984 National
+Topical Meeting on Robotics and Remote Handling in Hostile Environments,
+Gatlinburg, April 1984, pp. 139-145.
+
+63. J A Yount et al, "Conceptual Design Report for a Remotely Operated Cask
+Handling System" NTIS HEDL-73767 - Rev. 1, Sept. 1984.
+
+64. JA Yount, RH Phillips, "Microprocessor Enhanced Real Time Manual Control
+of an Industrial Robot", Sept. 1983, HEDL-SA-3014FP.
+
+65. M M Clarke, “Man/Machine Interface for a Nuclear Cask Remote Handling
+Control Station: System Design Requirements", July 1984, HEDL-7465.
+
+66. A K Bejczy and J K Salisbury, “Controlling Remote Manipulators Through
+Kinesthetic Coupling", Computers in Mechanical Engineering, Vol. 1, No. 1,
+July 1983, pp. 48-60.
+
+-19-
+
+7 = -_ = Lal
+= mae * © % Ene Ga! a San a
++
+rs ~“
+7 7
+‘
+.
+a
+|
+I
+1
+I
+|
+tl # 1 =
+“
+/ ass
+el .
+as i
+RE
+- I - :
+i
+.
+= | - 7
+|
+© 4
+E
+| *
+-
+J
+a "a = -
+= = I
+”
+: 1
+5
+.
+| ;
+= .
+1 oft
+1
+|
+-
+.
+" g
+. Ba! n '
+5)
+-
+I a
+"oy
+E
+y
+|
+. ’ |
+
+v?
+/ i a bs XK A y a
+_& . ie ' . ‘,
+ae). 7 i } _ '
+i 7 iH ~ )) ,
+F 4 YS : r or
+W Q | at . ED 4! ’
+AMPS
+At |
+I" |
+iu |
+; \
+oA ;
+FIGURE 1 - Through the Wall MSM with chain Transmission
+
+a te,
+* yl \ "7 ' : . ea)
+. \\a y ls ; =
+x Ve Y ta
+' » J mn a i) ”
+Y Bo et } S
+re 7
+.! Zo 7 ww le ®
+go fo | a 2
+& (al iar
+
+my Sei — a :
+ae —s 3
+| Nee , !
+| A (ie ——a = : f us =
+Fhe # 7 | . ms
+‘ A " fi . ae i) \ | ele: 7
+
+| twee ow
+
+4 \) } a | , > ee
+
+[ mi | i a | |
+
+/ / FS. '
+
+/ j =
+
+. q Ss
+< 8S
+>
+Pl E ™ |
+~~, _ J ee iw om!
+| i a
+. =
+r
+t- 4S
+=
+=
+' aks | Li sy ; : |
+’ nat a eo
+ial ane 7
+> a ’ ie
+FIGURE 3 - CRL Model M Bilateral Force Reflecting Servomanipulator
+
+ie = ar ee, ai t oe ae ie Re Me aoe
+tb ¥ iq \\ ; few ys 8 j Ere sess
+eae, ‘ '
+Sat, tate .
++ =“ a, . rm
+> "ae ee
+Nis er Bt ne a = ; : ny 4 5
+a oe WL
+i AS
+ro .
+. , ¢
+my, eon , * Ls | eZ sie | * : 5
+= >» Ff , a ae :
+| _— / 2
+nef ’ nee =
+' ay —anaae a ees . ee 2
+‘ Py A ie <= “ 5 : Ee
+, x D ss g
+1 / Vs , = a i tof # e
+a ; - : “ a . Sf ae BS ;
+x “ , PY ee, 5
+ag ° a a. + ; ye
+/ \ Y fits} : ™ —. 7 « J os
+VE Kae
+i an ! {iii i a se 4 ‘
+: a | ep i S i ( 4 Bis t
+poe ee
+} ; \ ’ 1 oO
+j | b eee
+/ } { 1 ne
+| | |
+_- Wee ¢
+ae SESS - -
+i | 3 ms |
+' ' Se eel
+We ee
+- : ; a _—— —s
+ki peers” © pe.
+
+é r fi. bein .
+\ a Soh =! : t
+te = = *» a
+‘io ) '
+iene tS “i a mY - : | cr. | |
+eS gs
+: ae oe ‘ ’ +. Wy | -.
+J ee aa tb be = o. q
+=. we ZZ SO : |
+— | eee b a Ko — y
+ae a ,. me — moa Z *
+tek ae 5 ay f | ee ,
+ois or . sie? ( ie 7 | h ’ Piz j ,
+Li RRA A hes
+— > f a 5 e: LS y
+} fn, ae. ml = a | >
+| | —< Ss Kk = =
+. " Ay > i r ita «~ 9 J ” 7 a
+= i = - ct te / : =. a a
+- re ; = ie Fs a ‘, 4 p
+Pe » pT
+es : Beto
+So Wiese é ies
+eS A ane Pie
+| FIGURE 5 - VIRGULE
+|
+|
+|
+|
+|
+
+—~ Ae ea!
+Pe | SO
+Ci Tessa na saaee > tbe et
+Ie ~ay Be 2% § a & 7
+| eI Ca | Ve A, a vere 4“:
+’ Ee Sly ERR 2
+| | Fae aN
+es ee ie St
+f be 34> eae eS {
+| <l | Minin ds 1) ie a,
+~~ Pa baa” i Tae i
+° Hi 7 sf ) im : +4 a Pg ts
+. ; tee eb VES west
+cage ¥ oF
+o a 5S F omy ey
+his fee oo = ae :
+i” i bu "3 * gtd
+; “a i ag |
+_ ay ¥ ay A / : o> "
+ie 3.
+= _ , +4 » . at A aeY ay
+BS Bes aN
+= X ae te bam, =
+: — ‘ ie Fe OREN J oy LX
+4 ee Te _
+2 hs Rh
+} ' : ; ay fy
+pe . ' ‘a
+Le mm
+> | y at i
+oe ~ Te
+\. ' i ‘ f e
+asx = ee ‘ f
+— —— 4 y y ; P &
+vitae yr it ae |
+| ) m
+' ATA ) ; ‘ aw
+id | | | :
+' | DEC EEEC aa - -_
+| . — | i
+\\ W\\V\ WANA ~< " .
+AWA :
+Ay \AAAL) NAREREEE 0
+; i
+{ ,
+eal a =e iN =
+eh ye \ as
+il - ae =< - . a
+& ' \ zz a we . ND
+NAG OND |
+pa te Lp "= ,
+= Be sft
+« ~ 7 P |
+
+“a
+ie eS " aut?
+: Ne a
+~~, Nec =. “7 She |
+r b 2, o NN, 5 —— oe -
+| Sve WRaanu =e a & ah ||
+be a. im — 2 ae ae |
+4) nc RES . C7 i / AAS
+y | Sale > == s yon Ad |
+, ‘i : she ee ee , i
+‘hon 4 a amt 7. Wilko
+_ i as 4 ar « ry | i MN
+5 | ae 7 om ' im > TTY
+mi: rm p Ft j n i: } i
+_ wT by T = a _ mo | | i
+a : : eae i ae :
+i Ben) ibs Pee aa
+! oy P ye aa le x | | y
+| ae ob “Ty via
+Kf ke aa Lose)
+tt pt % © Ot
+| Ta a
+eens | i:
+fe . . 4 ,
+om | : ra
+Al : A f °
+|
+. : ~——— — r —— - :
+FIGURE 7 - CRL Model M2 Bilateral Force Reflecting Servomanipulator
+
+ _
+a " yo
+No
+7
+Rs >.
+sy iN |
+‘ X . MA
+2 ; Ron? eS,
+| a ; SA
+oa ao oe
+= a
+. = } en as ¢ ip.
+hall i er f.
+a ~ ~ sa ,
+FIGURE 8 - Industrial Robot with Spherical Wrist
+
+CONTROL,
+COMPUTER me INFORMATION
+[ TRANSFER
+ta a a
+SP w Lf
+oof y
+ROBOTICS/
+TELESPERATOR
+~~ STUDY a
+POWER SS $
+TRANSFER kK SENSORS
+Ce Ke
+fi \3
+é3 eo
+(==)
+EQUIPMENT
+FIGURE 9 - Subdivision of the Study Project
+
+|
+|
+

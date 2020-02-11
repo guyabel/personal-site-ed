@@ -1,0 +1,509 @@
+ANS Third Topical Meeting on Robotics and Remote Systems,
+Charleston, March 13-16, 1989
+3-D T¥: EVALUATIONS AND LESSONS LEARNED
+a
+A A Numbreck J Holt PM Scheiwiller and V M Reading
+E Abel and S Murphy CEGB Institute of Ophthalmology
+Harwell Laboratory Marchwood Engineering Laboratory Judd Street
+UKAEA Southampton, S04 428, UK London, WC1H 9AS, UK
+Axfordshire, OX11 ORA, IK +44 703 663232 +44] 387 942)
++44 235 2414] Ext 4464
+ABSTRACT @ - Buiid Grd generation, radiation-tolerant
+—_—___ black-and-whiza, system
+The paper describes the deveiooment ana
+evaluation of 3-0 Teievision Systems, 3-0 TV f += Deploy camera in radio-active environments
+had been developed with a view to oraving
+whether it can be a useful remote handling tooi The programme is complete up to stage (d); tne
+which is 3asy to use and comforzabie to view. third generation, radiation-tolerant camera is
+The pape> summarizes the principles of currently being built. The purpose of this
+operation, the initial development, the paper iS tO summarize tnis development ana
+evaluation trials at UK facilities and it evaluation programme. The work has mace
+reviews the developments wnich have subsequently available 3-D TY systems wnich give usefyi
+taken place. 3-9 TV systems have been found t9 improvements in depth perception for a wide
+give improved performance tn terms of speed ana range of viewing requirements and environmenta.
+accuracy of operations and to reduce the numoer conditions. The systems have proved comfortabis
+of camera views required. to view, easy to use, and robust in operation.
+3D
+INTRODUCTION
+The puroose of the 3-9 systams developed at
+The Engineering Sciences Division of Harwe?: Harwell is to give operators improvea depot
+Laboratory carries out researcn and development information about a remote scene. the 2-)
+of remote television systems for remote handling Systems do this Sy providing the viewer wit
+in nuctear environments. The work incluges binocuiar information wnicn allows him <9
+equipment development and human factors perceive a solid image from two flat pictures.
+experimentation; its ultimate aim is to The two piccures come from wo cameras which are
+facilitate ‘the widesoread introduction of offset a smail distance horizontally and wnose
+television (TV) viewing equipment into nuclear
+plant.
+The work includes tne development of stereo- Corresconding left and rent i
+scopic or three-dimensional ‘3-0) TV. ‘This : gier and ne mage ponts
+programme of work is nearing completion, it has \
+been spiit up into the foilowing stages: | as _
+Ys j
+a - Determine criteria for design of 3-9 TY to ye,
+be comfortable to view and useful for remote ae mace
+operat fons SEZ age
+Se \— Aerts
+b - Build engineered prototype systems REG yr se
+SR Lee
+OLA Sects
+c - Evaluation of prototypes in various cold } ef
+mockeup facilities _ -
+d - Build 2nd generation system, and evaluate
+2 Figure 1: 3-0 [mage Formation
+
+Focussing targets are in the same 2lane. ‘The 7——— ” | suk Be
+focussing target is equivaient to zne fim in a H Vv e
+camera}, ‘he two diczures are :aent:¢3i exceot i - tI
+For small horizontal differences tn image ;  — - me
+position. whes@ dispar:ties vary witn the ' 4. —Ffrs
+distance of tne opjects from the camera, so ' 2 - i] 7
+there are a range of disparitces ‘ar 3° ¢*arent | BS AN OF aa i
+ooeczs in a normal scone. Ji {lO
+G b. ,
+Figure | snows a viewer Tooking at a 72-3 screen } | bea
+wnicn ailows him to see only ine rignt ‘mage
+with his rignt eye ana tne ler image witn tne P
+lef eye. Because there {is 4 nhorizontai H =
+disoarity between the left and wtant images of j : A Re D
+tne same odjecz, tne viewer is tricked intd
+perceiving the ooject benina tre screen. 4 2-9 \ . :
+picture is built up of a large aumoer of sucn
+points, with different horizonta: disparities ana oe
+therefore aifferent distances denind or in front Figure 3: Aeinforcement Bar Cropping ~asx
+of the screen.
+Some object points may give no horizonta?
+disparity and so their images appear in the shown in Figure 2. We have Suggested quideiines
+screen plane. They have no disparity difference for the matching of the lett and riont pictures,
+because the objecc is in the piane in front of and for ye contro] of aepth anda shape reors-
+the 3-0 camera in which the two Camera axes duct ion-», We have found that, if these
+cross, (see an earlier paper: for a *uller are achered to, 3+) pictures can de comfort ao!
+description of this and tne theory of 3-4) used over long periogs of cime.
+images), The control of the camera axes can
+thus de used to control the sosition of the 3-9 FIRST PROTOTYPE SYSTEM AND EVALUATIONS
+image relative to the screen. The objeccs of
+interest are normally placed close to the screen the first engineered systems to be nade to the
+plane, ie the cameras are converged on the Suggested guideijines have been evaluated <n
+objects of interest. This is imporcant because non-radioactive conditions in facilities witain
+we have found thet viewers can oniy cope with a the UKAEA and CEzS8. The camera uses four
+limited range of horizontal] disoarities. The Soiid-state cameras 22 give wide and narrow angie
+limitation is because tne viewer's eyes stay stereo pictures. The focus and convergence 97
+focussed on the screen but they change Sne cameras are linked so chat boty pairs ara
+convergence around the scene 29 converge at focussed and converged on ‘the same olane, 3
+discances appropriate to che image point single front pane! switch movement operates Tocus
+placement. In other woras we find that the and convergence for both cameras. This aaxes
+viewer can accent small discrepancies between controi of the camer3 reiatively simpie. “ne
+accommodation and convergence, but not large display uses two monitors set at rent angies anc
+ones. We have therefore designea systems to viewed througn a  Semi-refleccive mirror.
+enable the operator to keep the tmage acceotably Polar“2zing filters at the monitor faces ang ‘a
+Close 29 the screen, in a truncated oyramid, as speczecies worn by the viewers senarata tne tes
+ana rignt images. The speccacies are ‘ightwetsnt
+and are similiar in appearance co sunglasses or
+corrective speczacles.
+Prelimindry evatuations at Windscaie Laoorator:
+snowea a 23% ‘improvement in the time zaken 29
+completa -a typical decommissioning tasx -
+cropping a reinforcement bar - via a remotely
+operatea industrial ropot in a mock-up facility.
+\ The facility is designes to test and deveioo
+ma <4 —— equipment for nuctear aecommissioning, >ar--
+i EZ iculariy-with respecc to the decommissioning of
+oe . the pressure vessel of Windscale's Advancag
+Gas-cooied Reactor (WAGR).
+<a; Four operators were asked to carry out a series
+of cropping tasks using a KUKA rocot fittea wita
+Figure 2: The Truncated Syramia Encom- a smal} hydraulic scissor-shear. Figure 3 snows
+- passing tne 2-9 !mage
+
+_ Task Site was Dlaced near the centre of the grid; operators
+Reference Pane _—---- el .5m from Floor were asked to proceed from one cut to the next
+ape Oe until aii e2ignt were completed. The time was
+=— ae es recorded when eacn cut was made and the times are
+Dv =: “a recorded in Figure 6. The average times to com-
+ee in i om aiete the eight cuts were 9 mins 22 secs for 3-9
+° QD. wn ® \ and il mins 33 secs for ortnogonai, dut it was
+oO — \, fot «possible to establisn statistical sign-
+/ \ \ ificance. Figure 6 snows that the times averaged
+, KUKA ROBOT , over the four subjects snowed an improvement for
+' ws each of the eight cuts, except for cut 2 wnica
+| : was tne same for 2-0 and 3-D. It also snows nore
+i sane om eon yom Ange trom’? Raoue som | consistent standard errors for 3-9 than for 2-2,
+V}_ Descroran i Rel"bane oor tm!” aiet Paani efter aan im)! | A study of video tapes mace of the operations
+Lc i temo soow $88 tt Showed that the reduction in time for stereo was
+2: Stores Camere) 18 linked to fewer discrete movements of ‘he robot
+i321 seme soow | 25 s oi 25 4 deing made. A number of operators wno used the
+j4!G5S. cameral 10 | 1S 9 \ 28 equipment during these trials and other oper-
+[Si GC2. Camerai 90 as: 80 3.3 ations expressed a preference to work with che
+‘@l Lame soow | 200 23 | 2S 1.8 E 3-0 system. None Said ‘they preferred tne
+orthogonal or expressed any difficulty in using
+the 3-0 system.
+Figure 4: Camera Arrangement for Cropping
+Task One of the prototype black and white Systems ‘s
+in use at the Central Electricity Generating
+Board's Marchwood Engineering Laboratory. it js
+the robot with the scissor-shear and the stee! set up in a test and evaluation rig for in-
+grid on which the cuts were made. The rodot was reaczor manipulators*. The 3-D System provides
+controlled removeiy via a hand controller. visual feedback for a ranae of simulated in-
+Television viewing arrangement was the reaccor operations such as welding reoairs.
+independent variable, and the floor olan is shown Operators have chosen to use the 3-0 rather than
+in Figure 4. The viewing conditions were: alternative two-dimensional (2-0) systems also
+available and report improved visual feedback.
+Condition 1, 3-D - The stereoscopic camera was
+mounted obliquely to the task as shown.
+Qperators were allowed to switch between wide and
+harrow angles-of-view and to pan and tilt the |
+camera. The narrow angle view just covered the 200mm
+complete area of the task - there was no need to |
+switcn to the wide angle if small pan-and-tilt 1 3
+movements were made. If the wide angle-of-view | 8
+was used exciusively, pan and tiit motions would
+not de needed.
+Condition 2, Orthogonat Cameras - Two’ cameras
+were placed at right angles to each other with
+respect to the task and manipulator tool axis.
+Informal trials were used to determine the
+positions of the cameras. Whereas the 3-D camera
+was found to give acceptable views at the first 4
+try, two subsequent attemots were needed for the 7
+orthogonal cameras. The cameras were originally
+mounted further forward, but this gave operators
+orientation problems. 30th orthogonal cameras
+had fixed focal-length lenses, giving a slightly :
+larger angle-of-view than the 3-0 narrow angle,
+so that the task could be completed without
+panning and tilting the cameras. For both TV
+conditions lighting was fixed and not within the
+operator's control. 6
+5 2
+The operators each made eight cuts in a ore- : . 5 : . :
+determined order on the simulated reinforcement Figure 5: Beene Tasks Cut Order and
+bars. Figure 5 shows the order in whicn the cuts aero
+were 29 be mace. At the start the cutting too]
+
+an supplementary view was always in 2-y 2ut tne nan
+~ mw view could be either 2-0 or 3-0.
+™ Six operators were timea using botn 2+9 and 2-5.
+_ Haif used the 3-9 first, the others 2-3. 9 in
+a turn, witn each viewing system, tne operators
+8 au moved tne curved plate from stand =2 toast ~acx,
+¥ VT \ ' the flat palate t0 ‘ne toast rack ana tren
+iw \ Sf returned both to their stands. The sequence was
+5 ly 3! KEY then repeated. For anaiysis the task was soict
+ou ih. . ye? ie h into sub-components. This showed chat the sam
+tere MS pee #1: -4 of tne task which required the most positiona:
+= ¥ accuracy benefitted most from 3-0 TY. This was
+x om yey ee gees, the part of the task where the plates were
+o ' 2 3 4 3 7 , ‘ aligned with the toast rack; a i7% ttme
+Gut PusIT ion CuDE improvement was found for 3-D.
+Figure 6: Cropping Task: Mean Times and A questionnaire was completed by the six 2imec
+Standard Errors for 2-0 and 3-D TV operators plus two more who had also used botn
+the 2-0 and 3-0 arrangements. The 3-0 was nigniy
+rated on picture quality and ease of use. Al:
+except one had preferred using 3-0 and would nave
+- been ha to do so for extended periods. Some
+The extended time over which the system has deen spariters. commences that the 2-0 view could have
+used at this facility has provided an opportunity been better placed - plan and elevation views
+to check the stability and performance of the would have been preferred - but with 3-0, tne
+camera and display in the hands of operators with camera positions were satisfactory. This is in
+no expert knowledge of television equipment. accord with eariter findings that the positioning
+Regular inspection has shown no routine require- of a single 3-D view is far less critical znan
+ment to set up the camera mechanisms. There has the optimal siting of a pair of 2-) views. A
+been some drift in monitor geometric alignment fuller report of this trial has been pudlisnea
+after one year, but this was small enough not to recently®,
+give operational problems and was easily cor-
+rected. The display brightness and contrast CONCLUSIONS FROM EVALUATIONS AND OPERATING
+controls, which need to be carefully matched on EXPERIENCE
+the two monitors, had been locked off during
+installation and so had not been aajusted by The experience of trials and operations shows
+operators. The settings had not drifted sign- that 3-5 TV systems give a numoer of benefits “or
+ificantly during the eighteen months of use. remote handling: -
+- Part of the design philosophy had been that the
+operator should not be able to change settings
+that are not essential for operations. This has
+been largely cohfirmea by trials - operators have
+not expressed a wisn for more adjustments, ana
+the equipment has stayed well set up. it we ;
+| Ul re he
+TRIALS AT WINDSCALE: ‘COLOUR 3-D Ti we | Fat
+roe | : Te ae
+Evaluations of <he second generation colour 2-0 eas - Ke eee Wee °
+System described jater in this paper, were ne “y Ronee Pe ise
+carried out at the Windscale facility described im ; ~~ oF Lt eas
+previously. A task was based on an operation } BBP UNECE os To 4
+planned as part of decommissioning WAGR; ‘wo my ’ ¢ x a ve ea
+heavy stee] plates were to be movea between Pye . jee SOE ta ier +
+Stands and a ‘toast rack’ using an overhead SY S ae Fe AY naa
+gantry crane, see Figure 7. The task involved pss ae at a pee
+rotation and accurate positioning of tne plates. wing ah Le aad { ace _# oa
+One was a curved piece of thermal shielding cm pe ad ae i aay Bs mS ee oe
+thick, and the other was flat and 8cm thick. F Wes SON Ee Syerec
+Respectively, these were to be inserted into ' ee
+slots Sem and 8.3cm wide. Two oe views
+rovided - a main view looking along the ; oo
+slots. from 1.6m above the toast fe and an Figure 7: Windscale Evallariien fact) ity
+oblique supplementary view - based on camera Showing ao an
+positions possible for the real operation. The Mounting-Rack
+
+- A reauczion in the numper of siews (cameras} Furthermore we can hypotnesize that operators are
+required. detter adie to interoret unfamiitar scenes wit
+3-9 =O. From observations made during
+- Faster operational times, with greater improve- evaluations we have made a number of refinements
+ments for eiements seauiring alignment. to the designs of tne systems whicn have Seen
+incorporated into the second and third generation
+- Fewer manipulator movements for a given task, systems.
+suggesting that fewer arrors and collisions
+would be made. Brightness and contrast controls were ‘ot pro-
+vided on the first prototype 3-0 system decause
+- Positioning of cameras is less critical with of the difficulty foreseen in re-setting tne
+3-D. matching of the bdrignhtness and contrast of <ne
+two monitors. These should only require
+Ae da ee a es ee Pe ; Se aoe ee
+5 PS nay NN: rr Ss Ce 2 Ou can $ - a on mee SS
+bers : { a, ae ns i~ . ¥ oe - : a4 oa & by ide 4
+Se rs . et’ ar S F | an etd Py ee See 280}
+Mees 8 EL eS a aes ms ae Pe ae ILI Say
+a ok a , ‘ ay SR Bee
+Se Gkeos: oS a 4 . is ice e ae
+oF ll 45 42 s eae £2
+£ ia es ry as pis
+a i : es ee een Oe
+eS i By Rs a fy Sean <8
+ae ~/ I “. a . - - #8 7
+as e ee cae a 3
+Po é Sak re SS 5 ETE
+Fs : es! . ie ; o Et Nya
+: Af F a os aes
+5 . * = ‘ > he ad
+ae oe : Se ee ee
+a ; or ee ai
+es eI a . . es er - au
+aS: ee \ ene ay S
+ae) i sb “a 2 : Maret cis Rear MET | i
+ames 4 & * c ® bl IS : " t Dae ade Ree c ge Shy
+oe ASE Sh s ERO oc, OO eh PRO LD y
+| ree oa } . iy eg eR Rap e ;
+BIE sa ai Pee at peer dee te hie ag Sear ae
+cue I > Si Oe i Fe Cuan pega au 3h So) er.
+a ek |= Sn Ce eo eC
+Anak > 3 OSS : outro renee 3 tt fe
+BS at F :: a: PRON IRE eee RD Mot “y
++ aaa ie fe : ; ihe DSA er sapere ;
+Reagsy Es & ea) + aie ear a RET SPORES iy as Bast
+wie | Be. ae pide aly Hee a OL Dt IONE EA | ict ate, ae 2
+RAR Gam 3 = % : TE A Sp: TY DS ee ABN beg Lah Ke EO Sse ; 4
+Saat a” os Ps os Pe a . PEN ee Te oe Sener 72 y 5
+ag RES ~ a. Pras Deke . bat ae oP = Ne OBS. Wye bh
+Ae a pa a aS Sarees D2 AR ali eae? AES eh Seay Sere cS el
+he * : ' ct at et ean Bhs eee sara x
+zs Fr < we 8 ws: Rent» Fe eames Tees aK 5
+2 Se i a> as 2 A BY tee Pa 4
+Fi i ae - ae s ae Be 4
+EE ae me amet SAR Gated es
+aS 6 see aR ar tice ; . ae a
+ge ; ES p ve oe ~ ~~ c Pie 4 +
+x es i f a eel in Lats ens ¢ ois eS pics ae Br 3
+Teal ‘ ae + , re Smee he. Ln oe x us
+Aes ees of SS Lies ae eS con - a ie 1
+ea a pe ; ro yO ee |
+Panay F ea ies vs - : ees Ga“ ra 3 3
+EAP NAL D SEAN i ie See x CS k Bes Ff
+ns Ef soe, , i : a pelea ae . a
+. a! aa ‘ ee ge. ; ms Ee z BN a ae 5 5 Ej &
+ead Sr Fd ta eee > . r s Fe Ns Ye ey Dae '
+Caines iy Saar Tie) Rwaaair Cia tear cs oer ee J os
+mre ete a EN ae + 7-9 2 La ei 4 ae Late, Sa > as ;
+5s ee os 4 1 ; E EW Pe dials ae
+Sie Me ME a dP oe WP (be 3 cone a es SO
+i OE 5 5 : << ae Po Ff
+oe i < s- k H Me Soe . a is at shee *- i a 3
+a . ree : aN t.- eR r 7 o iy B55 ; e ee
+ei PPAR: BORIC hy hs a > { : is eae SE is Se Ot
+by ¢ " 17 ’ a 7 5 he
+Figure 8: Colour 3-) Camera
+
+she first black ana white cameras, has proviaed
+<ne opportunity 0 incorporate some of «ne
+i ewe og Be refinements to the original designs suggested oy
+. she mock-up evaluations and operational exper-
+; , jence. The cameras nave deen built and were used
+> aac: far the second series af trials at wWindscaie
+ray" Laboratory, see =ig 8, “he camera has incluaed:
+the choice of automatic or manual iris contsol; 4
+pi mecnanism accurately linking focus and converg-
+Ss ence, convergence is achieved by axial offset oF
+a. she lens so no trapezium errors are suffered:
+as | H mechanically Jinkea iris control giving very
+oe = an t+ accurate iris matching; the position feeaback 97
+so mm Mh: zh : the focus mechanism which could de used *o 92ro-
+of . / 4 : } a vide a binocular range-finding facility. “he
+reer: —- 4 , Hears 38S camera uses two re-packaged single-sensor soi:4-
+wd 228 F anes gS state cameras and a range of photograonic lenses
+an es Ae Sek 5. wicn make angles-of-view from 30° to 3° ava?’-
+j } :2: Bars y art ee able. As witn tne earlier cameras, viaeo ‘s
+? :2E eee ae transmitted via twisted pairs. The camera ‘5
+YW : BE are y designed to allow radiation-tolerant sensors to
+hi ce ce 2 G2 EF || be fitted to give a radiation-tolerant and
+We. “= =5 55 55 Es. environmentally sealed version.
+et |
+: | The combined focus and convergence control was
+5 tae R originally designed to give simple operation -
+. lated “t one control instead of two. [t is generally true
+( ee ‘ that the cameras should be converged on the
+: object plane that is in focus, wnicn is the plane
+H . EF ; * of interest. However, it is sometimes desirable
+am aa “st to focus on a plane behind the optimum converg-
+os ence plane. The optimum convergence plane
+a F normally corresponds to the nearest object in the
+XE SSS : = view of the camera. Simple automation of linked
+. a ; focus and convergence to focus and converge on
+= ; the nearest object would be useful, an option of
+ee reverting to manual control should be included.
+> Experienced operators would be able to make use
+° of a facility to adjust focus within a limited
+= . range about the convergence plane. The converg-
+ence distance being automatically or manuajiy
+. set. In this case, a switch to return focus to
+Figure 9: Colour 3-D Display J the convergence plane would be helpful. | This
+latter requirement to unlink focus and converg-
+ence has implications for the complexity of the
+camera, and could best be made as a software
+adjustment if lighting conditions change in the option on suitable cameras such as the radiation
+viewing area, or to compensate for inadequacies tolerant camera currently being built.
+in the video signal. Some facility for
+adjustment with ability to match the pictures SPECIFICATION FOR AN IN-KEACTOR AND IN-CELL
+would give a more useful display. Although the CAMERA
+geometry corrections needed on the display were 3
+slight, it would be helpful to operators if they The ultimate aim of the development work on 3-9
+could check the adjustment themselves and adjust TY systems is to provide systems which can be-
+if necessary. We found <hat operators tended not used for a variety of nuclear applications
+to adjust camera controls as soon as they needed including: inspection and repair of gas-cooled
+slight adjustment, and only made adjustments when reaczors; post-irradiation examination and
+the viewing conditions had changed significantly. fuel-reprocessing facilities; and
+This suggests that the option of automatic decommissioning. A specification for a camera to
+focus/convergence and iris control would be work in these environments has deen producea by
+helpful. consulting with experts on remote viewing systems
+and on in-reactor repair, mainly within the CE&sB
+CAMERA DEVELOPMENT and the South of Scotland Electricity Board
+; (SSE8). The specification encompasses the
+A requirement <o deveiop a fully engineered temperature requirement to 150°C with chillea air
+colour camera, subsequent to the production of cooling, lighting requirements, materials ang
+
+ee ee eonstraints. The camera will have
+
+angles-of-view of 40° and i0° and will converge
+
+ana. focus aown to 300mm for the wide See eee
+angle-of-view. Caple lengths of up 20 100m hha naan neha
+will be allowed for. Target radiation-toierance LT a eee ees
+will be to 106¢y witn dose cates to 94Gy : SS e Tae ase ae ee
+hour. We did caonsiaer and axperiment witn tne Lita
+use 9f zoom ‘enses for this camera. We believe Se ESE Eh 2 eS a ee ee
+that it is possible to use toom ‘enses in fuily (hh nnn hana a
+engineered and remotely controllea 3-0 cameras. LI LL LL) LL OL LL LAAT CNL AT SH (NT (LA
+However we ‘found that we could not obtain a week a aaa a eae eSa
+Suitable radiation tolerant zoom lens because of Le a a i a a ae a a i
+the limited range commercially availapdle. The Scan Se eae wee
+camera is currently being manufactureg. Liste ae besa eas
+DISPLAY DEVELOPMENT See
+th , . oes SSRs haa Ree
+
+e polarized light displays use two modified Shee eae Pes eaaw
+picture monitors set at right angles and viewed
+via a beam-splitting mirror. Polarized light
+filters at the monitor faces and in spectacles ; IN: Sroece: -
+worn by viewers separate the two pictures. These Figure 10: erica teres:
+have proved to give good quality pictures which .
+ére comfortable to view and with no operational
+difficulties. We anticipate that this display
+will be the preferred option for serious use of
+3-D television over the next few years, because
+of its hNign standard of performance. Some
+applications may demand smaller displays for a
+given size of Screen. In this case we now
+believe that a time-division display of accent- :
+able quality could be made, but at considerable ;
+financial cost. The display would be required to ro
+show a video at twice the normal rate and e ove
+suitable framestores would be needed to buffer Aa
+the video, if conventional cameras were to be BS 5
+used. This would give anomalous picture com- _e
+ponents for moving objects, but we believe that LG
+picture quality could be acceptable for most eee
+subjects. The polarity switching should be : ee
+carried out at the monitor face, with polarizing £ ASS
+spectacles being worn by the viewer. Care must cee ae
+be taken in the cnoics of picture phosphor and 2 : ao
+polarizing materials to keep cross-talk between yA
+the left and rignt pictures to an acceotable : ES
+level. Autostereoscovic displays are feasible;
+an autostereoscopic TV display has been demon-
+strated at Harwell. An image-forming screen Figure 11: PLUGE and Grey-Scale Pattern
+transmits the left and right pictures to the eyes for Matching Dispiay Monitors
+without the need for a viewing aid to be worn
+{though the viewer's head position must be ‘
+reasonably fixed to obtain the 3-D view).
+- on the top of the displays; this can be seen in
+
+The colour polarized light display developed at Figure 9. A test pattern generator has deen
+Harwell, see Figure 9, is a development of the inciuded in the system so that the operator can
+original black and white display, but using follow a relativeiy simple procedure to checx,
+Grade 1(4) colour monitors which have pre- and if necessary, adjust the geometry, colour and
+set controls for allowing control of the picture . grey level of the monitors so they are well set
+shape. By collaboration with the manufacturer, up and matched. A cross-hatch pattern, see
+the important preset controls for each monitor Figure 10, is displayed on both monitors to allow
+have been brouagnt out <0 a lockable control panel geometry comparison - the scan circuits of ine
+
+. i
+two monitors are adjusted untij] the two patterns CONCLUDING REMARKS
+exactly overlay. A picture line-up generator
+(PLUGE) signal is sent to the top half of the The triais and supsequent aevelopments gescribed
+right monitor and the bottom half of the left, here show that 2-9 TY can grovide a useful *a0i
+see Figure 11. The grey scales are thus dis- for the assistance of remota hana! ing operations. .
+played on one monitor each. The display is Development is aiready at a stage wnere 3-9
+viewed without spectacles so the two scales can Systems can be usefully employed to anaole ooer-
+be compared. In Figure 11 the two pictures have ators to carry out remote operations more
+been deliberataly set out of balance to show how quickly ana accurately tnan with convent ionai :
+they are compared. The black level, set by the television.
+brightness control on a high quality monitor, is
+set using the three bars at the top or bottom of ACKNOWLEDGMENTS
+the picture. The central bar is at the black
+level voltage of the video Signal, the bar to the The work has been ‘ointiy funded by tne Cf42,
+right is 2% above black and the oar to the left SSE3, Department of Energy and British Nuclear
+is 2% below black. The brightness ts adjusted so Fuels plc. We thank them for their suppor: and
+that the difference between the central and rignt permission to publish tnis paper. We would like
+bar is visible, but the difference between the to thank Ed Perrott at Windscale Laboratory for
+central and left bar is not. The contrast arranging evaluations there. Charles Smith of
+controls are then adjusted to give correct and Stereo Image Techniques has made an invaluable
+matched grey scale. contribution to the developments descriped
+because of his thorough understanding and pracc-
+We anticipate that some training for operators to ical knowledge of 3-9 imaging.
+carry out the set-up would be required, in
+addition to concise written instructions. REFERENCES
+Similar developments have been incorporated into
+mew black and white displays. Grade 1 monitors 1. A A DUMBRECK, C W SMITH, and S$ ? MURPHY, “The
+are used and circuitry has been specially Deveiopment and Evaluation of a Stereoscopic
+developed to enable geometric matching of the Television System for Use in Nuclear inviron-
+two pictures with the aid of the cross-hatch ments," American Nuclear Society, [International
+pattern generator. The electronic controls Topical Meeting on remote syscems ana Ropotics i
+remove the need to make adjustments to the Hostile Environments, Pasco, WA, USA, Maren /Aprs)
+picture tube and its deflection assembly which 1987, Pages 106-113.
+require more skill. .
+2. D W PERRATT, “Remote Operations Inside Nuclear
+VIDEO TAPE RECORDING OF 3-D TV PICTURES Reactors,” ibid, “Pages 182-189.
+3-0 pictures can be recorded in a number of ways. 3. C W SMITH, and A A DUMBRECK, "3-D TV: The
+Two tapes can be syncnronized on two high quality Practical Requirements," Television, Journal of
+Machines with a suttaole edit controller. This the Royal Television Society, vol 25, Sages Oo
+method can give ve~y z00a results, but is expen- 15, January/February 1988.
+Sive and requires that two tapes are kept
+together, Some degree of Skill is needed to 4, “General Purpose Television Colour Picture
+record or play back. We have demonstrated a Monitors," BBC Engineering. &BC Specification TV
+Satisfactory technique where left and right 1282, London, Seprenber 104.
+fields are recorded alternately to the odd and
+even fields of the tape. The tape is then played 5. A A DUMBRECK, E ABEL, J HOLT, P M SCHEIWILLER,
+back via two frame stores which repeat fields, and ¥ M READING, "Three-Dimensional Television
+for example,.the lett field is repeated onca Systems for Remote Handling," BNES Conference on
+while the rignt field is being read from the Remote Techniques for Inspection ana 2eturoisne
+tape. ment_of Nuctear “lant, Strattora-upon-dvon, Ky
+Decemoer 1068.
+Copyright UKAEA 1988
+
