@@ -24,7 +24,7 @@ paginate = 10
 # disqusShortname = "guyabel"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-5118819-14"
+googleAnalytics = "G-QV9ZK83YH1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
