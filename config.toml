@@ -11,7 +11,7 @@ title = "Ed Abel"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright: '© {year} Ed Abel'
+copyright: '© 2020 Ed Abel'
 
 theme = "hugo-academic"
 enableEmoji = true
